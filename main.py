@@ -55,28 +55,70 @@ def save_tracked_data(data):
 
 # --- CORE FUNCTIONS ---
 def add_new_articles(auth, tracked_data):
-    """Parses feeds and adds new articles to Instapaper."""
+    """Parses feeds and adds new articles with improved error checking."""
     for feed_url in RSS_FEED_URLS:
         print(f"Checking feed: {feed_url}")
         feed = feedparser.parse(feed_url)
         for entry in reversed(feed.entries):
             url = entry.link
             if url not in tracked_data:
-                # Add to Instapaper
-                res = requests.post("https://www.instapaper.com/api/1.1/bookmarks/add", auth=auth, data={'url': url})
-                if res.status_code == 200:
-                    print(f"Added to Instapaper: {url}")
-                    # Store URL, current timestamp, and ID
-                    tracked_data[url] = {
-                        "added_at": time.time(), 
-                        "id": res.json()[0]['bookmark_id']
-                    }
-                time.sleep(1) # Be polite to the API
+                try:
+                    res = requests.post("https://www.instapaper.com/api/1.1/bookmarks/add", auth=auth, data={'url': url}, timeout=15)
+                    
+                    if res.status_code == 200:
+                        # Ensure the response actually contains bookmark data
+                        data = res.json()
+                        if isinstance(data, list) and len(data) > 0:
+                            print(f"Successfully Added: {url}")
+                            tracked_data[url] = {
+                                "added_at": time.time(), 
+                                "id": data[0]['bookmark_id']
+                            }
+                        else:
+                            print(f"Warning: Instapaper added {url} but returned unusual data format.")
+                    else:
+                        print(f"Failed to add {url}. Status: {res.status_code}")
+                        
+                except Exception as e:
+                    print(f"Error adding {url}: {e}")
+                
+                time.sleep(2) # Increased delay to avoid rate limiting during big initial syncs
 
 def cleanup_old_articles(auth, tracked_data):
-    """Removes unliked articles from Instapaper and purges entries from local JSON after 24h."""
+    """Cleanup logic with better handling of Instapaper's response list."""
     current_time = time.time()
     seconds_in_24h = 24 * 60 * 60
+    unread_bookmarks = {}
+
+    try:
+        list_res = requests.post("https://www.instapaper.com/api/1.1/bookmarks/list", auth=auth, timeout=15)
+        if list_res.status_code == 200:
+            raw_data = list_res.json()
+            # Instapaper API returns a list where the first item is often user info, not a bookmark
+            for item in raw_data:
+                if isinstance(item, dict) and item.get('type') == 'bookmark':
+                    unread_bookmarks[str(item['bookmark_id'])] = item
+        else:
+            print(f"Cleanup skipped: API returned status {list_res.status_code}")
+            return tracked_data # Return original data if API fails
+    except Exception as e:
+        print(f"Cleanup error (Instapaper might be down): {e}")
+        return tracked_data
+
+    updated_tracked_data = {}
+    for url, info in tracked_data.items():
+        if current_time - info['added_at'] > seconds_in_24h:
+            bookmark_id = str(info.get('id'))
+            if bookmark_id in unread_bookmarks:
+                bookmark = unread_bookmarks[bookmark_id]
+                if bookmark.get('starred') == '0':
+                    print(f"Deleting unliked article: {url}")
+                    requests.post("https://www.instapaper.com/api/1.1/bookmarks/delete", auth=auth, data={'bookmark_id': bookmark_id})
+            # Item is purged from JSON regardless of if it was deleted on Instapaper
+        else:
+            updated_tracked_data[url] = info
+            
+    return updated_tracked_data
     
     # 1. Fetch current unread bookmarks to check "Starred" status
     try:
