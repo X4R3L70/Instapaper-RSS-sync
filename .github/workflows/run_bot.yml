@@ -1,17 +1,38 @@
 name: Hourly Instapaper Sync
 on:
   schedule:
-    - cron: '0 * * * *' # Runs every hour
+    - cron: '0 * * * *' 
+  workflow_dispatch: # This allows you to run it manually for testing
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
+      
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: '3.x'
+          
       - name: Install dependencies
         run: pip install feedparser requests requests_oauthlib
+        
       - name: Run script
+        # This section maps your Secret to an Environment Variable
+        env:
+          INSTAPAPER_USER: ${{ secrets.INSTAPAPER_USER }}
+          INSTAPAPER_PASS: ${{ secrets.INSTAPAPER_PASS }}
+          CONSUMER_KEY: ${{ secrets.CONSUMER_KEY }}
+          CONSUMER_SECRET: ${{ secrets.CONSUMER_SECRET }}
         run: python main.py
+
+      - name: Commit and Push Changes
+        # This part is CRITICAL: It saves your JSON database back to the repo
+        # so the script remembers what it saw in the next run.
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add article_data.json
+          git commit -m "Update seen articles database" || exit 0
+          git push
