@@ -1,0 +1,17 @@
+name: Hourly Instapaper Sync
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      - name: Install dependencies
+        run: pip install feedparser requests requests_oauthlib
+      - name: Run script
+        run: python main.py
