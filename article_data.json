@@ -1,136 +1,4 @@
 {
-    "https://www.franceinfo.fr/monde/iran/iran-huit-morts-et-une-revolte-qui-s-etend-a-tout-le-pays_7716949.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767385018.766703,
-        "id": 1954146916
-    },
-    "https://www.franceinfo.fr/monde/proche-orient/offensive-jihadiste-en-irak/un-americain-de-18-ans-arrete-en-caroline-du-nord-pour-un-presume-projet-d-attentat-lors-du-nouvel-an_7716964.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767385022.621237,
-        "id": 1954146933
-    },
-    "https://www.franceinfo.fr/faits-divers/police/des-renforts-de-police-deployes-a-strasbourg-jusqu-a-la-fin-de-la-semaine-apres-les-violences-en-marge-du-nouvel-an_7716931.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767385025.5438368,
-        "id": 1954146956
-    },
-    "https://arstechnica.com/space/2026/01/spacex-begins-significant-reconfiguration-of-starlink-satellite-constellation/": {
-        "added_at": 1767385028.8278008,
-        "id": 1954147171
-    },
-    "https://www.andrew.cmu.edu/course/15-749/READINGS/required/cas/tridgell96.pdf": {
-        "added_at": 1767385031.374066,
-        "id": 1954147408
-    },
-    "http://www.observationalhazard.com/2025/12/c-java-java-llm.html": {
-        "added_at": 1767385033.6321595,
-        "id": 1954147634
-    },
-    "https://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html": {
-        "added_at": 1767385035.8981884,
-        "id": 1954147865
-    },
-    "https://github.com/Alanma23/tinytinyTPU-co": {
-        "added_at": 1767385038.1612236,
-        "id": 1954148062
-    },
-    "https://indieweb.org/POSSE#": {
-        "added_at": 1767385040.4306898,
-        "id": 1954148242
-    },
-    "https://unixv4.dev/": {
-        "added_at": 1767385042.72784,
-        "id": 1954148451
-    },
-    "https://elpais.com/deportes/futbol/2026-01-02/la-irrupcion-de-sergio-ramos-en-la-venta-del-sevilla-de-leyenda-del-futbol-a-posible-propietario.html": {
-        "added_at": 1767385045.713801,
-        "id": 1954148754
-    },
-    "https://elpais.com/america-colombia/2026-01-02/petro-desafia-a-estados-unidos-al-geolocalizar-uno-de-los-bombardeos-a-lanchas-en-el-pacifico.html": {
-        "added_at": 1767385048.0137608,
-        "id": 1954148980
-    },
-    "https://elpais.com/internacional/2026-01-02/otros-incendios-como-el-de-la-tragedia-en-los-alpes-suizos-que-provocaron-las-bengalas-y-la-pirotecnia-de-tailandia-a-argentina.html": {
-        "added_at": 1767385050.3168993,
-        "id": 1954149168
-    },
-    "https://www.monde-diplomatique.fr/2026/01/BRUNETEAU/69166": {
-        "added_at": 1767385054.5446067,
-        "id": 1954149583
-    },
-    "https://www.franceinfo.fr/internet/intelligence-artificielle/l-ia-grok-accusee-de-fausses-videos-sexuelles-il-faudra-que-la-plateforme-reponde-de-sa-responsabilite-devant-la-justice-francaise-reclame-le-depute-ps-arthur-delaporte_7717009.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767388306.5181975,
-        "id": 1954172640
-    },
-    "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-president-ukrainien-volodymyr-zelensky-annonce-son-intention-de-remplacer-son-ministre-de-la-defense_7716988.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767388309.571504,
-        "id": 1954172660
-    },
-    "https://www.franceinfo.fr/economie/crise/blocus-des-agriculteurs/dermatose-nodulaire/crise-agricole-au-moins-150-agriculteurs-attendus-a-toulouse-ce-samedi_7717006.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767388312.9929967,
-        "id": 1954172685
-    },
-    "https://www.franceinfo.fr/faits-divers/incendie-dans-un-bar-de-crans-montana-en-suisse/drame-de-crans-montana-l-insoutenable-attente-des-familles_7716967.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767388316.093298,
-        "id": 1954172700
-    },
-    "https://www.ft.com/content/1baed2f6-dd47-488e-8baf-77c5262e1bae": {
-        "added_at": 1767388318.9449713,
-        "id": 1954172723
-    },
-    "https://github.com/patrick48001/ThinkPad-Stream-Sentinel-VLC-Video-Source-reset-disable-stream-shutter": {
-        "added_at": 1767388321.707441,
-        "id": 1954172740
-    },
-    "https://github.com/bschaatsbergen/lix": {
-        "added_at": 1767388324.1612127,
-        "id": 1954172750
-    },
-    "https://github.com/jank-lang/jank": {
-        "added_at": 1767388326.5354252,
-        "id": 1954172766
-    },
-    "https://elpais.com/television/2025-12-30/de-montoya-a-juan-del-val-o-los-protagonistas-de-el-verano-en-que-me-enamore-los-personajes-televisivos-que-han-marcado-el-2025.html": {
-        "added_at": 1767388329.6749184,
-        "id": 1954172783
-    },
-    "https://elpais.com/gente/2025-12-30/beyonce-se-convierte-en-la-quinta-cantante-en-ingresar-en-el-club-de-los-multimillonarios.html": {
-        "added_at": 1767388332.138138,
-        "id": 1954172803
-    },
-    "https://elpais.com/cultura/2025-12-30/la-asistencia-a-las-salas-de-cine-en-espana-disminuye-un-8-en-2025.html": {
-        "added_at": 1767388335.365274,
-        "id": 1954172817
-    },
-    "https://elpais.com/cultura/2025-12-30/el-antiguo-palacio-en-ruinas-que-revoluciona-el-centro-historico-de-toledo.html": {
-        "added_at": 1767388337.8409402,
-        "id": 1954172837
-    },
-    "https://elpais.com/tecnologia/2025-12-27/blaise-aguera-la-ia-demuestra-que-para-crear-inteligencia-no-hace-falta-polvo-de-hadas-sino-modelos-mas-grandes.html": {
-        "added_at": 1767388340.334467,
-        "id": 1954172856
-    },
-    "https://elpais.com/ciencia/2025-12-29/alain-aspect-nobel-de-fisica-einstein-era-tan-inteligente-que-habria-tenido-que-reconocer-el-entrelazamiento-cuantico.html": {
-        "added_at": 1767388349.3094044,
-        "id": 1954172911
-    },
-    "https://elpais.com/salud-y-bienestar/2025-12-30/como-el-entorno-y-los-propositos-de-ano-nuevo-ayudan-a-dejar-de-fumar-hacer-publica-la-decision-convierte-el-abandono-del-tabaco-en-un-proyecto.html": {
-        "added_at": 1767388352.8435996,
-        "id": 1954172937
-    },
-    "https://elpais.com/sociedad/2025-12-30/cataluna-retira-la-custodia-de-un-recien-nacido-a-una-mujer-victima-de-violencia-machista.html": {
-        "added_at": 1767388355.330142,
-        "id": 1954172956
-    },
-    "https://elpais.com/economia/2026-01-02/la-agencia-tributaria-ya-ha-devuelto-a-los-contribuyentes-de-irpf-mas-de-13000-millones-al-cierre-de-2025.html": {
-        "added_at": 1767388357.629219,
-        "id": 1954172971
-    },
-    "https://elpais.com/sorteos/2026-01-02/cuponazo-de-la-once-comprobar-sorteo-del-viernes-2-de-enero.html": {
-        "added_at": 1767388359.9152243,
-        "id": 1954172991
-    },
-    "https://elpais.com/internacional/2026-01-02/trump-alardea-de-su-salud-pero-sus-propias-declaraciones-revelan-elementos-preocupantes.html": {
-        "added_at": 1767388362.2358525,
-        "id": 1954173010
-    },
     "https://www.franceinfo.fr/economie/un-vin-de-sancerre-d-un-domaine-du-cher-en-rupture-de-stock-aux-etats-unis-apres-une-apparition-dans-le-documentaire-de-la-star-taylor-swift_7717051.html#xtor=RSS-3-[lestitres]": {
         "added_at": 1767392099.1330686,
         "id": 1954200374
@@ -1758,5 +1626,33 @@
     "https://elpais.com/opinion/2026-01-03/fuerza-bruta-en-venezuela.html": {
         "added_at": 1767471414.3854222,
         "id": 1954641083
+    },
+    "https://www.ft.com/content/43888865-8e3c-44fa-8901-54b8d21103f6": {
+        "added_at": 1767474819.235115,
+        "id": 1954662068
+    },
+    "https://www.servethehome.com/this-is-the-xsight-labs-e1-dpu-a-64-core-arm-neoverse-n2-800g-dpu/": {
+        "added_at": 1767474821.595006,
+        "id": 1954662088
+    },
+    "https://jhurliman.org/post/804323197731373056/experiments-with-ableton-mcp-dec-2025": {
+        "added_at": 1767474823.7593217,
+        "id": 1954662096
+    },
+    "https://log.schemescape.com/posts/diy/beating-myself-at-chess.html": {
+        "added_at": 1767474825.9379501,
+        "id": 1954662111
+    },
+    "https://www.science.org/content/article/deep-sea-mining-race-ramps-mission-will-assess-whether-ecosystems-recover-afterward": {
+        "added_at": 1767474828.112959,
+        "id": 1954662123
+    },
+    "https://www.cisotradecraft.com/bitns": {
+        "added_at": 1767474830.3893201,
+        "id": 1954662137
+    },
+    "https://elpais.com/opinion/2026-01-03/el-puto-amo.html": {
+        "added_at": 1767474833.1505544,
+        "id": 1954662152
     }
 }
