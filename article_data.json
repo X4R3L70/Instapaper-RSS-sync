@@ -1,32 +1,4 @@
 {
-    "https://www.franceinfo.fr/faits-divers/incendie-dans-un-bar-de-crans-montana-en-suisse/incendie-a-crans-montana-trois-lyceens-de-versailles-font-partie-des-14-francais-blesses_7717072.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767395669.014844,
-        "id": 1954220885
-    },
-    "https://www.franceinfo.fr/faits-divers/college-incendie-a-dijon-une-rentree-en-deux-temps-prevue-lundi-indique-le-rectorat_7717036.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767395672.342852,
-        "id": 1954220904
-    },
-    "https://arstechnica.com/health/2026/01/anthrax-nearly-kills-healthy-18-year-old-welder-amid-puzzling-pattern/": {
-        "added_at": 1767395675.3361094,
-        "id": 1954220918
-    },
-    "https://jobswithgpt.com/blog/global_software-engineering_jobs_january_2026/": {
-        "added_at": 1767395677.6222994,
-        "id": 1954220930
-    },
-    "https://github.com/nicolasahar/morphic-programming": {
-        "added_at": 1767395679.7978551,
-        "id": 1954220943
-    },
-    "https://claude.ai/public/artifacts/4c5465b6-c384-4c9f-8a92-a4f840367ec2": {
-        "added_at": 1767395681.9548082,
-        "id": 1954220951
-    },
-    "https://elpais.com/deportes/baloncesto/2026-01-02/el-madrid-remonta-14-puntos-para-brindarle-una-victoria-a-sergio-llull-en-su-partido-1200-con-la-camiseta-blanca.html": {
-        "added_at": 1767395685.458609,
-        "id": 1954220974
-    },
     "https://www.ft.com/content/948e1357-507d-4308-8054-5c53755594b9": {
         "added_at": 1767402541.9545958,
         "id": 1954255746
@@ -1730,5 +1702,85 @@
     "https://www.monde-diplomatique.fr/2026/01/DAGUERRE/69156": {
         "added_at": 1767478539.331104,
         "id": 1954683699
+    },
+    "https://www.franceinfo.fr/replay-jt/france-2/20-heures/incendie-en-suisse-qui-sont-les-victimes-francaises_7718776.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767482057.949472,
+        "id": 1954703702
+    },
+    "https://www.franceinfo.fr/monde/venezuela/attaque-americaine-sur-le-venezuela/capture-de-nicolas-maduro-la-reaction-d-emmanuel-macron-indigne-la-gauche_7718761.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767482060.8109605,
+        "id": 1954703722
+    },
+    "https://www.franceinfo.fr/sports/foot/can/can-2025-le-senegal-premier-qualifie-pour-les-quarts-de-finale-apres-sa-victoire-contre-le-soudan-3-1_7718725.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767482063.739645,
+        "id": 1954703735
+    },
+    "https://www.franceinfo.fr/monde/venezuela/attaque-americaine-sur-le-venezuela/reportage-pour-exprimer-notre-revolte-notre-rage-un-rassemblement-a-paris-contre-l-operation-americaine-au-venezuela_7718797.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767482066.7049127,
+        "id": 1954703747
+    },
+    "https://www.franceinfo.fr/monde/venezuela/attaque-americaine-sur-le-venezuela/capture-de-nicolas-maduro-au-venezuela-emmanuel-macron-prend-acte-de-la-fin-de-la-dictature-et-appelle-a-une-transition-pacifique-et-democratique_7718803.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767482069.857599,
+        "id": 1954703769
+    },
+    "https://www.franceinfo.fr/monde/venezuela/attaque-americaine-sur-le-venezuela/le-president-venezuelien-nicolas-maduro-est-arrive-sur-le-sol-americain-apres-sa-capture-au-venezuela_7718833.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767482072.5754583,
+        "id": 1954703786
+    },
+    "https://arstechnica.com/science/2026/01/researchers-spot-saturn-sized-planet-in-the-einstein-desert/": {
+        "added_at": 1767482075.7454216,
+        "id": 1954200415
+    },
+    "https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/": {
+        "added_at": 1767482078.373997,
+        "id": 1954200425
+    },
+    "https://news.ycombinator.com/item?id=46482268": {
+        "added_at": 1767482081.0496633,
+        "id": 1954703843
+    },
+    "https://www.madebywindmill.com/tempi/blog/hbfs-bpm/": {
+        "added_at": 1767482083.3381178,
+        "id": 1954200460
+    },
+    "https://arxiv.org/abs/2510.25741": {
+        "added_at": 1767482085.6149805,
+        "id": 1954703866
+    },
+    "https://thinkhuman.com/take-one-small-step/": {
+        "added_at": 1767482087.941595,
+        "id": 1954703882
+    },
+    "https://glthr.com/the-riven-diffs-1": {
+        "added_at": 1767482090.444766,
+        "id": 1954703895
+    },
+    "https://lib25519.cr.yp.to/ed25519-cli.html": {
+        "added_at": 1767482092.8515804,
+        "id": 1954703908
+    },
+    "https://data.stackexchange.com/stackoverflow/query/1926661#graph": {
+        "added_at": 1767482095.2025385,
+        "id": 1954703925
+    },
+    "https://elpais.com/gente/2026-01-02/clooney-responde-a-las-descalificaciones-de-trump-hagamos-grande-a-america-de-nuevo-empecemos-en-noviembre.html": {
+        "added_at": 1767482097.955599,
+        "id": 1954200489
+    },
+    "https://elpais.com/deportes/futbol/2026-01-02/la-irrupcion-de-sergio-ramos-en-la-venta-del-sevilla-de-leyenda-del-futbol-a-posible-propietario.html": {
+        "added_at": 1767482100.5496647,
+        "id": 1954148754
+    },
+    "https://elpais.com/sociedad/2026-01-02/la-incidencia-de-la-gripe-desciende-bruscamente-en-la-ultima-semana-del-ano.html": {
+        "added_at": 1767482103.8062823,
+        "id": 1954200504
+    },
+    "https://elpais.com/economia/2026-01-03/el-ataque-de-estados-unidos-a-venezuela-amenaza-con-provocar-una-nueva-subida-del-precio-del-petroleo.html": {
+        "added_at": 1767482106.2407715,
+        "id": 1954703972
+    },
+    "https://elpais.com/deportes/futbol/2026-01-03/joan-garcia-de-principio-a-fin-de-un-derbi-para-el-barca.html": {
+        "added_at": 1767482108.5721765,
+        "id": 1954703986
     }
 }
