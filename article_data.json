@@ -1,32 +1,4 @@
 {
-    "https://www.ft.com/content/b2f5a634-1f95-49b7-b4bc-131b5ebc13b8": {
-        "added_at": 1767410264.586288,
-        "id": 1954294674
-    },
-    "https://mmastrac.github.io/blaze/": {
-        "added_at": 1767410267.4366133,
-        "id": 1954294692
-    },
-    "https://phys.org/news/2025-12-einstein-probe-ray-flare-nearby.html": {
-        "added_at": 1767410269.9306266,
-        "id": 1954294705
-    },
-    "https://xi-editor.io/docs/rope_science_11.html": {
-        "added_at": 1767410272.3839388,
-        "id": 1954294716
-    },
-    "https://opera.addy.ie": {
-        "added_at": 1767410274.7471063,
-        "id": 1954294725
-    },
-    "https://roscidus.com/blog/blog/2026/01/01/tla-liveness/": {
-        "added_at": 1767410277.1370304,
-        "id": 1954294733
-    },
-    "https://nullprogram.com/blog/2015/03/19/": {
-        "added_at": 1767410279.5857432,
-        "id": 1954294743
-    },
     "https://bluerenga.blog/2026/01/01/adventure-751-1980/": {
         "added_at": 1767414463.5925114,
         "id": 1954313624
@@ -1774,5 +1746,49 @@
     "https://elpais.com/deportes/futbol/2026-01-03/despierta-mikautadze-y-el-villarreal-atiza-a-un-elche-desorientado.html": {
         "added_at": 1767489693.1801805,
         "id": 1954743773
+    },
+    "https://arstechnica.com/ai/2026/01/no-grok-cant-really-apologize-for-posting-non-consensual-sexual-images/": {
+        "added_at": 1767498345.7428057,
+        "id": 1954255888
+    },
+    "https://sqlnet.cc": {
+        "added_at": 1767498348.4988828,
+        "id": 1954782443
+    },
+    "https://www.npr.org/2025/12/12/nx-s1-5642538/machados-escape-from-venezuela": {
+        "added_at": 1767498350.802058,
+        "id": 1954782452
+    },
+    "https://finnvolkel.com/wcoj-graph-join-correspondence": {
+        "added_at": 1767498353.1724975,
+        "id": 1954782466
+    },
+    "https://nemanjatrifunovic.substack.com/p/the-late-arrival-of-16-bit-cpm": {
+        "added_at": 1767498355.49914,
+        "id": 1954782471
+    },
+    "https://github.com/buyukakyuz/corroded": {
+        "added_at": 1767498357.8919919,
+        "id": 1954782477
+    },
+    "https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf": {
+        "added_at": 1767498360.2511132,
+        "id": 1954782484
+    },
+    "https://www.theguardian.com/books/2025/dec/31/the-master-of-contradictions-by-morten-hi-jensen-review-how-thomas-mann-wrote-the-magic-mountain": {
+        "added_at": 1767498362.6337016,
+        "id": 1954782496
+    },
+    "https://rabbitictranslator.com/kde-onboarding/": {
+        "added_at": 1767498365.0340326,
+        "id": 1954782511
+    },
+    "https://hichvg.substack.com/p/elegance-is-bullshit": {
+        "added_at": 1767498367.3543756,
+        "id": 1954782521
+    },
+    "https://github.com/obround/mytorch": {
+        "added_at": 1767498386.9140458,
+        "id": 1954782592
     }
 }
