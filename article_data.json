@@ -1,80 +1,4 @@
 {
-    "https://ahrefs.com/blog/ai-vs-made-up-brand-experiment/": {
-        "added_at": 1767435341.3354385,
-        "id": 1954417795
-    },
-    "https://github.com/lyehe/porterminal": {
-        "added_at": 1767435343.5887418,
-        "id": 1954417811
-    },
-    "https://www.bbc.co.uk/news/articles/c62vx0pgyrgo": {
-        "added_at": 1767435345.7796597,
-        "id": 1954417821
-    },
-    "https://elpais.com/opinion/2026-01-03/gatillo-facil-penosa-diplomacia.html": {
-        "added_at": 1767435348.3875468,
-        "id": 1954417838
-    },
-    "https://elpais.com/america/2026-01-03/atacar-venezuela-la-gran-obsesion-de-trump-en-los-ultimos-cinco-meses.html": {
-        "added_at": 1767435350.575592,
-        "id": 1954417853
-    },
-    "https://www.franceinfo.fr/monde/venezuela/attaque-americaine-sur-le-venezuela/operation-militaire-americaine-au-venezuela-en-france-les-dirigeants-des-partis-de-gauche-condamnent_7718389.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767438741.6179209,
-        "id": 1954436483
-    },
-    "https://www.franceinfo.fr/monde/venezuela/donald-trump-annonce-que-le-president-nicolas-maduro-a-ete-capture-et-exfiltre-du-venezuela_7718332.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767438744.5417264,
-        "id": 1954436501
-    },
-    "https://www.bfmtv.com/economie/international/apercu-dans-un-documentaire-sur-taylor-swift-ce-vin-de-sancerre-fait-un-carton-aux-etats-unis_AN-202601030148.html": {
-        "added_at": 1767438747.1645942,
-        "id": 1954436510
-    },
-    "https://www.bfmtv.com/economie/economie-social/union-europeenne/ils-ne-respectent-pas-les-criteres-de-convergence-ou-ne-veulent-tout-simplement-pas-changer-de-monnaie-six-etats-membres-de-l-ue-n-ont-pas-encore-adopte-l-euro_AV-202601030151.html": {
-        "added_at": 1767438749.8683906,
-        "id": 1954436524
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/en-route-pour-demain/video-essai-volkswagen-t-roc-passage-a-l-hybride-nouveau-look-que-donne-la-deuxieme-generation-de-ce-suv-star-made-in-portugal_VN-202601030164.html": {
-        "added_at": 1767438752.638492,
-        "id": 1954436531
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/en-route-pour-demain/essai-volkswagen-t-roc-passage-a-l-hybride-nouveau-look-que-donne-la-deuxieme-generation-de-ce-suv-star-made-in-portugal_EN-202601030165.html": {
-        "added_at": 1767438755.2382126,
-        "id": 1954436544
-    },
-    "https://github.com/tomasf/Cadova": {
-        "added_at": 1767438758.692688,
-        "id": 1954436558
-    },
-    "https://socialskillswisdom.com/": {
-        "added_at": 1767438761.1568701,
-        "id": 1954436567
-    },
-    "https://elpais.com/deportes/2026-01-03/un-edgar-canet-de-record-estrena-su-casillero-de-victorias-en-el-rally-dakar.html": {
-        "added_at": 1767438764.0922465,
-        "id": 1954436587
-    },
-    "https://elpais.com/espana/2026-01-03/la-comision-de-fiestas-de-villamanin-crea-una-asociacion-para-gestionar-el-conflicto-con-el-gordo.html": {
-        "added_at": 1767438766.5551589,
-        "id": 1954436608
-    },
-    "https://elpais.com/internacional/2026-01-03/el-bombardeo-de-estados-unidos-sobre-venezuela-en-imagenes.html": {
-        "added_at": 1767438768.9591262,
-        "id": 1954436618
-    },
-    "https://elpais.com/espana/2026-01-03/espana-hace-un-llamamiento-a-la-desescalada-en-venezuela-tras-el-ataque-de-ee-uu-y-se-ofrece-a-mediar.html": {
-        "added_at": 1767438771.325855,
-        "id": 1954436629
-    },
-    "https://elpais.com/videos/2026-01-03/las-primeras-imagenes-de-los-bombardeos-de-eeuu-sobre-venezuela.html": {
-        "added_at": 1767438773.7333624,
-        "id": 1954436641
-    },
-    "https://elpais.com/internacional/2026-01-03/claves-del-ataque-militar-a-venezuela-bombardeos-de-madrugada-y-un-presidente-capturado.html": {
-        "added_at": 1767438776.367427,
-        "id": 1954436654
-    },
     "https://www.franceinfo.fr/sports/tennis/la-federation-francaise-de-tennis-obtient-la-delegation-du-pickleball-sport-en-vogue_7718335.html#xtor=RSS-3-[lestitres]": {
         "added_at": 1767443313.3257368,
         "id": 1954463949
@@ -1846,5 +1770,49 @@
     "https://elpais.com/espana/2026-01-04/localizado-el-cuerpo-fernando-martin-el-espanol-muerto-en-el-naufragio-en-indonesia.html": {
         "added_at": 1767521737.1160746,
         "id": 1954894497
+    },
+    "https://www.franceinfo.fr/sante/greve-des-medecins-un-geste-tres-fort-a-l-aune-du-mepris-et-de-la-violence-des-politiques-assure-le-president-de-l-union-francaise-pour-une-medecine-libre_7719955.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767525166.349609,
+        "id": 1954912496
+    },
+    "https://www.franceinfo.fr/sante/greve-des-medecins-liberaux-des-requisitions-seront-possibles-previent-la-ministre-de-la-sante_7719970.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767525170.239477,
+        "id": 1954912521
+    },
+    "https://www.franceinfo.fr/monde/venezuela/attaque-americaine-sur-le-venezuela/la-doctrine-monroe-un-texte-vieux-de-deux-siecles-exhume-par-donald-trump-pour-justifier-sa-politique-etrangere_7719877.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767525173.4638267,
+        "id": 1954912533
+    },
+    "https://www.bfmtv.com/economie/entreprises/agriculture/avocats-pommes-annie-genevard-annonce-la-suspension-des-importations-en-france-de-certains-produits-d-amerique-du-sud_AD-202601040145.html": {
+        "added_at": 1767525175.9995975,
+        "id": 1954912549
+    },
+    "https://www.bfmtv.com/economie/economie-social/social/une-mobilisation-jamais-vue-les-medecins-liberaux-appeles-a-faire-greve-lundi-et-pour-10-jours-le-gouvernement-n-exclut-pas-des-requisitions_AD-202601040149.html": {
+        "added_at": 1767525178.4779336,
+        "id": 1954912566
+    },
+    "https://www.ft.com/content/48be0c3d-0a37-4aac-be47-f15f7f1761b8": {
+        "added_at": 1767525183.3657677,
+        "id": 1954417781
+    },
+    "https://www.iflscience.com/the-first-video-game-came-long-before-pong-and-was-invented-by-a-manhattan-project-physicist-81262": {
+        "added_at": 1767525186.3513892,
+        "id": 1954912607
+    },
+    "https://huggingface.co/spaces/ludocomito/anatomy-of-boltzgen": {
+        "added_at": 1767525188.654204,
+        "id": 1954912621
+    },
+    "https://elpais.com/el-tiempo/2026-01-03/lluvia-nieve-viento-y-oleaje-activan-los-avisos-este-sabado-en-siete-provincias-mientras-que-el-domingo-llegara-una-masa-de-aire-artico.html": {
+        "added_at": 1767525191.5244234,
+        "id": 1954399294
+    },
+    "https://elpais.com/loteria-del-nino/2026-01-04/el-sorteo-del-nino-reparte-el-dia-de-reyes-770-millones-tras-unas-agitadas-navidades-con-el-gordo-en-villamanin.html": {
+        "added_at": 1767525193.8976371,
+        "id": 1954912655
+    },
+    "https://elpais.com/internacional/2026-01-04/la-policia-suiza-identifica-a-otras-16-victimas-mortales-del-incendio-en-un-bar-de-crans-montana.html": {
+        "added_at": 1767525196.9119961,
+        "id": 1954912664
     }
 }
