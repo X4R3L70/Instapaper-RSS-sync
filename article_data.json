@@ -1,52 +1,4 @@
 {
-    "https://yosefk.com/blog/profiling-with-ctrl-c.html": {
-        "added_at": 1767449648.1743917,
-        "id": 1954508579
-    },
-    "https://hleb.dev/post/x-clacks-overhead/": {
-        "added_at": 1767449650.5679493,
-        "id": 1954508592
-    },
-    "https://paradedb.notion.site/?p=172ea4ce9deb80898ef5d5097bd65544&pm=s": {
-        "added_at": 1767449652.7257738,
-        "id": 1954508600
-    },
-    "https://elpais.com/internacional/2026-01-03/los-delta-force-la-unidad-de-elite-del-ejercito-estadounidense-que-ha-capturado-a-maduro.html": {
-        "added_at": 1767449656.9983878,
-        "id": 1954508625
-    },
-    "https://www.franceinfo.fr/monde/europe/allemagne/a-berlin-un-incendie-de-cables-presume-criminel-engendre-une-large-coupure-d-electricite_7718506.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767453240.7319703,
-        "id": 1954527883
-    },
-    "https://www.franceinfo.fr/societe/feminicides/feminicide-dans-les-landes-l-ex-conjoint-de-la-victime-mis-en-examen-et-place-en-detention-provisoire_7718518.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767453246.509439,
-        "id": 1954527914
-    },
-    "https://www.franceinfo.fr/economie/immobilier/reportage-on-vit-en-mobil-home-depuis-un-an-et-demi-des-menages-encore-dans-l-attente-avec-maprimerenov-suspendue-au-1er-janvier_7716958.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767453249.1821494,
-        "id": 1954527924
-    },
-    "https://www.franceinfo.fr/monde/venezuela/attaque-americaine-sur-le-venezuela/acte-d-agression-armee-grave-atteinte-a-la-souverainete-appel-a-la-retenue-les-reactions-internationales-apres-l-operation-militaire-americaine-au-venezuela_7718521.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767453252.4860559,
-        "id": 1954527942
-    },
-    "https://www.franceinfo.fr/monde/venezuela/attaque-americaine-sur-le-venezuela/temoignages-enfin-ca-arrive-les-venezueliens-installes-en-france-soulages-mais-prudents-apres-l-operation-militaire-americaine_7718497.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767453255.448998,
-        "id": 1954527956
-    },
-    "https://www.bfmtv.com/economie/entreprises/defense/un-contrat-historique-a-2-6-milliards-d-euros-pour-la-turquie-erdogan-salue-la-commande-de-30-avions-de-combat-hurjet-par-l-espagne_AD-202601030217.html": {
-        "added_at": 1767453258.1350548,
-        "id": 1954527971
-    },
-    "https://www.bfmtv.com/economie/entreprises/agriculture/un-troisieme-cas-de-dermatose-nodulaire-contagieuse-decouvert-en-ariege-une-vingtaine-de-betes-sera-abattue-lundi_AD-202601030226.html": {
-        "added_at": 1767453263.014621,
-        "id": 1954527992
-    },
-    "https://gist.github.com/breadchris/00f64f3c26ebb9bccb7fd9d94be9d708": {
-        "added_at": 1767453266.3342755,
-        "id": 1954528008
-    },
     "https://www.franceinfo.fr/france/occitanie/marche-funebre-des-agriculteurs-contre-la-gestion-de-la-dermatose-une-croix-portee-pour-chaque-vache-tuee-par-l-etat_7718308.html#xtor=RSS-3-[lestitres]": {
         "added_at": 1767457051.4698117,
         "id": 1954548524
@@ -1838,5 +1790,93 @@
     "https://www.jeffgeerling.com/blog/2026/migrated-to-hugo/": {
         "added_at": 1767536042.9271395,
         "id": 1954973891
+    },
+    "https://www.franceinfo.fr/sports/boxe/boxe-l-ancien-champion-du-monde-tyson-fury-sort-a-nouveau-de-sa-retraite_7720102.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767539641.1083207,
+        "id": 1954994330
+    },
+    "https://www.franceinfo.fr/sports/sports-d-hiver/de-nouveaux-clients-des-sejours-plus-longs-le-bilan-positif-des-stations-de-ski-francaises-a-l-issue-des-conges-d-hiver_7720087.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767539644.2464669,
+        "id": 1954994350
+    },
+    "https://www.franceinfo.fr/environnement/meteo/l-episode-de-froid-va-continuer-en-debut-de-semaine-avec-des-temperatures-qui-pourront-avoir-un-caractere-remarquable-localement_7720105.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767539647.0599706,
+        "id": 1954994371
+    },
+    "https://www.franceinfo.fr/politique/la-france-insoumise/candidate-de-la-france-insoumise-a-la-mairie-de-paris-sophia-chikirou-sera-jugee-pour-escroquerie_7720108.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767539649.8891149,
+        "id": 1954994384
+    },
+    "https://www.bfmtv.com/economie/entreprises/transports/attaque-des-etats-unis-contre-le-venezuela-air-france-reprend-ses-liaisons-avec-les-antilles-apres-avoir-supprime-trois-vols-dans-la-matinee_AV-202601030200.html": {
+        "added_at": 1767539653.3377373,
+        "id": 1954508540
+    },
+    "https://www.bfmtv.com/economie/international/thierry-breton-interdit-de-sejour-aux-etats-unis-roland-lescure-va-demander-des-explications-aux-americains-dont-la-soi-disant-liberte-d-expression-conduit-a-raconter-n-importe-quoi_AD-202601040229.html": {
+        "added_at": 1767539655.977367,
+        "id": 1954994419
+    },
+    "https://www.bfmtv.com/economie/international/le-venezuela-possede-les-plus-grandes-reserves-de-petrole-du-monde-malgre-l-attaque-americaine-les-pays-de-l-opep-vont-maintenir-leur-production_AN-202601040233.html": {
+        "added_at": 1767539658.4075725,
+        "id": 1954994443
+    },
+    "https://www.bfmtv.com/economie/entreprises/transports/toutes-les-frequences-ont-ete-perdues-le-trafic-aerien-paralyse-plusieurs-heures-en-grece-apres-un-probleme-technique-sans-precedent_AD-202601040236.html": {
+        "added_at": 1767539660.8017857,
+        "id": 1954994470
+    },
+    "https://www.bfmtv.com/economie/international/les-pierres-precieuses-representent-un-tiers-de-son-pib-face-a-la-chute-du-prix-des-diamants-le-botswana-envisage-a-son-tour-un-passeport-dore-pour-recuperer-500-millions-de-dollars_AN-202601040239.html": {
+        "added_at": 1767539663.2074943,
+        "id": 1954994487
+    },
+    "https://www.ft.com/content/fed60da2-4e43-400f-9635-5f2ed8dca452": {
+        "added_at": 1767539666.3518815,
+        "id": 1954994515
+    },
+    "https://www.siliconcontinent.com/p/a-new-years-letter-to-a-young-person": {
+        "added_at": 1767539668.995811,
+        "id": 1954994536
+    },
+    "https://play.ertdfgcvb.xyz/#/src/demos/moire_explorer": {
+        "added_at": 1767539671.1900265,
+        "id": 1954994559
+    },
+    "https://github.com/Linuxmaster14/yt-playlist-downloader": {
+        "added_at": 1767539673.4052367,
+        "id": 1954994572
+    },
+    "https://dubroy.com/blog/cold-blooded-software/": {
+        "added_at": 1767539675.655302,
+        "id": 1954994584
+    },
+    "https://medium.com/@vishalmisra/attention-is-bayesian-inference-578c25db4501": {
+        "added_at": 1767539677.8613207,
+        "id": 1954994598
+    },
+    "https://philippdubach.com/posts/nikes-crisis-and-the-economics-of-brand-decay/": {
+        "added_at": 1767539680.8989985,
+        "id": 1954994617
+    },
+    "https://fabiensanglard.net/sf2_warrier/": {
+        "added_at": 1767539683.124076,
+        "id": 1954994627
+    },
+    "https://elpais.com/argentina/2026-01-04/el-gobierno-de-milei-estrena-un-nuevo-esquema-cambiario-mientras-busca-recursos-para-pagar-vencimientos-de-deuda.html": {
+        "added_at": 1767539685.7291334,
+        "id": 1954994644
+    },
+    "https://elpais.com/deportes/baloncesto/2026-01-04/el-barca-da-un-golpe-sobre-la-mesa-en-el-clasico-ante-el-madrid.html": {
+        "added_at": 1767539687.9235344,
+        "id": 1954994659
+    },
+    "https://elpais.com/deportes/futbol/2026-01-04/real-madrid-real-betis-en-directo-la-liga-en-vivo.html": {
+        "added_at": 1767539690.9354668,
+        "id": 1954994677
+    },
+    "https://elpais.com/espana/2026-01-04/condenado-a-un-ano-de-carcel-un-ultraderechista-por-el-ciberataque-a-la-web-del-psoe-en-plena-ola-de-protestas-ante-ferraz.html": {
+        "added_at": 1767539693.1413696,
+        "id": 1954994689
+    },
+    "https://elpais.com/internacional/2026-01-04/los-democratas-critican-en-bloque-la-intervencion-militar-de-estados-unidos-en-venezuela.html": {
+        "added_at": 1767539695.3442752,
+        "id": 1954994700
     }
 }
