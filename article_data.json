@@ -1,12 +1,4 @@
 {
-    "https://bluerenga.blog/2026/01/01/adventure-751-1980/": {
-        "added_at": 1767414463.5925114,
-        "id": 1954313624
-    },
-    "https://thephd.dev/the-cost-of-a-closure-in-c-c2y-followup": {
-        "added_at": 1767414465.8783674,
-        "id": 1954313636
-    },
     "https://www.ft.com/content/adcaecc9-78d5-437e-8580-abcfef56878b": {
         "added_at": 1767417382.862598,
         "id": 1954327697
@@ -1790,5 +1782,33 @@
     "https://github.com/obround/mytorch": {
         "added_at": 1767498386.9140458,
         "id": 1954782592
+    },
+    "https://www.ft.com/content/7dec2189-f175-433b-b378-87d3c9e01ace": {
+        "added_at": 1767501838.1032112,
+        "id": 1954802921
+    },
+    "https://aresnorthamerica.com/": {
+        "added_at": 1767501840.8939724,
+        "id": 1954802928
+    },
+    "https://variationsonnormal.com/2011/04/28/finger-nose-stylus-for-touchscreens/": {
+        "added_at": 1767501843.227229,
+        "id": 1954802935
+    },
+    "https://elpais.com/television/2026-01-02/un-ensayo-y-dos-errores-del-nacimiento-de-las-campanadas-tal-y-como-las-conocemos-hasta-hoy.html": {
+        "added_at": 1767501863.486348,
+        "id": 1954803014
+    },
+    "https://elpais.com/espana/catalunya/2026-01-04/la-externalizacion-del-poder-convergente.html": {
+        "added_at": 1767501865.8613038,
+        "id": 1954803021
+    },
+    "https://elpais.com/espana/catalunya/2026-01-04/los-supermercados-dan-la-puntilla-a-los-restaurantes-de-menu-con-espacios-para-comer.html": {
+        "added_at": 1767501868.131678,
+        "id": 1954803031
+    },
+    "https://elpais.com/espana/madrid/2026-01-04/gentuza-pagafantas-trilero-ridiculo-o-indigente-intelectual-un-ano-mas-de-insultos-en-la-politica-de-madrid.html": {
+        "added_at": 1767501870.8036792,
+        "id": 1954803048
     }
 }
