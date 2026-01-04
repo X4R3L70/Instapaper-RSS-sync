@@ -1,32 +1,4 @@
 {
-    "https://www.ft.com/content/43888865-8e3c-44fa-8901-54b8d21103f6": {
-        "added_at": 1767474819.235115,
-        "id": 1954662068
-    },
-    "https://www.servethehome.com/this-is-the-xsight-labs-e1-dpu-a-64-core-arm-neoverse-n2-800g-dpu/": {
-        "added_at": 1767474821.595006,
-        "id": 1954662088
-    },
-    "https://jhurliman.org/post/804323197731373056/experiments-with-ableton-mcp-dec-2025": {
-        "added_at": 1767474823.7593217,
-        "id": 1954662096
-    },
-    "https://log.schemescape.com/posts/diy/beating-myself-at-chess.html": {
-        "added_at": 1767474825.9379501,
-        "id": 1954662111
-    },
-    "https://www.science.org/content/article/deep-sea-mining-race-ramps-mission-will-assess-whether-ecosystems-recover-afterward": {
-        "added_at": 1767474828.112959,
-        "id": 1954662123
-    },
-    "https://www.cisotradecraft.com/bitns": {
-        "added_at": 1767474830.3893201,
-        "id": 1954662137
-    },
-    "https://elpais.com/opinion/2026-01-03/el-puto-amo.html": {
-        "added_at": 1767474833.1505544,
-        "id": 1954662152
-    },
     "https://www.franceinfo.fr/environnement/energie/la-fin-du-tarif-reglemente-de-l-electricite-nucleaire-va-t-elle-faire-flamber-vos-factures-en-2026_7695718.html#xtor=RSS-3-[lestitres]": {
         "added_at": 1767478451.24283,
         "id": 1954683170
@@ -1790,5 +1762,73 @@
     "https://www.monde-diplomatique.fr/2026/01/LIEVEN/69165": {
         "added_at": 1767558017.2239556,
         "id": 1953906177
+    },
+    "https://ripplegame.app/": {
+        "added_at": 1767561223.7349188,
+        "id": 1955163354
+    },
+    "https://opengitops.dev/": {
+        "added_at": 1767561226.1641629,
+        "id": 1955163374
+    },
+    "https://github.com/nibzard/awesome-agentic-patterns": {
+        "added_at": 1767561228.550478,
+        "id": 1955163382
+    },
+    "https://github.com/fristovic/naughty-words-every-programmer-should-know": {
+        "added_at": 1767561231.0032516,
+        "id": 1955163395
+    },
+    "https://seed-of-life-eight.vercel.app/": {
+        "added_at": 1767561233.412327,
+        "id": 1955163411
+    },
+    "https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/": {
+        "added_at": 1767561235.8734882,
+        "id": 1955163421
+    },
+    "https://cleoselene.com/": {
+        "added_at": 1767561238.5878932,
+        "id": 1955163438
+    },
+    "https://stats.stackexchange.com/questions/674129/why-does-a-linear-least-squares-fit-appear-to-have-a-bias-when-applied-to-simple": {
+        "added_at": 1767561240.968537,
+        "id": 1955163443
+    },
+    "https://granda.org/en/2026/01/02/claude-code-on-the-go/": {
+        "added_at": 1767561243.5560668,
+        "id": 1955163449
+    },
+    "https://www.bbc.com/future/article/20260102-how-i-changed-my-personality-in-six-weeks": {
+        "added_at": 1767561245.9555364,
+        "id": 1955163463
+    },
+    "https://github.com/huseyinbabal/taws": {
+        "added_at": 1767561248.3552732,
+        "id": 1955163482
+    },
+    "https://elpais.com/television/2026-01-02/del-liderazgo-de-ramon-garcia-a-derrotar-al-efecto-pedroche-la-reconquista-de-la-nochevieja-de-tve.html": {
+        "added_at": 1767561252.5360062,
+        "id": 1954120592
+    },
+    "https://elpais.com/deportes/futbol/2026-01-04/enzo-fernandez-amarga-el-regreso-de-rodri-al-equipo-titular-del-city.html": {
+        "added_at": 1767561255.2284174,
+        "id": 1955163528
+    },
+    "https://elpais.com/espana/catalunya/2026-01-04/la-rave-ilegal-de-la-senia-termina-tras-cinco-dias-seguidos-sin-incidentes-graves.html": {
+        "added_at": 1767561257.831775,
+        "id": 1955163537
+    },
+    "https://elpais.com/sociedad/2026-01-04/la-guardia-civil-investiga-como-violencia-de-genero-el-hallazgo-del-cadaver-de-una-mujer-en-el-municipio-jienense-de-quesada.html": {
+        "added_at": 1767561261.5450356,
+        "id": 1955163550
+    },
+    "https://elpais.com/internacional/2026-01-04/letonia-aborda-un-buque-tras-la-rotura-de-un-cable-de-telecomunicaciones-en-el-mar-baltico.html": {
+        "added_at": 1767561264.11867,
+        "id": 1955163571
+    },
+    "https://elpais.com/internacional/2026-01-04/la-ue-tarda-mas-de-un-dia-y-medio-en-lanzar-un-comunicado-en-el-que-pide-evitar-una-escalada-en-venezuela-y-una-salida-pacifica.html": {
+        "added_at": 1767561266.574095,
+        "id": 1955163584
     }
 }
