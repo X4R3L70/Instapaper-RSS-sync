@@ -1,48 +1,4 @@
 {
-    "https://www.franceinfo.fr/sante/greve-des-medecins-un-geste-tres-fort-a-l-aune-du-mepris-et-de-la-violence-des-politiques-assure-le-president-de-l-union-francaise-pour-une-medecine-libre_7719955.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767525166.349609,
-        "id": 1954912496
-    },
-    "https://www.franceinfo.fr/sante/greve-des-medecins-liberaux-des-requisitions-seront-possibles-previent-la-ministre-de-la-sante_7719970.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767525170.239477,
-        "id": 1954912521
-    },
-    "https://www.franceinfo.fr/monde/venezuela/attaque-americaine-sur-le-venezuela/la-doctrine-monroe-un-texte-vieux-de-deux-siecles-exhume-par-donald-trump-pour-justifier-sa-politique-etrangere_7719877.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767525173.4638267,
-        "id": 1954912533
-    },
-    "https://www.bfmtv.com/economie/entreprises/agriculture/avocats-pommes-annie-genevard-annonce-la-suspension-des-importations-en-france-de-certains-produits-d-amerique-du-sud_AD-202601040145.html": {
-        "added_at": 1767525175.9995975,
-        "id": 1954912549
-    },
-    "https://www.bfmtv.com/economie/economie-social/social/une-mobilisation-jamais-vue-les-medecins-liberaux-appeles-a-faire-greve-lundi-et-pour-10-jours-le-gouvernement-n-exclut-pas-des-requisitions_AD-202601040149.html": {
-        "added_at": 1767525178.4779336,
-        "id": 1954912566
-    },
-    "https://www.ft.com/content/48be0c3d-0a37-4aac-be47-f15f7f1761b8": {
-        "added_at": 1767525183.3657677,
-        "id": 1954417781
-    },
-    "https://www.iflscience.com/the-first-video-game-came-long-before-pong-and-was-invented-by-a-manhattan-project-physicist-81262": {
-        "added_at": 1767525186.3513892,
-        "id": 1954912607
-    },
-    "https://huggingface.co/spaces/ludocomito/anatomy-of-boltzgen": {
-        "added_at": 1767525188.654204,
-        "id": 1954912621
-    },
-    "https://elpais.com/el-tiempo/2026-01-03/lluvia-nieve-viento-y-oleaje-activan-los-avisos-este-sabado-en-siete-provincias-mientras-que-el-domingo-llegara-una-masa-de-aire-artico.html": {
-        "added_at": 1767525191.5244234,
-        "id": 1954399294
-    },
-    "https://elpais.com/loteria-del-nino/2026-01-04/el-sorteo-del-nino-reparte-el-dia-de-reyes-770-millones-tras-unas-agitadas-navidades-con-el-gordo-en-villamanin.html": {
-        "added_at": 1767525193.8976371,
-        "id": 1954912655
-    },
-    "https://elpais.com/internacional/2026-01-04/la-policia-suiza-identifica-a-otras-16-victimas-mortales-del-incendio-en-un-bar-de-crans-montana.html": {
-        "added_at": 1767525196.9119961,
-        "id": 1954912664
-    },
     "https://www.franceinfo.fr/monde/venezuela/attaque-americaine-sur-le-venezuela/operation-militaire-americaine-au-venezuela-en-france-les-dirigeants-des-partis-de-gauche-condamnent_7718389.html#xtor=RSS-3-[lestitres]": {
         "added_at": 1767529742.2737434,
         "id": 1954436483
@@ -2186,5 +2142,129 @@
     "https://elpais.com/espana/2026-01-05/el-pp-defiende-ahora-que-hay-dudas-sobre-si-se-ha-infringido-el-derecho-internacional-en-venezuela.html": {
         "added_at": 1767608428.7613392,
         "id": 1955404818
+    },
+    "https://www.franceinfo.fr/faits-divers/incendie-dans-un-bar-de-crans-montana-en-suisse/incendie-a-crans-montana-16-nouveaux-corps-ont-ete-identifies-et-restitues-a-leurs-familles-dont-celui-d-un-francais-de-39-ans_7719901.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767611679.0906942,
+        "id": 1955426793
+    },
+    "https://www.franceinfo.fr/environnement/meteo/direct-neige-et-verglas-26-departements-en-vigilance-orange-jusqu-a-15-cm-attendus-localement_7721644.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767611681.3711154,
+        "id": 1955426814
+    },
+    "https://www.bfmtv.com/economie/entreprises/des-rabais-de-30-a-60-sur-des-produits-qui-n-ont-pas-trouve-preneur-dans-ses-supermarches-lidl-veut-ouvrir-de-nouveaux-magasins-de-destockage-lidl-outlet-en-2026_AV-202601040141.html": {
+        "added_at": 1767611682.965992,
+        "id": 1955426826
+    },
+    "https://www.bfmtv.com/economie/video-2026-la-france-en-gris-le-monde-en-rose_VN-202601050425.html": {
+        "added_at": 1767611684.5441744,
+        "id": 1955426840
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/le-dechiffrage-venezuela-la-souverainete-d-etat-en-peril-05-01_EN-202601050423.html": {
+        "added_at": 1767611687.7648673,
+        "id": 1955426864
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/video-le-dechiffrage-venezuela-la-souverainete-d-etat-en-peril-05-01_VN-202601050429.html": {
+        "added_at": 1767611689.52458,
+        "id": 1955426878
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/video-arbitrage-la-tendance-haussiere-du-cac-40-pour-sa-premiere-seance-de-l-annee-2026-05-01_VN-202601050431.html": {
+        "added_at": 1767611691.2412288,
+        "id": 1955426894
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/arbitrage-la-tendance-haussiere-du-cac-40-pour-sa-premiere-seance-de-l-annee-2026-05-01_EN-202601050433.html": {
+        "added_at": 1767611692.8718293,
+        "id": 1955426907
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/video-la-boite-a-outils-vivre-en-copropriete-entre-paradis-et-enfer-05-01_VN-202601050435.html": {
+        "added_at": 1767611694.520982,
+        "id": 1955426917
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/la-boite-a-outils-vivre-en-copropriete-entre-paradis-et-enfer-05-01_EN-202601050434.html": {
+        "added_at": 1767611696.1258626,
+        "id": 1955426930
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/le-placement-a-suivre-la-geopolitique-s-emballe-comment-reagir-05-01_EN-202601050438.html": {
+        "added_at": 1767611697.8452318,
+        "id": 1955426949
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/video-le-placement-a-suivre-la-geopolitique-s-emballe-comment-reagir-05-01_VN-202601050441.html": {
+        "added_at": 1767611699.4464703,
+        "id": 1955426961
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/video-le-coffre-fort-or-toujours-plus-haut-en-2026-05-01_VN-202601050446.html": {
+        "added_at": 1767611701.1241863,
+        "id": 1955426979
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/le-coffre-fort-or-toujours-plus-haut-en-2026-05-01_EN-202601050445.html": {
+        "added_at": 1767611703.3891304,
+        "id": 1955426985
+    },
+    "https://www.bfmtv.com/economie/economie-social/social/le-louvre-ouvert-partiellement-les-agents-du-musee-reconduisent-la-greve-initiee-avant-les-fetes_AD-202601050448.html": {
+        "added_at": 1767611704.885542,
+        "id": 1955427000
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/video-tout-pour-investir-lundi-5-janvier_VN-202601050459.html": {
+        "added_at": 1767611706.4473634,
+        "id": 1955427009
+    },
+    "https://www.bfmtv.com/economie/entreprises/il-se-vend-encore-a-660-000-exemplaires-par-numero-le-magazine-tele-7-jours-est-cede-a-un-groupe-allemand-par-le-milliardaire-daniel-kretinsky_AD-202601050451.html": {
+        "added_at": 1767611707.8973083,
+        "id": 1955427021
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/l-integrale-de-tout-pour-investir-du-lundi-5-janvier_EN-202601050455.html": {
+        "added_at": 1767611709.6228297,
+        "id": 1955427036
+    },
+    "https://www.ft.com/content/4f19b3e9-a41a-4168-a01b-62140ab9b789": {
+        "added_at": 1767611711.4969804,
+        "id": 1955427051
+    },
+    "https://www.ft.com/content/6a9f3fa3-bd8d-431a-8fc2-9972f6e6c241": {
+        "added_at": 1767611712.876534,
+        "id": 1955427061
+    },
+    "https://www.ft.com/content/d5e00752-a8e2-4ec8-9189-d320918e86d3": {
+        "added_at": 1767611714.2914662,
+        "id": 1955427067
+    },
+    "https://www.ft.com/content/55707d4d-5c2a-4367-b691-4a2d4245ea60": {
+        "added_at": 1767611715.6820588,
+        "id": 1955427074
+    },
+    "https://www.ft.com/content/72de913a-44d1-45df-8a5c-10b0fe923841": {
+        "added_at": 1767611717.817308,
+        "id": 1955427096
+    },
+    "https://www.ft.com/content/6e98e541-83a7-4523-9910-62f6d11625f2": {
+        "added_at": 1767611719.2431424,
+        "id": 1955427103
+    },
+    "https://github.com/lets-all-be-stupid-forever/circuit-artist": {
+        "added_at": 1767611721.1649504,
+        "id": 1955427123
+    },
+    "https://torrentfreak.com/annas-archive-loses-org-domain-after-surprise-suspension/": {
+        "added_at": 1767611722.590203,
+        "id": 1955427132
+    },
+    "https://elpais.com/eps/2026-01-04/todo-sucede-en-el-gimnasio-el-nuevo-epicentro-de-las-relaciones-sociales.html": {
+        "added_at": 1767611724.356879,
+        "id": 1955427144
+    },
+    "https://elpais.com/sociedad/2025-12-30/un-nuevo-espectaculo-navideno-en-uno-de-los-corazones-de-madrid.html": {
+        "added_at": 1767611726.5016305,
+        "id": 1955427161
+    },
+    "https://elpais.com/america/2026-01-05/y-si-venezuela-es-solo-el-principio.html": {
+        "added_at": 1767611727.8811355,
+        "id": 1955427172
+    },
+    "https://elpais.com/sociedad/branded/impacto-positivo/2025-12-26/del-norte-al-sur-del-continente-americano-en-dos-minutos.html": {
+        "added_at": 1767611729.8004484,
+        "id": 1955427183
+    },
+    "https://elpais.com/internacional/2026-01-05/los-10-acusados-por-ciberacoso-a-brigitte-macron-condenados-hasta-a-ocho-meses-de-prision.html": {
+        "added_at": 1767611731.1913426,
+        "id": 1955427194
     }
 }
