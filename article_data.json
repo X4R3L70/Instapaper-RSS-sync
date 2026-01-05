@@ -1,28 +1,4 @@
 {
-    "https://data.stackexchange.com/stackoverflow/query/1926661#graph": {
-        "added_at": 1767482095.2025385,
-        "id": 1954703925
-    },
-    "https://elpais.com/gente/2026-01-02/clooney-responde-a-las-descalificaciones-de-trump-hagamos-grande-a-america-de-nuevo-empecemos-en-noviembre.html": {
-        "added_at": 1767482097.955599,
-        "id": 1954200489
-    },
-    "https://elpais.com/deportes/futbol/2026-01-02/la-irrupcion-de-sergio-ramos-en-la-venta-del-sevilla-de-leyenda-del-futbol-a-posible-propietario.html": {
-        "added_at": 1767482100.5496647,
-        "id": 1954148754
-    },
-    "https://elpais.com/sociedad/2026-01-02/la-incidencia-de-la-gripe-desciende-bruscamente-en-la-ultima-semana-del-ano.html": {
-        "added_at": 1767482103.8062823,
-        "id": 1954200504
-    },
-    "https://elpais.com/economia/2026-01-03/el-ataque-de-estados-unidos-a-venezuela-amenaza-con-provocar-una-nueva-subida-del-precio-del-petroleo.html": {
-        "added_at": 1767482106.2407715,
-        "id": 1954703972
-    },
-    "https://elpais.com/deportes/futbol/2026-01-03/joan-garcia-de-principio-a-fin-de-un-derbi-para-el-barca.html": {
-        "added_at": 1767482108.5721765,
-        "id": 1954703986
-    },
     "https://www.ft.com/content/8e3b1a88-b037-457c-8ca8-798f203b6011": {
         "added_at": 1767489649.7572932,
         "id": 1954743544
@@ -1722,5 +1698,93 @@
     "https://elpais.com/america/2026-01-04/trump-juega-la-carta-de-delcy-rodriguez-y-apuesta-por-el-pragmatismo-para-gestionar-venezuela.html": {
         "added_at": 1767568491.084255,
         "id": 1955200879
+    },
+    "https://www.ft.com/content/41ae690e-f1e6-4354-9295-f6556483d7cb": {
+        "added_at": 1767575968.1437292,
+        "id": 1955236886
+    },
+    "https://www.ft.com/content/faa5e07d-dc06-4498-94a0-e8186d981f1c": {
+        "added_at": 1767575971.089995,
+        "id": 1955236902
+    },
+    "https://www.ft.com/content/b7697f3c-cbd1-4a5a-8cfd-13b33a49e0a1": {
+        "added_at": 1767575974.0543902,
+        "id": 1955236920
+    },
+    "https://www.ft.com/content/55a185a2-63b5-4585-b9b4-cc0f3751e854": {
+        "added_at": 1767575977.169822,
+        "id": 1955236935
+    },
+    "https://www.ft.com/content/c54d5ed2-901d-447c-b996-8bccf3b38b45": {
+        "added_at": 1767575980.3757575,
+        "id": 1955236952
+    },
+    "https://www.ft.com/content/b2be3005-548b-40a0-a7c6-e9ceba450bc8": {
+        "added_at": 1767575983.4240913,
+        "id": 1955236967
+    },
+    "https://www.ft.com/content/a250b544-f297-4ba1-823f-b6d3235c90bb": {
+        "added_at": 1767575991.2356718,
+        "id": 1955237010
+    },
+    "https://www.ft.com/content/d02838f8-792e-4810-9584-a8470d814ee6": {
+        "added_at": 1767575994.2424603,
+        "id": 1955237024
+    },
+    "https://www.ft.com/content/043d530f-64ac-423d-9c8c-6456ba61341b": {
+        "added_at": 1767575997.446499,
+        "id": 1955237034
+    },
+    "https://www.ft.com/content/59591f68-0516-4a15-8cdf-5bcf49719750": {
+        "added_at": 1767576000.3459008,
+        "id": 1955237049
+    },
+    "https://www.ft.com/ft-seasonal-appeal": {
+        "added_at": 1767576003.5041687,
+        "id": 1955237060
+    },
+    "https://arstechnica.com/science/2026/01/researchers-spot-saturn-sized-planet-in-the-einstein-desert/": {
+        "added_at": 1767576007.0850387,
+        "id": 1954200415
+    },
+    "https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/": {
+        "added_at": 1767576009.7069993,
+        "id": 1954200425
+    },
+    "https://chuanqisun.github.io/quantum-tunnel/": {
+        "added_at": 1767576012.3351963,
+        "id": 1955237106
+    },
+    "https://mehmetince.net/the-story-of-a-perfect-exploit-chain-six-bugs-that-looked-harmless-until-they-became-pre-auth-rce-in-a-security-appliance/": {
+        "added_at": 1767576014.6724792,
+        "id": 1955237118
+    },
+    "https://warontherocks.com/2015/11/millennium-challenge-the-real-story-of-a-corrupted-military-exercise-and-its-legacy/": {
+        "added_at": 1767576016.952676,
+        "id": 1955237126
+    },
+    "https://elpais.com/smoda/famosos/2026-01-04/emma-thompson-la-gran-dama-moderna-del-cine-britanico-que-se-ha-convertido-en-la-inesperada-reina-de-la-navidad.html": {
+        "added_at": 1767576019.5595937,
+        "id": 1955237138
+    },
+    "https://elpais.com/internacional/2026-01-04/fallece-a-los-96-anos-eva-schloss-superviviente-de-auschwitz-y-hermanastra-de-ana-frank.html": {
+        "added_at": 1767576021.8444278,
+        "id": 1955237154
+    },
+    "https://elpais.com/america/2026-01-04/edmundo-gonzalez-exige-la-liberacion-de-todos-los-presos-politicos-para-la-normalizacion-de-venezuela.html": {
+        "added_at": 1767576024.1362932,
+        "id": 1955237164
+    },
+    "https://www.monde-diplomatique.fr/2026/01/BRUNETEAU/69166": {
+        "added_at": 1767576028.7590718,
+        "id": 1954149583
+    },
+    "https://www.monde-diplomatique.fr/2026/01/THIEBAUD/69160": {
+        "added_at": 1767576031.708699,
+        "id": 1954683681
+    },
+    "https://www.monde-diplomatique.fr/2026/01/DAGUERRE/69156": {
+        "added_at": 1767576035.7092621,
+        "id": 1954683699
     }
 }
