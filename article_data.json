@@ -1,112 +1,4 @@
 {
-    "https://www.ft.com/content/8e3b1a88-b037-457c-8ca8-798f203b6011": {
-        "added_at": 1767489649.7572932,
-        "id": 1954743544
-    },
-    "https://www.ft.com/content/b395033a-bb3a-4022-a58c-60594e73512c": {
-        "added_at": 1767489652.1902485,
-        "id": 1954743562
-    },
-    "https://www.ft.com/content/96ca1baf-dfd0-4502-a976-ce8ce840d4fd": {
-        "added_at": 1767489655.39428,
-        "id": 1954743586
-    },
-    "https://www.ft.com/content/6df65f0a-bcbc-4ac8-a0d3-0d2537b3da05": {
-        "added_at": 1767489658.6034923,
-        "id": 1954743603
-    },
-    "https://arstechnica.com/health/2026/01/anthrax-nearly-kills-healthy-18-year-old-welder-amid-puzzling-pattern/": {
-        "added_at": 1767489663.4291682,
-        "id": 1954220918
-    },
-    "https://twitter.com/thedowd/status/2007337800430198913": {
-        "added_at": 1767489666.3036802,
-        "id": 1954743636
-    },
-    "https://pubmed.ncbi.nlm.nih.gov/11190906/": {
-        "added_at": 1767489668.8224437,
-        "id": 1954743646
-    },
-    "https://www.wsj.com/livecoverage/venezuela-strikes/card/finance-industry-eyes-investment-opportunities-in-venezuela-CmtLevzMTXEvRLkADjbG": {
-        "added_at": 1767489671.370843,
-        "id": 1954743657
-    },
-    "https://daringfireball.net/2025/12/slop_is_slop": {
-        "added_at": 1767489675.027814,
-        "id": 1954743674
-    },
-    "https://www.ic-pcb.com/chinas-leading-dram-maker-cxmt-targets-42-billion-ipo-as-it-takes-on-samsung-sk-hynix-and-micron.html": {
-        "added_at": 1767489677.510511,
-        "id": 1954743684
-    },
-    "https://github.com/13point5/torch.ts": {
-        "added_at": 1767489679.9429655,
-        "id": 1954743700
-    },
-    "https://danielmangum.com/posts/arm-cortex-m-security-state-gdb/": {
-        "added_at": 1767489683.1590967,
-        "id": 1954743723
-    },
-    "https://nik.art/the-suck-is-why-were-here/": {
-        "added_at": 1767489685.5948198,
-        "id": 1954743734
-    },
-    "https://docs.swifdroid.com/app/": {
-        "added_at": 1767489687.9869673,
-        "id": 1954743748
-    },
-    "https://elpais.com/deportes/baloncesto/2026-01-02/el-madrid-remonta-14-puntos-para-brindarle-una-victoria-a-sergio-llull-en-su-partido-1200-con-la-camiseta-blanca.html": {
-        "added_at": 1767489690.763991,
-        "id": 1954220974
-    },
-    "https://elpais.com/deportes/futbol/2026-01-03/despierta-mikautadze-y-el-villarreal-atiza-a-un-elche-desorientado.html": {
-        "added_at": 1767489693.1801805,
-        "id": 1954743773
-    },
-    "https://arstechnica.com/ai/2026/01/no-grok-cant-really-apologize-for-posting-non-consensual-sexual-images/": {
-        "added_at": 1767498345.7428057,
-        "id": 1954255888
-    },
-    "https://sqlnet.cc": {
-        "added_at": 1767498348.4988828,
-        "id": 1954782443
-    },
-    "https://www.npr.org/2025/12/12/nx-s1-5642538/machados-escape-from-venezuela": {
-        "added_at": 1767498350.802058,
-        "id": 1954782452
-    },
-    "https://finnvolkel.com/wcoj-graph-join-correspondence": {
-        "added_at": 1767498353.1724975,
-        "id": 1954782466
-    },
-    "https://nemanjatrifunovic.substack.com/p/the-late-arrival-of-16-bit-cpm": {
-        "added_at": 1767498355.49914,
-        "id": 1954782471
-    },
-    "https://github.com/buyukakyuz/corroded": {
-        "added_at": 1767498357.8919919,
-        "id": 1954782477
-    },
-    "https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf": {
-        "added_at": 1767498360.2511132,
-        "id": 1954782484
-    },
-    "https://www.theguardian.com/books/2025/dec/31/the-master-of-contradictions-by-morten-hi-jensen-review-how-thomas-mann-wrote-the-magic-mountain": {
-        "added_at": 1767498362.6337016,
-        "id": 1954782496
-    },
-    "https://rabbitictranslator.com/kde-onboarding/": {
-        "added_at": 1767498365.0340326,
-        "id": 1954782511
-    },
-    "https://hichvg.substack.com/p/elegance-is-bullshit": {
-        "added_at": 1767498367.3543756,
-        "id": 1954782521
-    },
-    "https://github.com/obround/mytorch": {
-        "added_at": 1767498386.9140458,
-        "id": 1954782592
-    },
     "https://www.ft.com/content/7dec2189-f175-433b-b378-87d3c9e01ace": {
         "added_at": 1767501838.1032112,
         "id": 1954802921
@@ -1786,5 +1678,57 @@
     "https://www.monde-diplomatique.fr/2026/01/DAGUERRE/69156": {
         "added_at": 1767576035.7092621,
         "id": 1954683699
+    },
+    "https://propertylistings.ft.com/propertynews/united-kingdom/7551-a-rooms-quiet-vantage-point.html": {
+        "added_at": 1767585015.4585063,
+        "id": 1955277242
+    },
+    "https://www.robinsloan.com/winter-garden/agi-is-here/": {
+        "added_at": 1767585035.7900453,
+        "id": 1955277325
+    },
+    "https://www.dampfkraft.com/showa-100.html": {
+        "added_at": 1767585038.2715397,
+        "id": 1955277339
+    },
+    "https://sparkbox.com/foundry/helene_and_mobile_web_performance": {
+        "added_at": 1767585040.761942,
+        "id": 1955277349
+    },
+    "https://elpais.com/deportes/futbol/2026-01-03/joan-garcia-de-principio-a-fin-de-un-derbi-para-el-barca.html": {
+        "added_at": 1767585044.4731846,
+        "id": 1954703986
+    },
+    "https://elpais.com/sociedad/2026-01-02/la-incidencia-de-la-gripe-desciende-bruscamente-en-la-ultima-semana-del-ano.html": {
+        "added_at": 1767585047.134438,
+        "id": 1954200504
+    },
+    "https://elpais.com/america/2026-01-04/la-verdadera-transicion-en-venezuela.html": {
+        "added_at": 1767585049.5699224,
+        "id": 1955277391
+    },
+    "https://elpais.com/america-colombia/2026-01-05/trump-amenaza-a-petro-por-tercera-vez-en-un-mes-me-suena-bien-una-operacion-en-colombia.html": {
+        "added_at": 1767585051.983973,
+        "id": 1955277410
+    },
+    "https://elpais.com/america/2026-01-04/el-ministro-de-defensa-de-venezuela-confirma-que-estados-unidos-mato-a-parte-del-equipo-de-seguridad-de-maduro.html": {
+        "added_at": 1767585054.5312796,
+        "id": 1955277427
+    },
+    "https://elpais.com/america/2026-01-05/delcy-rodriguez-llama-a-la-cooperacion-con-estados-unidos-mientras-trump-exige-acceso-a-todo-en-venezuela.html": {
+        "added_at": 1767585057.124483,
+        "id": 1955277438
+    },
+    "https://www.monde-diplomatique.fr/2026/01/PROLONGEAU/69157": {
+        "added_at": 1767585061.8930364,
+        "id": 1955277458
+    },
+    "https://www.monde-diplomatique.fr/2026/01/HALIMI/69162": {
+        "added_at": 1767585065.8357568,
+        "id": 1955277475
+    },
+    "https://www.monde-diplomatique.fr/2026/01/GOBERT/69171": {
+        "added_at": 1767585069.845865,
+        "id": 1955277490
     }
 }
