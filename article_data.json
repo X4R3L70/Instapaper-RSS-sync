@@ -1,32 +1,4 @@
 {
-    "https://www.ft.com/content/7dec2189-f175-433b-b378-87d3c9e01ace": {
-        "added_at": 1767501838.1032112,
-        "id": 1954802921
-    },
-    "https://aresnorthamerica.com/": {
-        "added_at": 1767501840.8939724,
-        "id": 1954802928
-    },
-    "https://variationsonnormal.com/2011/04/28/finger-nose-stylus-for-touchscreens/": {
-        "added_at": 1767501843.227229,
-        "id": 1954802935
-    },
-    "https://elpais.com/television/2026-01-02/un-ensayo-y-dos-errores-del-nacimiento-de-las-campanadas-tal-y-como-las-conocemos-hasta-hoy.html": {
-        "added_at": 1767501863.486348,
-        "id": 1954803014
-    },
-    "https://elpais.com/espana/catalunya/2026-01-04/la-externalizacion-del-poder-convergente.html": {
-        "added_at": 1767501865.8613038,
-        "id": 1954803021
-    },
-    "https://elpais.com/espana/catalunya/2026-01-04/los-supermercados-dan-la-puntilla-a-los-restaurantes-de-menu-con-espacios-para-comer.html": {
-        "added_at": 1767501868.131678,
-        "id": 1954803031
-    },
-    "https://elpais.com/espana/madrid/2026-01-04/gentuza-pagafantas-trilero-ridiculo-o-indigente-intelectual-un-ano-mas-de-insultos-en-la-politica-de-madrid.html": {
-        "added_at": 1767501870.8036792,
-        "id": 1954803048
-    },
     "https://www.ft.com/content/c1f76e35-d55e-4435-afb6-56c58f99e074": {
         "added_at": 1767504080.6223009,
         "id": 1954812477
@@ -1730,5 +1702,81 @@
     "https://www.monde-diplomatique.fr/2026/01/GOBERT/69171": {
         "added_at": 1767585069.845865,
         "id": 1955277490
+    },
+    "https://arstechnica.com/health/2026/01/anthrax-nearly-kills-healthy-18-year-old-welder-amid-puzzling-pattern/": {
+        "added_at": 1767588764.1287825,
+        "id": 1954220918
+    },
+    "https://arstechnica.com/ai/2026/01/no-grok-cant-really-apologize-for-posting-non-consensual-sexual-images/": {
+        "added_at": 1767588767.1110547,
+        "id": 1954255888
+    },
+    "https://www.youtube.com/watch?v=XDg73E1n5-g": {
+        "added_at": 1767588769.5462568,
+        "id": 1955293923
+    },
+    "https://consumer.drop.privacy.ca.gov/": {
+        "added_at": 1767588788.8833444,
+        "id": 1955294002
+    },
+    "https://elpais.com/cultura/2026-01-05/la-cabeza-dura-de-john-fogerty.html": {
+        "added_at": 1767588791.3406866,
+        "id": 1955294013
+    },
+    "https://elpais.com/economia/2026-01-05/la-electrificacion-en-peligro.html": {
+        "added_at": 1767588793.804005,
+        "id": 1955294028
+    },
+    "https://elpais.com/espana/2026-01-05/euskadi-no-abrir-la-caja-de-pandora-de-un-gobierno-pp-vox.html": {
+        "added_at": 1767588795.9926825,
+        "id": 1955294044
+    },
+    "https://elpais.com/espana/2026-01-05/sevilla-lucira-un-anillo-verde-y-azul-que-la-rodeara-con-42-kilometros-de-nuevos-parques-lagunas-y-senderos.html": {
+        "added_at": 1767588798.537566,
+        "id": 1955294059
+    },
+    "https://elpais.com/espana/catalunya/2026-01-05/llla-aguarda-un-inminente-acuerdo-de-financiacion-para-oxigenar-su-mandato.html": {
+        "added_at": 1767588800.7189343,
+        "id": 1955294065
+    },
+    "https://elpais.com/espana/catalunya/2026-01-05/pirineo-en-venta.html": {
+        "added_at": 1767588802.8777223,
+        "id": 1955294074
+    },
+    "https://elpais.com/espana/catalunya/2026-01-05/migrantes-en-barcelona-el-70-con-la-presion-constante-de-vivir-de-alquiler.html": {
+        "added_at": 1767588805.186728,
+        "id": 1955294084
+    },
+    "https://elpais.com/espana/catalunya/2026-01-05/la-generalitat-logra-la-mejor-valoracion-crediticia-en-una-decada-a-la-espera-de-la-quita-de-la-deuda-y-una-mejor-financiacion.html": {
+        "added_at": 1767588807.3898013,
+        "id": 1955294092
+    },
+    "https://elpais.com/espana/madrid/2026-01-05/el-violento-clan-de-los-prestamistas-tus-5000-euros-son-ahora-mis-10000-paga-o-atente-a-las-consecuencias.html": {
+        "added_at": 1767588809.5451396,
+        "id": 1955294099
+    },
+    "https://elpais.com/espana/madrid/2026-01-05/el-otro-negocio-de-ribera-salud-en-madrid-es-un-gran-laboratorio-tambien-senalado-por-una-gestion-basada-en-el-beneficio.html": {
+        "added_at": 1767588813.2850268,
+        "id": 1955294123
+    },
+    "https://elpais.com/podcasts/hoy-en-el-pais/2026-01-04/marco-rubio-nuevo-tutor-del-chavismo.html": {
+        "added_at": 1767588815.6582642,
+        "id": 1955294132
+    },
+    "https://elpais.com/america/2026-01-05/delcy-rodriguez-la-carta-sorpresa-de-estados-unidos.html": {
+        "added_at": 1767588817.9548671,
+        "id": 1955294145
+    },
+    "https://elpais.com/america/2026-01-05/cuba-confirma-la-muerte-de-32-militares-de-la-isla-en-el-ataque-contra-venezuela.html": {
+        "added_at": 1767588820.1566048,
+        "id": 1955294154
+    },
+    "https://elpais.com/opinion/2026-01-05/rapacidad-sin-tapujos.html": {
+        "added_at": 1767588822.535135,
+        "id": 1955294166
+    },
+    "https://elpais.com/america/2026-01-05/la-oposicion-venezolana-explora-sus-proximos-pasos-tras-verse-marginada-por-trump.html": {
+        "added_at": 1767588825.0124006,
+        "id": 1955294181
     }
 }
