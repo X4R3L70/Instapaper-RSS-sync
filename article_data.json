@@ -1,56 +1,4 @@
 {
-    "https://propertylistings.ft.com/propertynews/united-kingdom/7551-a-rooms-quiet-vantage-point.html": {
-        "added_at": 1767585015.4585063,
-        "id": 1955277242
-    },
-    "https://www.robinsloan.com/winter-garden/agi-is-here/": {
-        "added_at": 1767585035.7900453,
-        "id": 1955277325
-    },
-    "https://www.dampfkraft.com/showa-100.html": {
-        "added_at": 1767585038.2715397,
-        "id": 1955277339
-    },
-    "https://sparkbox.com/foundry/helene_and_mobile_web_performance": {
-        "added_at": 1767585040.761942,
-        "id": 1955277349
-    },
-    "https://elpais.com/deportes/futbol/2026-01-03/joan-garcia-de-principio-a-fin-de-un-derbi-para-el-barca.html": {
-        "added_at": 1767585044.4731846,
-        "id": 1954703986
-    },
-    "https://elpais.com/sociedad/2026-01-02/la-incidencia-de-la-gripe-desciende-bruscamente-en-la-ultima-semana-del-ano.html": {
-        "added_at": 1767585047.134438,
-        "id": 1954200504
-    },
-    "https://elpais.com/america/2026-01-04/la-verdadera-transicion-en-venezuela.html": {
-        "added_at": 1767585049.5699224,
-        "id": 1955277391
-    },
-    "https://elpais.com/america-colombia/2026-01-05/trump-amenaza-a-petro-por-tercera-vez-en-un-mes-me-suena-bien-una-operacion-en-colombia.html": {
-        "added_at": 1767585051.983973,
-        "id": 1955277410
-    },
-    "https://elpais.com/america/2026-01-04/el-ministro-de-defensa-de-venezuela-confirma-que-estados-unidos-mato-a-parte-del-equipo-de-seguridad-de-maduro.html": {
-        "added_at": 1767585054.5312796,
-        "id": 1955277427
-    },
-    "https://elpais.com/america/2026-01-05/delcy-rodriguez-llama-a-la-cooperacion-con-estados-unidos-mientras-trump-exige-acceso-a-todo-en-venezuela.html": {
-        "added_at": 1767585057.124483,
-        "id": 1955277438
-    },
-    "https://www.monde-diplomatique.fr/2026/01/PROLONGEAU/69157": {
-        "added_at": 1767585061.8930364,
-        "id": 1955277458
-    },
-    "https://www.monde-diplomatique.fr/2026/01/HALIMI/69162": {
-        "added_at": 1767585065.8357568,
-        "id": 1955277475
-    },
-    "https://www.monde-diplomatique.fr/2026/01/GOBERT/69171": {
-        "added_at": 1767585069.845865,
-        "id": 1955277490
-    },
     "https://arstechnica.com/health/2026/01/anthrax-nearly-kills-healthy-18-year-old-welder-amid-puzzling-pattern/": {
         "added_at": 1767588764.1287825,
         "id": 1954220918
@@ -2554,5 +2502,77 @@
     "https://gwern.net/doc/science/2025-kusumegi.pdf": {
         "added_at": 1767669884.1081731,
         "id": 1955857390
+    },
+    "https://arstechnica.com/science/2026/01/researchers-spot-saturn-sized-planet-in-the-einstein-desert/": {
+        "added_at": 1767674108.5980546,
+        "id": 1955878424
+    },
+    "https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/": {
+        "added_at": 1767674110.3466094,
+        "id": 1955878432
+    },
+    "https://arstechnica.com/gadgets/2026/01/amd-reheats-last-years-ryzen-ai-and-x3d-cpus-for-2026s-laptops-and-desktops/": {
+        "added_at": 1767674113.3270955,
+        "id": 1955878451
+    },
+    "https://github.com/wedow/ticket": {
+        "added_at": 1767674115.0732787,
+        "id": 1955878465
+    },
+    "https://en.sedaily.com/technology/2025/12/15/unist-develops-raindrop-powered-generator-using-carbon": {
+        "added_at": 1767674116.4620705,
+        "id": 1955878474
+    },
+    "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-gogograndparent-yc-s16-is-hiring-backend-and-full-stack-engineers": {
+        "added_at": 1767674117.9741023,
+        "id": 1955878485
+    },
+    "https://zakhary.dev/blog/gbc-web-button": {
+        "added_at": 1767674119.496385,
+        "id": 1955878493
+    },
+    "https://www.bbc.com/news/articles/cx2gn93292do": {
+        "added_at": 1767674120.9533246,
+        "id": 1955878505
+    },
+    "https://elpais.com/smoda/famosos/2026-01-04/emma-thompson-la-gran-dama-moderna-del-cine-britanico-que-se-ha-convertido-en-la-inesperada-reina-de-la-navidad.html": {
+        "added_at": 1767674122.710499,
+        "id": 1955878516
+    },
+    "https://elpais.com/television/2026-01-06/la-television-no-sera-revolucionada.html": {
+        "added_at": 1767674124.3203855,
+        "id": 1955878522
+    },
+    "https://elpais.com/internacional/2026-01-04/fallece-a-los-96-anos-eva-schloss-superviviente-de-auschwitz-y-hermanastra-de-ana-frank.html": {
+        "added_at": 1767674126.531625,
+        "id": 1955878531
+    },
+    "https://elpais.com/quadern/tendencies/2026-01-06/fem-europa-gran-altra-vegada.html": {
+        "added_at": 1767674128.062485,
+        "id": 1955878539
+    },
+    "https://elpais.com/espana/catalunya/2026-01-06/la-grieta-albiol.html": {
+        "added_at": 1767674129.7181416,
+        "id": 1955878554
+    },
+    "https://elpais.com/espana/catalunya/2026-01-06/el-frio-polar-pone-a-prueba-los-planes-de-invierno-en-cataluna-para-las-personas-sin-hogar.html": {
+        "added_at": 1767674131.381553,
+        "id": 1955878563
+    },
+    "https://elpais.com/espana/madrid/2026-01-06/madrid-sube-por-cuarta-vez-en-dos-anos-el-sueldo-de-sus-diputados-y-aumenta-las-subvenciones-a-los-partidos-pese-a-las-dudas-de-la-camara-de-cuentas.html": {
+        "added_at": 1767674132.9566844,
+        "id": 1955878569
+    },
+    "https://www.monde-diplomatique.fr/2026/01/BRUNETEAU/69166": {
+        "added_at": 1767674136.4826007,
+        "id": 1955878592
+    },
+    "https://www.monde-diplomatique.fr/2026/01/THIEBAUD/69160": {
+        "added_at": 1767674138.5766728,
+        "id": 1955878599
+    },
+    "https://www.monde-diplomatique.fr/2026/01/DAGUERRE/69156": {
+        "added_at": 1767674140.3938057,
+        "id": 1955878613
     }
 }
