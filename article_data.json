@@ -1,232 +1,4 @@
 {
-    "https://www.franceinfo.fr/monde/venezuela/attaque-americaine-sur-le-venezuela/nicolas-maduro-president-dechu-du-venezuela-a-plaide-non-coupable-devant-un-tribunal-a-new-york_7722349.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767644334.3289258,
-        "id": 1955697708
-    },
-    "https://www.franceinfo.fr/faits-divers/incendie-dans-un-bar-de-crans-montana-en-suisse/temoignage-maintenant-notre-vie-ne-sera-plus-jamais-pareille-confie-avec-emotion-la-mere-d-une-jeune-francaise-morte-dans-l-incendie-d-un-bar-a-crans-montana_7722352.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767644336.4561725,
-        "id": 1955697721
-    },
-    "https://www.bfmtv.com/economie/entreprises/apres-le-ghana-carrefour-debarque-en-ethiopie-toujours-en-franchise_AD-202601050824.html": {
-        "added_at": 1767644337.79659,
-        "id": 1955697729
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-tech-co-en-route-pour-le-ces-de-las-vegas-05-01_VN-202601050846.html": {
-        "added_at": 1767644339.2303743,
-        "id": 1955697741
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/tech-co-en-route-pour-le-ces-de-las-vegas-05-01_EN-202601050845.html": {
-        "added_at": 1767644340.8287683,
-        "id": 1955697754
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/puces-nvidia-signe-avec-groq-pour-20-milliards-de-dollars-05-01_EN-202601050851.html": {
-        "added_at": 1767644344.2578127,
-        "id": 1955697773
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-puces-nvidia-signe-avec-groq-pour-20-milliards-de-dollars-05-01_VN-202601050857.html": {
-        "added_at": 1767644346.765331,
-        "id": 1955697795
-    },
-    "https://www.ft.com/content/da909792-063f-4f57-9d5d-8aa994f1522c": {
-        "added_at": 1767644348.3587067,
-        "id": 1955697810
-    },
-    "https://boundaryml.com/blog/5-years-12-pivots": {
-        "added_at": 1767644349.734728,
-        "id": 1955697819
-    },
-    "https://www.theguardian.com/business/2026/jan/05/novo-nordisk-launches-wegovy-weight-loss-pill-us-price-war": {
-        "added_at": 1767644350.899279,
-        "id": 1955697826
-    },
-    "https://www.nytimes.com/2025/12/19/science/ants-exoskeletons-weak.html": {
-        "added_at": 1767644352.1835773,
-        "id": 1955697834
-    },
-    "https://wol.fm/blog/utopian-scholastic.html": {
-        "added_at": 1767644353.3568056,
-        "id": 1955697849
-    },
-    "https://www.nber.org/papers/w34639": {
-        "added_at": 1767644354.5750754,
-        "id": 1955697858
-    },
-    "https://retool.com/pipes": {
-        "added_at": 1767644355.9082234,
-        "id": 1955697869
-    },
-    "https://www.thebignewsletter.com/p/gatekeepers-of-law-inside-the-westlaw": {
-        "added_at": 1767644357.0636256,
-        "id": 1955697879
-    },
-    "https://ronjeffries.com/xprog/articles/refactoring-not-on-the-backlog/": {
-        "added_at": 1767644358.2567506,
-        "id": 1955697887
-    },
-    "https://www.theguardian.com/games/2026/jan/05/sega-co-founder-david-rosen-dies": {
-        "added_at": 1767644359.4119,
-        "id": 1955697897
-    },
-    "https://andrew.grahamyooll.com/blog/Try-to-Take-My-Position/": {
-        "added_at": 1767644375.6672137,
-        "id": 1955698028
-    },
-    "https://elpais.com/internacional/2026-01-04/la-ola-de-protestas-en-iran-deja-varios-muertos-y-cientos-de-detenidos-en-su-primera-semana-segun-las-organizaciones-sociales.html": {
-        "added_at": 1767644377.1803887,
-        "id": 1955698038
-    },
-    "https://www.franceinfo.fr/monde/venezuela/attaque-americaine-sur-le-venezuela/apres-la-capture-de-nicolas-maduro-par-les-etats-unis-delcy-rodriguez-a-ete-officiellement-investie-presidente-par-interim_7722427.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767647711.170566,
-        "id": 1955721755
-    },
-    "https://www.franceinfo.fr/economie/crise/blocus-des-agriculteurs/colere-agricole-les-deplacements-et-convois-de-tracteurs-sont-interdits-jusqu-a-jeudi-dans-plusieurs-regions-de-france_7722394.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767647713.8623006,
-        "id": 1955721780
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-apple-gagne-le-match-des-ventes-face-a-samsung-05-01_VN-202601050864.html": {
-        "added_at": 1767647716.2616994,
-        "id": 1955721796
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/apple-gagne-le-match-des-ventes-face-a-samsung-05-01_EN-202601050863.html": {
-        "added_at": 1767647717.9937258,
-        "id": 1955721808
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/l-integrale-de-tech-co-la-quotidienne-du-lundi-5-janvier_EN-202601050866.html": {
-        "added_at": 1767647719.7324321,
-        "id": 1955721825
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/l-integrale-du-debrief-de-la-tech-du-lundi-5-janvier_EN-202601050867.html": {
-        "added_at": 1767647721.2335818,
-        "id": 1955721834
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-le-debrief-de-la-tech-lundi-5-janvier_VN-202601050879.html": {
-        "added_at": 1767647722.9135346,
-        "id": 1955721850
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-tech-co-la-quotidienne-lundi-5-janvier_VN-202601050880.html": {
-        "added_at": 1767647724.4393923,
-        "id": 1955721860
-    },
-    "https://arstechnica.com/cars/2026/01/tesla-sales-fell-by-9-percent-in-2025-its-second-yearly-decline/": {
-        "added_at": 1767647727.3750746,
-        "id": 1955721873
-    },
-    "https://arstechnica.com/tech-policy/2026/01/xai-silent-after-grok-sexualized-images-of-kids-dril-mocks-groks-apology/": {
-        "added_at": 1767647729.534333,
-        "id": 1955721897
-    },
-    "https://arstechnica.com/gaming/2026/01/final-reminder-donate-to-win-swag-in-our-annual-charity-drive-sweepstakes-4/": {
-        "added_at": 1767647731.6223478,
-        "id": 1955721909
-    },
-    "https://arstechnica.com/gaming/2026/01/biowares-anthem-will-soon-be-completely-unplayable/": {
-        "added_at": 1767647733.3111086,
-        "id": 1955721928
-    },
-    "https://arstechnica.com/gadgets/2026/01/sandisk-says-goodbye-to-wd-blue-and-black-ssds-hello-to-new-optimus-drives/": {
-        "added_at": 1767647735.2885396,
-        "id": 1955721942
-    },
-    "https://arstechnica.com/gadgets/2026/01/amazon-alexa-released-to-the-general-public-via-an-early-access-website/": {
-        "added_at": 1767647737.8775094,
-        "id": 1955721960
-    },
-    "https://arstechnica.com/gadgets/2026/01/stewart-cheifet-pbs-host-who-chronicled-the-pc-revolution-dies-at-87/": {
-        "added_at": 1767647739.4982395,
-        "id": 1955721972
-    },
-    "https://arstechnica.com/tech-policy/2026/01/annas-archive-loses-org-domain-says-suspension-likely-unrelated-to-spotify-piracy/": {
-        "added_at": 1767647740.908996,
-        "id": 1955721982
-    },
-    "https://github.com/wemush/open-standard": {
-        "added_at": 1767647742.6653295,
-        "id": 1955722000
-    },
-    "https://repebble.com/blog/pebble-round-2-the-most-stylish-pebble-ever": {
-        "added_at": 1767647744.3963318,
-        "id": 1955722015
-    },
-    "https://blog.veritates.love/selective_applicatives_theoretical_basis.html": {
-        "added_at": 1767647745.7613857,
-        "id": 1955722026
-    },
-    "https://loworbitsecurity.com/radar/radar16/": {
-        "added_at": 1767647747.3327053,
-        "id": 1955722041
-    },
-    "https://elpais.com/proyecto-tendencias/2025-12-19/el-nuevo-idioma-del-poder-laboral-saber-preguntar-a-la-ia-es-mas-importante-que-usarla.html": {
-        "added_at": 1767647749.9530861,
-        "id": 1955722067
-    },
-    "https://elpais.com/proyecto-tendencias/2025-12-26/nazareth-castellanos-neurocientifica-hay-que-educar-desde-la-escuela-en-tecnicas-de-prevencion-de-la-ansiedad.html": {
-        "added_at": 1767647751.4030514,
-        "id": 1955722081
-    },
-    "https://elpais.com/icon/2025-12-21/criaturas-adorables-y-monstruos-en-el-microondas-como-gremlins-se-convirtio-en-un-inesperado-clasico-navideno.html": {
-        "added_at": 1767647753.762591,
-        "id": 1955722087
-    },
-    "https://elpais.com/icon/2025-12-22/marc-giro-si-la-fama-me-hubiera-pillado-mas-joven-quiza-estaria-cocainomano-perdido.html": {
-        "added_at": 1767647756.690367,
-        "id": 1955722106
-    },
-    "https://elpais.com/smoda/2025-12-31/el-vestido-de-chenoa-en-las-campanadas-lentejuelas-y-escote-de-vertigo-para-un-diseno-creado-en-la-mancha.html": {
-        "added_at": 1767647758.3274226,
-        "id": 1955722121
-    },
-    "https://elpais.com/eps/2026-01-02/richard-linklater-el-cine-junto-con-el-rock-fue-una-de-las-pasiones-fundamentales-de-mi-generacion-no-se-si-sigue-siendo-igual-para-la-siguiente.html": {
-        "added_at": 1767647759.7499502,
-        "id": 1955722132
-    },
-    "https://elpais.com/tecnologia/2025-12-31/no-no-puedes-apagar-la-ia-en-apps-como-gmail-o-whatsapp-pero-si-puedes-ponerle-limites.html": {
-        "added_at": 1767647766.3494992,
-        "id": 1955722171
-    },
-    "https://elpais.com/tecnologia/2026-01-02/la-ia-de-musk-hace-viral-una-tendencia-con-imagenes-sexistas-de-mujeres.html": {
-        "added_at": 1767647768.0060537,
-        "id": 1955722185
-    },
-    "https://elpais.com/clima-y-medio-ambiente/2026-01-02/john-berger-y-la-perdida-de-la-cultura-rural.html": {
-        "added_at": 1767647770.3075187,
-        "id": 1955722201
-    },
-    "https://elpais.com/clima-y-medio-ambiente/2026-01-02/angulas-en-la-cena-del-rey-el-riesgo-de-contribuir-a-que-una-especie-en-peligro-se-extinga.html": {
-        "added_at": 1767647772.9378088,
-        "id": 1955722216
-    },
-    "https://elpais.com/internacional/2026-01-02/legisladoras-japonesas-piden-mas-banos-para-mujeres-en-el-parlamento.html": {
-        "added_at": 1767647775.1149843,
-        "id": 1955722237
-    },
-    "https://elpais.com/sociedad/2026-01-02/el-gobierno-publica-los-criterios-para-acceder-al-grado-extremo-de-dependencia-de-la-ley-ela-y-garantiza-un-minimo-de-3200-euros-al-mes.html": {
-        "added_at": 1767647777.3665254,
-        "id": 1955722253
-    },
-    "https://elpais.com/babelia/2026-01-02/los-25-libros-mas-esperados-de-enero-de-2026.html": {
-        "added_at": 1767647778.8635955,
-        "id": 1955722263
-    },
-    "https://elpais.com/sorteos/2026-01-05/la-primitiva-sorteo-del-lunes-5-de-enero.html": {
-        "added_at": 1767647780.2940435,
-        "id": 1955722272
-    },
-    "https://elpais.com/espana/madrid/2026-01-05/la-cabalgata-de-madrid-vista-desde-la-escalera-gigante-de-la-familia-arbizu-rodriguez.html": {
-        "added_at": 1767647784.8736725,
-        "id": 1955722320
-    },
-    "https://elpais.com/videos/2026-01-05/cual-es-el-futuro-de-venezuela.html": {
-        "added_at": 1767647786.3152847,
-        "id": 1955722356
-    },
-    "https://elpais.com/america/2026-01-05/la-operacion-contra-maduro-envalentona-a-trump-para-amenazar-a-otros-paises.html": {
-        "added_at": 1767647787.7017887,
-        "id": 1955722377
-    },
-    "https://elpais.com/america/2026-01-05/delcy-rodriguez-se-instala-en-el-poder-en-una-venezuela-sin-maduro-y-a-la-sombra-de-trump.html": {
-        "added_at": 1767647789.4120762,
-        "id": 1955722398
-    },
     "https://www.monde-diplomatique.fr/2025/12/ROBERT/69055": {
         "added_at": 1767647792.8394716,
         "id": 1955722444
@@ -2618,5 +2390,69 @@
     "https://elpais.com/espana/2026-01-06/sanchez-asegura-que-el-ataque-a-venezuela-sienta-un-precedente-terrible-y-advierte-a-trump-que-no-aceptara-que-amenace-la-integridad-de-dinamarca.html": {
         "added_at": 1767730672.4234748,
         "id": 1956263863
+    },
+    "https://www.franceinfo.fr/faits-divers/meurtres/enquete-sur-le-meurtre-de-gilbert-gaudry-une-expertise-graphologique-accable-un-peu-plus-le-principal-suspect_7724512.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767734160.0058348,
+        "id": 1956287594
+    },
+    "https://www.franceinfo.fr/monde/europe/allemagne/a-berlin-une-panne-d-electricite-geante-paralyse-toujours-une-partie-de-la-ville-pas-de-retour-a-la-normale-avant-jeudi_7724377.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767734162.0044222,
+        "id": 1956287608
+    },
+    "https://www.franceinfo.fr/monde/europe/allemagne/coupure-d-electricite-a-berlin-le-parquet-allemand-enquete-pour-terrorisme-et-sabotage_7724395.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767734164.1509082,
+        "id": 1956287615
+    },
+    "https://www.franceinfo.fr/monde/groenland/emmanuel-macron-n-imagine-pas-les-etats-unis-violer-la-souverainete-danoise-au-groenland_7724581.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767734166.9909124,
+        "id": 1956287641
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/bfm-crypto-le-club/bfm-crypto-le-club-fuite-de-donnees-chez-un-partenaire-de-ledger-06-01_EN-202601060778.html": {
+        "added_at": 1767734168.7675016,
+        "id": 1956287654
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/bfm-crypto-le-club/video-bfm-crypto-le-club-fuite-de-donnees-chez-un-partenaire-de-ledger-06-01_VN-202601060784.html": {
+        "added_at": 1767734171.1973171,
+        "id": 1956287670
+    },
+    "https://arstechnica.com/tech-policy/2026/01/x-blames-users-for-grok-generated-csam-no-fixes-announced/": {
+        "added_at": 1767734173.507951,
+        "id": 1955660557
+    },
+    "https://arstechnica.com/google/2026/01/gemini-expands-on-google-tv-bringing-nano-banana-and-veo-models-to-your-tv/": {
+        "added_at": 1767734175.1237106,
+        "id": 1955660563
+    },
+    "https://phrack.org/issues/71/17": {
+        "added_at": 1767734176.6977794,
+        "id": 1956287703
+    },
+    "https://www.llmgame.ai": {
+        "added_at": 1767734178.0768785,
+        "id": 1956287714
+    },
+    "https://textonly.github.io/git-prime/": {
+        "added_at": 1767734179.3304143,
+        "id": 1956287723
+    },
+    "https://layandreas.github.io/personal-blog/posts/how-spotify-made-me-self-host/": {
+        "added_at": 1767734180.5794067,
+        "id": 1956287732
+    },
+    "https://elpais.com/deportes/futbol/2026-01-05/noche-de-reyes-en-yeda.html": {
+        "added_at": 1767734184.5041645,
+        "id": 1955660624
+    },
+    "https://elpais.com/sorteos/2026-01-06/euromillones-sorteo-del-martes-6-de-enero.html": {
+        "added_at": 1767734186.0483694,
+        "id": 1956287762
+    },
+    "https://elpais.com/america/2026-01-06/el-expresidente-bolsonaro-sufre-heridas-leves-al-caerse-de-la-cama-en-la-celda-por-una-convulsion.html": {
+        "added_at": 1767734188.0934992,
+        "id": 1956287773
+    },
+    "https://elpais.com/internacional/2026-01-06/trump-asegura-que-si-pierde-las-elecciones-de-mitad-de-mandato-buscaran-una-excusa-para-destituirle.html": {
+        "added_at": 1767734189.4896998,
+        "id": 1956287783
     }
 }
