@@ -1,80 +1,4 @@
 {
-    "https://arstechnica.com/health/2026/01/anthrax-nearly-kills-healthy-18-year-old-welder-amid-puzzling-pattern/": {
-        "added_at": 1767588764.1287825,
-        "id": 1954220918
-    },
-    "https://arstechnica.com/ai/2026/01/no-grok-cant-really-apologize-for-posting-non-consensual-sexual-images/": {
-        "added_at": 1767588767.1110547,
-        "id": 1954255888
-    },
-    "https://www.youtube.com/watch?v=XDg73E1n5-g": {
-        "added_at": 1767588769.5462568,
-        "id": 1955293923
-    },
-    "https://consumer.drop.privacy.ca.gov/": {
-        "added_at": 1767588788.8833444,
-        "id": 1955294002
-    },
-    "https://elpais.com/cultura/2026-01-05/la-cabeza-dura-de-john-fogerty.html": {
-        "added_at": 1767588791.3406866,
-        "id": 1955294013
-    },
-    "https://elpais.com/economia/2026-01-05/la-electrificacion-en-peligro.html": {
-        "added_at": 1767588793.804005,
-        "id": 1955294028
-    },
-    "https://elpais.com/espana/2026-01-05/euskadi-no-abrir-la-caja-de-pandora-de-un-gobierno-pp-vox.html": {
-        "added_at": 1767588795.9926825,
-        "id": 1955294044
-    },
-    "https://elpais.com/espana/2026-01-05/sevilla-lucira-un-anillo-verde-y-azul-que-la-rodeara-con-42-kilometros-de-nuevos-parques-lagunas-y-senderos.html": {
-        "added_at": 1767588798.537566,
-        "id": 1955294059
-    },
-    "https://elpais.com/espana/catalunya/2026-01-05/llla-aguarda-un-inminente-acuerdo-de-financiacion-para-oxigenar-su-mandato.html": {
-        "added_at": 1767588800.7189343,
-        "id": 1955294065
-    },
-    "https://elpais.com/espana/catalunya/2026-01-05/pirineo-en-venta.html": {
-        "added_at": 1767588802.8777223,
-        "id": 1955294074
-    },
-    "https://elpais.com/espana/catalunya/2026-01-05/migrantes-en-barcelona-el-70-con-la-presion-constante-de-vivir-de-alquiler.html": {
-        "added_at": 1767588805.186728,
-        "id": 1955294084
-    },
-    "https://elpais.com/espana/catalunya/2026-01-05/la-generalitat-logra-la-mejor-valoracion-crediticia-en-una-decada-a-la-espera-de-la-quita-de-la-deuda-y-una-mejor-financiacion.html": {
-        "added_at": 1767588807.3898013,
-        "id": 1955294092
-    },
-    "https://elpais.com/espana/madrid/2026-01-05/el-violento-clan-de-los-prestamistas-tus-5000-euros-son-ahora-mis-10000-paga-o-atente-a-las-consecuencias.html": {
-        "added_at": 1767588809.5451396,
-        "id": 1955294099
-    },
-    "https://elpais.com/espana/madrid/2026-01-05/el-otro-negocio-de-ribera-salud-en-madrid-es-un-gran-laboratorio-tambien-senalado-por-una-gestion-basada-en-el-beneficio.html": {
-        "added_at": 1767588813.2850268,
-        "id": 1955294123
-    },
-    "https://elpais.com/podcasts/hoy-en-el-pais/2026-01-04/marco-rubio-nuevo-tutor-del-chavismo.html": {
-        "added_at": 1767588815.6582642,
-        "id": 1955294132
-    },
-    "https://elpais.com/america/2026-01-05/delcy-rodriguez-la-carta-sorpresa-de-estados-unidos.html": {
-        "added_at": 1767588817.9548671,
-        "id": 1955294145
-    },
-    "https://elpais.com/america/2026-01-05/cuba-confirma-la-muerte-de-32-militares-de-la-isla-en-el-ataque-contra-venezuela.html": {
-        "added_at": 1767588820.1566048,
-        "id": 1955294154
-    },
-    "https://elpais.com/opinion/2026-01-05/rapacidad-sin-tapujos.html": {
-        "added_at": 1767588822.535135,
-        "id": 1955294166
-    },
-    "https://elpais.com/america/2026-01-05/la-oposicion-venezolana-explora-sus-proximos-pasos-tras-verse-marginada-por-trump.html": {
-        "added_at": 1767588825.0124006,
-        "id": 1955294181
-    },
     "https://www.franceinfo.fr/societe/drogue/six-questions-sur-le-nouveau-parquet-national-anticriminalite-organisee-installe-ce-lundi_7710982.html#xtor=RSS-3-[lestitres]": {
         "added_at": 1767591121.101086,
         "id": 1955305535
@@ -2574,5 +2498,377 @@
     "https://www.monde-diplomatique.fr/2026/01/DAGUERRE/69156": {
         "added_at": 1767674140.3938057,
         "id": 1955878613
+    },
+    "https://www.franceinfo.fr/faits-divers/incendie-dans-un-bar-de-crans-montana-en-suisse/incendie-de-crans-montana-ce-que-l-on-sait-des-gerants-du-bar-le-constellation-vises-par-une-enquete_7721653.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767676827.5829287,
+        "id": 1955892468
+    },
+    "https://www.bfmtv.com/economie/entreprises/defense/casernes-bases-navales-usines-de-munitions-pour-respecter-ses-engagements-militaires-et-atteindre-5-du-pib-le-royaume-uni-devra-consacrer-la-somme-colossale-de-800-milliards-de-livres_AV-202601060058.html": {
+        "added_at": 1767676829.0914621,
+        "id": 1955892477
+    },
+    "https://www.ft.com/content/10d39515-a3ff-42e6-aca9-6e8adf0ebe62": {
+        "added_at": 1767676831.5077577,
+        "id": 1955892490
+    },
+    "https://www.ft.com/content/281a5a46-b1a6-4ba3-868f-4745a0d2e1b0": {
+        "added_at": 1767676833.261245,
+        "id": 1955892496
+    },
+    "https://www.ft.com/content/36a37387-cb71-4851-a56f-de2571d520d8": {
+        "added_at": 1767676834.9595144,
+        "id": 1955892507
+    },
+    "https://www.ft.com/content/2a077315-2ce2-4594-ba7d-94ff164f3b56": {
+        "added_at": 1767676837.3233893,
+        "id": 1955892523
+    },
+    "https://www.ft.com/content/45b266f5-a16e-4656-a7cd-b7a1c08f1fea": {
+        "added_at": 1767676839.0825057,
+        "id": 1955892540
+    },
+    "https://www.ft.com/content/c81c84de-f746-4d22-bda2-8c43ccd8c8d7": {
+        "added_at": 1767676840.9309635,
+        "id": 1955892552
+    },
+    "https://www.ft.com/content/0cc05817-2486-48fc-a52a-a61c6d89f1b9": {
+        "added_at": 1767676842.6905553,
+        "id": 1955892565
+    },
+    "https://www.ft.com/content/b7d0ca51-ebfa-48a2-aee3-396a7ca43166": {
+        "added_at": 1767676844.7507942,
+        "id": 1955892577
+    },
+    "https://www.ft.com/content/0bc942f9-8d8f-4ec4-9e48-aebe7e5a4412": {
+        "added_at": 1767676846.7004554,
+        "id": 1955892592
+    },
+    "https://www.ft.com/content/2d5aa4b9-0135-4a63-98a4-8515f35fd39e": {
+        "added_at": 1767676848.439119,
+        "id": 1955892595
+    },
+    "https://www.ft.com/content/bb18af48-49a6-46e8-8bae-e24b83bcbc23": {
+        "added_at": 1767676850.3197823,
+        "id": 1955892604
+    },
+    "https://www.ft.com/content/0e120e8c-e778-44da-93ff-688cf059b5a4": {
+        "added_at": 1767676852.115976,
+        "id": 1955892614
+    },
+    "https://www.ft.com/content/5743561b-ea2c-4eba-9494-3adda3513774": {
+        "added_at": 1767676854.023458,
+        "id": 1955892620
+    },
+    "https://www.ft.com/content/53363bf1-3431-4019-b3f2-302811853236": {
+        "added_at": 1767676855.6702826,
+        "id": 1955892628
+    },
+    "https://www.ft.com/content/c1c8abb1-5c09-46b0-a1d3-68341c4e5d98": {
+        "added_at": 1767676857.2094598,
+        "id": 1955892635
+    },
+    "https://www.ft.com/content/2c9cc8e3-0662-4acb-b33e-4769e6a7f8ff": {
+        "added_at": 1767676859.0448854,
+        "id": 1955892648
+    },
+    "https://www.ft.com/content/0808d0cb-3104-4767-8d33-aa887d9963ae": {
+        "added_at": 1767676860.9237201,
+        "id": 1955892654
+    },
+    "https://www.ft.com/content/7f8a30f1-dbe1-438e-9fc4-cc8e74fba6ff": {
+        "added_at": 1767676863.3384411,
+        "id": 1955892658
+    },
+    "https://www.ft.com/content/be88bc07-9326-4757-9919-bec4b3058ebb": {
+        "added_at": 1767676864.5315535,
+        "id": 1955892663
+    },
+    "https://www.ft.com/content/5b6e419e-cfd6-4950-9a1b-6337839c0cf2": {
+        "added_at": 1767676866.1243787,
+        "id": 1955892671
+    },
+    "https://www.ft.com/content/018694dc-7123-4f84-83dd-2d6f4d8de933": {
+        "added_at": 1767676868.2467945,
+        "id": 1955892685
+    },
+    "https://www.ft.com/content/ef7720f8-a6ff-40f2-9ed8-75617eed3e8d": {
+        "added_at": 1767676870.1500099,
+        "id": 1955892696
+    },
+    "https://www.ft.com/content/6cf5711c-021a-415f-b32c-8b8bf34a4c82": {
+        "added_at": 1767676871.6591022,
+        "id": 1955892701
+    },
+    "https://www.ft.com/content/7aa55b1f-35cc-4c63-b64a-04d53dc6151e": {
+        "added_at": 1767676873.4867058,
+        "id": 1955892716
+    },
+    "https://www.ft.com/content/608da30a-6c25-416a-976d-addb72968661": {
+        "added_at": 1767676874.6388483,
+        "id": 1955892724
+    },
+    "https://elpais.com/escaparate/estilo-de-vida/2026-01-06/gadget-para-hacer-deporte-en-casa.html": {
+        "added_at": 1767676876.8688078,
+        "id": 1955892734
+    },
+    "https://elpais.com/television/2026-01-06/the-pitt-bienvenidos-a-la-segunda-temporada-de-urgencias.html": {
+        "added_at": 1767676878.0285544,
+        "id": 1955892741
+    },
+    "https://elpais.com/cultura/2026-01-06/en-el-curso-del-tiempo.html": {
+        "added_at": 1767676879.1749408,
+        "id": 1955892749
+    },
+    "https://elpais.com/economia/2026-01-06/asignaturas-pendientes-en-transparencia-e-integridad-para-el-ano-nuevo.html": {
+        "added_at": 1767676880.8680818,
+        "id": 1955892758
+    },
+    "https://elpais.com/espana/2026-01-05/ayuso-acusa-a-zapatero-de-haberse-lucrado-en-venezuela-y-dice-que-esta-siendo-investigado-por-ee-uu.html": {
+        "added_at": 1767676882.3325772,
+        "id": 1955892768
+    },
+    "https://elpais.com/escaparate/estilo-de-vida/2026-01-06/lo-mas-regalado-en-navidad-2025.html": {
+        "added_at": 1767676884.3086636,
+        "id": 1955892781
+    },
+    "https://elpais.com/mamas-papas/familia/2026-01-06/por-que-debemos-dejar-de-preguntar-a-los-menores-si-tienen-novio-o-novia.html": {
+        "added_at": 1767676886.2621293,
+        "id": 1955892790
+    },
+    "https://elpais.com/eps/2026-01-06/apoyarse-emocionalmente-en-un-objeto-cotidiano-como-la-neurociencia-llego-al-diseno-de-interiores.html": {
+        "added_at": 1767676887.6499724,
+        "id": 1955892797
+    },
+    "https://elpais.com/icon-design/2026-01-06/como-reformar-un-edificio-modernista-sin-traicionarlo-la-nueva-vida-de-una-joya-de-sagnier-en-barcelona.html": {
+        "added_at": 1767676888.8010423,
+        "id": 1955892804
+    },
+    "https://elpais.com/eps/2026-01-06/nicolas-di-felice-director-creativo-de-courreges-se-atreve-a-utilizar-la-moda-como-expresion.html": {
+        "added_at": 1767676890.4774292,
+        "id": 1955892819
+    },
+    "https://elpais.com/gastronomia/2026-01-05/las-controvertidas-brochetas-de-ballena-a-la-parrilla-de-islandia.html": {
+        "added_at": 1767676892.574198,
+        "id": 1955892830
+    },
+    "https://elpais.com/gastronomia/2026-01-05/ocho-restaurantes-para-entrar-en-calor-con-buenos-platos-de-cuchara.html": {
+        "added_at": 1767676894.504724,
+        "id": 1955892841
+    },
+    "https://elpais.com/deportes/2026-01-06/china-se-abre-paso-y-aumenta-su-huella-en-el-rally-dakar.html": {
+        "added_at": 1767676895.6558666,
+        "id": 1955892852
+    },
+    "https://elpais.com/deportes/baloncesto/2026-01-06/el-maraton-del-baloncesto-llega-al-limite-cuatro-partidos-en-siete-dias.html": {
+        "added_at": 1767676896.819974,
+        "id": 1955892855
+    },
+    "https://elpais.com/babelia/2026-01-06/por-que-la-guerra-de-richard-overy-un-ensayo-sobre-las-respuestas-a-una-de-las-preguntas-que-han-definido-a-la-humanidad.html": {
+        "added_at": 1767676898.8412766,
+        "id": 1955892866
+    },
+    "https://elpais.com/smoda/placeres/2026-01-06/be-fernandez-me-he-criado-toda-mi-vida-pensando-que-el-arte-realmente-no-podia-ser-un-trabajo.html": {
+        "added_at": 1767676899.9869692,
+        "id": 1955892871
+    },
+    "https://elpais.com/cultura/2026-01-06/jesus-del-cerro-el-cineasta-espanol-que-rompe-la-taquilla-en-rumania.html": {
+        "added_at": 1767676901.1308517,
+        "id": 1955892880
+    },
+    "https://elpais.com/cultura/2026-01-06/beethoven-se-sube-a-la-ola-de-roblox-con-un-videojuego-adaptado-a-los-clasicos.html": {
+        "added_at": 1767676902.2732732,
+        "id": 1955892888
+    },
+    "https://elpais.com/cultura/2026-01-06/el-delibes-mas-intimo-a-traves-de-la-mirada-de-su-nieto-german.html": {
+        "added_at": 1767676903.4242127,
+        "id": 1955892894
+    },
+    "https://cincodias.elpais.com/mercados-financieros/2026-01-06/de-regalo-de-reyes-un-fondo-de-inversion-por-que-invertir-desde-pequenos-marca-la-diferencia-de-mayores.html": {
+        "added_at": 1767676905.7591512,
+        "id": 1955892907
+    },
+    "https://cincodias.elpais.com/companias/2026-01-06/plenergy-y-ballenoil-reactivan-la-batalla-de-la-gasolina-low-cost-una-estacion-de-servicio-nueva-cada-cuatro-dias.html": {
+        "added_at": 1767676907.2591617,
+        "id": 1955892912
+    },
+    "https://cincodias.elpais.com/companias/2026-01-06/telefonica-enfila-su-marcha-de-colombia-tras-la-salida-del-estado-de-coltel.html": {
+        "added_at": 1767676909.4669745,
+        "id": 1955892923
+    },
+    "https://cincodias.elpais.com/companias/2026-01-06/repsol-aguarda-el-placet-de-ee-uu-para-volver-a-exportar-petrolero-desde-venezuela.html": {
+        "added_at": 1767676910.910303,
+        "id": 1955892930
+    },
+    "https://elpais.com/economia/2026-01-06/bulgaria-estrena-euro-entre-el-entusiasmo-y-el-miedo-la-nueva-moneda-impulsara-los-negocios.html": {
+        "added_at": 1767676912.2577324,
+        "id": 1955892936
+    },
+    "https://elpais.com/clima-y-medio-ambiente/2026-01-06/luisa-neubauer-activista-contra-el-cambio-climatico-la-ecologia-no-debe-ser-un-castigo.html": {
+        "added_at": 1767676913.450271,
+        "id": 1955892941
+    },
+    "https://elpais.com/espana/2026-01-06/san-sebastian-derriba-un-complejo-de-ocio-en-desuso-para-crear-un-polo-biotecnologico-unico-en-espana.html": {
+        "added_at": 1767676915.3842556,
+        "id": 1955892947
+    },
+    "https://elpais.com/espana/madrid/2026-01-06/el-ejecutivo-que-ayuso-le-quito-a-los-empresarios.html": {
+        "added_at": 1767676916.5420065,
+        "id": 1955892952
+    },
+    "https://elpais.com/planeta-futuro/2026-01-06/alissumoye-diedhiou-una-reina-senegalesa-20-fui-victima-de-un-matrimonio-precoz-y-en-cierto-modo-forzoso.html": {
+        "added_at": 1767676918.4579153,
+        "id": 1955892964
+    },
+    "https://elpais.com/espana/2026-01-06/ciudad-sin-sueno-el-espejo-en-el-que-los-reclusos-de-valdemoro-ven-su-vida-en-una-pelicula.html": {
+        "added_at": 1767676919.6040232,
+        "id": 1955892970
+    },
+    "https://elpais.com/cultura/2026-01-06/el-cuadro-de-motherwell-que-franco-quiso-ocultar.html": {
+        "added_at": 1767676920.758476,
+        "id": 1955892973
+    },
+    "https://elpais.com/opinion/2026-01-06/peridis-mi-no-entender.html": {
+        "added_at": 1767676924.4783397,
+        "id": 1955892978
+    },
+    "https://elpais.com/opinion/2026-01-06/cual-es-el-mal-menor.html": {
+        "added_at": 1767676925.630242,
+        "id": 1955892996
+    },
+    "https://elpais.com/opinion/2026-01-06/el-roto-la-de-verdad.html": {
+        "added_at": 1767676927.0771086,
+        "id": 1955893003
+    },
+    "https://elpais.com/opinion/2026-01-06/viva-bardot.html": {
+        "added_at": 1767676928.2258422,
+        "id": 1955893010
+    },
+    "https://elpais.com/opinion/2026-01-06/palabras-sin-peso.html": {
+        "added_at": 1767676929.3661106,
+        "id": 1955893017
+    },
+    "https://elpais.com/opinion/2026-01-06/buenas-cifras-cero-complacencias.html": {
+        "added_at": 1767676930.5156975,
+        "id": 1955893027
+    },
+    "https://elpais.com/elviajero/viajes-paco-nadal/2026-01-06/islandia-uzbekistan-y-otros-destinos-que-visitaria-sin-dudar-en-2026.html": {
+        "added_at": 1767676932.4438782,
+        "id": 1955893039
+    },
+    "https://elpais.com/icon/2026-01-06/oliver-hemsley-no-quiero-definirme-como-artista-con-discapacidad-pero-si-como-artista-queer-adoro-ser-gay.html": {
+        "added_at": 1767676933.6173544,
+        "id": 1955893045
+    },
+    "https://elpais.com/gente/2026-01-06/felipe-vi-desbanca-a-alberto-de-monaco-como-el-mas-trabajador-entre-la-realeza-europea.html": {
+        "added_at": 1767676935.6231859,
+        "id": 1955893055
+    },
+    "https://elpais.com/smoda/2026-01-06/como-jacob-elordi-se-convirtio-en-un-icono-mocasines-negros-con-calcetin-blanco-para-un-tipo-de-casi-dos-metros.html": {
+        "added_at": 1767676936.7766523,
+        "id": 1955893061
+    },
+    "https://elpais.com/tecnologia/2026-01-06/los-fraudes-en-internet-registran-su-maximo-anual-por-las-vacaciones-y-las-compras-los-delincuentes-se-adaptan-a-nuestras-costumbres.html": {
+        "added_at": 1767676937.9306345,
+        "id": 1955893064
+    },
+    "https://elpais.com/internacional/2026-01-06/ucrania-celebra-la-caida-de-maduro-pero-la-logica-de-poder-de-trump-beneficia-a-rusia.html": {
+        "added_at": 1767676939.8604631,
+        "id": 1955893071
+    },
+    "https://elpais.com/internacional/2026-01-06/marjorie-taylor-greene-la-lideresa-de-trump-que-le-salio-rebelde.html": {
+        "added_at": 1767676941.2260447,
+        "id": 1955893077
+    },
+    "https://elpais.com/espana/2026-01-06/villas-de-lujo-seguridad-y-servicios-el-triangulo-de-oro-de-la-costa-del-sol-sigue-batiendo-records.html": {
+        "added_at": 1767676943.1158545,
+        "id": 1955893090
+    },
+    "https://elpais.com/espana/2026-01-06/del-regreso-de-puigdemont-a-la-ley-trans-los-asuntos-que-el-constitucional-tiene-pendientes-en-2026.html": {
+        "added_at": 1767676944.2547755,
+        "id": 1955893093
+    },
+    "https://elpais.com/videos/2026-01-06/juego-en-silencio-para-ellas-y-expansion-para-ellos-como-los-juguetes-siguen-reforzando-sesgos-de-genero.html": {
+        "added_at": 1767676945.3934457,
+        "id": 1955893099
+    },
+    "https://elpais.com/gastronomia/el-comidista/2026-01-06/comida-viejuna-de-navidad-las-fotos-mas-impactantes-de-los-lectores.html": {
+        "added_at": 1767676946.7174132,
+        "id": 1955893104
+    },
+    "https://elpais.com/loteria-del-nino/2026-01-06/loteria-del-nino-cuanto-se-lleva-hacienda-en-este-sorteo-y-que-premios-tributan-este-ano.html": {
+        "added_at": 1767676948.8166893,
+        "id": 1955893118
+    },
+    "https://elpais.com/loteria-del-nino/2026-01-06/el-nino-resucita-la-polemica-de-las-papeletas-o-participaciones-de-loteria-preguntas-y-respuestas-tras-lo-sucedido-en-villamanin.html": {
+        "added_at": 1767676950.3153303,
+        "id": 1955893125
+    },
+    "https://elpais.com/tecnologia/2026-01-06/5-euros-la-entrada-asi-es-la-red-de-plataformas-y-chats-privados-que-han-permitido-la-muerte-de-un-streamer-espanol.html": {
+        "added_at": 1767676951.4631326,
+        "id": 1955893133
+    },
+    "https://elpais.com/opinion/2026-01-06/politicas-de-nuevo-orden.html": {
+        "added_at": 1767676952.6060915,
+        "id": 1955893147
+    },
+    "https://elpais.com/opinion/2026-01-06/el-chandal-de-maduro-y-el-triunfo-de-la-imagen-pobre.html": {
+        "added_at": 1767676953.7418718,
+        "id": 1955893154
+    },
+    "https://elpais.com/internacional/2026-01-06/es-mas-facil-derrocar-a-un-tirano-que-gobernar-un-pais-descabezado.html": {
+        "added_at": 1767676955.043718,
+        "id": 1955893160
+    },
+    "https://elpais.com/opinion/2026-01-06/todo-bajo-el-cielo-en-el-mandato-de-trump.html": {
+        "added_at": 1767676956.9601452,
+        "id": 1955893169
+    },
+    "https://elpais.com/espana/2026-01-06/sanchez-viaja-a-paris-molesto-con-macron-y-otros-europeos-por-su-tibieza-con-trump.html": {
+        "added_at": 1767676958.4730098,
+        "id": 1955893177
+    },
+    "https://elpais.com/espana/2026-01-06/china-la-otan-gaza-y-ahora-venezuela-un-ano-de-sanchez-saliendose-del-guion-de-trump.html": {
+        "added_at": 1767676959.6265337,
+        "id": 1955893181
+    },
+    "https://elpais.com/internacional/2026-01-06/europa-se-queda-fuera-de-juego-con-venezuela-mientras-crece-la-presion-de-trump-para-tomar-groenlandia.html": {
+        "added_at": 1767676960.8749425,
+        "id": 1955893188
+    },
+    "https://elpais.com/america-colombia/2026-01-06/colombia-de-principal-aliado-militar-de-estados-unidos-en-la-region-a-posible-objetivo.html": {
+        "added_at": 1767676962.1894472,
+        "id": 1955893195
+    },
+    "https://elpais.com/america/2026-01-06/los-cubanos-miran-a-venezuela-y-tratan-de-descifrar-el-ritmo-frenetico-que-marca-trump.html": {
+        "added_at": 1767676963.5120258,
+        "id": 1955893204
+    },
+    "https://elpais.com/internacional/2026-01-06/el-gran-botin-venezolano-un-coloso-petrolero-venido-a-menos-pero-con-millonarios-recursos-naturales.html": {
+        "added_at": 1767676964.835024,
+        "id": 1955893211
+    },
+    "https://elpais.com/america/2026-01-06/una-posible-amnistia-tiene-en-vilo-a-los-presos-politicos-venezolanos-tras-la-salida-del-poder-de-maduro.html": {
+        "added_at": 1767676966.2255745,
+        "id": 1955893218
+    },
+    "https://elpais.com/america/2026-01-06/el-ejercito-una-empresa-en-riesgo-en-la-futura-venezuela.html": {
+        "added_at": 1767676967.5063448,
+        "id": 1955893226
+    },
+    "https://elpais.com/america/2026-01-06/trump-yo-estoy-al-mando-en-venezuela.html": {
+        "added_at": 1767676972.0962162,
+        "id": 1955893262
+    },
+    "https://www.monde-diplomatique.fr/2026/01/PROLONGEAU/69157": {
+        "added_at": 1767676975.729136,
+        "id": 1955893282
+    },
+    "https://www.monde-diplomatique.fr/2026/01/HALIMI/69162": {
+        "added_at": 1767676977.7024267,
+        "id": 1955893296
+    },
+    "https://www.monde-diplomatique.fr/2026/01/GOBERT/69171": {
+        "added_at": 1767676980.0321002,
+        "id": 1955893312
     }
 }
