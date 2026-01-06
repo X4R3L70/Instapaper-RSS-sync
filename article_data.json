@@ -1,188 +1,4 @@
 {
-    "https://www.ft.com/content/19197369-2bc6-4f57-9d05-0b412fd60271": {
-        "added_at": 1767630089.4233582,
-        "id": 1955576188
-    },
-    "https://www.ft.com/content/2ca2006f-dfdd-48ce-81c3-1c851c3f3f0d": {
-        "added_at": 1767630091.546511,
-        "id": 1955576203
-    },
-    "https://www.ft.com/content/c5a9c1a1-3eb0-47e9-9e78-2df4a85a4920": {
-        "added_at": 1767630093.1260743,
-        "id": 1955576226
-    },
-    "https://www.ft.com/content/b1a59e4b-b338-468f-8aee-4b68a5152371": {
-        "added_at": 1767630095.0521426,
-        "id": 1955576247
-    },
-    "https://arstechnica.com/gaming/2026/01/ars-readers-gave-over-42000-in-our-2025-charity-drive/": {
-        "added_at": 1767630096.5916693,
-        "id": 1955576267
-    },
-    "https://github.com/MatheuZSecurity/Singularity": {
-        "added_at": 1767630098.3199112,
-        "id": 1955576287
-    },
-    "https://fabiensanglard.net/sf2_warrier/": {
-        "added_at": 1767630100.1545472,
-        "id": 1955576308
-    },
-    "https://idiallo.com/blog/all-ai-videos-are-harmful": {
-        "added_at": 1767630101.5650191,
-        "id": 1955576317
-    },
-    "https://news.ycombinator.com/item?id=46499976": {
-        "added_at": 1767630103.038149,
-        "id": 1955576329
-    },
-    "https://scottsumner.substack.com/p/imagine-130000000-washing-machines": {
-        "added_at": 1767630104.471663,
-        "id": 1955576345
-    },
-    "https://apmcommunication.com/scenario/backchannel-vp": {
-        "added_at": 1767630106.3811488,
-        "id": 1955576363
-    },
-    "https://idiallo.com/blog/learn-css": {
-        "added_at": 1767630107.7701979,
-        "id": 1955576378
-    },
-    "https://donotnotify.com/": {
-        "added_at": 1767630109.1373801,
-        "id": 1955576391
-    },
-    "https://elpais.com/babelia/2026-01-03/del-heroe-colectivo-al-salvador-individual-1976-fue-el-ano-clave-de-la-transicion.html": {
-        "added_at": 1767630111.7416375,
-        "id": 1955576414
-    },
-    "https://elpais.com/deportes/baloncesto/2026-01-04/el-barca-da-un-golpe-sobre-la-mesa-en-el-clasico-ante-el-madrid.html": {
-        "added_at": 1767630114.0930753,
-        "id": 1955576429
-    },
-    "https://elpais.com/espana/2026-01-04/condenado-a-un-ano-de-carcel-un-ultraderechista-por-el-ciberataque-a-la-web-del-psoe-en-plena-ola-de-protestas-ante-ferraz.html": {
-        "added_at": 1767630115.4623008,
-        "id": 1955576436
-    },
-    "https://elpais.com/deportes/futbol/2026-01-05/ano-nuevo-y-el-valencia-sigue-igual-agonizando-y-a-la-deriva.html": {
-        "added_at": 1767630116.8768396,
-        "id": 1955576444
-    },
-    "https://elpais.com/espana/2026-01-05/el-pp-crea-una-nueva-comision-de-investigacion-en-el-senado-esta-vez-sobre-la-sepi.html": {
-        "added_at": 1767630118.2470844,
-        "id": 1955576458
-    },
-    "https://elpais.com/internacional/2026-01-05/bruselas-reclama-una-transicion-democratica-en-venezuela-que-cuente-con-los-lideres-de-la-oposicion.html": {
-        "added_at": 1767630119.701243,
-        "id": 1955576467
-    },
-    "https://elpais.com/videos/2026-01-05/asi-ha-sido-el-traslado-de-nicolas-maduro-de-la-carcel-al-tribunal-federal-de-nueva-york-donde-comparecera-ante-el-juez.html": {
-        "added_at": 1767630121.10045,
-        "id": 1955576471
-    },
-    "https://www.monde-diplomatique.fr/2026/01/JULIEN_THOMAS/69174": {
-        "added_at": 1767630124.07457,
-        "id": 1955576489
-    },
-    "https://www.franceinfo.fr/monde/proche-orient/yemen/plus-de-400-touristes-bloques-sur-l-ile-de-socotra-au-yemen-apres-l-annulation-de-leurs-vols_7722025.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767633486.3306997,
-        "id": 1955602220
-    },
-    "https://www.bfmtv.com/economie/entreprises/agriculture/avocats-mangues-goyaves-le-gouvernement-peut-il-interdire-les-importations-de-fruits-et-legumes-sud-americains-traites-avec-des-pesticides-interdits_AD-202601050679.html": {
-        "added_at": 1767633488.0196629,
-        "id": 1955602232
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-bullshitometre-or-le-venezuela-possede-les-plus-grosses-reserves-d-amerique-latine-faux-repond-benjamin-louvet-05-01_VN-202601050687.html": {
-        "added_at": 1767633489.5231733,
-        "id": 1955602242
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/bullshitometre-or-le-venezuela-possede-les-plus-grosses-reserves-d-amerique-latine-faux-repond-benjamin-louvet-05-01_EN-202601050684.html": {
-        "added_at": 1767633490.7961786,
-        "id": 1955602253
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/le-club-le-consensus-optimiste-pour-2026-bon-cygne-05-01_EN-202601050690.html": {
-        "added_at": 1767633492.3456461,
-        "id": 1955602262
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-le-club-le-consensus-optimiste-pour-2026-bon-cygne-05-01_VN-202601050693.html": {
-        "added_at": 1767633493.843129,
-        "id": 1955602274
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-on-refait-la-seance-maurel-et-prom-en-forte-hausse-espoirs-d-un-retour-au-venezuela-05-01_VN-202601050702.html": {
-        "added_at": 1767633495.2348473,
-        "id": 1955602283
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/on-refait-la-seance-maurel-et-prom-en-forte-hausse-espoirs-d-un-retour-au-venezuela-05-01_EN-202601050705.html": {
-        "added_at": 1767633497.1807516,
-        "id": 1955602303
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/bfm-bourse-17h-18h-05-01_EN-202601050707.html": {
-        "added_at": 1767633498.8743942,
-        "id": 1955602320
-    },
-    "https://www.ft.com/content/bbc48f15-d2e3-4607-93ab-ffab910550d1": {
-        "added_at": 1767633501.2253392,
-        "id": 1955602344
-    },
-    "https://www.ft.com/content/64878053-4ac6-47a1-ae37-d1092eadb730": {
-        "added_at": 1767633503.1257136,
-        "id": 1955602357
-    },
-    "https://www.ft.com/content/4a21608d-363c-467c-9698-b6c083715493": {
-        "added_at": 1767633504.963434,
-        "id": 1955602374
-    },
-    "https://www.ft.com/content/9403c523-b618-493e-85f9-441d433f47b3": {
-        "added_at": 1767633506.115498,
-        "id": 1955602380
-    },
-    "https://www.ft.com/content/26285fba-dcb9-40f8-a209-c916784603f7": {
-        "added_at": 1767633508.0541468,
-        "id": 1955602390
-    },
-    "https://www.ft.com/content/9928fede-e1cc-4361-9b47-787b0f2a0a05": {
-        "added_at": 1767633509.766768,
-        "id": 1955602405
-    },
-    "https://www.bbc.com/news/articles/c4g0zg974v1o": {
-        "added_at": 1767633511.1426086,
-        "id": 1955602423
-    },
-    "https://news.ycombinator.com/item?id=46500806": {
-        "added_at": 1767633512.3190465,
-        "id": 1955602431
-    },
-    "https://candost.blog/the-unbearable-joy-of-sitting-alone-in-a-cafe/": {
-        "added_at": 1767633513.4644248,
-        "id": 1955602441
-    },
-    "https://addyosmani.com/blog/21-lessons/": {
-        "added_at": 1767633515.6349127,
-        "id": 1955602465
-    },
-    "https://arstechnica.com/tech-policy/2025/12/openai-refuses-to-say-where-chatgpt-logs-go-when-users-die/": {
-        "added_at": 1767633516.8306334,
-        "id": 1955602473
-    },
-    "https://github.com/Adversis/tailsnitch": {
-        "added_at": 1767633517.985965,
-        "id": 1955602481
-    },
-    "https://elpais.com/deportes/futbol/2026-01-04/luis-castro-se-estrena-en-el-levante-con-un-triunfo-ante-un-pobre-sevilla.html": {
-        "added_at": 1767633522.671954,
-        "id": 1955602511
-    },
-    "https://elpais.com/gente/2026-01-05/eddie-murphy-explica-por-que-abandono-los-oscar-de-2007-habia-perdido-y-la-gente-no-dejaba-de-acercarse-a-mi-y-darme-palmaditas.html": {
-        "added_at": 1767633524.0763562,
-        "id": 1955602522
-    },
-    "https://elpais.com/ciencia/2026-01-05/un-nuevo-analisis-permite-detectar-el-alzheimer-a-partir-de-un-pinchazo-en-el-dedo.html": {
-        "added_at": 1767633525.2359712,
-        "id": 1955602534
-    },
-    "https://elpais.com/espana/2026-01-05/dos-mensajes-es-alert-en-malaga-el-miedo-a-que-el-guadalhorce-se-desborde-de-nuevo.html": {
-        "added_at": 1767633526.659263,
-        "id": 1955602544
-    },
     "https://www.franceinfo.fr/sante/maladie/avec-brain-health-samsung-veut-diagnostiquer-le-declin-du-cerveau-avant-tout-le-monde_7722040.html#xtor=RSS-3-[lestitres]": {
         "added_at": 1767637473.5164006,
         "id": 1955632442
@@ -2590,5 +2406,149 @@
     "https://elpais.com/internacional/2026-01-06/zelenski-vuelve-a-poner-patas-arriba-la-cupula-de-poder-en-ucrania.html": {
         "added_at": 1767716485.5022087,
         "id": 1956159246
+    },
+    "https://www.franceinfo.fr/culture/jouets/capteurs-led-sons-en-temps-reel-lego-lance-les-smart-bricks-des-briques-d-un-nouveau-genre_7723873.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767719959.8741457,
+        "id": 1956186117
+    },
+    "https://www.franceinfo.fr/monde/venezuela/attaque-americaine-sur-le-venezuela/maria-corina-machado-cheffe-de-l-opposition-venezuelienne-dit-vouloir-partager-son-prix-nobel-de-la-paix-avec-donald-trump_7724356.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767719961.6923864,
+        "id": 1956186127
+    },
+    "https://www.franceinfo.fr/france/nouvelle-aquitaine/creuse/la-maire-de-gueret-compte-porter-plainte-apres-la-diffusion-d-images-trompeuses-generees-par-ia_7724302.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767719963.3022316,
+        "id": 1956186139
+    },
+    "https://www.franceinfo.fr/culture/fabrication-humaine-est-le-nouveau-fait-maison-james-cameron-rosalia-intermarche-quand-l-art-entre-en-resistance-face-a-l-intelligence-artificielle_7683427.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767719965.1828027,
+        "id": 1956186160
+    },
+    "https://www.franceinfo.fr/environnement/meteo/neige/neige-et-verglas-face-aux-critiques-meteo-france-a-prevenu-des-intemperies-des-samedi-et-rappelle-la-complexite-de-prevoir-ce-type-de-phenomene_7724110.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767719967.3430579,
+        "id": 1956186180
+    },
+    "https://www.franceinfo.fr/environnement/meteo/neige/neige-et-verglas-quels-moyens-et-quels-investissements-sur-les-routes-francaises_7724089.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767719968.9053965,
+        "id": 1956186190
+    },
+    "https://www.bfmtv.com/economie/entreprises/agriculture/l-italie-a-t-elle-monnaye-son-accord-au-traite-avec-le-mercosur-giorgia-meloni-se-felicite-en-tout-cas-de-la-rallonge-de-45-milliards-d-euros-promise-par-bruxelles-aux-agriculteurs-de-l-ue_AV-202601060683.html": {
+        "added_at": 1767719970.519788,
+        "id": 1956186206
+    },
+    "https://www.bfmtv.com/economie/video-l-ue-et-les-usa-sont-ils-dans-le-meme-camp_VN-202601060684.html": {
+        "added_at": 1767719971.9116635,
+        "id": 1956186214
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-la-data-room-13-la-hausse-des-profits-des-entreprises-europeennes-attendue-en-2026-par-le-consensus-06-01_VN-202601060701.html": {
+        "added_at": 1767719973.3331254,
+        "id": 1956186219
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/la-data-room-13-la-hausse-des-profits-des-entreprises-europeennes-attendue-en-2026-par-le-consensus-06-01_EN-202601060702.html": {
+        "added_at": 1767719974.5670383,
+        "id": 1956186228
+    },
+    "https://www.bfmtv.com/economie/entreprises/agriculture/le-fruit-de-plus-de-15-ans-de-combat-la-retraite-des-agriculteurs-est-desormais-calculee-sur-leurs-25-meilleures-annees-comme-les-salaries-du-prive_AD-202601060700.html": {
+        "added_at": 1767719980.1591723,
+        "id": 1956186267
+    },
+    "https://www.bfmtv.com/economie/entreprises/le-concepteur-des-c-urs-artificiels-carmat-annonce-sa-liquidation-judiciaire-et-sa-cotation-va-sortir-de-la-bourse_AV-202601060705.html": {
+        "added_at": 1767719981.4097946,
+        "id": 1956186279
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-on-refait-la-seance-valeurs-les-paris-pour-2026-06-01_VN-202601060711.html": {
+        "added_at": 1767719982.8172655,
+        "id": 1956186291
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/on-refait-la-seance-valeurs-les-paris-pour-2026-06-01_EN-202601060707.html": {
+        "added_at": 1767719984.0573986,
+        "id": 1956186303
+    },
+    "https://www.bfmtv.com/economie/video-13-de-hausse-de-profit-pour-les-entreprises-europeennes-en-2026_VN-202601060710.html": {
+        "added_at": 1767719985.4581945,
+        "id": 1956186314
+    },
+    "https://www.ft.com/content/5ac7887e-9c29-4e21-9242-5a9e263156c5": {
+        "added_at": 1767719987.7417781,
+        "id": 1956186326
+    },
+    "https://www.ft.com/content/b5f1a43a-a290-49a4-9b51-d9db9568d47b": {
+        "added_at": 1767719989.6045048,
+        "id": 1956186341
+    },
+    "https://www.ft.com/content/ad3f6902-042e-4ed2-8b5c-2441cfab8b9f": {
+        "added_at": 1767719991.3365455,
+        "id": 1956186357
+    },
+    "https://arstechnica.com/cars/2026/01/mercedes-teaches-its-driver-assist-how-to-handle-surface-streets/": {
+        "added_at": 1767719992.9663558,
+        "id": 1955550946
+    },
+    "https://arstechnica.com/tech-policy/2026/01/orsted-seeks-injunction-against-us-government-over-project-freeze/": {
+        "added_at": 1767719994.1364212,
+        "id": 1956186377
+    },
+    "https://www.tomshardware.com/raspberry-pi/raspberry-pi-and-mini-pc-home-lab-prices-hit-parity-as-dram-costs-skyrocket-price-hikes-force-hobbyists-to-weigh-up-performance-versus-power-consumption": {
+        "added_at": 1767719995.683727,
+        "id": 1956186391
+    },
+    "https://carette.xyz/posts/focus_will_be_the_skill_of_the_future/": {
+        "added_at": 1767719996.8367336,
+        "id": 1956186397
+    },
+    "https://www.caranddriver.com/news/a69916699/volkswagen-interior-physical-buttons-return/": {
+        "added_at": 1767719997.9964402,
+        "id": 1956186407
+    },
+    "https://box86.org/2026/01/new-box64-v0-4-0-released/": {
+        "added_at": 1767719999.1404,
+        "id": 1956186411
+    },
+    "https://medium.com/@cristi.baluta/i-wanted-a-camera-that-doesnt-exist-so-i-built-it-5f9864533eb7": {
+        "added_at": 1767720000.4339437,
+        "id": 1956186423
+    },
+    "https://jellyfin.org/posts/state-of-the-fin-2026-01-06/": {
+        "added_at": 1767720002.0307162,
+        "id": 1956186429
+    },
+    "https://akr.am/blog/posts/why-is-the-gmail-app-700-mb": {
+        "added_at": 1767720008.6675968,
+        "id": 1956186477
+    },
+    "https://saigoneer.com/vietnam-news/28652-vienam-bans-unskippable-ads,-requires-skip-button-to-appear-after-5-seconds": {
+        "added_at": 1767720009.8149035,
+        "id": 1956186490
+    },
+    "https://elpais.com/deportes/futbol/2026-01-06/el-chelsea-ficha-a-rosenior-un-entrenador-sin-experiencia-hasta-2032.html": {
+        "added_at": 1767720013.34005,
+        "id": 1956186515
+    },
+    "https://elpais.com/deportes/futbol/2026-01-06/la-federacion-negocia-llevar-a-qatar-la-supercopa-2027.html": {
+        "added_at": 1767720014.4872255,
+        "id": 1956186525
+    },
+    "https://elpais.com/opinion/2026-01-06/flavita-banana-el-secreto.html": {
+        "added_at": 1767720015.758923,
+        "id": 1956186534
+    },
+    "https://elpais.com/opinion/2026-01-06/el-chandal-gris-de-maduro.html": {
+        "added_at": 1767720017.0802896,
+        "id": 1956186542
+    },
+    "https://elpais.com/opinion/2026-01-06/el-horror-tras-las-bombas-en-gaza.html": {
+        "added_at": 1767720018.4451318,
+        "id": 1956186554
+    },
+    "https://elpais.com/sociedad/2026-01-06/investigan-la-muerte-de-una-pareja-en-un-posible-caso-de-violencia-machista-en-las-palmas.html": {
+        "added_at": 1767720019.6003253,
+        "id": 1956186564
+    },
+    "https://elpais.com/loteria-del-nino/2026-01-06/un-viaje-de-fin-de-curso-millones-en-el-corazon-de-la-dana-y-un-decimo-nocturno-en-un-sorteo-del-nino-muy-repartido.html": {
+        "added_at": 1767720021.0537887,
+        "id": 1956186579
+    },
+    "https://www.monde-diplomatique.fr/2026/01/BREVILLE/69172": {
+        "added_at": 1767720024.828075,
+        "id": 1955551075
     }
 }
