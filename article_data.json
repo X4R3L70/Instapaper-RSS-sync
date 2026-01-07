@@ -1,92 +1,4 @@
 {
-    "https://www.ft.com/content/ec1c8831-9e1c-449a-9130-5f99b971adbe": {
-        "added_at": 1767662008.2614968,
-        "id": 1955816474
-    },
-    "https://www.ft.com/content/fb7b8ca7-ff29-4d95-b082-072eaff8463b": {
-        "added_at": 1767662010.1703327,
-        "id": 1955816484
-    },
-    "https://www.ft.com/content/574fb50d-e26c-4d20-ba7a-99e9831f292c": {
-        "added_at": 1767662011.4709778,
-        "id": 1955816490
-    },
-    "https://www.ft.com/content/9da7c27e-adcd-4c29-841c-e8df170e2cbc": {
-        "added_at": 1767662013.3006983,
-        "id": 1955816504
-    },
-    "https://www.ft.com/content/56d01b95-86b4-4fc7-ac21-b08e2471cf85": {
-        "added_at": 1767662014.5073488,
-        "id": 1955816511
-    },
-    "https://www.ft.com/content/16eb686b-665d-419a-a30c-584abad5c75c": {
-        "added_at": 1767662016.8040378,
-        "id": 1955816519
-    },
-    "https://www.ft.com/content/bb9ce469-07bd-44c8-8061-b0ae4d07829d": {
-        "added_at": 1767662019.8396022,
-        "id": 1955816534
-    },
-    "https://www.ft.com/content/cc952ff3-82ad-4d4f-8df9-f5f8b417037e": {
-        "added_at": 1767662021.6440196,
-        "id": 1955816546
-    },
-    "https://www.ft.com/content/f2dda545-8a2a-4247-8886-ff463ffeecc8": {
-        "added_at": 1767662023.548592,
-        "id": 1955816561
-    },
-    "https://www.ft.com/content/485dbe8d-2fbe-4086-9b36-8d9f0fca2401": {
-        "added_at": 1767662025.2835207,
-        "id": 1955816575
-    },
-    "https://www.ft.com/content/72a5d97f-e09f-4d3e-bbe6-2cb1acfae9ac": {
-        "added_at": 1767662027.1687078,
-        "id": 1955816590
-    },
-    "https://www.ft.com/content/74be0d45-c755-48dd-af1d-6d4c8f297747": {
-        "added_at": 1767662028.3675618,
-        "id": 1955816596
-    },
-    "https://arstechnica.com/space/2026/01/spacex-begins-significant-reconfiguration-of-starlink-satellite-constellation/": {
-        "added_at": 1767662030.195108,
-        "id": 1955816610
-    },
-    "https://cweagans.net/2025/12/announcing-n8n-oidc/": {
-        "added_at": 1767662031.6290534,
-        "id": 1955816620
-    },
-    "https://www.deobald.ca/essays/2026-01-01-localfirst-you-keep-using-that-word/": {
-        "added_at": 1767662032.833054,
-        "id": 1955816627
-    },
-    "https://www.ufv.ca/media/faculty/gregschlitt/information/WhatToDoWhenTrisectorComes.pdf": {
-        "added_at": 1767662034.0311558,
-        "id": 1955816633
-    },
-    "https://stoppels.ch/2022/11/27/io-is-no-longer-the-bottleneck.html": {
-        "added_at": 1767662035.2296383,
-        "id": 1955816636
-    },
-    "https://www.djmurphy.net/blog/clo-gaelach/": {
-        "added_at": 1767662036.429275,
-        "id": 1955816642
-    },
-    "https://www.thecanary.co/skwawkbox/2026/01/04/power-ranger-deletes-dating-site/": {
-        "added_at": 1767662037.6222255,
-        "id": 1955816649
-    },
-    "https://strange.website/": {
-        "added_at": 1767662038.8992436,
-        "id": 1955816654
-    },
-    "https://www.koreaherald.com/article/10648326": {
-        "added_at": 1767662040.1156592,
-        "id": 1955816658
-    },
-    "https://elpais.com/deportes/futbol/2026-01-04/un-empate-en-anoeta-que-descabalga-al-atletico-de-la-liga.html": {
-        "added_at": 1767662042.4928722,
-        "id": 1955816672
-    },
     "https://www.ft.com/content/d3f3bc66-b920-4ccc-be81-1d83ee0bdcf1": {
         "added_at": 1767669876.3978493,
         "id": 1955857336
@@ -2498,5 +2410,105 @@
     "https://www.monde-diplomatique.fr/2026/01/LIEVEN/69165": {
         "added_at": 1767741367.9908454,
         "id": 1955748355
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/usa-today-qualcomm-se-lance-dans-les-robots-humanoides-nvidia-affirme-la-puissance-de-sa-nouvelle-puce-par-karen-georges-06-01_EN-202601060853.html": {
+        "added_at": 1767748436.2228363,
+        "id": 1956374868
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/delphine-arnaud-le-depart-de-maduro-est-un-vrai-coup-dur-pour-la-chine-06-01_EN-202601060854.html": {
+        "added_at": 1767748438.1075785,
+        "id": 1956374873
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/culture-bourse-pourriez-vous-m-indiquer-si-le-titre-forsee-power-a-du-potentiel-si-oui-lequel-par-antoine-larigaudrie-06-12_EN-202601070066.html": {
+        "added_at": 1767748439.5889676,
+        "id": 1956374884
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/nexans-chute-report-d-un-projet-majeur-en-mediterranee-06-01_EN-202601070067.html": {
+        "added_at": 1767748441.2507625,
+        "id": 1956374889
+    },
+    "https://www.ft.com/content/985ae542-1ab4-491e-8e6e-b30f6a3ab666": {
+        "added_at": 1767748443.051017,
+        "id": 1956374896
+    },
+    "https://www.ft.com/content/724c2910-76f2-45d7-8f2e-0ac5c82a5ad2": {
+        "added_at": 1767748444.7862027,
+        "id": 1956374903
+    },
+    "https://www.ft.com/content/a4ab08bd-bf8f-4f73-a7b6-d126703c796f": {
+        "added_at": 1767748446.7278736,
+        "id": 1956374919
+    },
+    "https://www.ft.com/content/0043a98e-0823-4fda-a484-9f403fde9dd8": {
+        "added_at": 1767748448.9956176,
+        "id": 1956374931
+    },
+    "https://www.ft.com/content/86e26122-b14b-4e55-919d-606f22b566b2": {
+        "added_at": 1767748450.990994,
+        "id": 1956374942
+    },
+    "https://www.ft.com/content/9090ef74-d446-4add-b928-cfd04bf6fe2d": {
+        "added_at": 1767748453.353579,
+        "id": 1956374951
+    },
+    "https://www.ft.com/content/377f8d5c-e9a2-42a5-99bd-41393bca8033": {
+        "added_at": 1767748455.913932,
+        "id": 1956374965
+    },
+    "https://www.ft.com/content/e2ab91ec-47be-49d3-8c1a-9adc0cfb9a6f": {
+        "added_at": 1767748457.309433,
+        "id": 1956374972
+    },
+    "https://arstechnica.com/tech-policy/2026/01/data-broker-hoarding-is-rampant-new-law-lets-consumers-fight-back/": {
+        "added_at": 1767748459.4431655,
+        "id": 1955772322
+    },
+    "https://arstechnica.com/health/2026/01/under-anti-vaccine-rfk-jr-cdc-slashes-childhood-vaccine-schedule/": {
+        "added_at": 1767748461.1817267,
+        "id": 1955772331
+    },
+    "https://arstechnica.com/space/2026/01/nasas-science-budget-wont-be-a-train-wreck-after-all/": {
+        "added_at": 1767748462.616842,
+        "id": 1955772338
+    },
+    "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adsr.202500124": {
+        "added_at": 1767748464.5075395,
+        "id": 1956375018
+    },
+    "https://priyatham.in/en/post/hosting-dmca/": {
+        "added_at": 1767748465.8671877,
+        "id": 1956375027
+    },
+    "https://www.danielbrendel.com/blog/24-are-we-tired-of-social-media-once-and-for-all": {
+        "added_at": 1767748467.2360828,
+        "id": 1956375033
+    },
+    "https://nastystereo.com/security/ruby-pack.html": {
+        "added_at": 1767748468.604036,
+        "id": 1956375040
+    },
+    "https://stonetools.ghost.io/xper-c64/": {
+        "added_at": 1767748470.0268576,
+        "id": 1956375051
+    },
+    "https://hecate.pink/blog/2026/trans-flag-emoji/": {
+        "added_at": 1767748471.614448,
+        "id": 1956375056
+    },
+    "https://backalleycoder.com/posts/passseeds-an-experiment-in-hijacking-passkeys-to-unlock-cryptographic-use-cases/": {
+        "added_at": 1767748472.9892774,
+        "id": 1956375065
+    },
+    "https://www.youtube.com/watch?v=9e0SQn9uUlw": {
+        "added_at": 1767748474.3695805,
+        "id": 1956375079
+    },
+    "https://elpais.com/america/2026-01-05/campesinos-maestros-y-mineros-protestan-en-bolivia-contra-la-eliminacion-de-las-subvenciones-a-la-gasolina.html": {
+        "added_at": 1767748476.314424,
+        "id": 1955772493
+    },
+    "https://elpais.com/internacional/2026-01-07/trump-asegura-que-venezuela-le-entregara-hasta-50-millones-de-barriles-de-petroleo.html": {
+        "added_at": 1767748478.215582,
+        "id": 1956375107
     }
 }
