@@ -1,28 +1,4 @@
 {
-    "https://www.ft.com/content/d3f3bc66-b920-4ccc-be81-1d83ee0bdcf1": {
-        "added_at": 1767669876.3978493,
-        "id": 1955857336
-    },
-    "https://www.ft.com/content/9d53fc43-6352-4ee5-891e-c067d00305ba": {
-        "added_at": 1767669877.848526,
-        "id": 1955857346
-    },
-    "https://www.playshadowlight.com/": {
-        "added_at": 1767669879.7251313,
-        "id": 1955857358
-    },
-    "https://onukura.github.io/oss-sustain-guard/": {
-        "added_at": 1767669881.2097692,
-        "id": 1955857370
-    },
-    "https://www.sfgate.com/centralcoast/article/rare-deep-sea-fish-spotted-monterey-bay-21270815.php": {
-        "added_at": 1767669882.7206538,
-        "id": 1955857382
-    },
-    "https://gwern.net/doc/science/2025-kusumegi.pdf": {
-        "added_at": 1767669884.1081731,
-        "id": 1955857390
-    },
     "https://arstechnica.com/science/2026/01/researchers-spot-saturn-sized-planet-in-the-einstein-desert/": {
         "added_at": 1767674108.5980546,
         "id": 1955878424
@@ -2510,5 +2486,37 @@
     "https://elpais.com/internacional/2026-01-07/trump-asegura-que-venezuela-le-entregara-hasta-50-millones-de-barriles-de-petroleo.html": {
         "added_at": 1767748478.215582,
         "id": 1956375107
+    },
+    "https://www.ft.com/content/62f8f2c5-95c7-4437-b0f1-b8ecd507c330": {
+        "added_at": 1767756288.3832774,
+        "id": 1956415275
+    },
+    "https://www.ft.com/content/ac0693d0-80c0-4b6d-9fef-3f7e1d24b1da": {
+        "added_at": 1767756290.2428634,
+        "id": 1956415286
+    },
+    "https://arstechnica.com/gadgets/2026/01/motorola-reveals-the-razr-fold-a-book-style-foldable-launching-this-summer/": {
+        "added_at": 1767756291.7864645,
+        "id": 1956415297
+    },
+    "https://remy.wang/blog/ya-fast.html": {
+        "added_at": 1767756293.5851583,
+        "id": 1956415308
+    },
+    "https://blog.adafruit.com/2026/01/06/we-recreated-steve-jobss-1975-atari-horoscope-program-and-you-can-run-it/": {
+        "added_at": 1767756295.010774,
+        "id": 1956415311
+    },
+    "http://muratbuffalo.blogspot.com/2026/01/the-agentic-self-parallels-between-ai.html": {
+        "added_at": 1767756296.3630755,
+        "id": 1956415318
+    },
+    "https://block81.com/blog/why-most-websites-dont-actually-need-cookie-consent-banners": {
+        "added_at": 1767756298.117008,
+        "id": 1956415325
+    },
+    "https://jasoneckert.github.io/myblog/how-microsoft-killed-my-snapdragon-devkit/": {
+        "added_at": 1767756300.5297008,
+        "id": 1956415335
     }
 }
