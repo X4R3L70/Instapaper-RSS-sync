@@ -1,80 +1,4 @@
 {
-    "https://www.franceinfo.fr/faits-divers/meurtres/enquete-sur-le-meurtre-de-gilbert-gaudry-une-expertise-graphologique-accable-un-peu-plus-le-principal-suspect_7724512.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767734160.0058348,
-        "id": 1956287594
-    },
-    "https://www.franceinfo.fr/monde/europe/allemagne/a-berlin-une-panne-d-electricite-geante-paralyse-toujours-une-partie-de-la-ville-pas-de-retour-a-la-normale-avant-jeudi_7724377.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767734162.0044222,
-        "id": 1956287608
-    },
-    "https://www.franceinfo.fr/monde/europe/allemagne/coupure-d-electricite-a-berlin-le-parquet-allemand-enquete-pour-terrorisme-et-sabotage_7724395.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767734164.1509082,
-        "id": 1956287615
-    },
-    "https://www.franceinfo.fr/monde/groenland/emmanuel-macron-n-imagine-pas-les-etats-unis-violer-la-souverainete-danoise-au-groenland_7724581.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767734166.9909124,
-        "id": 1956287641
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-crypto-le-club/bfm-crypto-le-club-fuite-de-donnees-chez-un-partenaire-de-ledger-06-01_EN-202601060778.html": {
-        "added_at": 1767734168.7675016,
-        "id": 1956287654
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-crypto-le-club/video-bfm-crypto-le-club-fuite-de-donnees-chez-un-partenaire-de-ledger-06-01_VN-202601060784.html": {
-        "added_at": 1767734171.1973171,
-        "id": 1956287670
-    },
-    "https://arstechnica.com/tech-policy/2026/01/x-blames-users-for-grok-generated-csam-no-fixes-announced/": {
-        "added_at": 1767734173.507951,
-        "id": 1955660557
-    },
-    "https://arstechnica.com/google/2026/01/gemini-expands-on-google-tv-bringing-nano-banana-and-veo-models-to-your-tv/": {
-        "added_at": 1767734175.1237106,
-        "id": 1955660563
-    },
-    "https://phrack.org/issues/71/17": {
-        "added_at": 1767734176.6977794,
-        "id": 1956287703
-    },
-    "https://www.llmgame.ai": {
-        "added_at": 1767734178.0768785,
-        "id": 1956287714
-    },
-    "https://textonly.github.io/git-prime/": {
-        "added_at": 1767734179.3304143,
-        "id": 1956287723
-    },
-    "https://layandreas.github.io/personal-blog/posts/how-spotify-made-me-self-host/": {
-        "added_at": 1767734180.5794067,
-        "id": 1956287732
-    },
-    "https://elpais.com/deportes/futbol/2026-01-05/noche-de-reyes-en-yeda.html": {
-        "added_at": 1767734184.5041645,
-        "id": 1955660624
-    },
-    "https://elpais.com/sorteos/2026-01-06/euromillones-sorteo-del-martes-6-de-enero.html": {
-        "added_at": 1767734186.0483694,
-        "id": 1956287762
-    },
-    "https://elpais.com/america/2026-01-06/el-expresidente-bolsonaro-sufre-heridas-leves-al-caerse-de-la-cama-en-la-celda-por-una-convulsion.html": {
-        "added_at": 1767734188.0934992,
-        "id": 1956287773
-    },
-    "https://elpais.com/internacional/2026-01-06/trump-asegura-que-si-pierde-las-elecciones-de-mitad-de-mandato-buscaran-una-excusa-para-destituirle.html": {
-        "added_at": 1767734189.4896998,
-        "id": 1956287783
-    },
-    "https://www.franceinfo.fr/economie/industrie/arcelormittal-signe-avec-edf-un-contrat-d-approvisionnement-d-electricite-nucleaire-sur-18-ans_7724608.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767737746.973889,
-        "id": 1956311169
-    },
-    "https://www.franceinfo.fr/environnement/meteo/neige/vague-de-froid-la-france-produit-assez-d-electricite-pour-couvrir-la-demande-selon-rte_7724584.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767737748.7351792,
-        "id": 1956311186
-    },
-    "https://www.franceinfo.fr/environnement/meteo/neige/neige-et-verglas-38-departements-sont-places-en-vigilance-orange-mercredi_7724593.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767737750.1500034,
-        "id": 1956311201
-    },
     "https://www.ft.com/content/6837f724-7e8b-43e8-914f-ef22d8358c90": {
         "added_at": 1767737751.9798584,
         "id": 1956311214
@@ -3034,5 +2958,73 @@
     "https://elpais.com/internacional/2026-01-07/ivan-cepeda-candidato-presidencial-en-colombia-la-politica-de-trump-lleva-a-la-tercera-guerra-mundial.html": {
         "added_at": 1767820536.211874,
         "id": 1956869087
+    },
+    "https://www.franceinfo.fr/sports/foot/ligue-1/match-lille-rennes-la-fff-apporte-son-total-soutien-au-journaliste-victime-de-cyberharcelement-pour-avoir-denonce-des-chants-homophobes_7726822.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767824121.901564,
+        "id": 1956893222
+    },
+    "https://www.franceinfo.fr/monde/usa/dans-le-minnesota-une-femme-a-ete-abattue-par-la-police-de-l-immigration-americaine-lors-d-une-operation_7726843.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767824124.093672,
+        "id": 1956893236
+    },
+    "https://www.franceinfo.fr/environnement/meteo/neige/neige-et-verglas-quelle-est-la-bonne-conduite-a-adopter-sur-les-routes_7726798.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767824126.0989957,
+        "id": 1956893248
+    },
+    "https://www.ft.com/content/ac518567-d901-4fae-86a3-eab54b12a81d": {
+        "added_at": 1767824128.7607229,
+        "id": 1956893269
+    },
+    "https://www.ft.com/content/2cb0d821-18f9-4f5e-a5d1-19aa1aa25bf8": {
+        "added_at": 1767824130.1530123,
+        "id": 1956893282
+    },
+    "https://www.ft.com/content/dcf1e269-70f9-40d9-92b4-e064a08976cd": {
+        "added_at": 1767824132.3226573,
+        "id": 1956893302
+    },
+    "https://ieeexplore.ieee.org/document/11280260": {
+        "added_at": 1767824134.3173697,
+        "id": 1956893317
+    },
+    "https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself": {
+        "added_at": 1767824135.7348096,
+        "id": 1956893331
+    },
+    "https://bikemap.nyc/": {
+        "added_at": 1767824137.1311843,
+        "id": 1956893338
+    },
+    "https://openai.com/index/introducing-chatgpt-health/": {
+        "added_at": 1767824138.584639,
+        "id": 1956893351
+    },
+    "https://www.newscientist.com/article/mg23931900-400-this-man-spent-months-alone-underground-and-it-warped-his-mind/": {
+        "added_at": 1767824140.1144712,
+        "id": 1956893360
+    },
+    "https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration": {
+        "added_at": 1767824141.5998833,
+        "id": 1956893373
+    },
+    "https://rodneybrooks.com/predictions-scorecard-2026-january-01/": {
+        "added_at": 1767824143.5008113,
+        "id": 1956893387
+    },
+    "https://surgehq.ai/blog/lmarena-is-a-plague-on-ai": {
+        "added_at": 1767824144.8854105,
+        "id": 1956893398
+    },
+    "https://elpais.com/quadern/literatura/2026-01-07/els-nou-llibres-dharu-emocio-i-unio-que-recorda-els-relats-de-tolstoi.html": {
+        "added_at": 1767824146.641419,
+        "id": 1956893407
+    },
+    "https://elpais.com/deportes/futbol/2026-01-07/un-barcelona-optimista-golea-al-manso-athletic-en-la-supercopa-de-espana.html": {
+        "added_at": 1767824148.0379424,
+        "id": 1956893418
+    },
+    "https://elpais.com/internacional/2026-01-07/el-plan-de-tres-fases-de-estados-unidos-para-venezuela-estabilizacion-recuperacion-y-transicion.html": {
+        "added_at": 1767824149.4196606,
+        "id": 1956893427
     }
 }
