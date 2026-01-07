@@ -1,76 +1,4 @@
 {
-    "https://arstechnica.com/science/2026/01/researchers-spot-saturn-sized-planet-in-the-einstein-desert/": {
-        "added_at": 1767674108.5980546,
-        "id": 1955878424
-    },
-    "https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/": {
-        "added_at": 1767674110.3466094,
-        "id": 1955878432
-    },
-    "https://arstechnica.com/gadgets/2026/01/amd-reheats-last-years-ryzen-ai-and-x3d-cpus-for-2026s-laptops-and-desktops/": {
-        "added_at": 1767674113.3270955,
-        "id": 1955878451
-    },
-    "https://github.com/wedow/ticket": {
-        "added_at": 1767674115.0732787,
-        "id": 1955878465
-    },
-    "https://en.sedaily.com/technology/2025/12/15/unist-develops-raindrop-powered-generator-using-carbon": {
-        "added_at": 1767674116.4620705,
-        "id": 1955878474
-    },
-    "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-gogograndparent-yc-s16-is-hiring-backend-and-full-stack-engineers": {
-        "added_at": 1767674117.9741023,
-        "id": 1955878485
-    },
-    "https://zakhary.dev/blog/gbc-web-button": {
-        "added_at": 1767674119.496385,
-        "id": 1955878493
-    },
-    "https://www.bbc.com/news/articles/cx2gn93292do": {
-        "added_at": 1767674120.9533246,
-        "id": 1955878505
-    },
-    "https://elpais.com/smoda/famosos/2026-01-04/emma-thompson-la-gran-dama-moderna-del-cine-britanico-que-se-ha-convertido-en-la-inesperada-reina-de-la-navidad.html": {
-        "added_at": 1767674122.710499,
-        "id": 1955878516
-    },
-    "https://elpais.com/television/2026-01-06/la-television-no-sera-revolucionada.html": {
-        "added_at": 1767674124.3203855,
-        "id": 1955878522
-    },
-    "https://elpais.com/internacional/2026-01-04/fallece-a-los-96-anos-eva-schloss-superviviente-de-auschwitz-y-hermanastra-de-ana-frank.html": {
-        "added_at": 1767674126.531625,
-        "id": 1955878531
-    },
-    "https://elpais.com/quadern/tendencies/2026-01-06/fem-europa-gran-altra-vegada.html": {
-        "added_at": 1767674128.062485,
-        "id": 1955878539
-    },
-    "https://elpais.com/espana/catalunya/2026-01-06/la-grieta-albiol.html": {
-        "added_at": 1767674129.7181416,
-        "id": 1955878554
-    },
-    "https://elpais.com/espana/catalunya/2026-01-06/el-frio-polar-pone-a-prueba-los-planes-de-invierno-en-cataluna-para-las-personas-sin-hogar.html": {
-        "added_at": 1767674131.381553,
-        "id": 1955878563
-    },
-    "https://elpais.com/espana/madrid/2026-01-06/madrid-sube-por-cuarta-vez-en-dos-anos-el-sueldo-de-sus-diputados-y-aumenta-las-subvenciones-a-los-partidos-pese-a-las-dudas-de-la-camara-de-cuentas.html": {
-        "added_at": 1767674132.9566844,
-        "id": 1955878569
-    },
-    "https://www.monde-diplomatique.fr/2026/01/BRUNETEAU/69166": {
-        "added_at": 1767674136.4826007,
-        "id": 1955878592
-    },
-    "https://www.monde-diplomatique.fr/2026/01/THIEBAUD/69160": {
-        "added_at": 1767674138.5766728,
-        "id": 1955878599
-    },
-    "https://www.monde-diplomatique.fr/2026/01/DAGUERRE/69156": {
-        "added_at": 1767674140.3938057,
-        "id": 1955878613
-    },
     "https://www.franceinfo.fr/faits-divers/incendie-dans-un-bar-de-crans-montana-en-suisse/incendie-de-crans-montana-ce-que-l-on-sait-des-gerants-du-bar-le-constellation-vises-par-une-enquete_7721653.html#xtor=RSS-3-[lestitres]": {
         "added_at": 1767676827.5829287,
         "id": 1955892468
@@ -2518,5 +2446,89 @@
     "https://jasoneckert.github.io/myblog/how-microsoft-killed-my-snapdragon-devkit/": {
         "added_at": 1767756300.5297008,
         "id": 1956415335
+    },
+    "https://www.ft.com/content/8e94145c-03bf-4512-945e-85083047dc71": {
+        "added_at": 1767760538.2610075,
+        "id": 1956435392
+    },
+    "https://www.ft.com/content/2f896f82-93df-416a-bcd4-9b8803a95701": {
+        "added_at": 1767760540.5486913,
+        "id": 1956435405
+    },
+    "https://www.ft.com/content/ca4be1f7-7668-4fea-9fcf-eaef0578e600": {
+        "added_at": 1767760542.2692354,
+        "id": 1956435417
+    },
+    "https://www.ft.com/content/2efc6b20-84bd-458a-9aa5-d3237b98c30e": {
+        "added_at": 1767760544.0915415,
+        "id": 1956435431
+    },
+    "https://www.ft.com/content/e139150b-d831-4f05-8774-cb2693610333": {
+        "added_at": 1767760545.9699478,
+        "id": 1956435439
+    },
+    "https://www.ft.com/content/0be1ccfe-9424-491e-8cf7-3525e57fa64a": {
+        "added_at": 1767760549.6704557,
+        "id": 1956435459
+    },
+    "https://www.ft.com/content/77d4e968-a1b1-48c3-9af4-48fcf5e1471f": {
+        "added_at": 1767760551.4407167,
+        "id": 1956435469
+    },
+    "https://www.ft.com/content/ee66a99b-d5c6-458d-b678-dc41e48caab7": {
+        "added_at": 1767760552.592114,
+        "id": 1956435475
+    },
+    "https://www.metropolitanreview.org/p/the-manifold-mind-of-saul-bellow": {
+        "added_at": 1767760553.9258099,
+        "id": 1956435478
+    },
+    "https://airmail.news/issues/2026-1-3/the-oddest-couple-in-american-literature-part-ii": {
+        "added_at": 1767760555.0844312,
+        "id": 1956435482
+    },
+    "https://www.plough.com/en/topics/community/one-hundred-years-of-gossip": {
+        "added_at": 1767760556.251967,
+        "id": 1956435492
+    },
+    "https://makeloops.online/": {
+        "added_at": 1767760557.3977623,
+        "id": 1956435499
+    },
+    "https://shreevatsa.net/post/grothendieck-approaches/": {
+        "added_at": 1767760558.545213,
+        "id": 1956435504
+    },
+    "https://vaultsandbox.com/": {
+        "added_at": 1767760560.0921328,
+        "id": 1956435513
+    },
+    "https://github.com/x011/smtp-tunnel-proxy": {
+        "added_at": 1767760561.3047302,
+        "id": 1956435517
+    },
+    "https://twitter.com/bcherny/status/2007179832300581177": {
+        "added_at": 1767760562.6848717,
+        "id": 1956435524
+    },
+    "https://www.inc.com/jessica-stillman/google-co-founder-sergey-brins-unretirement-is-a-lesson-for-the-rest-of-us/91280208": {
+        "added_at": 1767760563.9007688,
+        "id": 1956435529
+    },
+    "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5877662": {
+        "added_at": 1767760565.0426278,
+        "id": 1956435534
+    },
+    "https://elpais.com/planeta-futuro/2026-01-07/la-operacion-militar-de-estados-unidos-en-venezuela-socava-el-derecho-internacional-haciendo-que-cada-pais-sea-menos-seguro.html": {
+        "added_at": 1767760567.9554594,
+        "id": 1956435553
+    },
+    "https://elpais.com/espana/2026-01-07/el-robo-de-unas-hostias-consagradas-en-una-iglesia-de-valladolid-motivo-un-acto-de-desagravio-del-obispo-arguello-no-tocaron-nada-mas-su-objetivo-fue-el-senor.html": {
+        "added_at": 1767760570.277295,
+        "id": 1956435566
+    },
+    "https://elpais.com/espana/catalunya/2026-01-07/rindete-perro-sanxe.html-2": {
+        "added_at": 1767760571.8874147,
+        "id": 1956435575
     }
 }
