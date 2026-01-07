@@ -1,16 +1,4 @@
 {
-    "https://www.franceinfo.fr/faits-divers/incendie-dans-un-bar-de-crans-montana-en-suisse/incendie-a-crans-montana-le-parquet-de-paris-ouvre-une-enquete-pour-offrir-une-main-tendue-aux-victimes-et-a-leurs-familles_7723531.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767684098.2439024,
-        "id": 1955931516
-    },
-    "https://www.franceinfo.fr/monde/asie/la-thailande-accuse-le-cambodge-d-avoir-viole-le-cessez-le-feu-phnom-penh-evoque-une-erreur-operationnelle_7723522.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767684100.7494178,
-        "id": 1955931543
-    },
-    "https://www.franceinfo.fr/economie/consommation-bercy-veut-autoriser-les-salaries-modestes-a-retirer-2-000-euros-de-leur-plan-d-epargne-entreprise_7723546.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767684102.693061,
-        "id": 1955931559
-    },
     "https://www.franceinfo.fr/economie/crise/blocus-des-agriculteurs/dermatose-nodulaire/crise-agricole-le-point-sur-les-actions-des-agriculteurs-en-cours-ce-mardi_7723507.html#xtor=RSS-3-[lestitres]": {
         "added_at": 1767684104.9654095,
         "id": 1955931574
@@ -2586,5 +2574,101 @@
     "https://www.monde-diplomatique.fr/2026/01/GOBERT/69171": {
         "added_at": 1767767197.4302964,
         "id": 1955893312
+    },
+    "https://www.franceinfo.fr/culture/cinema/brigitte-bardot/on-a-fait-dix-heures-de-route-pour-venir-aux-funerailles-de-brigitte-bardot-ces-admirateurs-veulent-rendre-hommage-a-la-une-femme-exceptionnelle_7725730.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767770466.2842689,
+        "id": 1956491024
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/le-contre-pied/video-emmanuel-lechypre-face-a-jean-marc-daniel-la-pac-contre-le-mercosur-un-bon-deal-07-01_VN-202601070202.html": {
+        "added_at": 1767770468.024395,
+        "id": 1956491033
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/le-contre-pied/emmanuel-lechypre-face-a-jean-marc-daniel-la-pac-contre-le-mercosur-un-bon-deal-07-01_EN-202601070200.html": {
+        "added_at": 1767770469.602827,
+        "id": 1956491041
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/emmanuel-lechypre-face-a-jean-marc-daniel-la-pac-contre-le-mercosur-un-bon-deal-07-01_EN-202601070201.html": {
+        "added_at": 1767770471.1175263,
+        "id": 1956491058
+    },
+    "https://www.bfmtv.com/economie/international/donald-trump-affirme-que-le-venezuela-va-remettre-jusqu-a-50-millions-de-barils-de-petrole-aux-etats-unis_AD-202601070214.html": {
+        "added_at": 1767770472.5472693,
+        "id": 1956491065
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-trump-menace-l-iran-de-nouvelles-frappes_VN-202601070215.html": {
+        "added_at": 1767770474.021961,
+        "id": 1956491077
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-nouvelle-inquietude-au-siege-d-orange-a-marseille_VN-202601070223.html": {
+        "added_at": 1767770475.8447855,
+        "id": 1956491091
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/le-monde-qui-bouge/le-monde-qui-bouge-l-interview-l-iran-face-a-un-nouveau-mouvement-populaire-07-01_EN-202601070230.html": {
+        "added_at": 1767770477.1344082,
+        "id": 1956491104
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/le-monde-qui-bouge-l-interview-l-iran-face-a-un-nouveau-mouvement-populaire-07-01_EN-202601070231.html": {
+        "added_at": 1767770478.63308,
+        "id": 1956491114
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/le-monde-qui-bouge/video-le-monde-qui-bouge-l-interview-l-iran-face-a-un-nouveau-mouvement-populaire-07-01_VN-202601070235.html": {
+        "added_at": 1767770480.3039377,
+        "id": 1956491131
+    },
+    "https://www.bfmtv.com/economie/entreprises/agriculture/avocats-mangues-la-france-suspend-les-importations-de-produits-agricoles-traites-avec-5-substances-interdites-dans-l-ue_AD-202601070236.html": {
+        "added_at": 1767770481.6114092,
+        "id": 1956491143
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-le-marche-locatif-reste-sous-tension_VN-202601070241.html": {
+        "added_at": 1767770483.0845218,
+        "id": 1956491156
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/le-grand-entretien/charles-marinakis-president-de-century-21-france-07-01_EN-202601070239.html": {
+        "added_at": 1767770484.5948188,
+        "id": 1956491169
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/charles-marinakis-president-de-century-21-france-07-01_EN-202601070240.html": {
+        "added_at": 1767770486.0431578,
+        "id": 1956491177
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/le-grand-entretien/video-le-grand-entretien-le-marche-immobilier-est-revenu-a-l-equilibre-07-01_VN-202601070243.html": {
+        "added_at": 1767770487.5163987,
+        "id": 1956491189
+    },
+    "https://www.bfmtv.com/economie/video-edito-soldes-d-hiver-120-sur-150-des-categories-de-produits-beneficient-de-reductions_VN-202601070245.html": {
+        "added_at": 1767770489.1363063,
+        "id": 1956491205
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-la-filiere-francaise-des-petits-reacteurs-nucleaires-se-fragilise_VN-202601070262.html": {
+        "added_at": 1767770490.642829,
+        "id": 1956491210
+    },
+    "https://www.ft.com/content/15f321a6-9e3d-4776-b58f-785fcece586f": {
+        "added_at": 1767770492.5061574,
+        "id": 1956491224
+    },
+    "https://www.ft.com/content/4df56e49-16dd-411a-9e22-de782e92e418": {
+        "added_at": 1767770493.7043564,
+        "id": 1956491230
+    },
+    "https://arstechnica.com/gadgets/2026/01/intel-launches-core-ultra-series-3-cpus-made-using-its-long-awaited-18a-process/": {
+        "added_at": 1767770495.4150262,
+        "id": 1955913838
+    },
+    "https://github.com/seer-engg/seer": {
+        "added_at": 1767770496.7777858,
+        "id": 1956491249
+    },
+    "https://www.newsweek.com/eliminate-h1b-visa-program-congress-bill-marjorie-taylor-greene-11312655": {
+        "added_at": 1767770497.9959204,
+        "id": 1956491256
+    },
+    "https://www.thecodedmessage.com/posts/oop-3-inheritance/": {
+        "added_at": 1767770499.1954043,
+        "id": 1956491267
+    },
+    "https://elpais.com/escaparate/lo-mas-vendido/2026-01-06/el-loco-de-dios-en-el-fin-del-mundo-mejor-libro-2025-babelia.html": {
+        "added_at": 1767770502.1755292,
+        "id": 1955913859
     }
 }
