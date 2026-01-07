@@ -1,232 +1,4 @@
 {
-    "https://www.ft.com/content/6837f724-7e8b-43e8-914f-ef22d8358c90": {
-        "added_at": 1767737751.9798584,
-        "id": 1956311214
-    },
-    "https://www.ft.com/content/08ca8f8e-6e52-4344-9c0d-2433e98e204c": {
-        "added_at": 1767737753.5288858,
-        "id": 1956311224
-    },
-    "https://www.ft.com/content/4dbeeda4-28af-4ffc-896f-384f542fcfc1": {
-        "added_at": 1767737754.6763723,
-        "id": 1956311231
-    },
-    "https://www.ft.com/content/d662c317-6cd9-43d8-b040-4e1f1062b58d": {
-        "added_at": 1767737756.416166,
-        "id": 1956311241
-    },
-    "https://www.ft.com/content/4f702859-e071-4327-957b-56ce697df24e": {
-        "added_at": 1767737758.9629376,
-        "id": 1956311261
-    },
-    "https://www.ft.com/content/356e2222-e99d-4b12-82a3-a7d043db731c": {
-        "added_at": 1767737760.180868,
-        "id": 1956311269
-    },
-    "https://www.ft.com/content/ae4f28a0-39f9-48e6-bdf4-09321b03c236": {
-        "added_at": 1767737761.3187397,
-        "id": 1956311274
-    },
-    "https://www.ft.com/content/28485ea3-68ce-4897-8b74-b728d54b5479": {
-        "added_at": 1767737762.4680398,
-        "id": 1956311280
-    },
-    "https://www.ft.com/content/f87bde18-ffd4-4e47-a5c8-a3e2099e08f9": {
-        "added_at": 1767737763.642224,
-        "id": 1956311284
-    },
-    "https://www.ft.com/content/7059bc2d-053d-4d69-b196-07235858c983": {
-        "added_at": 1767737765.8909147,
-        "id": 1956311297
-    },
-    "https://arstechnica.com/gaming/2026/01/biowares-anthem-will-soon-be-completely-unplayable/": {
-        "added_at": 1767737767.1543148,
-        "id": 1955721928
-    },
-    "https://arstechnica.com/gadgets/2026/01/sandisk-says-goodbye-to-wd-blue-and-black-ssds-hello-to-new-optimus-drives/": {
-        "added_at": 1767737768.2940807,
-        "id": 1955721942
-    },
-    "https://arstechnica.com/gadgets/2026/01/amazon-alexa-released-to-the-general-public-via-an-early-access-website/": {
-        "added_at": 1767737769.7766612,
-        "id": 1955721960
-    },
-    "https://arstechnica.com/gadgets/2026/01/stewart-cheifet-pbs-host-who-chronicled-the-pc-revolution-dies-at-87/": {
-        "added_at": 1767737770.922676,
-        "id": 1955721972
-    },
-    "https://arstechnica.com/tech-policy/2026/01/annas-archive-loses-org-domain-says-suspension-likely-unrelated-to-spotify-piracy/": {
-        "added_at": 1767737772.3615408,
-        "id": 1955721982
-    },
-    "https://arstechnica.com/gadgets/2026/01/dells-xps-revival-is-a-welcome-reprieve-from-the-ai-pc-fad/": {
-        "added_at": 1767737773.5135343,
-        "id": 1956311357
-    },
-    "https://arstechnica.com/tech-policy/2026/01/letting-prisons-jam-contraband-phones-is-a-bad-idea-phone-companies-tell-fcc/": {
-        "added_at": 1767737774.6628594,
-        "id": 1956311368
-    },
-    "https://shoogle.dev/": {
-        "added_at": 1767737775.9078164,
-        "id": 1956311377
-    },
-    "https://abstractnonsense.xyz/blog/2025-12-31-eigenvalue-solver-in-rust-for-webassembly/": {
-        "added_at": 1767737777.0423772,
-        "id": 1956311384
-    },
-    "https://shoplurker.com/labs/newyorker-covers/": {
-        "added_at": 1767737778.183483,
-        "id": 1956311391
-    },
-    "https://www.htmhell.dev/adventcalendar/2025/11/": {
-        "added_at": 1767737779.3281457,
-        "id": 1956311399
-    },
-    "https://foundertrace.com/": {
-        "added_at": 1767737780.473224,
-        "id": 1956311407
-    },
-    "https://chipsandcheese.com/p/ces-2026-taking-the-lids-off-amds": {
-        "added_at": 1767737781.6144898,
-        "id": 1956311418
-    },
-    "https://arxiv.org/abs/2512.09882": {
-        "added_at": 1767737783.0844376,
-        "id": 1956311428
-    },
-    "https://blog.booleanbiotech.com/oral-microbiome-biogaia": {
-        "added_at": 1767737784.2284286,
-        "id": 1956311435
-    },
-    "https://elpais.com/proyecto-tendencias/2025-12-19/el-nuevo-idioma-del-poder-laboral-saber-preguntar-a-la-ia-es-mas-importante-que-usarla.html": {
-        "added_at": 1767737786.5471616,
-        "id": 1955722067
-    },
-    "https://elpais.com/proyecto-tendencias/2025-12-26/nazareth-castellanos-neurocientifica-hay-que-educar-desde-la-escuela-en-tecnicas-de-prevencion-de-la-ansiedad.html": {
-        "added_at": 1767737787.6881175,
-        "id": 1955722081
-    },
-    "https://elpais.com/icon/2025-12-21/criaturas-adorables-y-monstruos-en-el-microondas-como-gremlins-se-convirtio-en-un-inesperado-clasico-navideno.html": {
-        "added_at": 1767737789.7033613,
-        "id": 1955722087
-    },
-    "https://elpais.com/icon/2025-12-22/marc-giro-si-la-fama-me-hubiera-pillado-mas-joven-quiza-estaria-cocainomano-perdido.html": {
-        "added_at": 1767737792.759566,
-        "id": 1955722106
-    },
-    "https://elpais.com/smoda/2025-12-31/el-vestido-de-chenoa-en-las-campanadas-lentejuelas-y-escote-de-vertigo-para-un-diseno-creado-en-la-mancha.html": {
-        "added_at": 1767737794.2153132,
-        "id": 1955722121
-    },
-    "https://elpais.com/eps/2026-01-02/richard-linklater-el-cine-junto-con-el-rock-fue-una-de-las-pasiones-fundamentales-de-mi-generacion-no-se-si-sigue-siendo-igual-para-la-siguiente.html": {
-        "added_at": 1767737796.1369493,
-        "id": 1955722132
-    },
-    "https://elpais.com/sociedad/2026-01-02/el-gobierno-publica-los-criterios-para-acceder-al-grado-extremo-de-dependencia-de-la-ley-ela-y-garantiza-un-minimo-de-3200-euros-al-mes.html": {
-        "added_at": 1767737797.2727988,
-        "id": 1955722253
-    },
-    "https://elpais.com/babelia/2026-01-02/los-25-libros-mas-esperados-de-enero-de-2026.html": {
-        "added_at": 1767737798.5152688,
-        "id": 1955722263
-    },
-    "https://elpais.com/deportes/baloncesto/2026-01-06/valencia-real-madrid-y-barcelona-se-regalan-el-triunfo-el-dia-de-reyes.html": {
-        "added_at": 1767737799.6608624,
-        "id": 1956311552
-    },
-    "https://elpais.com/espana/madrid/2026-01-05/la-cabalgata-de-madrid-vista-desde-la-escalera-gigante-de-la-familia-arbizu-rodriguez.html": {
-        "added_at": 1767737801.607572,
-        "id": 1955722320
-    },
-    "https://elpais.com/cultura/2026-01-06/david-ucles-ficha-por-planeta-al-ganar-el-premio-nadal-con-una-nueva-novela-de-realismo-magico.html": {
-        "added_at": 1767737802.9674437,
-        "id": 1956311574
-    },
-    "https://www.franceinfo.fr/monde/revolte-en-syrie/la-syrie-suspend-pour-24-heures-les-vols-a-alep-theatre-d-affrontements-entre-forces-kurdes-et-gouvernementales_7724623.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767741326.0807178,
-        "id": 1956333582
-    },
-    "https://www.franceinfo.fr/monde/venezuela/attaque-americaine-sur-le-venezuela/venezuela-et-cuba-publient-les-noms-de-55-militaires-tues-lors-de-la-capture-de-nicolas-maduro_7724644.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767741328.710245,
-        "id": 1956333599
-    },
-    "https://www.franceinfo.fr/monde/groenland/menaces-de-donald-trump-sur-le-groenland-le-president-americain-etudie-plusieurs-options-y-compris-utiliser-l-armee_7724629.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767741331.7706184,
-        "id": 1956333617
-    },
-    "https://arstechnica.com/gadgets/2026/01/nvidia-leans-on-dlss-improvements-to-make-up-for-a-lack-of-gpus-at-ces/": {
-        "added_at": 1767741333.7425528,
-        "id": 1956333629
-    },
-    "https://arstechnica.com/gadgets/2026/01/hps-eliteboard-g1a-is-a-ryzen-powered-windows-11-pc-in-a-membrane-keyboard/": {
-        "added_at": 1767741335.1881049,
-        "id": 1956333642
-    },
-    "https://github.com/tdortman/cuckoo-filter": {
-        "added_at": 1767741337.0114627,
-        "id": 1956333657
-    },
-    "https://targetedwebresults.com/pounce-demo-final.gif": {
-        "added_at": 1767741338.5499291,
-        "id": 1956333666
-    },
-    "https://www.ycombinator.com/companies/laylo/jobs/ZtLHRXe-head-of-growth": {
-        "added_at": 1767741339.9430757,
-        "id": 1956333677
-    },
-    "https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/": {
-        "added_at": 1767741341.3072805,
-        "id": 1956333685
-    },
-    "https://elpais.com/mexico/2026-01-06/mexico-condena-en-la-oea-las-amenazas-de-trump-a-otros-paises.html": {
-        "added_at": 1767741343.2901402,
-        "id": 1956333699
-    },
-    "https://www.monde-diplomatique.fr/2025/12/RIMBERT/69056": {
-        "added_at": 1767741346.364014,
-        "id": 1955722474
-    },
-    "https://www.monde-diplomatique.fr/cartes/galapagos-armee-americaine": {
-        "added_at": 1767741348.5265272,
-        "id": 1955748172
-    },
-    "https://www.monde-diplomatique.fr/cartes/corridors-croises-caucase": {
-        "added_at": 1767741350.472103,
-        "id": 1955748185
-    },
-    "https://www.monde-diplomatique.fr/2026/01/DA_SILVA/69132": {
-        "added_at": 1767741352.777282,
-        "id": 1955748204
-    },
-    "https://www.monde-diplomatique.fr/2026/01/PIEILLER/69133": {
-        "added_at": 1767741354.8191798,
-        "id": 1955748220
-    },
-    "https://www.monde-diplomatique.fr/2026/01/A/69194": {
-        "added_at": 1767741357.3091402,
-        "id": 1955748231
-    },
-    "https://www.monde-diplomatique.fr/2026/01/VENTURA/69163": {
-        "added_at": 1767741359.7557292,
-        "id": 1955748241
-    },
-    "https://www.monde-diplomatique.fr/2026/01/RZEPSKI/69182": {
-        "added_at": 1767741362.2601569,
-        "id": 1955748262
-    },
-    "https://www.monde-diplomatique.fr/2026/01/AUDASSO/69185": {
-        "added_at": 1767741364.3152251,
-        "id": 1955748278
-    },
-    "https://www.monde-diplomatique.fr/2026/01/GOLUB/69164": {
-        "added_at": 1767741366.140909,
-        "id": 1955748306
-    },
-    "https://www.monde-diplomatique.fr/2026/01/LIEVEN/69165": {
-        "added_at": 1767741367.9908454,
-        "id": 1955748355
-    },
     "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/usa-today-qualcomm-se-lance-dans-les-robots-humanoides-nvidia-affirme-la-puissance-de-sa-nouvelle-puce-par-karen-georges-06-01_EN-202601060853.html": {
         "added_at": 1767748436.2228363,
         "id": 1956374868
@@ -3026,5 +2798,45 @@
     "https://elpais.com/internacional/2026-01-07/el-plan-de-tres-fases-de-estados-unidos-para-venezuela-estabilizacion-recuperacion-y-transicion.html": {
         "added_at": 1767824149.4196606,
         "id": 1956893427
+    },
+    "https://www.franceinfo.fr/economie/greve/greve-des-medecins/greve-des-medecins-l-activite-a-baisse-de-15-lundi-chez-les-generalistes-rapporte-la-ministre-de-la-sante_7726867.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767827759.1607447,
+        "id": 1956916946
+    },
+    "https://www.franceinfo.fr/societe/prisons/gerald-darmanin-veut-inscrire-dans-son-projet-de-loi-la-lutte-contre-la-surpopulation-carcerale_7726882.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767827761.9761908,
+        "id": 1956916957
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/pari-eti/pari-eti-patrice-begay-recoit-emmanuel-vasseneix-lsdh-danuta-pieter-dpia-clement-berthier-soberfi-et-benjamin-reynier-extia-07-01_EN-202601071044.html": {
+        "added_at": 1767827763.583485,
+        "id": 1956916965
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/pari-eti/video-pari-eti-patrice-begay-recoit-emmanuel-vasseneix-lsdh-danuta-pieter-dpia-clement-berthier-soberfi-et-benjamin-reynier-extia-07-01_VN-202601071049.html": {
+        "added_at": 1767827765.038922,
+        "id": 1956916972
+    },
+    "https://soatok.blog/2026/01/04/everything-you-need-to-know-about-email-encryption-in-2026/": {
+        "added_at": 1767827767.9255335,
+        "id": 1956916993
+    },
+    "http://smalldatum.blogspot.com/2026/01/ssds-power-loss-protection-and-fsync.html": {
+        "added_at": 1767827769.0856647,
+        "id": 1956917007
+    },
+    "https://s-space.snu.ac.kr/bitstream/10371/95351/1/01%20Jeho%20Lee.pdf": {
+        "added_at": 1767827772.1171582,
+        "id": 1956917022
+    },
+    "https://elpais.com/deportes/futbol/2026-01-07/un-empate-mas-del-city-deja-via-libre-al-arsenal-en-la-premier-league.html": {
+        "added_at": 1767827773.6121826,
+        "id": 1956917030
+    },
+    "https://elpais.com/deportes/baloncesto/2026-01-07/un-descomunal-obst-destroza-con-37-puntos-al-baskonia-que-no-gana-a-domicilio-en-la-euroliga-desde-hace-mas-de-un-ano.html": {
+        "added_at": 1767827774.9917638,
+        "id": 1956917041
+    },
+    "https://www.monde-diplomatique.fr/2026/01/BONELLI/69177": {
+        "added_at": 1767827777.7202384,
+        "id": 1956917054
     }
 }
