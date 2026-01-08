@@ -1,36 +1,4 @@
 {
-    "https://www.ft.com/content/62f8f2c5-95c7-4437-b0f1-b8ecd507c330": {
-        "added_at": 1767756288.3832774,
-        "id": 1956415275
-    },
-    "https://www.ft.com/content/ac0693d0-80c0-4b6d-9fef-3f7e1d24b1da": {
-        "added_at": 1767756290.2428634,
-        "id": 1956415286
-    },
-    "https://arstechnica.com/gadgets/2026/01/motorola-reveals-the-razr-fold-a-book-style-foldable-launching-this-summer/": {
-        "added_at": 1767756291.7864645,
-        "id": 1956415297
-    },
-    "https://remy.wang/blog/ya-fast.html": {
-        "added_at": 1767756293.5851583,
-        "id": 1956415308
-    },
-    "https://blog.adafruit.com/2026/01/06/we-recreated-steve-jobss-1975-atari-horoscope-program-and-you-can-run-it/": {
-        "added_at": 1767756295.010774,
-        "id": 1956415311
-    },
-    "http://muratbuffalo.blogspot.com/2026/01/the-agentic-self-parallels-between-ai.html": {
-        "added_at": 1767756296.3630755,
-        "id": 1956415318
-    },
-    "https://block81.com/blog/why-most-websites-dont-actually-need-cookie-consent-banners": {
-        "added_at": 1767756298.117008,
-        "id": 1956415325
-    },
-    "https://jasoneckert.github.io/myblog/how-microsoft-killed-my-snapdragon-devkit/": {
-        "added_at": 1767756300.5297008,
-        "id": 1956415335
-    },
     "https://www.ft.com/content/8e94145c-03bf-4512-945e-85083047dc71": {
         "added_at": 1767760538.2610075,
         "id": 1956435392
@@ -2918,5 +2886,53 @@
     "https://www.monde-diplomatique.fr/2026/01/LIEVEN/69165": {
         "added_at": 1767834942.3661547,
         "id": 1955748355
+    },
+    "https://www.ft.com/content/2a85fc8d-b250-459f-a3a2-c62307d8795e": {
+        "added_at": 1767842718.204084,
+        "id": 1957001704
+    },
+    "https://www.ft.com/content/8ddd2c94-41a7-4b36-b018-fee12afd8d70": {
+        "added_at": 1767842719.6494794,
+        "id": 1957001711
+    },
+    "https://www.ft.com/content/bc7437d7-9aed-4ec8-b013-f1b0e80acb8b": {
+        "added_at": 1767842721.9070988,
+        "id": 1957001726
+    },
+    "https://www.ft.com/content/67ee7b52-650b-439a-a9fa-da6ebf1853ef": {
+        "added_at": 1767842723.4405034,
+        "id": 1957001733
+    },
+    "https://arstechnica.com/cars/2026/01/in-car-ai-assistant-coming-to-fords-and-lincolns-in-2027/": {
+        "added_at": 1767842725.015887,
+        "id": 1957001739
+    },
+    "https://arstechnica.com/space/2026/01/nasa-postpones-space-station-spacewalk-due-to-crew-members-medical-concern/": {
+        "added_at": 1767842726.5830572,
+        "id": 1957001749
+    },
+    "https://blog.gingerbeardman.com/2026/01/04/glsl-web-crt-shader/": {
+        "added_at": 1767842728.5874045,
+        "id": 1957001760
+    },
+    "https://github.com/cnvogelg/amitools/blob/main/docs/vamos.md": {
+        "added_at": 1767842730.0437522,
+        "id": 1957001767
+    },
+    "https://github.com/kstenerud/Musashi": {
+        "added_at": 1767842731.5231566,
+        "id": 1957001776
+    },
+    "https://nesbitt.io/2026/01/02/how-dependabot-actually-works.html": {
+        "added_at": 1767842733.0100632,
+        "id": 1957001783
+    },
+    "https://blog.adafruit.com/2026/01/07/dont-let-the-grocery-store-scan-your-face-a-guide-to-fighting-back-against-biometric-surveillance-at-wegmans/": {
+        "added_at": 1767842734.584939,
+        "id": 1957001792
+    },
+    "https://pebblebed.com/blog/kernel-bugs": {
+        "added_at": 1767842736.055545,
+        "id": 1957001803
     }
 }
