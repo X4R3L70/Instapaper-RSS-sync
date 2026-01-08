@@ -1,256 +1,4 @@
 {
-    "https://www.franceinfo.fr/economie/crise/blocus-des-agriculteurs/reportage-le-mercosur-c-est-la-goutte-d-eau-qui-fait-deborder-le-vase-a-lyon-les-agriculteurs-toujours-mobilises-malgre-les-mains-tendues-de-l-executif_7726438.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767813410.8928266,
-        "id": 1956800484
-    },
-    "https://www.franceinfo.fr/economie/crise/blocus-des-agriculteurs/dermatose-nodulaire/crise-agricole-oui-l-objectif-est-de-bloquer-paris-assure-la-coordination-rurale_7726687.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767813412.4660575,
-        "id": 1956800492
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/le-18h-eco/le-19h-eco-mercredi-7-janvier_EN-202601070895.html": {
-        "added_at": 1767813414.1099274,
-        "id": 1956800507
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/le-18h-eco/video-le-19h-eco-mercredi-7-janvier_VN-202601070906.html": {
-        "added_at": 1767813415.500851,
-        "id": 1956800520
-    },
-    "https://www.bfmtv.com/economie/video-zoox-on-a-teste-la-voiture-autonome_VN-202601070907.html": {
-        "added_at": 1767813416.8979938,
-        "id": 1956800529
-    },
-    "https://www.bfmtv.com/economie/video-ces-2026-l-ia-propulse-la-robotique_VN-202601070921.html": {
-        "added_at": 1767813418.329412,
-        "id": 1956800538
-    },
-    "https://www.ft.com/content/9a8ae28c-ac62-42f1-9790-5407efc1bab6": {
-        "added_at": 1767813420.0025392,
-        "id": 1956800555
-    },
-    "https://www.ft.com/content/53aca7af-d800-4dc7-ae50-b247e0fa6d3c": {
-        "added_at": 1767813422.2952857,
-        "id": 1956800573
-    },
-    "https://www.ft.com/content/cab12094-7a13-4a72-afb5-606638ea9b26": {
-        "added_at": 1767813423.4433835,
-        "id": 1956800581
-    },
-    "https://www.ft.com/content/70ad697f-f970-41ea-8527-274d4f4915a8": {
-        "added_at": 1767813424.597757,
-        "id": 1956800590
-    },
-    "https://www.ft.com/content/06530edb-52a4-42d0-b945-ceb267dd6b8f": {
-        "added_at": 1767813426.4184415,
-        "id": 1956800603
-    },
-    "https://www.ft.com/content/64ee58c0-199c-4a9d-968c-4ece3f2e00f5": {
-        "added_at": 1767813428.2006042,
-        "id": 1956800614
-    },
-    "https://www.ft.com/content/f4e6e5b4-264f-4593-9542-03d34464ef99": {
-        "added_at": 1767813429.352936,
-        "id": 1956800626
-    },
-    "https://arstechnica.com/gaming/2026/01/nvidias-new-g-sync-pulsar-monitors-target-motion-blur-at-the-human-retina-level/": {
-        "added_at": 1767813431.140367,
-        "id": 1956214323
-    },
-    "https://arstechnica.com/science/2026/01/appeals-court-upholds-block-on-one-of-trumps-cuts-to-research-funds/": {
-        "added_at": 1767813432.7620852,
-        "id": 1956214332
-    },
-    "https://burkeholland.github.io/posts/opus-4-5-change-everything/": {
-        "added_at": 1767813434.0027287,
-        "id": 1956214351
-    },
-    "https://dailynous.com/2026/01/06/texas-am-bans-plato/": {
-        "added_at": 1767813435.1586678,
-        "id": 1956800669
-    },
-    "https://www.wsj.com/tech/ai/google-ai-openai-gemini-chatgpt-b766e160": {
-        "added_at": 1767813436.3272984,
-        "id": 1956800678
-    },
-    "https://github.com/reinauer/amifuse": {
-        "added_at": 1767813438.960863,
-        "id": 1956800696
-    },
-    "https://socket.dev/blog/npm-to-implement-staged-publishing": {
-        "added_at": 1767813440.1153057,
-        "id": 1956800704
-    },
-    "https://elpais.com/ideas/2026-01-05/europa-2035-un-punado-de-dictaduras-colonizadas-y-sometidas-a-amos-extranjeros.html": {
-        "added_at": 1767813443.432835,
-        "id": 1956214389
-    },
-    "https://elpais.com/ideas/2026-01-04/la-generacion-z-vivira-una-tercera-guerra-mundial-6-preguntas-clave-para-2026.html": {
-        "added_at": 1767813446.9601364,
-        "id": 1956214400
-    },
-    "https://elpais.com/tecnologia/2026-01-06/coches-y-robots-que-razonan-como-humanos-nvidia-lanza-su-nueva-ia-para-asaltar-el-mundo-real.html": {
-        "added_at": 1767813448.8605738,
-        "id": 1956214478
-    },
-    "https://elpais.com/espana/2026-01-07/el-partido-de-alvise-perez-concurrira-a-las-elecciones-de-aragon.html": {
-        "added_at": 1767813450.0238585,
-        "id": 1956800779
-    },
-    "https://elpais.com/internacional/2026-01-06/bruselas-ofrece-mejoras-en-la-politica-agraria-para-vencer-las-reticencias-de-italia-y-francia-al-pacto-con-mercosur.html": {
-        "added_at": 1767813451.1719787,
-        "id": 1956214467
-    },
-    "https://elpais.com/us/2026-01-06/fallece-el-congresista-republicano-doug-lamalfa-y-se-achica-la-mayoria-republicana-en-la-camara-de-representantes.html": {
-        "added_at": 1767813452.312165,
-        "id": 1956214454
-    },
-    "https://elpais.com/internacional/2026-01-06/la-represion-de-las-manifestaciones-en-iran-causa-decenas-de-muertos.html": {
-        "added_at": 1767813453.6865616,
-        "id": 1956214506
-    },
-    "https://elpais.com/deportes/2026-01-07/carlos-sainz-pierde-la-sonrisa-en-el-dakar-tras-ceder-16-minutos-y-despues-de-dos-dias-duros-y-sin-resultados.html": {
-        "added_at": 1767813454.9797838,
-        "id": 1956800822
-    },
-    "https://elpais.com/economia/2026-01-07/bruselas-ofrece-concesiones-a-italia-y-al-sector-agricola-para-asegurar-la-aprobacion-del-pacto-comercial-con-mercosur.html": {
-        "added_at": 1767813456.4710908,
-        "id": 1956800836
-    },
-    "https://elpais.com/espana/catalunya/2026-01-07/muere-otro-hombre-sin-hogar-en-plena-ola-de-frio-en-barcelona.html": {
-        "added_at": 1767813457.9850085,
-        "id": 1956800847
-    },
-    "https://elpais.com/economia/2026-01-07/trump-anuncia-que-prohibira-a-los-grandes-inversores-comprar-viviendas-unifamiliares-en-estados-unidos.html": {
-        "added_at": 1767813459.1328921,
-        "id": 1956800856
-    },
-    "https://elpais.com/us/migracion/2026-01-07/un-agente-del-ice-mata-a-una-mujer-durante-el-enorme-despliegue-migratorio-en-minneapolis.html": {
-        "added_at": 1767813460.367404,
-        "id": 1956800867
-    },
-    "https://elpais.com/ciencia/2026-01-07/veneno-en-flechas-de-hace-60000-anos-hallada-la-prueba-mas-antigua-de-su-uso-en-armas-humanas.html": {
-        "added_at": 1767813462.134248,
-        "id": 1956800879
-    },
-    "https://elpais.com/deportes/futbol/2026-01-07/barcelona-athletic-en-directo-la-semifinal-de-la-supercopa-de-espana-en-vivo.html": {
-        "added_at": 1767813463.2870603,
-        "id": 1956800890
-    },
-    "https://www.monde-diplomatique.fr/2026/01/JULIEN_THOMAS/69174": {
-        "added_at": 1767813465.766779,
-        "id": 1955576489
-    },
-    "https://www.franceinfo.fr/faits-divers/en-meurthe-et-moselle-un-homme-sous-bracelet-electronique-pour-agression-sexuelle-sur-mineure-desormais-accuse-de-corruption-de-mineurs_7726678.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767817104.1526983,
-        "id": 1956845329
-    },
-    "https://www.franceinfo.fr/sante/drogue-addictions/dry-january-ne-pas-boire-d-alcool-pendant-un-mois-ameliore-le-sommeil-la-sante-physique-et-mentale-selon-une-etude-francaise_7726672.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767817106.6270523,
-        "id": 1956845348
-    },
-    "https://www.franceinfo.fr/elections/municipales/municipales-2026-sarah-knafo-eurodeputee-reconquete-annonce-sa-candidature-a-la-mairie-de-paris_7726762.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767817108.6429975,
-        "id": 1956845361
-    },
-    "https://www.franceinfo.fr/economie/commerce/mercosur/l-italie-vante-les-enormes-avantages-d-un-accord-ue-mercosur-apres-avoir-temporise-sa-signature_7726726.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767817111.0658834,
-        "id": 1956845382
-    },
-    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-froid/grand-froid-le-piege-mortel-de-la-rue-pour-les-personnes-sans-abri_7726750.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767817112.8281715,
-        "id": 1956845395
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-zoox-on-a-teste-la-voiture-autonome-07-01_VN-202601070949.html": {
-        "added_at": 1767817114.6957448,
-        "id": 1956845406
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/zoox-on-a-teste-la-voiture-autonome-07-01_EN-202601070946.html": {
-        "added_at": 1767817116.3429282,
-        "id": 1956845418
-    },
-    "https://www.bfmtv.com/economie/video-ces-2026-les-ambitions-de-samsung_VN-202601070948.html": {
-        "added_at": 1767817118.1435494,
-        "id": 1956845437
-    },
-    "https://www.bfmtv.com/economie/international/une-etape-decisive-un-rapprochement-strategique-france-allemagne-et-pologne-esperent-la-signature-rapide-de-l-accord-entre-l-ue-et-l-inde_AD-202601070956.html": {
-        "added_at": 1767817119.992314,
-        "id": 1956845445
-    },
-    "https://www.bfmtv.com/economie/video-hisense-une-nouvelle-technologie-d-affichage_VN-202601070957.html": {
-        "added_at": 1767817121.6406343,
-        "id": 1956845457
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-guillaume-rault-samsung-france-electronics-ces-2026-les-ambitions-de-samsung-07-01_VN-202601070960.html": {
-        "added_at": 1767817123.3381045,
-        "id": 1956845476
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/guillaume-rault-vice-president-samsung-france-electronics-07-01_EN-202601070959.html": {
-        "added_at": 1767817124.9222078,
-        "id": 1956845488
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-romain-futsch-luchrome-luchrome-la-startup-recompensee-au-ces-07-01_VN-202601070972.html": {
-        "added_at": 1767817126.7025626,
-        "id": 1956845501
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/romain-futsch-president-de-luchrome-et-docteur-en-physique-chimie-07-01_EN-202601070970.html": {
-        "added_at": 1767817128.3399246,
-        "id": 1956845519
-    },
-    "https://www.bfmtv.com/economie/entreprises/defense/trump-veut-interdire-versements-de-dividendes-et-rachats-d-actions-aux-entreprises-de-la-defense_AD-202601070971.html": {
-        "added_at": 1767817129.8387804,
-        "id": 1956845529
-    },
-    "https://www.bfmtv.com/economie/video-ces-2026-les-tendances-a-surveiller_VN-202601070977.html": {
-        "added_at": 1767817132.4189117,
-        "id": 1956845551
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-julien-villeret-edf-ces-2026-les-tendances-a-surveiller-07-01_VN-202601070980.html": {
-        "added_at": 1767817134.0885658,
-        "id": 1956845564
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/julien-villeret-directeur-de-l-innovation-chez-edf-07-01_EN-202601070979.html": {
-        "added_at": 1767817135.7118387,
-        "id": 1956845574
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-jennifer-gauthier-skin-med-skin-med-la-tele-expertise-dermatologique-07-01_VN-202601070988.html": {
-        "added_at": 1767817137.3361154,
-        "id": 1956845584
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/jennifer-gauthier-cofondatrice-de-skin-med-07-01_EN-202601070986.html": {
-        "added_at": 1767817138.9945579,
-        "id": 1956845595
-    },
-    "https://www.ft.com/content/ef1e6630-f714-42e1-814d-1799e234c0ea": {
-        "added_at": 1767817141.2870526,
-        "id": 1956845605
-    },
-    "https://arstechnica.com/ai/2026/01/news-orgs-want-openai-to-dig-up-millions-of-deleted-chatgpt-logs/": {
-        "added_at": 1767817142.922591,
-        "id": 1956236531
-    },
-    "https://arstechnica.com/gadgets/2026/01/expired-certificate-completely-breaks-macos-logitech-apps-user-customizations/": {
-        "added_at": 1767817144.3471746,
-        "id": 1956845629
-    },
-    "https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/": {
-        "added_at": 1767817145.7818346,
-        "id": 1956845640
-    },
-    "https://www.youtube.com/watch?v=D8qQUHrksrE": {
-        "added_at": 1767817147.616953,
-        "id": 1956845653
-    },
-    "https://www.reuters.com/world/us/us-will-ban-large-institutional-investors-buying-single-family-homes-trump-says-2026-01-07/": {
-        "added_at": 1767817149.084213,
-        "id": 1956845661
-    },
-    "https://realfood.gov": {
-        "added_at": 1767817150.6455493,
-        "id": 1956845668
-    },
-    "https://www.monde-diplomatique.fr/2026/01/MERIEAU/69176": {
-        "added_at": 1767817154.0752642,
-        "id": 1956236659
-    },
     "https://www.franceinfo.fr/monde/venezuela/attaque-americaine-sur-le-venezuela/le-venezuela-negocie-avec-les-etats-unis-la-vente-de-petrole-affirme-une-compagnie-publique-venezuelienne_7726810.html#xtor=RSS-3-[lestitres]": {
         "added_at": 1767820503.4134362,
         "id": 1956868863
@@ -2966,5 +2714,117 @@
     "https://www.monde-diplomatique.fr/2026/01/BREVILLE/69172": {
         "added_at": 1767899767.4432628,
         "id": 1955551075
+    },
+    "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/femme-tuee-par-la-police-a-minneapolis-plus-de-30-millions-d-interactions-sur-tiktok-et-instagram-ces-dernieres-24-heures_7728682.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767903516.9716747,
+        "id": 1957394379
+    },
+    "https://www.franceinfo.fr/elections/municipales/municipales-a-paris-lucie-castets-rejoint-la-liste-d-emmanuel-gregoire-sans-fermer-la-porte-a-lfi_7728907.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767903519.0456753,
+        "id": 1957394396
+    },
+    "https://www.franceinfo.fr/monde/russie/liberation-de-laurent-vinatier-c-est-une-joie-infinie-assure-la-fille-du-chercheur-camille-vinatier_7728679.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767903521.3653328,
+        "id": 1957394415
+    },
+    "https://www.franceinfo.fr/sports/foot/ligue-1/trophee-des-champions-premier-titre-de-l-annee-pour-le-psg-vainqueur-de-l-om-aux-tirs-au-but-grace_7728595.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767903523.0303702,
+        "id": 1957394429
+    },
+    "https://www.franceinfo.fr/faits-divers/incendie-dans-un-bar-de-crans-montana-en-suisse/incendie-a-crans-montana-deux-autres-blesses-francais-ont-ete-identifies-portant-le-total-a-25-annonce-sur-france-2-la-procureure-de-paris_7728931.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767903525.8798487,
+        "id": 1957394446
+    },
+    "https://www.bfmtv.com/economie/entreprises/transports/video-la-technologie-au-coeur-de-l-industrie-auto_VN-202601080922.html": {
+        "added_at": 1767903527.6224139,
+        "id": 1957394456
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-le-debrief-du-ces-2026-08-01_VN-202601080930.html": {
+        "added_at": 1767903529.1451082,
+        "id": 1957394467
+    },
+    "https://www.bfmtv.com/economie/entreprises/industries/guerre-de-secession-dans-l-industrie-pharmaceutique-de-grands-laboratoires-quittent-leur-syndicat-representatif-en-france_AD-202601080926.html": {
+        "added_at": 1767903530.9045975,
+        "id": 1957394477
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/le-debrief-du-ces-2026-08-01_EN-202601080931.html": {
+        "added_at": 1767903532.2305756,
+        "id": 1957394484
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-christophe-perillat-valeo-valeo-invente-la-mobilite-de-demain-au-ces-08-01_VN-202601080934.html": {
+        "added_at": 1767903533.7599795,
+        "id": 1957394489
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/christophe-perillat-directeur-general-de-valeo-08-01_EN-202601080932.html": {
+        "added_at": 1767903535.2825623,
+        "id": 1957394505
+    },
+    "https://www.bfmtv.com/economie/video-withings-pionnier-de-la-sante-connectee_VN-202601080935.html": {
+        "added_at": 1767903536.6302645,
+        "id": 1957394512
+    },
+    "https://www.bfmtv.com/economie/video-l-ia-et-le-tactile-au-service-du-handicap_VN-202601080944.html": {
+        "added_at": 1767903538.1875398,
+        "id": 1957394525
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/clemence-carreel-stevenin-directrice-du-developpement-chez-withings-08-01_EN-202601080953.html": {
+        "added_at": 1767903539.507473,
+        "id": 1957394529
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-clemence-carreel-stevenin-withings-withings-devoile-body-scan-2-la-premiere-station-sante-de-longevite-08-01_VN-202601080955.html": {
+        "added_at": 1767903540.8457687,
+        "id": 1957394536
+    },
+    "https://www.ft.com/content/33b05a8b-9de0-4e70-8530-7237df1bf0d9": {
+        "added_at": 1767903542.6946716,
+        "id": 1957394545
+    },
+    "https://www.ft.com/content/cd5fc5c4-5c0f-42f1-9419-ff416979627d": {
+        "added_at": 1767903550.0440075,
+        "id": 1957394593
+    },
+    "https://arstechnica.com/tech-policy/2026/01/grok-assumes-users-seeking-images-of-underage-girls-have-good-intent/": {
+        "added_at": 1767903551.4603255,
+        "id": 1957394602
+    },
+    "https://arstechnica.com/science/2026/01/these-dogs-eavesdrop-on-their-owners-to-learn-new-words/": {
+        "added_at": 1767903553.3919806,
+        "id": 1957394617
+    },
+    "https://tryflux.ai/": {
+        "added_at": 1767903554.9155889,
+        "id": 1957394633
+    },
+    "https://news.ycombinator.com/item?id=46545056": {
+        "added_at": 1767903556.122179,
+        "id": 1957394640
+    },
+    "https://github.com/richhickson/claudecodeusage": {
+        "added_at": 1767903557.3224401,
+        "id": 1957394646
+    },
+    "https://tarteel.ai/blog/from-page-to-screen-rethinking-quran-rendering-for-the-digital-age/": {
+        "added_at": 1767903558.7608006,
+        "id": 1957394655
+    },
+    "https://www.tus.ac.jp/en/mediarelations/archive/20251219_9539.html": {
+        "added_at": 1767903559.9498453,
+        "id": 1957394658
+    },
+    "https://joshuawise.com/resources/ofdm/": {
+        "added_at": 1767903561.1579885,
+        "id": 1957394668
+    },
+    "https://twitter.com/OfficialLoganK/status/2009339263251566902": {
+        "added_at": 1767903562.3757365,
+        "id": 1957394672
+    },
+    "https://www.mihaileric.com/The-Emperor-Has-No-Clothes/": {
+        "added_at": 1767903563.573684,
+        "id": 1957394685
+    },
+    "https://elpais.com/quadern/literatura/2026-01-08/lesperanca-te-un-pla-amb-francesc-torralba.html": {
+        "added_at": 1767903565.9676068,
+        "id": 1957394702
     }
 }
