@@ -1,104 +1,4 @@
 {
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/usa-today-qualcomm-se-lance-dans-les-robots-humanoides-nvidia-affirme-la-puissance-de-sa-nouvelle-puce-par-karen-georges-06-01_EN-202601060853.html": {
-        "added_at": 1767748436.2228363,
-        "id": 1956374868
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/delphine-arnaud-le-depart-de-maduro-est-un-vrai-coup-dur-pour-la-chine-06-01_EN-202601060854.html": {
-        "added_at": 1767748438.1075785,
-        "id": 1956374873
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/culture-bourse-pourriez-vous-m-indiquer-si-le-titre-forsee-power-a-du-potentiel-si-oui-lequel-par-antoine-larigaudrie-06-12_EN-202601070066.html": {
-        "added_at": 1767748439.5889676,
-        "id": 1956374884
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/nexans-chute-report-d-un-projet-majeur-en-mediterranee-06-01_EN-202601070067.html": {
-        "added_at": 1767748441.2507625,
-        "id": 1956374889
-    },
-    "https://www.ft.com/content/985ae542-1ab4-491e-8e6e-b30f6a3ab666": {
-        "added_at": 1767748443.051017,
-        "id": 1956374896
-    },
-    "https://www.ft.com/content/724c2910-76f2-45d7-8f2e-0ac5c82a5ad2": {
-        "added_at": 1767748444.7862027,
-        "id": 1956374903
-    },
-    "https://www.ft.com/content/a4ab08bd-bf8f-4f73-a7b6-d126703c796f": {
-        "added_at": 1767748446.7278736,
-        "id": 1956374919
-    },
-    "https://www.ft.com/content/0043a98e-0823-4fda-a484-9f403fde9dd8": {
-        "added_at": 1767748448.9956176,
-        "id": 1956374931
-    },
-    "https://www.ft.com/content/86e26122-b14b-4e55-919d-606f22b566b2": {
-        "added_at": 1767748450.990994,
-        "id": 1956374942
-    },
-    "https://www.ft.com/content/9090ef74-d446-4add-b928-cfd04bf6fe2d": {
-        "added_at": 1767748453.353579,
-        "id": 1956374951
-    },
-    "https://www.ft.com/content/377f8d5c-e9a2-42a5-99bd-41393bca8033": {
-        "added_at": 1767748455.913932,
-        "id": 1956374965
-    },
-    "https://www.ft.com/content/e2ab91ec-47be-49d3-8c1a-9adc0cfb9a6f": {
-        "added_at": 1767748457.309433,
-        "id": 1956374972
-    },
-    "https://arstechnica.com/tech-policy/2026/01/data-broker-hoarding-is-rampant-new-law-lets-consumers-fight-back/": {
-        "added_at": 1767748459.4431655,
-        "id": 1955772322
-    },
-    "https://arstechnica.com/health/2026/01/under-anti-vaccine-rfk-jr-cdc-slashes-childhood-vaccine-schedule/": {
-        "added_at": 1767748461.1817267,
-        "id": 1955772331
-    },
-    "https://arstechnica.com/space/2026/01/nasas-science-budget-wont-be-a-train-wreck-after-all/": {
-        "added_at": 1767748462.616842,
-        "id": 1955772338
-    },
-    "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adsr.202500124": {
-        "added_at": 1767748464.5075395,
-        "id": 1956375018
-    },
-    "https://priyatham.in/en/post/hosting-dmca/": {
-        "added_at": 1767748465.8671877,
-        "id": 1956375027
-    },
-    "https://www.danielbrendel.com/blog/24-are-we-tired-of-social-media-once-and-for-all": {
-        "added_at": 1767748467.2360828,
-        "id": 1956375033
-    },
-    "https://nastystereo.com/security/ruby-pack.html": {
-        "added_at": 1767748468.604036,
-        "id": 1956375040
-    },
-    "https://stonetools.ghost.io/xper-c64/": {
-        "added_at": 1767748470.0268576,
-        "id": 1956375051
-    },
-    "https://hecate.pink/blog/2026/trans-flag-emoji/": {
-        "added_at": 1767748471.614448,
-        "id": 1956375056
-    },
-    "https://backalleycoder.com/posts/passseeds-an-experiment-in-hijacking-passkeys-to-unlock-cryptographic-use-cases/": {
-        "added_at": 1767748472.9892774,
-        "id": 1956375065
-    },
-    "https://www.youtube.com/watch?v=9e0SQn9uUlw": {
-        "added_at": 1767748474.3695805,
-        "id": 1956375079
-    },
-    "https://elpais.com/america/2026-01-05/campesinos-maestros-y-mineros-protestan-en-bolivia-contra-la-eliminacion-de-las-subvenciones-a-la-gasolina.html": {
-        "added_at": 1767748476.314424,
-        "id": 1955772493
-    },
-    "https://elpais.com/internacional/2026-01-07/trump-asegura-que-venezuela-le-entregara-hasta-50-millones-de-barriles-de-petroleo.html": {
-        "added_at": 1767748478.215582,
-        "id": 1956375107
-    },
     "https://www.ft.com/content/62f8f2c5-95c7-4437-b0f1-b8ecd507c330": {
         "added_at": 1767756288.3832774,
         "id": 1956415275
@@ -2838,5 +2738,185 @@
     "https://www.monde-diplomatique.fr/2026/01/BONELLI/69177": {
         "added_at": 1767827777.7202384,
         "id": 1956917054
+    },
+    "https://www.ft.com/content/07b1da7c-bac1-4d79-b281-1d2eaaabdea7": {
+        "added_at": 1767834845.0720687,
+        "id": 1956959486
+    },
+    "https://www.ft.com/content/468c5f3a-0ab9-4756-85e2-22adb948db62": {
+        "added_at": 1767834846.5701654,
+        "id": 1956959495
+    },
+    "https://www.ft.com/content/d00a0dc4-d982-4c92-ab96-8d194e525068": {
+        "added_at": 1767834850.2334247,
+        "id": 1956959521
+    },
+    "https://www.ft.com/content/4ff97a36-dc73-4202-a28f-851a86d7fbae": {
+        "added_at": 1767834851.7305088,
+        "id": 1956959530
+    },
+    "https://www.ft.com/content/7e438fa4-8d93-4f70-af0b-2f8885e49790": {
+        "added_at": 1767834854.0498755,
+        "id": 1956959542
+    },
+    "https://www.ft.com/content/b9685280-80c8-45f2-833f-9a8c1407c335": {
+        "added_at": 1767834856.3096611,
+        "id": 1956959557
+    },
+    "https://www.ft.com/content/0e768bcf-0793-4b6f-bc63-468bffc7ed48": {
+        "added_at": 1767834858.337652,
+        "id": 1956959565
+    },
+    "https://www.ft.com/content/490a801f-aa78-4bf2-8e57-23423981a75c": {
+        "added_at": 1767834860.7444367,
+        "id": 1956959580
+    },
+    "https://www.ft.com/content/6a786fc2-7e43-4cb2-94cf-57fc45acba00": {
+        "added_at": 1767834863.152422,
+        "id": 1956959598
+    },
+    "https://www.ft.com/content/d1ed595d-b7c6-40d2-b99d-d1dbe17b213e": {
+        "added_at": 1767834864.6482904,
+        "id": 1956959604
+    },
+    "https://www.ft.com/content/44f730c4-7de3-4a09-88dd-41ea9c373dcb": {
+        "added_at": 1767834866.1962578,
+        "id": 1956959610
+    },
+    "https://www.ft.com/content/70ff7519-7e59-4e13-b792-d3a3a50a7a1c": {
+        "added_at": 1767834868.461493,
+        "id": 1956959623
+    },
+    "https://www.ft.com/content/6deae58c-29ae-4a52-b42b-0f41802edccf": {
+        "added_at": 1767834870.6764667,
+        "id": 1956959634
+    },
+    "https://www.ft.com/content/84e05c24-ca30-416d-9f7e-1798a28f29c3": {
+        "added_at": 1767834872.6817353,
+        "id": 1956959650
+    },
+    "https://arstechnica.com/gadgets/2026/01/dells-xps-revival-is-a-welcome-reprieve-from-the-ai-pc-fad/": {
+        "added_at": 1767834874.1543,
+        "id": 1956311357
+    },
+    "https://arstechnica.com/tech-policy/2026/01/letting-prisons-jam-contraband-phones-is-a-bad-idea-phone-companies-tell-fcc/": {
+        "added_at": 1767834875.5504832,
+        "id": 1956311368
+    },
+    "https://arstechnica.com/gadgets/2026/01/nvidia-leans-on-dlss-improvements-to-make-up-for-a-lack-of-gpus-at-ces/": {
+        "added_at": 1767834877.3043437,
+        "id": 1956333629
+    },
+    "https://arstechnica.com/gadgets/2026/01/hps-eliteboard-g1a-is-a-ryzen-powered-windows-11-pc-in-a-membrane-keyboard/": {
+        "added_at": 1767834878.6939876,
+        "id": 1956333642
+    },
+    "https://arstechnica.com/health/2026/01/utah-allows-ai-to-autonomously-prescribe-medication-refills/": {
+        "added_at": 1767834880.225976,
+        "id": 1956959717
+    },
+    "https://arstechnica.com/gadgets/2026/01/samsung-squashes-hopes-that-it-will-release-its-ballie-home-robot/": {
+        "added_at": 1767834881.6302207,
+        "id": 1956959731
+    },
+    "https://old.reddit.com/r/chipdesign/comments/1q4kvxt/solo_asic_tapeout_on_a_budget_detailed_write_up/": {
+        "added_at": 1767834883.450456,
+        "id": 1956959738
+    },
+    "https://www.eff.org/deeplinks/2026/01/ice-going-surveillance-shopping-spree": {
+        "added_at": 1767834884.8864765,
+        "id": 1956959743
+    },
+    "https://www.aardwolf.com/": {
+        "added_at": 1767834886.4198549,
+        "id": 1956959754
+    },
+    "https://arpitbhayani.me/blogs/qkv-matrices/": {
+        "added_at": 1767834887.8926346,
+        "id": 1956959775
+    },
+    "https://elpais.com/proyecto-tendencias/2025-12-19/el-nuevo-idioma-del-poder-laboral-saber-preguntar-a-la-ia-es-mas-importante-que-usarla.html": {
+        "added_at": 1767834890.642162,
+        "id": 1955722067
+    },
+    "https://elpais.com/proyecto-tendencias/2025-12-26/nazareth-castellanos-neurocientifica-hay-que-educar-desde-la-escuela-en-tecnicas-de-prevencion-de-la-ansiedad.html": {
+        "added_at": 1767834892.0236037,
+        "id": 1955722081
+    },
+    "https://elpais.com/icon/2025-12-21/criaturas-adorables-y-monstruos-en-el-microondas-como-gremlins-se-convirtio-en-un-inesperado-clasico-navideno.html": {
+        "added_at": 1767834894.2197304,
+        "id": 1955722087
+    },
+    "https://elpais.com/icon/2025-12-22/marc-giro-si-la-fama-me-hubiera-pillado-mas-joven-quiza-estaria-cocainomano-perdido.html": {
+        "added_at": 1767834897.0006938,
+        "id": 1955722106
+    },
+    "https://elpais.com/eps/2026-01-02/richard-linklater-el-cine-junto-con-el-rock-fue-una-de-las-pasiones-fundamentales-de-mi-generacion-no-se-si-sigue-siendo-igual-para-la-siguiente.html": {
+        "added_at": 1767834899.6601422,
+        "id": 1955722132
+    },
+    "https://elpais.com/deportes/baloncesto/2026-01-06/valencia-real-madrid-y-barcelona-se-regalan-el-triunfo-el-dia-de-reyes.html": {
+        "added_at": 1767834906.0647058,
+        "id": 1956311552
+    },
+    "https://elpais.com/babelia/2026-01-02/los-25-libros-mas-esperados-de-enero-de-2026.html": {
+        "added_at": 1767834908.0122874,
+        "id": 1955722263
+    },
+    "https://elpais.com/gente/2026-01-07/gwyneth-paltrow-tiene-una-teoria-sobre-por-que-su-separacion-consciente-de-chris-martin-molesto-a-tanta-gente.html": {
+        "added_at": 1767834909.4107919,
+        "id": 1956959900
+    },
+    "https://elpais.com/espana/madrid/2026-01-05/la-cabalgata-de-madrid-vista-desde-la-escalera-gigante-de-la-familia-arbizu-rodriguez.html": {
+        "added_at": 1767834911.7494652,
+        "id": 1955722320
+    },
+    "https://elpais.com/salud-y-bienestar/2026-01-07/la-trampa-de-los-medicamentos-milagro-para-adelgazar-el-efecto-rebote-es-mas-rapido-que-con-dietas-convencionales.html": {
+        "added_at": 1767834913.1518745,
+        "id": 1956959925
+    },
+    "https://elpais.com/america-colombia/2026-01-07/trump-y-petro-mantienen-una-conversacion-telefonica-por-primera-vez-en-medio-de-las-amenazas-a-la-soberania-de-colombia.html": {
+        "added_at": 1767834914.8417552,
+        "id": 1956959936
+    },
+    "https://www.monde-diplomatique.fr/cartes/galapagos-armee-americaine": {
+        "added_at": 1767834917.8738885,
+        "id": 1955748172
+    },
+    "https://www.monde-diplomatique.fr/cartes/corridors-croises-caucase": {
+        "added_at": 1767834920.3840268,
+        "id": 1955748185
+    },
+    "https://www.monde-diplomatique.fr/2026/01/DA_SILVA/69132": {
+        "added_at": 1767834922.6407092,
+        "id": 1955748204
+    },
+    "https://www.monde-diplomatique.fr/2026/01/PIEILLER/69133": {
+        "added_at": 1767834926.0944054,
+        "id": 1955748220
+    },
+    "https://www.monde-diplomatique.fr/2026/01/A/69194": {
+        "added_at": 1767834928.650707,
+        "id": 1955748231
+    },
+    "https://www.monde-diplomatique.fr/2026/01/VENTURA/69163": {
+        "added_at": 1767834931.6660721,
+        "id": 1955748241
+    },
+    "https://www.monde-diplomatique.fr/2026/01/RZEPSKI/69182": {
+        "added_at": 1767834933.4267867,
+        "id": 1955748262
+    },
+    "https://www.monde-diplomatique.fr/2026/01/AUDASSO/69185": {
+        "added_at": 1767834936.5873752,
+        "id": 1955748278
+    },
+    "https://www.monde-diplomatique.fr/2026/01/GOLUB/69164": {
+        "added_at": 1767834939.2653947,
+        "id": 1955748306
+    },
+    "https://www.monde-diplomatique.fr/2026/01/LIEVEN/69165": {
+        "added_at": 1767834942.3661547,
+        "id": 1955748355
     }
 }
