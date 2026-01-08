@@ -1,164 +1,4 @@
 {
-    "https://www.ft.com/content/4df56e49-16dd-411a-9e22-de782e92e418": {
-        "added_at": 1767770493.7043564,
-        "id": 1956491230
-    },
-    "https://arstechnica.com/gadgets/2026/01/intel-launches-core-ultra-series-3-cpus-made-using-its-long-awaited-18a-process/": {
-        "added_at": 1767770495.4150262,
-        "id": 1955913838
-    },
-    "https://github.com/seer-engg/seer": {
-        "added_at": 1767770496.7777858,
-        "id": 1956491249
-    },
-    "https://www.newsweek.com/eliminate-h1b-visa-program-congress-bill-marjorie-taylor-greene-11312655": {
-        "added_at": 1767770497.9959204,
-        "id": 1956491256
-    },
-    "https://www.thecodedmessage.com/posts/oop-3-inheritance/": {
-        "added_at": 1767770499.1954043,
-        "id": 1956491267
-    },
-    "https://elpais.com/escaparate/lo-mas-vendido/2026-01-06/el-loco-de-dios-en-el-fin-del-mundo-mejor-libro-2025-babelia.html": {
-        "added_at": 1767770502.1755292,
-        "id": 1955913859
-    },
-    "https://www.franceinfo.fr/culture/cinema/brigitte-bardot/propos-homophobes-et-islamophobes-admiration-pour-jean-marie-le-pen-et-vladimir-poutine-quand-b-b-creait-la-polemique_7706845.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767774154.081347,
-        "id": 1956513298
-    },
-    "https://www.franceinfo.fr/faits-divers/incendie-dans-un-bar-de-crans-montana-en-suisse/incendie-a-crans-montana-un-avocat-de-victimes-suisses-denonce-la-destruction-de-preuves-de-la-part-des-gerants-ou-d-un-proche_7725739.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767774156.236186,
-        "id": 1956513313
-    },
-    "https://www.franceinfo.fr/monde/groenland/groenland-une-intervention-militaire-americaine-n-aurait-aucun-sens-assure-le-ministre-des-affaires-etrangeres-jean-noel-barrot_7725793.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767774157.8682926,
-        "id": 1956513325
-    },
-    "https://www.franceinfo.fr/france/auvergne-rhone-alpes/loire/saint-etienne/chantage-a-la-video-intime-a-saint-etienne-gael-perdriau-annonce-son-incarceration_7725763.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767774160.0204551,
-        "id": 1956513345
-    },
-    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/neige-verglas-les-transports-scolaires-suspendus-mercredi-dans-plusieurs-departements_7725697.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767774162.5698328,
-        "id": 1956513366
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-boxer-un-robot_VN-202601070273.html": {
-        "added_at": 1767774164.5476172,
-        "id": 1956513376
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-l-autre-negociation-du-moment-en-europe_VN-202601070283.html": {
-        "added_at": 1767774165.887633,
-        "id": 1956513383
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-le-robot-agricole-un-tournant-pour-l-europe_VN-202601070293.html": {
-        "added_at": 1767774167.3373165,
-        "id": 1956513391
-    },
-    "https://www.bfmtv.com/economie/entreprises/transports/une-centaine-de-vols-annules-mercredi-matin-a-charles-de-gaulle-et-environ-40-vols-a-orly-a-cause-de-la-neige_AD-202601070295.html": {
-        "added_at": 1767774168.9424086,
-        "id": 1956513399
-    },
-    "https://www.bfmtv.com/economie/consommation/video-neige-sur-l-hexagone-il-n-y-a-pas-de-penurie-ce-matin-dans-les-supermarches-affirme-alexandre-bompart-president-directeur-general-du-groupe-carrefour_VN-202601070298.html": {
-        "added_at": 1767774170.4242837,
-        "id": 1956513410
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/french-tech/french-tech-agreenculture-rend-les-tracteurs-autonomes-07-01_EN-202601070300.html": {
-        "added_at": 1767774171.8490927,
-        "id": 1956513422
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/french-tech/video-french-tech-agreenculture-rend-les-tracteurs-autonomes-07-01_VN-202601070302.html": {
-        "added_at": 1767774173.339048,
-        "id": 1956513430
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/french-tech-agreenculture-rend-les-tracteurs-autonomes-07-01_EN-202601070301.html": {
-        "added_at": 1767774174.6615827,
-        "id": 1956513442
-    },
-    "https://www.bfmtv.com/economie/video-neige-c-est-une-journee-difficile-pour-le-commerce-declare-alexandre-bompard-president-directeur-general-du-groupe-carrefour_VN-202601070307.html": {
-        "added_at": 1767774176.178652,
-        "id": 1956513453
-    },
-    "https://www.bfmtv.com/economie/video-suspension-de-certaines-importations-en-france-avant-l-arrete-il-y-avait-deja-des-controles-affirme-le-patron-de-carrefour_VN-202601070309.html": {
-        "added_at": 1767774177.5059593,
-        "id": 1956513461
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/la-carte-blanche/les-patrons-ont-la-parole-herve-novelli-07-01_EN-202601070314.html": {
-        "added_at": 1767774178.7796514,
-        "id": 1956513467
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/la-carte-blanche/video-les-patrons-ont-la-parole-herve-novelli-07-01_VN-202601070317.html": {
-        "added_at": 1767774180.6117024,
-        "id": 1956513477
-    },
-    "https://www.bfmtv.com/economie/video-crise-agricole-la-relation-avec-les-agriculteurs-est-meilleure-qu-il-y-a-quelques-annees-estime-alexandre-bompard-le-patron-de-carrefour_VN-202601070318.html": {
-        "added_at": 1767774182.7747436,
-        "id": 1956513487
-    },
-    "https://www.bfmtv.com/economie/video-on-a-teste-un-taxi-autonome-sans-conducteur-ni-volant_VN-202601070321.html": {
-        "added_at": 1767774184.2296543,
-        "id": 1956513498
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-le-debrief-de-l-actu-venezuela-le-nouvel-ordre-mondial-07-01_VN-202601070330.html": {
-        "added_at": 1767774185.6789145,
-        "id": 1956513512
-    },
-    "https://www.bfmtv.com/economie/consommation/cela-va-trop-loin-c-est-la-porte-ouverte-aux-discounters-etrangers-le-patron-de-cooperative-u-est-tres-contrarie-qu-on-puisse-payer-dans-l-enseigne-de-bazar-hema-avec-des-titres-restaurants_AV-202601070329.html": {
-        "added_at": 1767774186.9845772,
-        "id": 1956513520
-    },
-    "https://www.bfmtv.com/economie/professionnels/focus-entreprises/spirit-un-acteur-familial-et-independant-dans-le-secteur-de-l-immobilier_AB-202601070033.html": {
-        "added_at": 1767774188.3910034,
-        "id": 1956513529
-    },
-    "https://www.bfmtv.com/economie/professionnels/focus-entreprises/domitys-le-numero-un-des-residences-services-seniors-du-groupe-ag2r-la-mondiale_AB-202601070032.html": {
-        "added_at": 1767774189.7760825,
-        "id": 1956513537
-    },
-    "https://www.bfmtv.com/economie/entreprises/ces-2026-bluetti-devoile-charger-2-le-premier-hub-intelligent-unifie-de-l-industrie-pour-l-energie-solaire-et-automobile_AB-202601070047.html": {
-        "added_at": 1767774191.1883934,
-        "id": 1956513550
-    },
-    "https://www.bfmtv.com/economie/video-mercosur-la-consequence-pour-nous-est-relativement-limitee-assure-alexandre-bompard-president-directeur-du-groupe-carrefour_VN-202601070332.html": {
-        "added_at": 1767774192.602074,
-        "id": 1956513558
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/le-debrief-de-l-actu-venezuela-le-nouvel-ordre-mondial-07-01_EN-202601070334.html": {
-        "added_at": 1767774194.0172896,
-        "id": 1956513565
-    },
-    "https://www.bfmtv.com/economie/consommation/video-consommation-des-francais-a-noel-on-reduit-le-budget-des-produits-onereux-selon-alexandre-bompard-president-directeur-general-du-groupe-carrefour_VN-202601070335.html": {
-        "added_at": 1767774195.429049,
-        "id": 1956513575
-    },
-    "https://www.bfmtv.com/economie/video-dialogue-avec-lfi-et-le-rn-il-est-de-la-responsabilite-des-instances-collectives-patronales-d-interroger-tous-les-partis-estime-alexandre-bompard-carrefour_VN-202601070350.html": {
-        "added_at": 1767774196.8705938,
-        "id": 1956513584
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/l-integrale-de-good-morning-business-du-mercredi-7-janvier_EN-202601070355.html": {
-        "added_at": 1767774198.185682,
-        "id": 1956513591
-    },
-    "https://gasiulis.name/vector-graphics-on-gpu/": {
-        "added_at": 1767774200.23207,
-        "id": 1956513600
-    },
-    "https://elpais.com/deportes/futbol/2026-01-07/ter-stegen-se-lesiona-en-arabia-saudi-y-regresa-a-barcelona.html": {
-        "added_at": 1767774201.894608,
-        "id": 1956513610
-    },
-    "https://elpais.com/quadern/2026-01-06/jamila-de-txinguiz-aitmatov-un-equilibri-entre-la-lleialtat-sovietica-i-el-poble-kirguis.html": {
-        "added_at": 1767774203.2842765,
-        "id": 1956513618
-    },
-    "https://elpais.com/salud-y-bienestar/el-medico-de-cerca/2025-12-18/como-pasar-unas-navidades-saludables-en-cuerpo-y-mente.html": {
-        "added_at": 1767774204.6533265,
-        "id": 1956513630
-    },
-    "https://elpais.com/internacional/2026-01-07/ultimas-noticias-de-venezuela-tras-la-detencion-de-maduro-en-directo.html": {
-        "added_at": 1767774205.8767195,
-        "id": 1956513646
-    },
     "https://www.franceinfo.fr/culture/cinema/brigitte-bardot/obseques-de-brigitte-bardot-pourquoi-marine-le-pen-sera-presente_7725742.html#xtor=RSS-3-[lestitres]": {
         "added_at": 1767777776.1689742,
         "id": 1956534539
@@ -2990,5 +2830,113 @@
     "https://www.monde-diplomatique.fr/2026/01/GOBERT/69171": {
         "added_at": 1767856892.2915869,
         "id": 1955893312
+    },
+    "https://www.franceinfo.fr/economie/transports/trafic/colere-des-agriculteurs-l-a13-est-fermee-depuis-ce-matin-un-bouchon-d-environ-150-km-s-est-constitue-precise-philippe-tabarot-ministre-des-transports_7727998.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767860568.8397746,
+        "id": 1957101619
+    },
+    "https://www.franceinfo.fr/economie/crise/blocus-des-agriculteurs/colere-des-agriculteurs-comment-les-tracteurs-ont-dejoue-les-controles-de-police-pour-entrer-dans-paris_7727992.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767860571.3246024,
+        "id": 1957101638
+    },
+    "https://www.franceinfo.fr/politique/francois-mitterrand/temoignages-progres-sociaux-construction-europeenne-diplomatie-quel-est-l-heritage-de-francois-mitterrand-30-ans-apres-sa-mort_7726858.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767860573.5322132,
+        "id": 1957101651
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-les-innovations-les-plus-folles-du-ces_VN-202601080250.html": {
+        "added_at": 1767860575.579562,
+        "id": 1957101667
+    },
+    "https://www.bfmtv.com/economie/entreprises/transports/elle-a-decale-les-negociations-pour-eviter-une-greve-a-noel-elle-a-verse-400-euros-de-prime-qualifiee-d-arnaque-par-la-cgt-la-sncf-de-castex-tente-de-deminer-les-prochaines-nao-pour-eviter-la-greve-du-13-janvier_AV-202601080256.html": {
+        "added_at": 1767860577.0722098,
+        "id": 1957101674
+    },
+    "https://www.bfmtv.com/economie/entreprises/sncf-entreprise-ferroviaire-francaise-trains_DN-202108310516.html": {
+        "added_at": 1767860579.2718728,
+        "id": 1956077980
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-la-france-veut-interdire-les-reseaux-aux-moins-de-15-ans_VN-202601080260.html": {
+        "added_at": 1767860580.86842,
+        "id": 1957101695
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/french-tech/french-tech-touch-sensity-offre-une-maintenance-predictive-08-01_EN-202601080269.html": {
+        "added_at": 1767860586.233183,
+        "id": 1957101718
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/french-tech-touch-sensity-offre-une-maintenance-predictive-08-01_EN-202601080268.html": {
+        "added_at": 1767860587.7362447,
+        "id": 1957101729
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/french-tech/video-french-tech-touch-sensity-offre-une-maintenance-predictive-08-01_VN-202601080271.html": {
+        "added_at": 1767860589.3473587,
+        "id": 1957101740
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-touch-sensity-effectue-des-tests-avec-la-ratp_VN-202601080275.html": {
+        "added_at": 1767860590.7598727,
+        "id": 1957101750
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/la-carte-blanche/video-les-patrons-ont-la-parole-guillaume-gibault-08-01_VN-202601080281.html": {
+        "added_at": 1767860592.326276,
+        "id": 1957101763
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/la-carte-blanche/les-patrons-ont-la-parole-guillaume-gibault-08-01_EN-202601080277.html": {
+        "added_at": 1767860594.1017923,
+        "id": 1957101774
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/le-debrief-de-l-actu-budget-2026-le-gouvernement-negocie-son-49-3-08-01_EN-202601080283.html": {
+        "added_at": 1767860595.625255,
+        "id": 1957101788
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-le-debrief-de-l-actu-budget-2026-le-gouvernement-negocie-son-49-3-08-01_VN-202601080285.html": {
+        "added_at": 1767860597.142926,
+        "id": 1957101801
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/l-integrale-de-good-morning-business-du-jeudi-8-janvier_EN-202601080297.html": {
+        "added_at": 1767860598.6770992,
+        "id": 1957101811
+    },
+    "https://www.bfmtv.com/economie/international/un-nouveau-signe-de-rechauffement-diplomatique-entre-le-bangladesh-et-le-pakistan-apres-plus-de-13-ans-d-interruption-les-vols-directs-vont-reprendre-entre-les-deux-pays_AD-202601080302.html": {
+        "added_at": 1767860600.0552232,
+        "id": 1957101820
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/video-l-eclaireur-08-01_VN-202601080307.html": {
+        "added_at": 1767860601.600527,
+        "id": 1957101829
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/l-eclaireur-08-01_EN-202601080308.html": {
+        "added_at": 1767860603.1735036,
+        "id": 1957101841
+    },
+    "https://www.ft.com/content/d7cc6031-bf9f-4b86-908c-7c350c8fed0e": {
+        "added_at": 1767860605.3240676,
+        "id": 1957101860
+    },
+    "https://www.ft.com/content/745aa7d9-31eb-4cbc-bfca-08acfd8d4440": {
+        "added_at": 1767860606.6062872,
+        "id": 1957101868
+    },
+    "https://gist.github.com/attractivechaos/d2efc77cc1db56bbd5fc597987e73338": {
+        "added_at": 1767860608.7765594,
+        "id": 1957101880
+    },
+    "https://elpais.com/economia/2026-01-07/1000-cabezas-mas-el-programa-con-el-que-merz-busca-hacer-mas-atractiva-alemania-para-aprovechar-la-fuga-de-cerebros-de-ee-uu.html": {
+        "added_at": 1767860610.4420617,
+        "id": 1956449367
+    },
+    "https://elpais.com/economia/branded/el-poder-de-las-empresas/2025-12-29/el-lugar-donde-conviven-la-tradicion-y-la-innovacion.html": {
+        "added_at": 1767860612.514288,
+        "id": 1957101898
+    },
+    "https://elpais.com/economia/2026-01-08/el-precio-de-la-gasolina-cae-por-sexta-semana-consecutiva-y-toca-minimos-desde-septiembre-de-2021.html": {
+        "added_at": 1767860614.030525,
+        "id": 1957101903
+    },
+    "https://cincodias.elpais.com/companias/2026-01-08/moeve-y-galp-negocian-la-integracion-de-sus-gasolineras-y-refinerias.html": {
+        "added_at": 1767860615.3163683,
+        "id": 1957101911
+    },
+    "https://elpais.com/internacional/2026-01-08/ultimas-noticias-de-venezuela-tras-la-detencion-de-maduro-en-directo.html": {
+        "added_at": 1767860616.622216,
+        "id": 1957101918
     }
 }
