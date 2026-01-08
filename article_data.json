@@ -1,72 +1,4 @@
 {
-    "https://www.franceinfo.fr/sports/foot/ligue-1/match-lille-rennes-la-fff-apporte-son-total-soutien-au-journaliste-victime-de-cyberharcelement-pour-avoir-denonce-des-chants-homophobes_7726822.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767824121.901564,
-        "id": 1956893222
-    },
-    "https://www.franceinfo.fr/monde/usa/dans-le-minnesota-une-femme-a-ete-abattue-par-la-police-de-l-immigration-americaine-lors-d-une-operation_7726843.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767824124.093672,
-        "id": 1956893236
-    },
-    "https://www.franceinfo.fr/environnement/meteo/neige/neige-et-verglas-quelle-est-la-bonne-conduite-a-adopter-sur-les-routes_7726798.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767824126.0989957,
-        "id": 1956893248
-    },
-    "https://www.ft.com/content/ac518567-d901-4fae-86a3-eab54b12a81d": {
-        "added_at": 1767824128.7607229,
-        "id": 1956893269
-    },
-    "https://www.ft.com/content/2cb0d821-18f9-4f5e-a5d1-19aa1aa25bf8": {
-        "added_at": 1767824130.1530123,
-        "id": 1956893282
-    },
-    "https://www.ft.com/content/dcf1e269-70f9-40d9-92b4-e064a08976cd": {
-        "added_at": 1767824132.3226573,
-        "id": 1956893302
-    },
-    "https://ieeexplore.ieee.org/document/11280260": {
-        "added_at": 1767824134.3173697,
-        "id": 1956893317
-    },
-    "https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself": {
-        "added_at": 1767824135.7348096,
-        "id": 1956893331
-    },
-    "https://bikemap.nyc/": {
-        "added_at": 1767824137.1311843,
-        "id": 1956893338
-    },
-    "https://openai.com/index/introducing-chatgpt-health/": {
-        "added_at": 1767824138.584639,
-        "id": 1956893351
-    },
-    "https://www.newscientist.com/article/mg23931900-400-this-man-spent-months-alone-underground-and-it-warped-his-mind/": {
-        "added_at": 1767824140.1144712,
-        "id": 1956893360
-    },
-    "https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration": {
-        "added_at": 1767824141.5998833,
-        "id": 1956893373
-    },
-    "https://rodneybrooks.com/predictions-scorecard-2026-january-01/": {
-        "added_at": 1767824143.5008113,
-        "id": 1956893387
-    },
-    "https://surgehq.ai/blog/lmarena-is-a-plague-on-ai": {
-        "added_at": 1767824144.8854105,
-        "id": 1956893398
-    },
-    "https://elpais.com/quadern/literatura/2026-01-07/els-nou-llibres-dharu-emocio-i-unio-que-recorda-els-relats-de-tolstoi.html": {
-        "added_at": 1767824146.641419,
-        "id": 1956893407
-    },
-    "https://elpais.com/deportes/futbol/2026-01-07/un-barcelona-optimista-golea-al-manso-athletic-en-la-supercopa-de-espana.html": {
-        "added_at": 1767824148.0379424,
-        "id": 1956893418
-    },
-    "https://elpais.com/internacional/2026-01-07/el-plan-de-tres-fases-de-estados-unidos-para-venezuela-estabilizacion-recuperacion-y-transicion.html": {
-        "added_at": 1767824149.4196606,
-        "id": 1956893427
-    },
     "https://www.franceinfo.fr/economie/greve/greve-des-medecins/greve-des-medecins-l-activite-a-baisse-de-15-lundi-chez-les-generalistes-rapporte-la-ministre-de-la-sante_7726867.html#xtor=RSS-3-[lestitres]": {
         "added_at": 1767827759.1607447,
         "id": 1956916946
@@ -2890,5 +2822,97 @@
     "https://www.monde-diplomatique.fr/2026/01/VAUCHEZ/69180": {
         "added_at": 1767907007.8463404,
         "id": 1957414848
+    },
+    "https://www.franceinfo.fr/faits-divers/incendie-dans-un-bar-de-crans-montana-en-suisse/incendie-a-crans-montana-ces-etablissements-de-nuit-qui-suppriment-les-feux-de-bengale_7729009.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767910543.0925477,
+        "id": 1957435044
+    },
+    "https://www.franceinfo.fr/economie/crise/blocus-des-agriculteurs/colere-agricole-la-coordination-rurale-appelle-ses-troupes-au-repos-le-ministre-de-l-interieur-a-denombre-67-actions-sur-le-territoire_7729006.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767910545.1639497,
+        "id": 1957435064
+    },
+    "https://www.franceinfo.fr/politique/colere-agricole-jordan-bardella-annonce-que-le-rn-deposera-une-motion-de-censure-contre-le-gouvernement-de-sebastien-lecornu_7728985.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767910547.549757,
+        "id": 1957435078
+    },
+    "https://www.franceinfo.fr/faits-divers/incendie-mortel-d-une-maison-en-meurthe-et-moselle-six-personnes-interpellees-dont-trois-mineurs_7728991.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767910550.3268864,
+        "id": 1957435102
+    },
+    "https://www.franceinfo.fr/societe/education/le-ministre-de-l-education-nationale-confirme-l-arret-des-groupes-de-besoins-obligatoires-a-la-rentree-2026_7728964.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767910552.652384,
+        "id": 1957435117
+    },
+    "https://www.franceinfo.fr/economie/commerce/mercosur/la-france-votera-contre-le-traite-ue-mercosur-enfin-le-president-est-clair-mais-c-est-trop-tard-declare-le-vice-president-de-la-fnsea_7729018.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767910554.6020823,
+        "id": 1957435127
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-tech-co-la-quotidienne-speciale-ces-de-las-vegas-jeudi-8-janvier_VN-202601081017.html": {
+        "added_at": 1767910556.408879,
+        "id": 1957435135
+    },
+    "https://www.ft.com/content/140d956d-505f-45a2-ae3e-25eba25d64e3": {
+        "added_at": 1767910558.9714296,
+        "id": 1957435150
+    },
+    "https://www.ft.com/content/8d9aca04-5675-4d38-bf22-1fcb2f1a862b": {
+        "added_at": 1767910560.3040774,
+        "id": 1957435161
+    },
+    "https://www.ft.com/content/f256cc27-b80f-4fce-88cf-e80cb2451ef5": {
+        "added_at": 1767910561.8688638,
+        "id": 1957435167
+    },
+    "https://www.ft.com/content/3e99db1c-a33b-4f0c-9f3a-cc64c4cb0a97": {
+        "added_at": 1767910563.185968,
+        "id": 1957435174
+    },
+    "https://www.ft.com/content/93b4e80d-724a-4384-9e39-f6ff9474373a": {
+        "added_at": 1767910564.5126975,
+        "id": 1957435182
+    },
+    "https://www.ft.com/content/3c9f8007-6692-457e-8d44-2ae461f7f156": {
+        "added_at": 1767910565.8302758,
+        "id": 1957435190
+    },
+    "https://arstechnica.com/tech-policy/2026/01/warner-bros-sticks-with-netflix-merger-calls-paramounts-108b-bid-illusory/": {
+        "added_at": 1767910567.581722,
+        "id": 1956868966
+    },
+    "https://lwn.net/Articles/970907/": {
+        "added_at": 1767910569.198516,
+        "id": 1957435209
+    },
+    "https://finance.yahoo.com/news/memoir-steve-jobs-apos-daughter-133000491.html": {
+        "added_at": 1767910570.976824,
+        "id": 1957435214
+    },
+    "https://www.bleepingcomputer.com/news/security/texas-court-blocks-samsung-from-tracking-tv-viewing-then-vacates-order/": {
+        "added_at": 1767910572.2852829,
+        "id": 1957435222
+    },
+    "https://web.archive.org/web/20180719052026/http://item.warp.net/interview/aphex-twin-speaks-to-tatsuya-takahashi/": {
+        "added_at": 1767910573.5807848,
+        "id": 1957435229
+    },
+    "https://docs.base14.io/blog/introducing-pgx/": {
+        "added_at": 1767910574.882453,
+        "id": 1957435233
+    },
+    "https://sql.studio/": {
+        "added_at": 1767910576.1793942,
+        "id": 1957435244
+    },
+    "https://elpais.com/internacional/2026-01-07/ivan-cepeda-candidato-presidencial-en-colombia-la-politica-de-trump-lleva-a-la-tercera-guerra-mundial.html": {
+        "added_at": 1767910578.7487905,
+        "id": 1956869087
+    },
+    "https://elpais.com/deportes/futbol/2026-01-08/el-psg-vence-al-marsella-en-los-penaltis-y-se-lleva-la-supercopa-de-francia.html": {
+        "added_at": 1767910580.2319274,
+        "id": 1957435272
+    },
+    "https://elpais.com/america/2026-01-08/venezuela-anuncia-la-liberacion-de-un-numero-importante-de-presos-como-gesto-de-paz-unilateral.html": {
+        "added_at": 1767910581.5093925,
+        "id": 1957435280
     }
 }
