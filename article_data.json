@@ -1,100 +1,4 @@
 {
-    "https://www.bleepingcomputer.com/news/security/texas-court-blocks-samsung-from-tracking-tv-viewing-then-vacates-order/": {
-        "added_at": 1767910572.2852829,
-        "id": 1957435222
-    },
-    "https://web.archive.org/web/20180719052026/http://item.warp.net/interview/aphex-twin-speaks-to-tatsuya-takahashi/": {
-        "added_at": 1767910573.5807848,
-        "id": 1957435229
-    },
-    "https://docs.base14.io/blog/introducing-pgx/": {
-        "added_at": 1767910574.882453,
-        "id": 1957435233
-    },
-    "https://sql.studio/": {
-        "added_at": 1767910576.1793942,
-        "id": 1957435244
-    },
-    "https://elpais.com/internacional/2026-01-07/ivan-cepeda-candidato-presidencial-en-colombia-la-politica-de-trump-lleva-a-la-tercera-guerra-mundial.html": {
-        "added_at": 1767910578.7487905,
-        "id": 1956869087
-    },
-    "https://elpais.com/deportes/futbol/2026-01-08/el-psg-vence-al-marsella-en-los-penaltis-y-se-lleva-la-supercopa-de-francia.html": {
-        "added_at": 1767910580.2319274,
-        "id": 1957435272
-    },
-    "https://elpais.com/america/2026-01-08/venezuela-anuncia-la-liberacion-de-un-numero-importante-de-presos-como-gesto-de-paz-unilateral.html": {
-        "added_at": 1767910581.5093925,
-        "id": 1957435280
-    },
-    "https://www.franceinfo.fr/monde/syrie/en-syrie-des-affrontements-violents-pour-la-troisieme-nuit-entre-l-armee-et-les-forces-kurdes_7729042.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767914045.6756947,
-        "id": 1957454589
-    },
-    "https://www.franceinfo.fr/monde/palestine/gaza/dans-la-bande-de-gaza-la-defense-civile-fait-etat-de-huit-morts-dont-cinq-enfants-dans-des-frappes-israeliennes_7729039.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767914048.06732,
-        "id": 1957454599
-    },
-    "https://www.ft.com/content/0bf6b04c-8c21-40f1-8960-d76b033450fd": {
-        "added_at": 1767914050.176345,
-        "id": 1957454619
-    },
-    "https://www.ft.com/content/0e1762e0-8aa6-44b5-977c-0865ecdcbb7d": {
-        "added_at": 1767914051.3558314,
-        "id": 1957454625
-    },
-    "https://arstechnica.com/tech-policy/2026/01/fcc-to-authorize-more-powerful-wireless-devices-in-6-ghz-wi-fi-band/": {
-        "added_at": 1767914052.7023613,
-        "id": 1957454636
-    },
-    "https://arstechnica.com/security/2026/01/michigan-man-learns-the-hard-way-that-catch-a-cheater-spyware-apps-arent-legal/": {
-        "added_at": 1767914053.8779097,
-        "id": 1957454644
-    },
-    "https://fahrplan.events.ccc.de/congress/2025/fahrplan/event/making-the-magic-leap-past-nvidia-s-secure-bootchain-and-breaking-some-tesla-autopilots-along-the-way": {
-        "added_at": 1767914055.13173,
-        "id": 1957454649
-    },
-    "https://www.iranintl.com/en/202601085355": {
-        "added_at": 1767914056.299094,
-        "id": 1957454656
-    },
-    "https://boltsmag.org/prosecuted-for-voting-american-samoans-alaska/": {
-        "added_at": 1767914057.465148,
-        "id": 1957454661
-    },
-    "https://www.localvideoapp.com": {
-        "added_at": 1767914058.6564858,
-        "id": 1957454668
-    },
-    "https://pouyaii.github.io/Iran/": {
-        "added_at": 1767914065.7159603,
-        "id": 1957454721
-    },
-    "https://elpais.com/deportes/baloncesto/2026-01-08/un-monaco-arrollador-frena-al-valencia-en-el-roig-arena.html": {
-        "added_at": 1767914067.16113,
-        "id": 1957454737
-    },
-    "https://elpais.com/deportes/futbol/2026-01-08/el-arsenal-se-sigue-pidiendo-la-premier-tras-empatar-con-el-liverpool.html": {
-        "added_at": 1767914068.3300207,
-        "id": 1957454745
-    },
-    "https://elpais.com/internacional/2026-01-08/iran-restringe-el-acceso-a-internet-en-medio-de-unas-protestas-que-se-han-cobrado-al-menos-45-fallecidos.html": {
-        "added_at": 1767914069.6605544,
-        "id": 1957454756
-    },
-    "https://elpais.com/deportes/futbol/2026-01-08/simeone-a-vinicius-durante-la-semifinal-de-la-supercopa-acordate-florentino-te-va-a-echar.html": {
-        "added_at": 1767914070.836436,
-        "id": 1957454764
-    },
-    "https://elpais.com/deportes/futbol/2026-01-08/courtois-sobre-el-gol-de-valverde-ha-sido-de-dibujos-animados.html": {
-        "added_at": 1767914071.9866195,
-        "id": 1957454773
-    },
-    "https://elpais.com/deportes/futbol/2026-01-08/courtois-y-valverde-propician-otro-clasico-en-la-supercopa-de-arabia-saudi.html": {
-        "added_at": 1767914073.1596596,
-        "id": 1957454781
-    },
     "https://www.ft.com/content/a39530b9-cf7f-4084-9b0a-1aa19308a102": {
         "added_at": 1767921268.9240968,
         "id": 1957491170
@@ -2798,5 +2702,77 @@
     "https://elpais.com/economia/2026-01-09/imaz-repsol-estamos-listos-para-invertir-mas-en-venezuela-y-triplicar-la-produccion-alli.html": {
         "added_at": 1767996970.681784,
         "id": 1958003900
+    },
+    "https://www.franceinfo.fr/sante/alimentation/nestle-rallonge-la-liste-des-pays-touches-par-le-rappel-de-laits-infantiles_7731328.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768000522.614653,
+        "id": 1958025885
+    },
+    "https://www.franceinfo.fr/culture/tv/trois-ex-candidats-de-la-tele-realite-love-is-blind-france-signalent-des-traitements-inhumains_7731355.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768000524.9472861,
+        "id": 1958025896
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/c-est-votre-argent/la-question-de-la-semaine-va-t-on-avoir-une-meilleure-croissance-09-01_EN-202601090971.html": {
+        "added_at": 1768000526.5529263,
+        "id": 1958025906
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/c-est-votre-argent/video-la-semaine-de-l-economie-09-01_VN-202601090976.html": {
+        "added_at": 1768000528.3931246,
+        "id": 1958025916
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/c-est-votre-argent/le-chiffre-de-la-semaine-a-deviner-09-01_EN-202601090975.html": {
+        "added_at": 1768000529.6723492,
+        "id": 1958025920
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/c-est-votre-argent/les-marches-ou-va-la-bourse-en-2026-09-01_EN-202601090980.html": {
+        "added_at": 1768000531.0809846,
+        "id": 1958025930
+    },
+    "https://arstechnica.com/health/2026/01/rfk-jr-s-dietary-guidelines-beef-tallow-is-in-but-no-booze-for-breakfast/": {
+        "added_at": 1768000533.2389414,
+        "id": 1957414622
+    },
+    "https://arstechnica.com/gadgets/2026/01/high-ram-prices-mean-record-setting-profits-for-samsung-and-other-memory-makers/": {
+        "added_at": 1768000534.7434406,
+        "id": 1957414630
+    },
+    "https://arstechnica.com/google/2026/01/google-dont-make-bite-sized-content-for-llms-if-you-care-about-search-rank/": {
+        "added_at": 1768000535.9205477,
+        "id": 1958025967
+    },
+    "https://arstechnica.com/health/2026/01/measles-continues-raging-in-south-carolina-99-new-cases-since-tuesday/": {
+        "added_at": 1768000537.0979497,
+        "id": 1958025976
+    },
+    "https://www.mihaileric.com/The-Emperor-Has-No-Clothes/": {
+        "added_at": 1768000538.3842459,
+        "id": 1957394685
+    },
+    "https://github.com/denoland/deno/issues/31254": {
+        "added_at": 1768000539.6176493,
+        "id": 1958025994
+    },
+    "https://ragdollmayhemmaker.com/": {
+        "added_at": 1768000540.848979,
+        "id": 1958026004
+    },
+    "https://elpais.com/tecnologia/2026-01-06/coches-y-robots-que-razonan-como-humanos-nvidia-lanza-su-nueva-ia-para-asaltar-el-mundo-real.html": {
+        "added_at": 1768000542.7050552,
+        "id": 1956214478
+    },
+    "https://elpais.com/ciencia/2026-01-07/veneno-en-flechas-de-hace-60000-anos-hallada-la-prueba-mas-antigua-de-su-uso-en-armas-humanas.html": {
+        "added_at": 1768000545.0923827,
+        "id": 1956800879
+    },
+    "https://www.monde-diplomatique.fr/2026/01/JULIEN_THOMAS/69174": {
+        "added_at": 1768000548.365232,
+        "id": 1955576489
+    },
+    "https://www.monde-diplomatique.fr/2026/01/MERIEAU/69176": {
+        "added_at": 1768000550.3547852,
+        "id": 1956236659
+    },
+    "https://www.monde-diplomatique.fr/2026/01/VAUCHEZ/69180": {
+        "added_at": 1768000552.6922057,
+        "id": 1957414848
     }
 }
