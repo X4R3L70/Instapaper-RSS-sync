@@ -1,176 +1,4 @@
 {
-    "https://arstechnica.com/science/2026/01/new-battery-idea-gets-lots-of-power-out-of-unusual-sulfur-chemistry/": {
-        "added_at": 1767896721.9732316,
-        "id": 1956748499
-    },
-    "https://arstechnica.com/cars/2026/01/evs-remain-a-niche-choice-in-the-us-according-to-survey/": {
-        "added_at": 1767896723.5505354,
-        "id": 1956748508
-    },
-    "https://sakana.ai/drq/": {
-        "added_at": 1767896724.851329,
-        "id": 1957351043
-    },
-    "https://epoch.ai/data-insights/us-vs-china-eci": {
-        "added_at": 1767896726.3252425,
-        "id": 1957351056
-    },
-    "https://arxiv.org/abs/2512.24617": {
-        "added_at": 1767896730.7442317,
-        "id": 1957351086
-    },
-    "https://radar.cloudflare.com/routing/ir": {
-        "added_at": 1767896731.994912,
-        "id": 1957351095
-    },
-    "https://elpais.com/ciencia/2026-01-07/hallados-en-marruecos-los-restos-del-antepasado-del-homo-sapiens-que-vivio-hace-770000-anos.html": {
-        "added_at": 1767896734.609571,
-        "id": 1956721725
-    },
-    "https://elpais.com/espana/2026-01-08/la-audiencia-de-palma-ordena-reabrir-una-causa-judicial-contra-el-presidente-del-consell-de-ibiza.html": {
-        "added_at": 1767896736.2707853,
-        "id": 1957351136
-    },
-    "https://elpais.com/mexico/2026-01-08/cafe-tacvba-pide-que-se-retire-su-musica-de-spotify-no-queremos-que-nuestras-regalias-sean-utilizadas-para-patrocinar-guerras.html": {
-        "added_at": 1767896737.654138,
-        "id": 1957351143
-    },
-    "https://elpais.com/cultura/2026-01-08/una-exposicion-en-nueva-york-una-subasta-millonaria-y-un-juicio-en-suiza-las-pistas-que-condujeron-a-dos-esculturas-romanas-expoliadas-en-espana.html": {
-        "added_at": 1767896739.0427382,
-        "id": 1957351156
-    },
-    "https://elpais.com/opinion/2026-01-07/los-precedentes-de-la-operacion-de-trump-en-venezuela.html": {
-        "added_at": 1767896740.4718113,
-        "id": 1956721738
-    },
-    "https://elpais.com/economia/2026-01-08/la-justicia-alemana-da-la-razon-a-edreams-y-falla-contra-ryanair-por-practicas-ilegales.html": {
-        "added_at": 1767896741.8019178,
-        "id": 1957351172
-    },
-    "https://elpais.com/internacional/2026-01-08/renee-nicole-good-la-poeta-y-madre-de-tres-hijos-que-murio-tiroteada-en-minneapolis-por-un-agente-antinmigracion.html": {
-        "added_at": 1767896743.0095363,
-        "id": 1957351179
-    },
-    "https://elpais.com/america-colombia/2026-01-08/la-comision-secreta-de-petro-que-negocio-bombardeos-y-fumigaciones-en-colombia-para-contentar-a-trump.html": {
-        "added_at": 1767896744.5030034,
-        "id": 1957351192
-    },
-    "https://elpais.com/internacional/2026-01-08/trump-sostiene-que-estados-unidos-controlara-venezuela-durante-anos.html": {
-        "added_at": 1767896745.707395,
-        "id": 1957351202
-    },
-    "https://www.franceinfo.fr/monde/onu/le-chef-de-l-onu-regrette-le-retrait-des-etats-unis-de-nombreuses-organisations-onusiennes_7728835.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767899724.6756017,
-        "id": 1957370548
-    },
-    "https://www.franceinfo.fr/monde/iran/en-iran-au-moins-45-manifestants-tues-depuis-le-debut-de-la-contestation-rapporte-une-ong_7728880.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767899726.6145818,
-        "id": 1957370564
-    },
-    "https://www.franceinfo.fr/france/normandie/tempete-goretti-renfort-de-150-pompiers-cellules-de-crise-plans-d-urgence-dans-la-manche-les-autorites-s-organisent-pour-faire-face_7728556.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767899729.8594522,
-        "id": 1957370585
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/le-18h-eco/video-le-19h-eco-jeudi-8-janvier_VN-202601080884.html": {
-        "added_at": 1767899731.371324,
-        "id": 1957370593
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/le-18h-eco/le-19h-eco-jeudi-8-janvier_EN-202601080880.html": {
-        "added_at": 1767899732.6590981,
-        "id": 1957370603
-    },
-    "https://www.bfmtv.com/economie/video-la-technologie-au-service-de-l-inclusion_VN-202601080910.html": {
-        "added_at": 1767899733.980741,
-        "id": 1957370614
-    },
-    "https://www.ft.com/content/f21bf2dd-dae3-45cb-b0ce-d8618f53c3a5": {
-        "added_at": 1767899735.6270173,
-        "id": 1957370627
-    },
-    "https://www.ft.com/content/ee125c55-8d2d-4a1f-a42a-3ac6f0a8ed16": {
-        "added_at": 1767899736.7889087,
-        "id": 1957370638
-    },
-    "https://www.ft.com/content/32f708af-2929-4fc0-9562-537e3d47bd03": {
-        "added_at": 1767899737.9684985,
-        "id": 1957370654
-    },
-    "https://www.ft.com/content/a31656fc-eab2-4620-8a57-b5158bced0ae": {
-        "added_at": 1767899739.1489832,
-        "id": 1957370665
-    },
-    "https://arstechnica.com/science/2026/01/japanese-nuclear-plant-operator-fabricated-seismic-risk-data/": {
-        "added_at": 1767899740.774091,
-        "id": 1956777064
-    },
-    "https://arstechnica.com/gaming/2026/01/steamos-continues-its-slow-spread-across-the-pc-gaming-landscape/": {
-        "added_at": 1767899742.6922834,
-        "id": 1956777074
-    },
-    "https://arstechnica.com/gaming/2026/01/seasonal-switch-2-sales-show-significant-slowing-as-annual-cycle-sunsets/": {
-        "added_at": 1767899743.867041,
-        "id": 1957370696
-    },
-    "https://arstechnica.com/ai/2026/01/chatgpt-health-lets-you-connect-medical-records-to-an-ai-that-makes-things-up/": {
-        "added_at": 1767899745.0527368,
-        "id": 1957370700
-    },
-    "https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer": {
-        "added_at": 1767899746.3234563,
-        "id": 1957370709
-    },
-    "https://www.nasa.gov/missions/chandra/supernova-remnant-video-from-nasas-chandra-is-decades-in-making/": {
-        "added_at": 1767899747.5146804,
-        "id": 1957370719
-    },
-    "https://sfstandard.com/2026/01/07/called-terrorist-sympathizer-now-ai-company-valued-3b/": {
-        "added_at": 1767899748.6822371,
-        "id": 1957370727
-    },
-    "https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/": {
-        "added_at": 1767899749.8572524,
-        "id": 1956721555
-    },
-    "https://sigma-star.at/blog/2025/12/unix-v4-buffer-overflow/": {
-        "added_at": 1767899751.021555,
-        "id": 1957370751
-    },
-    "https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware": {
-        "added_at": 1767899752.2553494,
-        "id": 1957370764
-    },
-    "https://elpais.com/deportes/2026-01-08/la-leccion-de-schareina-y-canet-aprender-de-los-errores-para-poder-ganar.html": {
-        "added_at": 1767899754.8127913,
-        "id": 1957370786
-    },
-    "https://elpais.com/internacional/2026-01-08/el-alcalde-de-berlin-en-la-diana-por-irse-a-jugar-a-tenis-durante-el-apagon-que-dejo-45000-hogares-sin-luz.html": {
-        "added_at": 1767899755.9868891,
-        "id": 1957370797
-    },
-    "https://elpais.com/ciencia/2026-01-08/por-que-sonreimos-el-cerebro-orquesta-las-expresiones-faciales-como-una-sinfonia.html": {
-        "added_at": 1767899757.9797215,
-        "id": 1957370809
-    },
-    "https://elpais.com/internacional/2026-01-08/turquia-amenaza-con-intervenir-en-siria-ante-la-escalada-en-los-combates-entre-el-gobierno-y-las-milicias-kurdas.html": {
-        "added_at": 1767899759.399752,
-        "id": 1957370821
-    },
-    "https://elpais.com/deportes/futbol/2026-01-08/atletico-real-madrid-en-directo-la-semifinal-de-la-supercopa-de-espana-en-vivo.html": {
-        "added_at": 1767899760.5563903,
-        "id": 1957370828
-    },
-    "https://elpais.com/economia/2026-01-08/la-casa-blanca-convoca-a-repsol-a-la-reunion-que-mantendra-este-viernes-con-las-grandes-petroleras.html": {
-        "added_at": 1767899762.0692465,
-        "id": 1957370833
-    },
-    "https://elpais.com/espana/2026-01-08/venezuela-libera-a-los-cuatro-presos-con-nacionalidad-exclusivamente-espanola.html": {
-        "added_at": 1767899764.376054,
-        "id": 1957370847
-    },
-    "https://www.monde-diplomatique.fr/2026/01/BREVILLE/69172": {
-        "added_at": 1767899767.4432628,
-        "id": 1955551075
-    },
     "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/femme-tuee-par-la-police-a-minneapolis-plus-de-30-millions-d-interactions-sur-tiktok-et-instagram-ces-dernieres-24-heures_7728682.html#xtor=RSS-3-[lestitres]": {
         "added_at": 1767903516.9716747,
         "id": 1957394379
@@ -2910,5 +2738,125 @@
     "https://elpais.com/espana/catalunya/2026-01-09/illa-defiende-que-el-modelo-de-financiacion-no-privilegia-a-cataluna-y-pide-el-apoyo-de-junts.html": {
         "added_at": 1767983119.5274494,
         "id": 1957904231
+    },
+    "https://www.franceinfo.fr/faits-divers/incendie-dans-un-bar-de-crans-montana-en-suisse/reportage-c-est-rare-que-la-suisse-s-unisse-comme-ca-a-crans-montana-un-hommage-emu-a-ete-rendu-aux-victimes-de-l-incendie_7730908.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767986191.3656466,
+        "id": 1957927174
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-la-data-room-13-par-an-la-hausse-des-benefices-des-entreprises-attendue-pour-les-3-prochaines-annees-pour-justifier-le-prix-de-marche-aujourd-hui-09-01_VN-202601090849.html": {
+        "added_at": 1767986193.0128767,
+        "id": 1957927189
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/01-business/video-neural-reinvente-l-ingenierie-avec-l-ia-08-01_VN-202601090854.html": {
+        "added_at": 1767986194.6216323,
+        "id": 1957927204
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/la-data-room-13-par-an-la-hausse-des-benefices-des-entreprises-attendue-pour-les-3-prochaines-annees-pour-justifier-le-prix-de-marche-aujourd-hui-09-01_EN-202601090853.html": {
+        "added_at": 1767986196.0114079,
+        "id": 1957927210
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/01-business/video-airudit-le-chat-gpt-francais-de-la-voix-09-01_VN-202601090867.html": {
+        "added_at": 1767986197.6243544,
+        "id": 1957927218
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/01-business/video-tech-co-business-speciale-ces-de-las-vegas-jeudi-8-janvier_VN-202601090877.html": {
+        "added_at": 1767986199.0398731,
+        "id": 1957927233
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/01-business/airudit-le-chat-gpt-francais-de-la-voix-09-01_EN-202601090861.html": {
+        "added_at": 1767986200.4806,
+        "id": 1957927244
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/01-business/l-integrale-de-tech-co-business-speciale-ces-de-las-vegas-du-jeudi-8-janvier_EN-202601090868.html": {
+        "added_at": 1767986201.8387573,
+        "id": 1957927255
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/le-18h-eco/video-le-19h-eco-vendredi-9-janvier_VN-202601090879.html": {
+        "added_at": 1767986203.2773185,
+        "id": 1957927266
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/le-18h-eco/le-19h-eco-vendredi-9-janvier_EN-202601090875.html": {
+        "added_at": 1767986204.8046994,
+        "id": 1957927276
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/le-18h-eco/video-le-19h-eco-vendredi-9-janvier_VN-202601090887.html": {
+        "added_at": 1767986206.2438197,
+        "id": 1957927289
+    },
+    "https://www.bfmtv.com/economie/economie-social/france/albert-s-en-va-l-outil-d-ia-generative-experimente-a-france-services-ne-sera-pas-generalise_AD-202601090881.html": {
+        "added_at": 1767986207.519122,
+        "id": 1957927298
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/01-business/video-bconnect-solution-de-developpement-pure-ia-08-01_VN-202601090896.html": {
+        "added_at": 1767986208.9223015,
+        "id": 1957927304
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/01-business/bconnect-solution-de-developpement-pure-ia-08-01_EN-202601090897.html": {
+        "added_at": 1767986210.3462124,
+        "id": 1957927318
+    },
+    "https://arstechnica.com/science/2026/01/trump-withdraws-us-from-worlds-most-important-climate-treaty/": {
+        "added_at": 1767986212.1858337,
+        "id": 1957163687
+    },
+    "https://arstechnica.com/culture/2026/01/us-black-hawk-helicopter-trespasses-on-private-montana-ranch-to-grab-elk-antlers/": {
+        "added_at": 1767986213.3477736,
+        "id": 1957927342
+    },
+    "https://gitlab.com/jjg/ci-hush": {
+        "added_at": 1767986214.7069852,
+        "id": 1957927352
+    },
+    "https://quack.sdan.io": {
+        "added_at": 1767986216.460909,
+        "id": 1957927365
+    },
+    "https://github.com/nickponline/shreg": {
+        "added_at": 1767986217.6259494,
+        "id": 1957927375
+    },
+    "https://www.washingtonpost.com/immigration/2026/01/06/visa-bonds-state-overstay-rates/": {
+        "added_at": 1767986218.7821376,
+        "id": 1957927392
+    },
+    "https://www.media.mit.edu/projects/agonist-antagonist-myoneural-interface-ami/overview/": {
+        "added_at": 1767986219.94321,
+        "id": 1957927403
+    },
+    "https://www.nytimes.com/2026/01/07/science/poison-arrows-south-africa.html": {
+        "added_at": 1767986221.223113,
+        "id": 1957927412
+    },
+    "https://ezzeriesa.notion.site/How-to-store-a-chess-position-in-26-bytes-using-bit-level-magic-df1fdb5364eb42fdac11eb23b25e9605": {
+        "added_at": 1767986222.4673665,
+        "id": 1957927417
+    },
+    "https://www.dwitter.net/top": {
+        "added_at": 1767986223.6399014,
+        "id": 1957927425
+    },
+    "https://elpais.com/smoda/belleza/2026-01-08/madonna-caldea-el-ambiente-asi-es-la-sexual-campana-que-protagoniza-para-el-perfume-the-one-de-dolcegabbana.html": {
+        "added_at": 1767986226.1449292,
+        "id": 1957323860
+    },
+    "https://elpais.com/sociedad/2026-01-09/la-familia-de-la-nina-que-se-suicido-en-sevilla-se-querella-contra-el-colegio-y-los-docentes.html": {
+        "added_at": 1767986227.5009623,
+        "id": 1957927462
+    },
+    "https://elpais.com/us/migracion/2026-01-09/escala-la-crisis-en-estados-unidos-tras-dos-dias-sacudidos-por-la-muerte-de-una-mujer-a-manos-del-ice.html": {
+        "added_at": 1767986228.6623127,
+        "id": 1957927475
+    },
+    "https://elpais.com/economia/2026-01-09/fondos-record-acuerdo-multilateral-dificil.html": {
+        "added_at": 1767986229.8357723,
+        "id": 1957927482
+    },
+    "https://elpais.com/espana/catalunya/2026-01-09/los-agricultores-gerundenses-mantienen-cortada-la-ap-7-y-la-n-ii-desde-hace-mas-de-35-horas.html": {
+        "added_at": 1767986230.9950857,
+        "id": 1957927493
+    },
+    "https://elpais.com/espana/2026-01-09/pedro-sanchez-llama-a-delcy-rodriguez-y-edmundo-gonzalez-para-mantener-la-influencia-espanola-en-la-transicion-de-venezuela.html": {
+        "added_at": 1767986232.4411485,
+        "id": 1957927503
     }
 }
