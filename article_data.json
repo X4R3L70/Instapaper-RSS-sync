@@ -1,276 +1,4 @@
 {
-    "https://www.franceinfo.fr/sante/alimentation/pour-lidl-faire-de-la-pub-a-la-tele-francaise-ca-ne-vaut-plus-le-coup_7728508.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767892961.6607468,
-        "id": 1957323191
-    },
-    "https://www.franceinfo.fr/monde/royaume-uni/reportage-on-est-en-train-de-perdre-le-bon-sens-les-britanniques-dechires-par-la-proposition-d-abaisser-le-taux-d-alcool-autorise-au-volant_7728091.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767892963.9470134,
-        "id": 1957323219
-    },
-    "https://www.franceinfo.fr/monde/usa/migrants-aux-etats-unis/arrestations-arbitraires-expulsions-massives-on-vous-presente-l-ice-la-police-americaine-de-l-immigration-de-donald-trump_7728367.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767892966.1413312,
-        "id": 1957323244
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-vers-une-4eme-annee-d-affilee-de-forte-hausse-des-marches-08-01_VN-202601080730.html": {
-        "added_at": 1767892967.9245238,
-        "id": 1957323259
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/bfm-bourse-16h-17h-08-01_EN-202601080732.html": {
-        "added_at": 1767892969.7021923,
-        "id": 1957323273
-    },
-    "https://www.bfmtv.com/economie/video-france-premier-test-obligataire-de-2026-reussi_VN-202601080734.html": {
-        "added_at": 1767892971.3996396,
-        "id": 1957323294
-    },
-    "https://www.bfmtv.com/economie/video-trump-contre-la-liberte-du-marche_VN-202601080735.html": {
-        "added_at": 1767892973.2568018,
-        "id": 1957323309
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-le-club-a-11-mois-des-midterms-d-trump-devient-il-de-gauche-tout-en-restant-nationaliste-08-01_VN-202601080743.html": {
-        "added_at": 1767892975.0460181,
-        "id": 1957323323
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/le-club-a-11-mois-des-midterms-d-trump-devient-il-de-gauche-tout-en-restant-nationaliste-08-01_EN-202601080740.html": {
-        "added_at": 1767892979.9656155,
-        "id": 1957323357
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/la-data-room-80-gw-les-capacites-de-production-nucleaire-gaz-charbon-qui-vont-fermer-en-europe-d-ici-2035-soit-25-de-la-consommation-actuelle-08-01_EN-202601080750.html": {
-        "added_at": 1767892982.7377815,
-        "id": 1957323374
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-la-data-room-80-gw-les-capacites-de-production-nucleaire-gaz-charbon-qui-vont-fermer-en-europe-d-ici-2035-soit-25-de-la-consommation-actuelle-08-01_VN-202601080751.html": {
-        "added_at": 1767892984.411686,
-        "id": 1957323381
-    },
-    "https://www.bfmtv.com/economie/video-la-data-room-de-gilles-guibout_VN-202601080757.html": {
-        "added_at": 1767892986.1413414,
-        "id": 1957323401
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-on-refait-la-seance-abivax-monte-donnees-positives-pour-son-traitement-de-la-rectocolite-hemorragique-08-01_VN-202601080762.html": {
-        "added_at": 1767892987.8118653,
-        "id": 1957323418
-    },
-    "https://www.bfmtv.com/economie/entreprises/industries/face-a-un-carnet-de-commandes-plein-comme-un-uf-alstom-va-recruter-200-personnes-pour-fabriquer-des-tgv-sur-son-site-de-belfort_AV-202601080763.html": {
-        "added_at": 1767892995.6817687,
-        "id": 1957323471
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/on-refait-la-seance-abivax-monte-donnees-positives-pour-son-traitement-de-la-rectocolite-hemorragique-08-01_EN-202601080764.html": {
-        "added_at": 1767892997.3050103,
-        "id": 1957323486
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/bfm-bourse-17h-18h-08-01_EN-202601080765.html": {
-        "added_at": 1767892999.1038609,
-        "id": 1957323502
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/l-integrale-de-bfm-bourse-du-jeudi-8-janvier_EN-202601080773.html": {
-        "added_at": 1767893000.7295141,
-        "id": 1957323515
-    },
-    "https://www.ft.com/content/a2384f07-ce3a-450e-8ddb-bf718a3ef404": {
-        "added_at": 1767893003.0141373,
-        "id": 1957323536
-    },
-    "https://www.ft.com/content/2458e8dd-080d-41b6-8c6c-58c0fc03bcde": {
-        "added_at": 1767893004.4205863,
-        "id": 1957323548
-    },
-    "https://www.ft.com/content/d6407948-3df8-4cf4-b3b6-30485c62f58e": {
-        "added_at": 1767893006.4823859,
-        "id": 1957323562
-    },
-    "https://www.ft.com/content/0c73c29c-f4ce-44c3-9ea8-f6265c065635": {
-        "added_at": 1767893008.6063056,
-        "id": 1957323580
-    },
-    "https://www.ft.com/content/295b26d0-116a-4ef7-ade3-42c0031f7d03": {
-        "added_at": 1767893010.57089,
-        "id": 1957323593
-    },
-    "https://www.ft.com/content/a25a9dcd-73c1-4228-a6f4-3665cafc5719": {
-        "added_at": 1767893012.6616838,
-        "id": 1957323615
-    },
-    "https://www.ft.com/content/dff38ff5-28d7-44d8-81c9-539a3dd4d192": {
-        "added_at": 1767893015.0649126,
-        "id": 1957323637
-    },
-    "https://www.ft.com/content/19504fed-5e39-488f-b5b8-c9a7eb8a6b84": {
-        "added_at": 1767893017.2177982,
-        "id": 1957323658
-    },
-    "https://www.ft.com/content/cd8c2ef8-4ce0-4e91-a6f7-d10199254d21": {
-        "added_at": 1767893019.1373394,
-        "id": 1957323678
-    },
-    "https://www.ft.com/content/2126643f-914c-440d-8d48-9626edddeb2c": {
-        "added_at": 1767893021.2724879,
-        "id": 1957323697
-    },
-    "https://arstechnica.com/science/2026/01/trump-withdraws-us-from-worlds-most-important-climate-treaty/": {
-        "added_at": 1767893022.9503918,
-        "id": 1957163687
-    },
-    "https://marvinh.dev/blog/signals-vs-query-based-compilers/": {
-        "added_at": 1767893025.7574108,
-        "id": 1957323731
-    },
-    "https://www.caranddriver.com/news/a69938250/waymo-ojai-autonomous-robotaxi-details/": {
-        "added_at": 1767893027.1489263,
-        "id": 1957323744
-    },
-    "https://www.pbs.org/newshour/nation/minnesota-officials-say-they-cant-access-evidence-after-fatal-ice-shooting-and-fbi-wont-work-jointly-on-investigation": {
-        "added_at": 1767893028.557596,
-        "id": 1957323757
-    },
-    "https://www.ycombinator.com/companies/tamarind-bio/jobs/HPRZAz3-infrastructure-engineer": {
-        "added_at": 1767893029.9952192,
-        "id": 1957323774
-    },
-    "https://www.404media.co/inside-ices-tool-to-monitor-phones-in-entire-neighborhoods/": {
-        "added_at": 1767893031.4611797,
-        "id": 1957323786
-    },
-    "https://cincodias.elpais.com/companias/2026-01-08/los-gigantes-europeos-de-las-telecomunicaciones-instan-a-ribera-para-que-facilite-las-fusiones.html": {
-        "added_at": 1767893033.9446292,
-        "id": 1957323807
-    },
-    "https://cincodias.elpais.com/mercados-financieros/2026-01-08/la-bolsa-y-el-ibex-35.html": {
-        "added_at": 1767893036.2004373,
-        "id": 1957323825
-    },
-    "https://elpais.com/espana/2026-01-08/el-diario-de-leon-regala-un-calendario-de-2026-con-una-foto-de-franco.html": {
-        "added_at": 1767893037.8253324,
-        "id": 1957323840
-    },
-    "https://elpais.com/smoda/belleza/2026-01-08/madonna-caldea-el-ambiente-asi-es-la-sexual-campana-que-protagoniza-para-el-perfume-the-one-de-dolcegabbana.html": {
-        "added_at": 1767893039.6579998,
-        "id": 1957323860
-    },
-    "https://elpais.com/economia/2026-01-08/el-campo-europeo-protesta-contra-el-acuerdo-comercial-con-mercosur-en-visperas-de-su-votacion-por-las-capitales.html": {
-        "added_at": 1767893041.0582006,
-        "id": 1957323873
-    },
-    "https://www.franceinfo.fr/monde/russie/liberation-de-laurent-vinatier-jose-pereira-membre-du-comite-de-soutien-partage-sa-surprise-son-soulagement-et-son-bonheur_7728811.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767896648.1094382,
-        "id": 1957350386
-    },
-    "https://www.franceinfo.fr/societe/justice/algues-vertes-la-cour-de-cassation-ordonne-un-nouveau-proces-dans-le-dossier-de-la-mort-de-thierry-morfoisse_7728658.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767896651.8863583,
-        "id": 1957350404
-    },
-    "https://www.franceinfo.fr/monde/bresil/assaut-contre-des-lieux-de-pouvoir/le-president-bresilien-lula-pose-un-frein-aux-espoirs-de-reduction-de-peine-de-jair-bolsonaro_7728712.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767896654.6437309,
-        "id": 1957350422
-    },
-    "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/piratage-a-la-federation-francaise-de-tir-un-homme-interpelle-soupconne-d-avoir-participe-au-vol-de-donnees-d-un-grand-nombre-d-adherents_7728739.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767896658.688376,
-        "id": 1957350466
-    },
-    "https://www.franceinfo.fr/societe/education/interdiction-du-portable-au-lycee-le-temps-de-l-ecole-ce-n-est-pas-le-temps-du-telephone-assure-le-ministre-de-l-education-nationale_7728853.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767896677.2343955,
-        "id": 1957350642
-    },
-    "https://www.franceinfo.fr/faits-divers/incendie-dans-un-bar-de-crans-montana-en-suisse/c-est-totalement-indecent-des-images-denudees-de-victimes-de-l-incendie-de-crans-montana-generees-avec-l-intelligence-artificielle-grok_7728565.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767896679.236826,
-        "id": 1957350670
-    },
-    "https://www.franceinfo.fr/economie/commerce/mercosur/info-radio-france-emmanuel-macron-a-decide-de-voter-contre-l-accord-de-libre-echange-entre-l-ue-et-le-mercosur_7728763.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767896681.1636333,
-        "id": 1957350689
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-bfm-bourse-jeudi-8-janvier_VN-202601080784.html": {
-        "added_at": 1767896682.8926713,
-        "id": 1957350711
-    },
-    "https://www.bfmtv.com/economie/se-preparer-au-nouveau-colonialisme-de-trump-mettre-le-paquet-sur-l-armement-et-vite-instaurer-la-preference-europeenne-le-discours-sombre-et-alarmiste-de-macron-devant-les-ambassadeurs_AV-202601080783.html": {
-        "added_at": 1767896684.3544939,
-        "id": 1957350732
-    },
-    "https://www.bfmtv.com/economie/entreprises/agriculture/info-bfmtv-emmanuel-macron-a-informe-ursula-von-der-leyen-que-la-france-voterait-contre-l-accord-commercial-entre-l-union-europeenne-et-les-pays-du-mercosur_AV-202601080796.html": {
-        "added_at": 1767896685.8265262,
-        "id": 1957350743
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/la-grande-interview/video-arnaud-brun-adequat-le-marche-de-l-emploi-resiste-08-01_VN-202601080804.html": {
-        "added_at": 1767896687.3471572,
-        "id": 1957350752
-    },
-    "https://www.bfmtv.com/economie/entreprises/industries/l-esa-veut-pulveriser-son-record-de-46-lancements-l-agence-spatiale-europeenne-prevoit-de-lancer-65-satellites-et-missions-en-2026_AD-202601080823.html": {
-        "added_at": 1767896688.714454,
-        "id": 1957350761
-    },
-    "https://www.bfmtv.com/economie/les-livraisons-de-brut-venezuelien-commencent-deja-trois-petroliers-americains-ont-ete-identifies-sur-le-chemin-du-retour-vers-les-etats-unis-avec-les-cales-pleines_AD-202601080829.html": {
-        "added_at": 1767896690.191482,
-        "id": 1957350771
-    },
-    "https://www.bfmtv.com/economie/video-le-groenland-vaut-il-une-guerre_VN-202601080833.html": {
-        "added_at": 1767896691.650811,
-        "id": 1957350777
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/la-grande-interview/video-le-nouvel-ordre-mondial-selon-trump-08-01_VN-202601080862.html": {
-        "added_at": 1767896693.4170926,
-        "id": 1957350794
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/la-grande-interview/le-nouvel-ordre-mondial-selon-trump-08-01_EN-202601080851.html": {
-        "added_at": 1767896695.0477436,
-        "id": 1957350811
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/la-grande-interview/arnaud-brun-pdg-d-adequat-08-01_EN-202601080855.html": {
-        "added_at": 1767896697.134076,
-        "id": 1957350829
-    },
-    "https://www.bfmtv.com/economie/video-diplomatie-macron-denonce-la-methode-trump_VN-202601080867.html": {
-        "added_at": 1767896698.462937,
-        "id": 1957350841
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/le-18h-eco/la-chronique-internationale-08-01_EN-202601080869.html": {
-        "added_at": 1767896705.4633267,
-        "id": 1957350882
-    },
-    "https://www.ft.com/content/02b0a516-901a-4fd8-9cdd-4c81419bd79d": {
-        "added_at": 1767896707.277391,
-        "id": 1957350896
-    },
-    "https://www.ft.com/content/268418d6-7303-4640-bdce-296d9b396732": {
-        "added_at": 1767896708.4877052,
-        "id": 1957350907
-    },
-    "https://www.ft.com/content/847f0ef2-1069-4715-bd91-b75b4e790f72": {
-        "added_at": 1767896709.6996562,
-        "id": 1957350911
-    },
-    "https://www.ft.com/content/8e025895-cd24-4c99-a901-3161959fa041": {
-        "added_at": 1767896710.9114242,
-        "id": 1957350918
-    },
-    "https://www.ft.com/content/523a6271-c77d-4d98-a6a1-7df4ab79325e": {
-        "added_at": 1767896712.1186273,
-        "id": 1957350925
-    },
-    "https://www.ft.com/content/b90aac5d-decc-42b7-b6ba-8a2cc970c4fd": {
-        "added_at": 1767896713.3370805,
-        "id": 1957350938
-    },
-    "https://www.ft.com/content/f62e2830-7901-42b2-8ca5-c81cfcb7142c": {
-        "added_at": 1767896714.546325,
-        "id": 1957350946
-    },
-    "https://www.ft.com/content/918fbc46-56a9-4225-b2cd-77fb4a532218": {
-        "added_at": 1767896715.7633336,
-        "id": 1957350958
-    },
-    "https://arstechnica.com/culture/2026/01/review-stranger-things-frustrating-finale-didnt-quite-stick-the-landing/": {
-        "added_at": 1767896717.1301928,
-        "id": 1956748455
-    },
-    "https://arstechnica.com/ai/2026/01/computer-scientist-yann-lecun-intelligence-really-is-about-learning/": {
-        "added_at": 1767896718.8341036,
-        "id": 1956748474
-    },
-    "https://arstechnica.com/science/2026/01/weve-got-a-fossil-closer-to-our-split-with-neanderthals-and-denisovans/": {
-        "added_at": 1767896720.4512377,
-        "id": 1956748487
-    },
     "https://arstechnica.com/science/2026/01/new-battery-idea-gets-lots-of-power-out-of-unusual-sulfur-chemistry/": {
         "added_at": 1767896721.9732316,
         "id": 1956748499
@@ -2982,5 +2710,205 @@
     "https://www.monde-diplomatique.fr/2026/01/SIZAIRE/69181": {
         "added_at": 1767979198.9267719,
         "id": 1957875278
+    },
+    "https://www.franceinfo.fr/faits-divers/incendie-dans-un-bar-de-crans-montana-en-suisse/incendie-de-crans-montana-mes-clients-sont-soulages-dit-un-avocat-de-victimes-apres-le-placement-en-detention-preventive-du-gerant-du-bar_7731100.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767983022.2569416,
+        "id": 1957903463
+    },
+    "https://www.franceinfo.fr/faits-divers/police/mineurs-percutes-a-scooter-a-paris-en-2023-le-policier-au-volant-de-la-voiture-renvoye-devant-le-tribunal-correctionnel_7731070.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767983024.0650012,
+        "id": 1957903472
+    },
+    "https://www.franceinfo.fr/sante/hopital/le-plan-blanc-declenche-a-l-hopital-de-perpignan-dans-les-pyrenees-orientales_7731043.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767983026.324085,
+        "id": 1957903490
+    },
+    "https://www.franceinfo.fr/monde/groenland/groenland-un-accord-meconnu-donne-deja-aux-etats-unis-une-grande-liberte-sur-l-ile-en-matiere-militaire_7730659.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767983029.1098044,
+        "id": 1957903519
+    },
+    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tempetes/tempete-ciaran/tempete-goretti-pour-les-entreprises-de-la-manche-l-enjeu-de-l-adaptation-aux-aleas-climatiques_7730614.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767983031.646074,
+        "id": 1957903530
+    },
+    "https://www.franceinfo.fr/sports/foot/can/can-2025-favori-mais-bouscule-le-senegal-est-le-premier-demi-finaliste-grace-a-sa-victoire-contre-le-mali_7731136.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767983034.3837273,
+        "id": 1957903552
+    },
+    "https://www.franceinfo.fr/faits-divers/incendie-dans-un-bar-de-crans-montana-en-suisse/incendie-a-crans-montana-au-chevet-de-victimes-dans-le-centre-de-traitement-des-grands-brules-de-metz_7728976.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767983036.8698204,
+        "id": 1957903564
+    },
+    "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/frappes-russes-sur-kiev-c-est-un-genocide-denonce-le-maire-de-la-ville-vitali-klitschko_7730854.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767983039.0965443,
+        "id": 1957874763
+    },
+    "https://www.franceinfo.fr/faits-divers/incendie-dans-un-bar-de-crans-montana-en-suisse/incendie-mortel-de-crans-montana-je-tiens-a-m-excuser-reagit-la-gerante-du-bar-apres-son-audition-par-la-justice_7730809.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1767983041.2192984,
+        "id": 1957903598
+    },
+    "https://www.bfmtv.com/economie/l-argentine-a-rendu-rapidement-et-totalement-les-etats-unis-annoncent-que-le-pays-de-javier-milei-a-rembourse-les-20-milliards-de-dollars-qu-ils-lui-ont-avances-fin-octobre_AD-202601090788.html": {
+        "added_at": 1767983043.9282858,
+        "id": 1957903610
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/bfm-bourse-17h-18h-09-01_EN-202601090790.html": {
+        "added_at": 1767983045.6857824,
+        "id": 1957903626
+    },
+    "https://www.bfmtv.com/economie/economie-social/union-europeenne/l-accord-avec-le-mercosur-sera-signe-le-17-janvier-au-paraguay-von-der-leyen-a-hate-lula-applaudit-un-jour-historique-pour-le-multilateralisme_AD-202601090791.html": {
+        "added_at": 1767983047.3389285,
+        "id": 1957903640
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/l-integrale-de-bfm-bourse-du-vendredi-9-janvier_EN-202601090793.html": {
+        "added_at": 1767983048.8617678,
+        "id": 1957903653
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-bfm-bourse-vendredi-9-janvier_VN-202601090821.html": {
+        "added_at": 1767983050.7104023,
+        "id": 1957903674
+    },
+    "https://www.bfmtv.com/economie/video-le-mercosur-est-bon-pour-l-economie-francaise-explique-bruno-grandjean-president-du-groupe-industriel-redex_VN-202601090813.html": {
+        "added_at": 1767983052.4038868,
+        "id": 1957903689
+    },
+    "https://www.bfmtv.com/economie/entreprises/agriculture/dermatose-bovine-la-ministre-de-l-agriculture-annonce-le-doublement-du-fonds-d-indemnisation-a-22-millions-d-euros_AD-202601090814.html": {
+        "added_at": 1767983054.0594475,
+        "id": 1957903703
+    },
+    "https://www.bfmtv.com/economie/video-la-data-room-de-cyrille-collet_VN-202601090815.html": {
+        "added_at": 1767983055.6891336,
+        "id": 1957903713
+    },
+    "https://www.bfmtv.com/economie/video-la-data-room-de-cyrille-collet_VN-202601090833.html": {
+        "added_at": 1767983057.3670368,
+        "id": 1957903728
+    },
+    "https://www.bfmtv.com/economie/video-novo-nordisk-porte-la-bourse-de-copenhague_VN-202601090826.html": {
+        "added_at": 1767983059.1449552,
+        "id": 1957903742
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/les-experts-sans-frontieres/les-experts-sans-frontieres-vendredi-9-janvier_EN-202601090837.html": {
+        "added_at": 1767983060.9944136,
+        "id": 1957903752
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/les-experts-sans-frontieres/video-les-experts-sans-frontieres-vendredi-9-janvier_VN-202601090842.html": {
+        "added_at": 1767983062.6330702,
+        "id": 1957903766
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/01-business/neural-reinvente-l-ingenierie-avec-l-ia-08-01_EN-202601090844.html": {
+        "added_at": 1767983064.1533504,
+        "id": 1957903780
+    },
+    "https://www.ft.com/content/3e4f3d23-8853-4a64-a6d1-ce6eb2896514": {
+        "added_at": 1767983065.960685,
+        "id": 1957903796
+    },
+    "https://www.ft.com/content/59c95ba0-51f3-4475-bc86-b416fe5deaa1": {
+        "added_at": 1767983067.3690205,
+        "id": 1957903807
+    },
+    "https://www.ft.com/content/3fcdb737-0354-4eaa-8245-0e2331bf8ace": {
+        "added_at": 1767983068.7726414,
+        "id": 1957903823
+    },
+    "https://www.ft.com/content/2b9fb452-7830-43cc-91af-95f23078c1a9": {
+        "added_at": 1767983070.2005038,
+        "id": 1957903839
+    },
+    "https://www.ft.com/content/b72168e8-56bd-4ad9-9af5-253a3315137e": {
+        "added_at": 1767983071.6128385,
+        "id": 1957903853
+    },
+    "https://www.ft.com/content/0f98be32-c5c1-49d8-b713-17cf8e60f60d": {
+        "added_at": 1767983073.0105157,
+        "id": 1957903871
+    },
+    "https://www.ft.com/content/de864a4d-e2f9-4827-8731-4abae3d30b9e": {
+        "added_at": 1767983074.4976535,
+        "id": 1957903886
+    },
+    "https://www.ft.com/content/7ea95bfc-4c3a-4d5a-be21-c28b40f4c020": {
+        "added_at": 1767983075.8960261,
+        "id": 1957903896
+    },
+    "https://www.ft.com/content/2dc5bbba-921a-4660-84c4-f3998300c889": {
+        "added_at": 1767983077.3043756,
+        "id": 1957903916
+    },
+    "https://www.ft.com/content/9b1ff0b8-a1e8-4869-8d61-620c5ed32d35": {
+        "added_at": 1767983089.273229,
+        "id": 1957904007
+    },
+    "https://www.ft.com/content/c930adea-b9f8-4bcd-bfe5-ad9dad497106": {
+        "added_at": 1767983091.3551264,
+        "id": 1957904023
+    },
+    "https://www.ft.com/content/7e077ab9-9d96-4642-b6ec-2d8306acf2cb": {
+        "added_at": 1767983093.6908865,
+        "id": 1957904042
+    },
+    "https://www.ft.com/content/efcf9c75-669e-4045-b2a6-7026575407a9": {
+        "added_at": 1767983095.9271448,
+        "id": 1957904057
+    },
+    "https://www.ft.com/content/6f6919cf-56ba-40d9-aaf3-37b4562f14aa": {
+        "added_at": 1767983098.1834538,
+        "id": 1957904075
+    },
+    "https://arstechnica.com/tech-policy/2026/01/xs-half-assed-attempt-to-paywall-grok-doesnt-block-free-image-editing/": {
+        "added_at": 1767983099.8624988,
+        "id": 1957904087
+    },
+    "https://arstechnica.com/science/2026/01/these-60000-year-old-poison-arrows-are-oldest-yet-found/": {
+        "added_at": 1767983101.3013647,
+        "id": 1957904097
+    },
+    "https://arstechnica.com/space/2026/01/nasa-chief-reviews-orion-heat-shield-expresses-full-confidence-in-it-for-artemis-ii/": {
+        "added_at": 1767983102.7277966,
+        "id": 1957904107
+    },
+    "https://spectrum.ieee.org/ai-coding-degrades": {
+        "added_at": 1767983104.494896,
+        "id": 1957294914
+    },
+    "https://www.cato.org/blog/5-ice-detainees-have-violent-convictions-73-no-convictions": {
+        "added_at": 1767983105.9035766,
+        "id": 1957904130
+    },
+    "https://caseysoftware.com/blog/developers-are-solving-the-wrong-problem": {
+        "added_at": 1767983107.330623,
+        "id": 1957904140
+    },
+    "https://www.phoronix.com/news/Steam-OS-Beta-NTSYNC": {
+        "added_at": 1767983108.7876787,
+        "id": 1957904150
+    },
+    "https://puzer.github.io/github_recommender/": {
+        "added_at": 1767983110.1838984,
+        "id": 1957904163
+    },
+    "https://jobs.ashbyhq.com/replit": {
+        "added_at": 1767983111.594528,
+        "id": 1957904174
+    },
+    "http://muratbuffalo.blogspot.com/2026/01/cloudspecs-cloud-hardware-evolution.html": {
+        "added_at": 1767983113.1115758,
+        "id": 1957904187
+    },
+    "https://fredbenenson.com/blog/2026/01/09/why-is-sendgrid-emailing-me-about-supporting-ice/": {
+        "added_at": 1767983114.521836,
+        "id": 1957904196
+    },
+    "https://lend-me-your-ears.specr.net": {
+        "added_at": 1767983116.0267582,
+        "id": 1957904209
+    },
+    "https://elpais.com/argentina/2026-01-09/argentina-devuelve-a-trump-los-dolares-del-rescate-preelectoral.html": {
+        "added_at": 1767983117.910741,
+        "id": 1957904218
+    },
+    "https://elpais.com/espana/catalunya/2026-01-09/illa-defiende-que-el-modelo-de-financiacion-no-privilegia-a-cataluna-y-pide-el-apoyo-de-junts.html": {
+        "added_at": 1767983119.5274494,
+        "id": 1957904231
     }
 }
