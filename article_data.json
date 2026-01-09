@@ -1,12 +1,4 @@
 {
-    "https://arstechnica.com/gadgets/2026/01/motorola-reveals-the-razr-fold-a-book-style-foldable-launching-this-summer/": {
-        "added_at": 1767846874.5725946,
-        "id": 1956415297
-    },
-    "https://www.carolinecrampton.com/reading-without-limits-or-expectations/": {
-        "added_at": 1767846875.8446808,
-        "id": 1957022588
-    },
     "https://www.bfmtv.com/economie/entreprises/industries/la-production-automobile-de-stellantis-en-italie-s-est-effondree-de-25-l-an-dernier-le-fabricant-n-avait-plus-aussi-peu-produit-depuis-1955-a-l-epoque-c-etait-fiat_AN-202601080070.html": {
         "added_at": 1767849622.7142708,
         "id": 1957037251
@@ -2822,5 +2814,69 @@
     "https://www.monde-diplomatique.fr/2026/01/BONELLI/69177": {
         "added_at": 1767929193.2082808,
         "id": 1956917054
+    },
+    "https://arstechnica.com/cars/2026/01/in-car-ai-assistant-coming-to-fords-and-lincolns-in-2027/": {
+        "added_at": 1767933315.8604531,
+        "id": 1957001739
+    },
+    "https://arstechnica.com/space/2026/01/nasa-postpones-space-station-spacewalk-due-to-crew-members-medical-concern/": {
+        "added_at": 1767933317.328583,
+        "id": 1957001749
+    },
+    "https://medium.com/infosec-watchtower/how-i-hacked-casio-f-91w-digital-watch-892bd519bd15": {
+        "added_at": 1767933319.1565442,
+        "id": 1957548941
+    },
+    "https://www.andrea-allievi.com/blog/new-year-post-anti-cheat-evolution-in-windows-11/": {
+        "added_at": 1767933320.7276871,
+        "id": 1957548947
+    },
+    "https://github.com/anomalyco/opencode/issues/7410": {
+        "added_at": 1767933322.2640612,
+        "id": 1957548958
+    },
+    "https://elpais.com/eps/2026-01-02/richard-linklater-el-cine-junto-con-el-rock-fue-una-de-las-pasiones-fundamentales-de-mi-generacion-no-se-si-sigue-siendo-igual-para-la-siguiente.html": {
+        "added_at": 1767933324.503193,
+        "id": 1955722132
+    },
+    "https://elpais.com/gente/2026-01-07/gwyneth-paltrow-tiene-una-teoria-sobre-por-que-su-separacion-consciente-de-chris-martin-molesto-a-tanta-gente.html": {
+        "added_at": 1767933327.281138,
+        "id": 1956959900
+    },
+    "https://elpais.com/babelia/2026-01-02/los-25-libros-mas-esperados-de-enero-de-2026.html": {
+        "added_at": 1767933329.921466,
+        "id": 1955722263
+    },
+    "https://elpais.com/salud-y-bienestar/2026-01-07/la-trampa-de-los-medicamentos-milagro-para-adelgazar-el-efecto-rebote-es-mas-rapido-que-con-dietas-convencionales.html": {
+        "added_at": 1767933331.7445428,
+        "id": 1956959925
+    },
+    "https://www.monde-diplomatique.fr/2026/01/PIEILLER/69133": {
+        "added_at": 1767933335.9164302,
+        "id": 1955748220
+    },
+    "https://www.monde-diplomatique.fr/2026/01/A/69194": {
+        "added_at": 1767933338.8200066,
+        "id": 1955748231
+    },
+    "https://www.monde-diplomatique.fr/2026/01/VENTURA/69163": {
+        "added_at": 1767933341.724701,
+        "id": 1955748241
+    },
+    "https://www.monde-diplomatique.fr/2026/01/RZEPSKI/69182": {
+        "added_at": 1767933344.2031739,
+        "id": 1955748262
+    },
+    "https://www.monde-diplomatique.fr/2026/01/AUDASSO/69185": {
+        "added_at": 1767933346.3744655,
+        "id": 1955748278
+    },
+    "https://www.monde-diplomatique.fr/2026/01/GOLUB/69164": {
+        "added_at": 1767933348.9162133,
+        "id": 1955748306
+    },
+    "https://www.monde-diplomatique.fr/2026/01/LIEVEN/69165": {
+        "added_at": 1767933352.490355,
+        "id": 1955748355
     }
 }
