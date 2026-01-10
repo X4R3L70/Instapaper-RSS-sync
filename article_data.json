@@ -1,120 +1,4 @@
 {
-    "https://www.franceinfo.fr/sante/greve-des-medecins-la-ministre-de-la-sante-propose-aux-syndicats-de-les-recevoir-ce-samedi_7730191.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767950549.8348787,
-        "id": 1957652732
-    },
-    "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-syndics-de-copropriete-marges-arriere-corruption-lots-fantomes-comment-eviter-les-mauvaises-surprises_7724428.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767950551.7267342,
-        "id": 1957652748
-    },
-    "https://www.franceinfo.fr/faits-divers/incendie-dans-un-bar-de-crans-montana-en-suisse/temoignage-incendie-a-crans-montana-il-se-bat-toujours-pour-sa-vie-raconte-le-frere-de-matthieu-aubrun-gravement-brule_7730173.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767950554.0494862,
-        "id": 1957652762
-    },
-    "https://www.franceinfo.fr/monde/iran/manifestations/manifestations-en-iran-la-france-suit-avec-une-grande-preoccupation-les-evenements-et-appelle-les-autorites-iraniennes-a-la-plus-grande-retenue_7730206.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767950556.1164527,
-        "id": 1957652777
-    },
-    "https://www.franceinfo.fr/politique/la-france-insoumise/vote-du-mercosur-la-france-insoumise-depose-une-motion-de-censure-contre-le-gouvernement_7730239.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767950558.3083582,
-        "id": 1957652798
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-partenariat-en-oncologie-avec-servier_VN-202601090303.html": {
-        "added_at": 1767950559.8906364,
-        "id": 1957630094
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-good-morning-business-vendredi-9-janvier_VN-202601090345.html": {
-        "added_at": 1767950561.4175572,
-        "id": 1957652822
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/en-direct-des-marches-09-01_EN-202601090340.html": {
-        "added_at": 1767950562.828486,
-        "id": 1957652830
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/video-en-direct-des-marches-09-01_VN-202601090342.html": {
-        "added_at": 1767950564.4079638,
-        "id": 1957652839
-    },
-    "https://www.bfmtv.com/economie/edito-lfi-qui-s-aligne-sur-la-coordination-rurale-d-extreme-droite-macron-qui-charge-bruxelles-la-droite-republicaine-qui-donne-dans-le-populisme-agricole-l-accord-avec-le-mercosur-les-rend-ils-tous-fous_AV-202601090343.html": {
-        "added_at": 1767950566.0401392,
-        "id": 1957652855
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/video-en-portefeuille-09-01_VN-202601090346.html": {
-        "added_at": 1767950567.7234924,
-        "id": 1957652861
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/en-portefeuille-09-01_EN-202601090347.html": {
-        "added_at": 1767950569.3013852,
-        "id": 1957652872
-    },
-    "https://www.bfmtv.com/economie/consommation/avec-des-tarifs-aussi-gourmands-ils-vont-devenir-obeses-le-patron-d-intermarche-tacle-les-industriels-du-chocolat-qui-veulent-une-hausse-de-prix-de-20-alors-que-le-cacao-et-le-sucre-baissent_AV-202601090350.html": {
-        "added_at": 1767950570.7837803,
-        "id": 1957652888
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/video-figeac-aero-resultats-en-forte-hausse-09-01_VN-202601090357.html": {
-        "added_at": 1767950573.033797,
-        "id": 1957652909
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/figeac-aero-resultats-en-forte-hausse-09-01_EN-202601090356.html": {
-        "added_at": 1767950574.6844563,
-        "id": 1957652917
-    },
-    "https://www.bfmtv.com/economie/entreprises/agriculture/on-va-detruire-les-marchandises-tout-ca-est-un-peu-ridicule-l-interprofession-des-fruits-et-legumes-ne-croit-pas-au-coup-politique-de-la-france-qui-veut-seule-bloquer-les-avocats-et-la-mangues-traites-aux-pesticides-interdits_AD-202601090365.html": {
-        "added_at": 1767950576.247242,
-        "id": 1957652928
-    },
-    "https://www.bfmtv.com/economie/international/exxon-mobil-chevron-les-geants-americains-du-petrole-vont-rencontrer-donald-trump-qui-s-attend-a-ce-qu-elles-depensent-au-moins-100-milliards-de-dollars-au-venezuela_AD-202601090370.html": {
-        "added_at": 1767950577.7261853,
-        "id": 1957652938
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/le-face-a-face-du-vendredi-9-janvier_EN-202601090377.html": {
-        "added_at": 1767950579.3763008,
-        "id": 1957652951
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/video-le-face-a-face-du-vendredi-9-janvier_VN-202601090381.html": {
-        "added_at": 1767950580.963175,
-        "id": 1957652962
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/video-l-integrale-de-good-morning-market-du-vendredi-9-janvier_VN-202601090392.html": {
-        "added_at": 1767950583.236292,
-        "id": 1957652974
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/l-integrale-de-good-morning-market-du-vendredi-9-janvier_EN-202601090382.html": {
-        "added_at": 1767950584.7379909,
-        "id": 1957652984
-    },
-    "https://www.theguardian.com/technology/2026/jan/09/grok-image-generator-outcry-sexualised-ai-imagery": {
-        "added_at": 1767950587.0835679,
-        "id": 1957653005
-    },
-    "https://download.samba.org/pub/tridge/misc/french_cafe.txt": {
-        "added_at": 1767950588.8974056,
-        "id": 1957653013
-    },
-    "https://cincodias.elpais.com/companias/2026-01-09/rio-tinto-y-glencore-reactivan-las-negociaciones-para-formar-la-mayor-minera-del-mundo.html": {
-        "added_at": 1767950605.799401,
-        "id": 1957653110
-    },
-    "https://cincodias.elpais.com/mercados-financieros/2026-01-09/el-banco-de-espana-podra-prohibir-creditos-al-consumo-si-detecta-un-riesgo-grave-para-el-consumidor.html": {
-        "added_at": 1767950607.0538626,
-        "id": 1957653118
-    },
-    "https://elpais.com/gente/2026-01-09/muere-philippe-junot-primer-marido-de-carolina-de-monaco-a-los-85-anos.html": {
-        "added_at": 1767950608.5943193,
-        "id": 1957653125
-    },
-    "https://elpais.com/television/2026-01-09/gh-duo-tan-la-espana-de-entonces-tan-la-espana-de-ahora.html": {
-        "added_at": 1767950609.9732327,
-        "id": 1957653136
-    },
-    "https://elpais.com/espana/2026-01-09/la-guardia-civil-detiene-a-63-personas-por-la-macrofiesta-ilegal-de-albacete.html": {
-        "added_at": 1767950611.2640128,
-        "id": 1957653142
-    },
-    "https://elpais.com/el-tiempo/2026-01-09/la-borrasca-goretti-pone-en-alerta-a-catorce-comunidades-y-melilla-por-viento-nieve-y-lluvia.html": {
-        "added_at": 1767950613.329553,
-        "id": 1957653162
-    },
     "https://www.franceinfo.fr/societe/homophobie/nouvelle-plainte-de-deux-associations-apres-la-reedition-du-livre-la-voie-du-musulman-incitant-a-la-violence-contre-les-femmes-et-les-homosexuels_7730344.html#xtor=RSS-3-[lestitres]": {
         "added_at": 1767953847.509457,
         "id": 1957673517
@@ -2610,5 +2494,69 @@
     "https://elpais.com/america-colombia/2026-01-09/petro-trump-me-dijo-que-estaba-pensando-hacer-cosas-malas-en-colombia.html": {
         "added_at": 1768036533.9324634,
         "id": 1957606890
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/l-hebdo-des-pme/video-michel-kahan-syntec-ingenierie-la-federation-professionnelle-de-l-ingenierie-10-01_VN-202601100210.html": {
+        "added_at": 1768040112.1898131,
+        "id": 1958233798
+    },
+    "https://www.bfmtv.com/economie/entreprises/energie/impossible-d-investir-au-venezuela-le-patron-d-un-geant-petrolier-americain-repond-a-donald-trump_AD-202601100217.html": {
+        "added_at": 1768040113.767022,
+        "id": 1958233809
+    },
+    "https://www.bfmtv.com/economie/emploi/passer-de-plombier-a-agent-immobilier-sans-perdre-son-ancien-job-les-entreprises-vont-elles-accepter-les-cdd-de-reconversion-qui-permettent-desormais-aux-salaries-de-tester-un-nouveau-metier-tout-en-gardant-leur-ancien-cdi_AN-202601100220.html": {
+        "added_at": 1768040115.3115463,
+        "id": 1958233819
+    },
+    "https://mashable.com/article/samsung-galaxy-z-trifold-hands-on-ces-2026": {
+        "added_at": 1768040117.5044408,
+        "id": 1958233826
+    },
+    "https://elpais.com/smoda/famosos/2026-01-03/el-estilo-de-penelope-cruz-a-lo-largo-de-los-anos-del-minimalismo-cuando-salia-con-tom-cruise-a-los-impresionantes-vestidos-de-chanel.html": {
+        "added_at": 1768040119.345175,
+        "id": 1958233836
+    },
+    "https://elpais.com/tecnologia/2026-01-06/5-euros-la-entrada-asi-es-la-red-de-plataformas-y-chats-privados-que-han-permitido-la-muerte-de-un-streamer-espanol.html": {
+        "added_at": 1768040120.6319933,
+        "id": 1955893133
+    },
+    "https://elpais.com/tecnologia/2026-01-08/ladrillos-inteligentes-de-lego-y-portatiles-que-amplian-su-pantalla-asi-reinventa-la-rueda-el-sector-tecnologico.html": {
+        "added_at": 1768040123.0070553,
+        "id": 1957060859
+    },
+    "https://elpais.com/espana/2026-01-09/indonesia-anuncia-el-fin-de-la-busqueda-del-nino-espanol-desaparecido-tras-el-naufragio.html": {
+        "added_at": 1768040124.594315,
+        "id": 1957630361
+    },
+    "https://elpais.com/opinion/2026-01-10/vicente-el-comunista.html": {
+        "added_at": 1768040126.517678,
+        "id": 1958233881
+    },
+    "https://elpais.com/internacional/2026-01-10/los-lideres-de-los-cinco-partidos-de-groenlandia-defienden-el-derecho-a-decidir-su-futuro.html": {
+        "added_at": 1768040128.2448606,
+        "id": 1958233892
+    },
+    "https://www.monde-diplomatique.fr/2026/01/BRUNETEAU/69166": {
+        "added_at": 1768040131.804878,
+        "id": 1955878592
+    },
+    "https://www.monde-diplomatique.fr/2026/01/THIEBAUD/69160": {
+        "added_at": 1768040133.7018209,
+        "id": 1955878599
+    },
+    "https://www.monde-diplomatique.fr/2026/01/DAGUERRE/69156": {
+        "added_at": 1768040135.2032597,
+        "id": 1955878613
+    },
+    "https://www.monde-diplomatique.fr/2026/01/PROLONGEAU/69157": {
+        "added_at": 1768040137.3847187,
+        "id": 1955893282
+    },
+    "https://www.monde-diplomatique.fr/2026/01/HALIMI/69162": {
+        "added_at": 1768040139.8275743,
+        "id": 1955893296
+    },
+    "https://www.monde-diplomatique.fr/2026/01/GOBERT/69171": {
+        "added_at": 1768040141.796161,
+        "id": 1955893312
     }
 }
