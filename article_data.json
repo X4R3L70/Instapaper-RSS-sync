@@ -1,96 +1,4 @@
 {
-    "https://www.franceinfo.fr/monde/venezuela/attaque-americaine-sur-le-venezuela/donal-trump-pousse-les-grand-groupes-petroliers-a-investir-au-venezuela-et-promet-que-ce-sera-sur_7731313.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1767996930.751902,
-        "id": 1958003631
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/c-est-votre-argent/video-c-est-votre-argent-vendredi-9-janvier_VN-202601090948.html": {
-        "added_at": 1767996932.9871967,
-        "id": 1958003644
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/c-est-votre-argent/l-integrale-de-c-est-votre-argent-du-vendredi-9-janvier_EN-202601090943.html": {
-        "added_at": 1767996934.7820601,
-        "id": 1958003661
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/c-est-votre-argent/le-top-3-des-gerants-sebastien-lalevee-frederic-rozier-et-celine-piquemal-prade-09-01_EN-202601090944.html": {
-        "added_at": 1767996936.263789,
-        "id": 1958003670
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/c-est-votre-argent/video-le-top-flop-de-la-semaine-le-pentagon-pizza-index-ou-la-theorie-de-la-pizza-du-pentagone-09-01_VN-202601090947.html": {
-        "added_at": 1767996938.0615757,
-        "id": 1958003684
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/c-est-votre-argent/le-top-flop-de-la-semaine-le-pentagon-pizza-index-ou-la-theorie-de-la-pizza-du-pentagone-09-01_EN-202601090945.html": {
-        "added_at": 1767996939.742969,
-        "id": 1958003703
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/c-est-votre-argent/video-le-top-3-des-gerants-sebastien-lalevee-frederic-rozier-et-celine-piquemal-prade-09-01_VN-202601090946.html": {
-        "added_at": 1767996941.3707902,
-        "id": 1958003715
-    },
-    "https://www.bfmtv.com/economie/consommation/chine-bresil-la-liste-des-pays-touches-par-le-rappel-de-laits-infantiles-nestle-s-allonge-plus-de-cinquante-pays-concernes_AD-202601090964.html": {
-        "added_at": 1767996942.9658854,
-        "id": 1958003730
-    },
-    "https://www.ft.com/content/117af7cc-3fe6-4292-a706-7204b82bb8dc": {
-        "added_at": 1767996944.8387914,
-        "id": 1958003744
-    },
-    "https://www.ft.com/content/27c3fe22-ca37-4c1c-9856-32ca367ae278": {
-        "added_at": 1767996947.1109872,
-        "id": 1958003756
-    },
-    "https://www.ft.com/content/36b941b6-923d-4894-84e8-736625a1dc22": {
-        "added_at": 1767996949.2294955,
-        "id": 1958003770
-    },
-    "https://arstechnica.com/tech-policy/2026/01/grok-assumes-users-seeking-images-of-underage-girls-have-good-intent/": {
-        "added_at": 1767996951.4375818,
-        "id": 1957394602
-    },
-    "https://arstechnica.com/science/2026/01/these-dogs-eavesdrop-on-their-owners-to-learn-new-words/": {
-        "added_at": 1767996952.8856761,
-        "id": 1957394617
-    },
-    "https://nexanet.ai/blog/53-times-flocksafety-hardcoded-the-password-for-americas-surveillance-infrastructure": {
-        "added_at": 1767996954.8042514,
-        "id": 1958003797
-    },
-    "https://www.thedailyauction.com/": {
-        "added_at": 1767996956.2476745,
-        "id": 1958003808
-    },
-    "https://tryflux.ai/": {
-        "added_at": 1767996957.6194072,
-        "id": 1957394633
-    },
-    "https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/": {
-        "added_at": 1767996959.0203705,
-        "id": 1958003825
-    },
-    "https://github.com/ralt/repogen": {
-        "added_at": 1767996960.4536393,
-        "id": 1958003832
-    },
-    "https://lab.revelium.studio/ml-sharp": {
-        "added_at": 1767996964.1990933,
-        "id": 1958003856
-    },
-    "https://beta.dwitter.net": {
-        "added_at": 1767996965.6231167,
-        "id": 1958003864
-    },
-    "https://elpais.com/deportes/futbol/2026-01-09/brahim-diaz-transporta-a-marruecos-a-la-semifinales-de-la-copa-de-africa.html": {
-        "added_at": 1767996967.5975504,
-        "id": 1958003875
-    },
-    "https://elpais.com/deportes/baloncesto/2026-01-09/un-barcelona-academico-no-flojea-ante-el-partizan.html": {
-        "added_at": 1767996969.0654712,
-        "id": 1958003889
-    },
-    "https://elpais.com/economia/2026-01-09/imaz-repsol-estamos-listos-para-invertir-mas-en-venezuela-y-triplicar-la-produccion-alli.html": {
-        "added_at": 1767996970.681784,
-        "id": 1958003900
-    },
     "https://www.franceinfo.fr/sante/alimentation/nestle-rallonge-la-liste-des-pays-touches-par-le-rappel-de-laits-infantiles_7731328.html#xtor=RSS-3-[lestitres]": {
         "added_at": 1768000522.614653,
         "id": 1958025885
@@ -1886,5 +1794,45 @@
     "https://www.monde-diplomatique.fr/2026/01/BREVILLE/69172": {
         "added_at": 1768083274.415045,
         "id": 1955551075
+    },
+    "https://arstechnica.com/tech-policy/2026/01/cloudflare-may-pull-servers-out-of-italy-over-order-that-it-block-pirate-sites/": {
+        "added_at": 1768086851.392605,
+        "id": 1957981188
+    },
+    "https://www.economist.com/christmas-specials/2025/12/18/how-wolves-became-dogs": {
+        "added_at": 1768086853.2828035,
+        "id": 1957772160
+    },
+    "https://www.behavioraleconomics.com/the-modern-peril-of-the-availability-heuristic/": {
+        "added_at": 1768086854.7871332,
+        "id": 1958545249
+    },
+    "https://fly.io/blog/code-and-let-live/": {
+        "added_at": 1768086856.246963,
+        "id": 1958545254
+    },
+    "https://campedersen.com/code-is-clay": {
+        "added_at": 1768086857.7243898,
+        "id": 1958545257
+    },
+    "https://www.economist.com/united-states/2026/01/08/why-overdose-deaths-are-falling-in-america": {
+        "added_at": 1768086859.255041,
+        "id": 1958545265
+    },
+    "https://www.nytimes.com/2026/01/10/dining/beef-tallow-food-pyramid-rfk-jr.html": {
+        "added_at": 1768086860.842232,
+        "id": 1958545268
+    },
+    "https://llmholdem.com/": {
+        "added_at": 1768086862.5122302,
+        "id": 1958545278
+    },
+    "https://elpais.com/deportes/futbol/2026-01-10/el-valencia-vive-bajo-un-nubarron.html": {
+        "added_at": 1768086865.244703,
+        "id": 1958545296
+    },
+    "https://elpais.com/us/migracion/2026-01-09/el-video-grabado-por-el-agente-del-ice-que-mato-a-tiros-a-una-mujer-en-minneapolis-escala-la-crisis-en-estados-unidos.html": {
+        "added_at": 1768086866.6263723,
+        "id": 1957981277
     }
 }
