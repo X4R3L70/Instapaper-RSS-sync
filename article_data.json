@@ -1,60 +1,4 @@
 {
-    "https://www.bfmtv.com/economie/entreprises/transports/apres-la-tempete-goretti-le-trafic-sncf-reprend-sauf-sur-trois-lignes-en-normandie-et-le-rer-d-en-ile-de-france_AD-202601100269.html": {
-        "added_at": 1768051523.74452,
-        "id": 1958308661
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/focus-retail/video-focus-retail-samedi-10-janvier_VN-202601100278.html": {
-        "added_at": 1768051525.1513681,
-        "id": 1958308668
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/focus-retail/focus-retail-du-samedi-10-janvier_EN-202601100281.html": {
-        "added_at": 1768051526.5510752,
-        "id": 1958308678
-    },
-    "https://www.ft.com/content/89f0a39c-870a-40f3-9ad3-bef373ebad40": {
-        "added_at": 1768051528.3005662,
-        "id": 1958308691
-    },
-    "https://arstechnica.com/tech-policy/2026/01/conservative-lawmakers-want-porn-taxes-critics-say-theyre-unconstitutional/": {
-        "added_at": 1768051529.6114476,
-        "id": 1958308698
-    },
-    "https://aman.bh/blog/2025/creating-embroidered-charts-with-r-and-imagemagick": {
-        "added_at": 1768051530.85198,
-        "id": 1958308710
-    },
-    "https://elliotmorris.net/blog-a-day-3-beating-the-tutorial": {
-        "added_at": 1768051532.0036244,
-        "id": 1958308722
-    },
-    "https://twitter.com/MarcJSchmidt/status/2009688028931875156": {
-        "added_at": 1768051533.2319248,
-        "id": 1958308733
-    },
-    "https://libroot.org/posts/going-through-snowden-documents-part-4/": {
-        "added_at": 1768051534.3814065,
-        "id": 1958308742
-    },
-    "https://eupolicy.social/@jmaris/115860595238097654": {
-        "added_at": 1768051535.612128,
-        "id": 1958308753
-    },
-    "https://nightingaledvs.com/dark-sky-weather-data-viz/": {
-        "added_at": 1768051536.8475251,
-        "id": 1958308761
-    },
-    "https://elpais.com/deportes/2026-01-09/jesus-calleja-tras-su-accidente-en-el-rally-dakar-ir-al-espacio-fue-bastante-mas-suave-que-esto.html": {
-        "added_at": 1768051539.2523491,
-        "id": 1957697411
-    },
-    "https://elpais.com/clima-y-medio-ambiente/2026-01-09/el-gobierno-lleva-a-la-fiscalia-los-discursos-de-odio-contra-meteorologos-y-divulgadores-climaticos.html": {
-        "added_at": 1768051540.3971298,
-        "id": 1957697439
-    },
-    "https://elpais.com/quadern/2026-01-10/un-assaig-mes-academic-que-literari-de-solitud.html": {
-        "added_at": 1768051541.775782,
-        "id": 1958308788
-    },
     "https://www.franceinfo.fr/monde/iran/manifestations/manifestations-nocturnes-repression-meurtriere-coupure-d-internet-on-fait-le-point-sur-la-grande-vague-de-revolte-en-iran_7730110.html#xtor=RSS-3-[lestitres]": {
         "added_at": 1768054450.4754672,
         "id": 1957734173
@@ -1782,5 +1726,53 @@
     "https://elpais.com/espana/2026-01-11/feijoo-propone-reformar-el-suplicatorio-para-que-ningun-politico-aforado-del-congreso-esquive-la-justicia.html": {
         "added_at": 1768134603.797376,
         "id": 1958766832
+    },
+    "https://www.franceinfo.fr/culture/patrimoine/le-chrysler-building-a-new-york-cherche-l-acheteur-qui-lui-rendra-sa-superbe_7734670.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768137971.5428398,
+        "id": 1958787446
+    },
+    "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/en-images-apres-la-mort-d-une-americaine-tuee-par-balle-par-un-agent-de-la-police-de-l-immigration-les-anti-ice-manifestent-a-minneapolis_7734526.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768137974.1302028,
+        "id": 1958787458
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/la-france-a-tout-pour-reussir/video-l-integrale-de-la-france-a-tout-pour-reussir-du-samedi-10-janvier-2026_VN-202601100262.html": {
+        "added_at": 1768137975.7304776,
+        "id": 1958285459
+    },
+    "https://www.bfmtv.com/economie/international/plus-d-argent-plus-de-petrole-plus-rien-donald-trump-appelle-cuba-a-conclure-un-accord-avant-qu-il-ne-soit-trop-tard_AD-202601110216.html": {
+        "added_at": 1768137977.4365952,
+        "id": 1958787474
+    },
+    "https://arstechnica.com/science/2026/01/the-oceans-just-keep-getting-hotter/": {
+        "added_at": 1768137979.411234,
+        "id": 1958787485
+    },
+    "https://hollisrobbinsanecdotal.substack.com/p/llm-poetry-and-the-greatness-question": {
+        "added_at": 1768137981.2891479,
+        "id": 1958787491
+    },
+    "https://www.forbes.com/sites/zakdoffman/2026/01/11/kill-switch-iran-shuts-down-starlink-internet-for-first-time/": {
+        "added_at": 1768137982.7162373,
+        "id": 1958787502
+    },
+    "https://www.gentoo.org/news/2026/01/05/new-year.html": {
+        "added_at": 1768137984.2260716,
+        "id": 1958787510
+    },
+    "https://elpais.com/tecnologia/2026-01-09/elon-musk-limita-las-funciones-de-edicion-de-imagenes-de-grok-ante-la-avalancha-de-pornografia-no-consentida.html": {
+        "added_at": 1768137986.0770001,
+        "id": 1957673980
+    },
+    "https://elpais.com/economia/formacion/2026-01-09/lee-newman-decano-de-ie-business-school-las-empresas-no-buscan-soft-skills-sino-personas-capaces-de-hacer-que-las-cosas-pasen.html": {
+        "added_at": 1768137987.5503662,
+        "id": 1957673937
+    },
+    "https://elpais.com/mexico/2026-01-11/un-nuevo-chapo-emerge-en-sinaloa.html": {
+        "added_at": 1768137988.933819,
+        "id": 1958787533
+    },
+    "https://elpais.com/internacional/2026-01-11/las-protestas-en-iran-desafian-al-regimen-pese-a-la-dura-represion.html": {
+        "added_at": 1768137990.532087,
+        "id": 1958787539
     }
 }
