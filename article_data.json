@@ -1,40 +1,4 @@
 {
-    "https://www.bfmtv.com/economie/replay-emissions/l-hebdo-des-pme/video-ludovic-sandler-ls-coordination-ls-coordination-le-pilotage-de-chantier-10-01_VN-202601100393.html": {
-        "added_at": 1768083259.725652,
-        "id": 1958526916
-    },
-    "https://bigthink.com/starts-with-a-bang/8-ways-elements-made/": {
-        "added_at": 1768083261.9300296,
-        "id": 1958526922
-    },
-    "https://reclaimthenet.org/uk-orders-ofcom-to-explore-encryption-backdoors": {
-        "added_at": 1768083263.2177355,
-        "id": 1958526932
-    },
-    "https://arxiv.org/abs/2601.02671": {
-        "added_at": 1768083264.4889073,
-        "id": 1958526937
-    },
-    "https://worstofbreed.net/": {
-        "added_at": 1768083265.8306937,
-        "id": 1958526945
-    },
-    "https://elpais.com/internacional/2026-01-10/mohamed-vi-se-ve-obligado-a-guardar-reposo-tras-sufrir-una-dolencia-lumbar.html": {
-        "added_at": 1768083267.7880466,
-        "id": 1958526957
-    },
-    "https://elpais.com/internacional/2026-01-10/convocadas-cientos-de-protestas-en-ee-uu-despues-de-que-un-agente-del-ice-matara-a-tiros-a-una-mujer.html": {
-        "added_at": 1768083269.4629197,
-        "id": 1958526965
-    },
-    "https://elpais.com/internacional/2026-01-10/fuerzas-estadounidenses-lanzan-un-ataque-a-gran-escala-contra-objetivos-del-estado-islamico-en-siria.html": {
-        "added_at": 1768083271.0273628,
-        "id": 1958526974
-    },
-    "https://www.monde-diplomatique.fr/2026/01/BREVILLE/69172": {
-        "added_at": 1768083274.415045,
-        "id": 1955551075
-    },
     "https://arstechnica.com/tech-policy/2026/01/cloudflare-may-pull-servers-out-of-italy-over-order-that-it-block-pirate-sites/": {
         "added_at": 1768086851.392605,
         "id": 1957981188
@@ -1738,5 +1702,53 @@
     "https://www.monde-diplomatique.fr/2026/01/SIZAIRE/69181": {
         "added_at": 1768166046.1539333,
         "id": 1957875278
+    },
+    "https://www.ft.com/content/89f72372-0dc6-46fc-a9a6-b183f95319b4": {
+        "added_at": 1768169667.41454,
+        "id": 1959024014
+    },
+    "https://arstechnica.com/culture/2026/01/us-black-hawk-helicopter-trespasses-on-private-montana-ranch-to-grab-elk-antlers/": {
+        "added_at": 1768169669.1916645,
+        "id": 1957927342
+    },
+    "https://arstechnica.com/science/2026/01/that-time-will-smith-helped-discover-new-species-of-anaconda/": {
+        "added_at": 1768169670.4702346,
+        "id": 1959024029
+    },
+    "https://www.figma.com/blog/desperately-seeking-squircles/": {
+        "added_at": 1768169671.753609,
+        "id": 1959024034
+    },
+    "https://www.npr.org/2026/01/11/nx-s1-5673949/dhs-restricts-congressional-visits-to-ice-facilities-in-minneapolis-with-new-policy": {
+        "added_at": 1768169673.2135992,
+        "id": 1959024042
+    },
+    "https://github.com/abokhalill/chr2": {
+        "added_at": 1768169674.417631,
+        "id": 1959024050
+    },
+    "https://www.owlposting.com/p/a-2026-look-at-three-bio-ml-opinions": {
+        "added_at": 1768169675.627822,
+        "id": 1959024060
+    },
+    "https://news.ycombinator.com/item?id=46580652": {
+        "added_at": 1768169676.7739835,
+        "id": 1959024067
+    },
+    "https://elo-lang.org/": {
+        "added_at": 1768169677.9353647,
+        "id": 1959024076
+    },
+    "https://fulghum.io/self-hosting": {
+        "added_at": 1768169679.0942655,
+        "id": 1959024086
+    },
+    "https://elpais.com/sociedad/2026-01-09/la-familia-de-la-nina-que-se-suicido-en-sevilla-se-querella-contra-el-colegio-y-los-docentes.html": {
+        "added_at": 1768169680.8389494,
+        "id": 1957927462
+    },
+    "https://elpais.com/deportes/futbol/2026-01-11/el-barca-conquista-ante-el-madrid-un-clasico-gigantesco.html": {
+        "added_at": 1768169682.8722413,
+        "id": 1959024100
     }
 }
