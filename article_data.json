@@ -1,40 +1,4 @@
 {
-    "https://www.bfmtv.com/economie/replay-emissions/la-grande-interview/video-live-nation-rachete-paris-la-defense-arena-06-01_VN-202601100096.html": {
-        "added_at": 1768015209.3400896,
-        "id": 1958102002
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/la-grande-interview/live-nation-rachete-paris-la-defense-arena-06-01_EN-202601100094.html": {
-        "added_at": 1768015210.8565338,
-        "id": 1958102011
-    },
-    "https://www.ft.com/content/52a8bc1f-05a9-4d5e-b2cc-aa2591ac4471": {
-        "added_at": 1768015213.5394762,
-        "id": 1958102020
-    },
-    "https://aresluna.org/fav-tech-museums/": {
-        "added_at": 1768015214.9356225,
-        "id": 1958102032
-    },
-    "https://theoutline.com/post/6293/reader-rabbit-history-the-learning-company-zoombinis-carmen-sandiego": {
-        "added_at": 1768015216.1177895,
-        "id": 1958102037
-    },
-    "https://yellopages.kawaicheung.io/": {
-        "added_at": 1768015217.3489733,
-        "id": 1958102042
-    },
-    "https://elbowgreasegames.substack.com/p/introducing-robotopia-a-3d-first": {
-        "added_at": 1768015218.5202837,
-        "id": 1958102051
-    },
-    "https://github.com/minimaxir/miditui": {
-        "added_at": 1768015220.3765502,
-        "id": 1958102063
-    },
-    "https://www.getseer.dev/blogs/pre-commit-linting-vibe-coding": {
-        "added_at": 1768015221.5312393,
-        "id": 1958102073
-    },
     "https://www.ft.com/content/59491879-2d53-49f9-9823-7318f361d64c": {
         "added_at": 1768019362.0299654,
         "id": 1958123658
@@ -1674,5 +1638,93 @@
     "https://www.brown.edu/news/2026-01-07/private-equity-autism-centers": {
         "added_at": 1768094447.1702263,
         "id": 1958580382
+    },
+    "https://arstechnica.com/gadgets/2026/01/high-ram-prices-mean-record-setting-profits-for-samsung-and-other-memory-makers/": {
+        "added_at": 1768103108.8525236,
+        "id": 1957414630
+    },
+    "https://arstechnica.com/tech-policy/2026/01/fcc-to-authorize-more-powerful-wireless-devices-in-6-ghz-wi-fi-band/": {
+        "added_at": 1768103110.0264652,
+        "id": 1957454636
+    },
+    "https://arstechnica.com/security/2026/01/michigan-man-learns-the-hard-way-that-catch-a-cheater-spyware-apps-arent-legal/": {
+        "added_at": 1768103111.670605,
+        "id": 1957454644
+    },
+    "https://arstechnica.com/google/2026/01/google-dont-make-bite-sized-content-for-llms-if-you-care-about-search-rank/": {
+        "added_at": 1768103112.8444946,
+        "id": 1958025967
+    },
+    "https://arstechnica.com/health/2026/01/measles-continues-raging-in-south-carolina-99-new-cases-since-tuesday/": {
+        "added_at": 1768103113.9964442,
+        "id": 1958025976
+    },
+    "https://arstechnica.com/space/2026/01/esa-considers-righting-the-wrongs-of-ariane-6-by-turning-it-into-a-franken-rocket/": {
+        "added_at": 1768103116.2396798,
+        "id": 1958065594
+    },
+    "https://arstechnica.com/tech-policy/2026/01/spacex-gets-fcc-permission-to-launch-another-7500-starlink-satellites/": {
+        "added_at": 1768103117.4031734,
+        "id": 1958065603
+    },
+    "https://blog.bugsiki.dev/posts/apple-pmu/": {
+        "added_at": 1768103118.863654,
+        "id": 1958618545
+    },
+    "https://devblog.archlinux.page/2026/a-year-of-work-on-the-alpm-project/": {
+        "added_at": 1768103120.0320845,
+        "id": 1958618551
+    },
+    "https://github.com/kalcaddle/kodbox": {
+        "added_at": 1768103121.3980362,
+        "id": 1958618558
+    },
+    "https://www.rollingstone.com/music/music-news/bob-weir-grateful-dead-dead-obituary-1234810106/": {
+        "added_at": 1768103122.5773222,
+        "id": 1958618563
+    },
+    "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus": {
+        "added_at": 1768103123.7596314,
+        "id": 1958618570
+    },
+    "https://www.deductive.ai/blogs/datadog-thank-you-for-blocking-us": {
+        "added_at": 1768103124.927179,
+        "id": 1958618575
+    },
+    "https://www.modernretail.co/technology/brands-are-upset-that-buy-for-me-is-featuring-their-products-on-amazon-without-permission/": {
+        "added_at": 1768103126.128712,
+        "id": 1958618580
+    },
+    "https://github.com/unhaya/vam-seek": {
+        "added_at": 1768103127.2817671,
+        "id": 1958618586
+    },
+    "https://github.com/OlaProeis/Ferrite": {
+        "added_at": 1768103129.28709,
+        "id": 1958618595
+    },
+    "https://www.monde-diplomatique.fr/2026/01/JULIEN_THOMAS/69174": {
+        "added_at": 1768103133.264908,
+        "id": 1955576489
+    },
+    "https://www.monde-diplomatique.fr/2026/01/MERIEAU/69176": {
+        "added_at": 1768103138.0797794,
+        "id": 1956236659
+    },
+    "https://www.monde-diplomatique.fr/2026/01/VAUCHEZ/69180": {
+        "added_at": 1768103141.100181,
+        "id": 1957414848
+    },
+    "https://www.monde-diplomatique.fr/2026/01/LORDON/69186": {
+        "added_at": 1768103143.8831801,
+        "id": 1958065669
+    },
+    "https://www.monde-diplomatique.fr/2026/01/VIEILLESCAZES/69187": {
+        "added_at": 1768103146.1072235,
+        "id": 1958618685
+    },
+    "https://www.monde-diplomatique.fr/2026/01/FAUJOUR/69188": {
+        "added_at": 1768103148.0935917,
+        "id": 1958618693
     }
 }
