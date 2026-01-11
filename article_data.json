@@ -1,52 +1,4 @@
 {
-    "https://www.franceinfo.fr/environnement/meteo/neige/neige-et-verglas-danger-sur-les-routes-de-l-est-de-la-france-les-camions-immobilises-jusqu-a-lundi_7733242.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768079612.4070685,
-        "id": 1958507735
-    },
-    "https://arstechnica.com/culture/2026/01/us-black-hawk-helicopter-trespasses-on-private-montana-ranch-to-grab-elk-antlers/": {
-        "added_at": 1768079614.9730256,
-        "id": 1957927342
-    },
-    "https://en.wikipedia.org/wiki/Sinclair_C5": {
-        "added_at": 1768079616.3058393,
-        "id": 1958507755
-    },
-    "https://www.nber.org/papers/w34639": {
-        "added_at": 1768079617.5362966,
-        "id": 1955697858
-    },
-    "https://mitchellh.com/writing/ghostty-memory-leak-fix": {
-        "added_at": 1768079618.774693,
-        "id": 1958507769
-    },
-    "https://trails.pieterma.es/": {
-        "added_at": 1768079619.9291968,
-        "id": 1958507775
-    },
-    "https://elpais.com/sociedad/2026-01-09/la-familia-de-la-nina-que-se-suicido-en-sevilla-se-querella-contra-el-colegio-y-los-docentes.html": {
-        "added_at": 1768079621.7384338,
-        "id": 1957927462
-    },
-    "https://elpais.com/espana/2026-01-09/pedro-sanchez-llama-a-delcy-rodriguez-y-edmundo-gonzalez-para-mantener-la-influencia-espanola-en-la-transicion-de-venezuela.html": {
-        "added_at": 1768079622.8860123,
-        "id": 1957927503
-    },
-    "https://elpais.com/deportes/futbol/2026-01-10/victor-osimhen-interrumpe-el-sueno-de-la-familia-zidane.html": {
-        "added_at": 1768079624.2351236,
-        "id": 1958507797
-    },
-    "https://elpais.com/deportes/futbol/2026-01-10/barcelona-madrid-un-clasico-de-dinamicas-opuestas-en-la-final-de-la-supercopa.html": {
-        "added_at": 1768079625.4220161,
-        "id": 1958507805
-    },
-    "https://elpais.com/espana/catalunya/2026-01-10/los-mossos-cargan-en-una-protesta-contra-el-grupo-neonazi-nucleo-nacional-en-sentmenat-barcelona.html": {
-        "added_at": 1768079626.5718327,
-        "id": 1958507810
-    },
-    "https://elpais.com/america/2026-01-10/nicaragua-excarcela-al-menos-a-20-presos-politicos-tras-la-presion-de-estados-unidos.html": {
-        "added_at": 1768079627.7379217,
-        "id": 1958507821
-    },
     "https://www.bfmtv.com/economie/replay-emissions/l-hebdo-des-pme/video-ludovic-sandler-ls-coordination-ls-coordination-le-pilotage-de-chantier-10-01_VN-202601100393.html": {
         "added_at": 1768083259.725652,
         "id": 1958526916
@@ -1714,5 +1666,77 @@
     "https://elpais.com/internacional/2026-01-11/trump-sopesa-acciones-en-iran-en-apoyo-de-los-manifestantes.html": {
         "added_at": 1768162670.6932905,
         "id": 1958990831
+    },
+    "https://www.bfmtv.com/economie/economie-social/union-europeenne/l-union-europeenne-confirme-la-signature-samedi-prochain-du-traite-avec-le-mercosur_AD-202601110327.html": {
+        "added_at": 1768166010.7494857,
+        "id": 1959007202
+    },
+    "https://www.bfmtv.com/economie/economie-social/union-europeenne/l-union-europeenne-devrait-envisager-de-constituer-une-armee-commune-estime-son-responsable-de-la-defense_AD-202601110336.html": {
+        "added_at": 1768166012.4025075,
+        "id": 1959007209
+    },
+    "https://www.ft.com/content/5a25bc5b-dae0-415a-86ea-463a4daf5a25": {
+        "added_at": 1768166015.2988417,
+        "id": 1959007226
+    },
+    "https://www.ft.com/content/89d7f1c2-96be-4d8f-900b-456b7d2d85e2": {
+        "added_at": 1768166016.692662,
+        "id": 1959007231
+    },
+    "https://www.ft.com/content/8d42061d-58a5-4133-841d-6cd9668528c5": {
+        "added_at": 1768166018.7283323,
+        "id": 1959007240
+    },
+    "https://www.ft.com/politicsclass": {
+        "added_at": 1768166021.0356004,
+        "id": 1959007248
+    },
+    "https://www.ft.com/content/a82c137f-397e-4e03-8452-ec20f4b977b4": {
+        "added_at": 1768166023.1673603,
+        "id": 1959007254
+    },
+    "https://arstechnica.com/tech-policy/2026/01/xs-half-assed-attempt-to-paywall-grok-doesnt-block-free-image-editing/": {
+        "added_at": 1768166025.2185473,
+        "id": 1957904087
+    },
+    "https://arstechnica.com/science/2026/01/these-60000-year-old-poison-arrows-are-oldest-yet-found/": {
+        "added_at": 1768166026.972734,
+        "id": 1957904097
+    },
+    "https://arstechnica.com/space/2026/01/nasa-chief-reviews-orion-heat-shield-expresses-full-confidence-in-it-for-artemis-ii/": {
+        "added_at": 1768166028.3445282,
+        "id": 1957904107
+    },
+    "https://americandialect.org/2025-word-of-the-year-is-slop/": {
+        "added_at": 1768166030.117021,
+        "id": 1959007295
+    },
+    "https://thedriven.io/2026/01/11/byds-cheapest-electric-cars-to-have-lidar-self-driving-tech/": {
+        "added_at": 1768166033.9693193,
+        "id": 1959007314
+    },
+    "https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/": {
+        "added_at": 1768166035.4920707,
+        "id": 1959007319
+    },
+    "https://elpais.com/videos/2026-01-11/oreshnik-el-misil-con-el-que-putin-ataco-ucrania-y-amenaza-la-frontera-europea.html": {
+        "added_at": 1768166037.457132,
+        "id": 1959007329
+    },
+    "https://elpais.com/internacional/2026-01-11/dos-bebes-mueren-de-frio-en-gaza-mientras-la-onu-denuncia-el-bloqueo-de-suministros-de-invierno.html": {
+        "added_at": 1768166038.9130237,
+        "id": 1959007336
+    },
+    "https://www.monde-diplomatique.fr/2026/01/CARAYOL/69178": {
+        "added_at": 1768166041.642532,
+        "id": 1957267414
+    },
+    "https://www.monde-diplomatique.fr/2026/01/FRESCHI/69179": {
+        "added_at": 1768166044.378683,
+        "id": 1957267434
+    },
+    "https://www.monde-diplomatique.fr/2026/01/SIZAIRE/69181": {
+        "added_at": 1768166046.1539333,
+        "id": 1957875278
     }
 }
