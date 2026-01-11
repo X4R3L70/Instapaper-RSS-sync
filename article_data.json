@@ -1,32 +1,4 @@
 {
-    "https://www.bfmtv.com/economie/replay-emissions/l-hebdo-des-pme/video-maxime-brun-eurea-la-rehabilitation-de-conduites-10-01_VN-202601100327.html": {
-        "added_at": 1768065179.0642977,
-        "id": 1958418849
-    },
-    "https://arstechnica.com/cars/2026/01/fewer-american-evs-costs-gm-6-billion-even-as-its-chinese-sales-boom/": {
-        "added_at": 1768065181.5787506,
-        "id": 1957822160
-    },
-    "https://arstechnica.com/culture/2026/01/ungentrified-craigslist-may-be-the-last-real-place-on-the-internet/": {
-        "added_at": 1768065184.377453,
-        "id": 1957822171
-    },
-    "https://www.yuanzai.world/": {
-        "added_at": 1768065185.9596038,
-        "id": 1958418895
-    },
-    "https://wickstrom.tech/2019-11-17-time-travelling-and-fixing-bugs-with-property-based-testing.html": {
-        "added_at": 1768065187.3085124,
-        "id": 1958418904
-    },
-    "https://www.eteknix.com/microsoft-may-have-created-the-slowest-windows-in-25-years-with-windows-11/": {
-        "added_at": 1768065188.5586784,
-        "id": 1958418917
-    },
-    "https://up.codes/careers?utm_source=HN": {
-        "added_at": 1768065189.817832,
-        "id": 1958418931
-    },
     "https://www.openchaos.dev/": {
         "added_at": 1768065191.1209285,
         "id": 1958418940
@@ -1754,5 +1726,37 @@
     "https://elpais.com/espana/2026-01-11/el-psoe-arremete-contra-feijoo-y-le-acusa-de-preocuparse-de-que-mazon-saliera-guapo-en-la-tele-en-la-tragedia-de-la-dana.html": {
         "added_at": 1768148283.1653953,
         "id": 1958849012
+    },
+    "https://www.bfmtv.com/economie/economie-social/finances-publiques/bientot-le-49-3-les-deputes-rejettent-encore-le-budget-en-commission-le-gouvernement-est-dans-l-impasse_AD-202601100316.html": {
+        "added_at": 1768151577.5444138,
+        "id": 1958395930
+    },
+    "https://www.bfmtv.com/economie/international/les-americains-se-font-arnaquer-donald-trump-veut-limiter-les-taux-des-cartes-de-credit-les-banques-estiment-que-ca-serait-devastateur_AD-202601100320.html": {
+        "added_at": 1768151578.9335415,
+        "id": 1958395935
+    },
+    "https://www.bfmtv.com/economie/entreprises/defense/on-se-tient-ensemble-pour-nos-amis-danois-le-premier-ministre-suedois-annonce-un-investissement-de-1-4-milliard-d-euros-dans-sa-defense-aerienne-et-en-profite-pour-tacler-trump-qui-veut-capturer-le-groenland_AD-202601110272.html": {
+        "added_at": 1768151580.2766495,
+        "id": 1958868801
+    },
+    "https://github.com/kd2org/karadav": {
+        "added_at": 1768151582.4236264,
+        "id": 1958868813
+    },
+    "https://alexschroeder.ch/view/2025-09-10-large-feeds": {
+        "added_at": 1768151583.8322577,
+        "id": 1958868818
+    },
+    "https://www.linux.com/training-tutorials/replace-retiring-windows-xp-linux/": {
+        "added_at": 1768151585.0580983,
+        "id": 1958868829
+    },
+    "https://elpais.com/salud-y-bienestar/2026-01-09/por-que-nestle-ha-tenido-que-retirar-leche-en-polvo-para-lactantes-en-mas-de-45-paises.html": {
+        "added_at": 1768151587.530476,
+        "id": 1957796790
+    },
+    "https://elpais.com/internacional/2026-01-11/trump-lanza-un-ultimatum-a-cuba-pacten-con-estados-unidos-antes-de-que-sea-demasiado-tarde.html": {
+        "added_at": 1768151588.896513,
+        "id": 1958868852
     }
 }
