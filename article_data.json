@@ -1,44 +1,4 @@
 {
-    "https://arstechnica.com/tech-policy/2026/01/cloudflare-may-pull-servers-out-of-italy-over-order-that-it-block-pirate-sites/": {
-        "added_at": 1768086851.392605,
-        "id": 1957981188
-    },
-    "https://www.economist.com/christmas-specials/2025/12/18/how-wolves-became-dogs": {
-        "added_at": 1768086853.2828035,
-        "id": 1957772160
-    },
-    "https://www.behavioraleconomics.com/the-modern-peril-of-the-availability-heuristic/": {
-        "added_at": 1768086854.7871332,
-        "id": 1958545249
-    },
-    "https://fly.io/blog/code-and-let-live/": {
-        "added_at": 1768086856.246963,
-        "id": 1958545254
-    },
-    "https://campedersen.com/code-is-clay": {
-        "added_at": 1768086857.7243898,
-        "id": 1958545257
-    },
-    "https://www.economist.com/united-states/2026/01/08/why-overdose-deaths-are-falling-in-america": {
-        "added_at": 1768086859.255041,
-        "id": 1958545265
-    },
-    "https://www.nytimes.com/2026/01/10/dining/beef-tallow-food-pyramid-rfk-jr.html": {
-        "added_at": 1768086860.842232,
-        "id": 1958545268
-    },
-    "https://llmholdem.com/": {
-        "added_at": 1768086862.5122302,
-        "id": 1958545278
-    },
-    "https://elpais.com/deportes/futbol/2026-01-10/el-valencia-vive-bajo-un-nubarron.html": {
-        "added_at": 1768086865.244703,
-        "id": 1958545296
-    },
-    "https://elpais.com/us/migracion/2026-01-09/el-video-grabado-por-el-agente-del-ice-que-mato-a-tiros-a-una-mujer-en-minneapolis-escala-la-crisis-en-estados-unidos.html": {
-        "added_at": 1768086866.6263723,
-        "id": 1957981277
-    },
     "https://www.bfmtv.com/economie/replay-emissions/la-librairie-de-l-eco/video-la-librairie-de-l-eco-samedi-10-janvier_VN-202601100432.html": {
         "added_at": 1768094428.7949932,
         "id": 1958580300
@@ -1750,5 +1710,69 @@
     "https://elpais.com/deportes/futbol/2026-01-11/el-barca-conquista-ante-el-madrid-un-clasico-gigantesco.html": {
         "added_at": 1768169682.8722413,
         "id": 1959024100
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/l-hebdo-des-pme/video-ludovic-sandler-ls-coordination-ls-coordination-le-pilotage-de-chantier-10-01_VN-202601100393.html": {
+        "added_at": 1768173266.011303,
+        "id": 1958526916
+    },
+    "https://github.com/photon-hq/imessage-kit": {
+        "added_at": 1768173268.283831,
+        "id": 1959044233
+    },
+    "https://addyosmani.com/blog/next-two-years/": {
+        "added_at": 1768173269.6464648,
+        "id": 1959044241
+    },
+    "https://soap.coffee/~lthms/posts/i-cannot-ssh-into-my-server-anymore.html": {
+        "added_at": 1768173271.0960236,
+        "id": 1959044247
+    },
+    "https://jakobemmerling.de/posts/fuse-is-all-you-need/": {
+        "added_at": 1768173272.3760633,
+        "id": 1959044253
+    },
+    "https://www.codepuns.com/post/805294580859879424/i-would-tell-you-a-udp-joke-but-you-might-not-get": {
+        "added_at": 1768173273.6778452,
+        "id": 1959044259
+    },
+    "https://iczelia.net/posts/snake-polyglot/": {
+        "added_at": 1768173275.020302,
+        "id": 1959044267
+    },
+    "https://elpais.com/internacional/2026-01-10/mohamed-vi-se-ve-obligado-a-guardar-reposo-tras-sufrir-una-dolencia-lumbar.html": {
+        "added_at": 1768173277.192975,
+        "id": 1958526957
+    },
+    "https://elpais.com/internacional/2026-01-10/fuerzas-estadounidenses-lanzan-un-ataque-a-gran-escala-contra-objetivos-del-estado-islamico-en-siria.html": {
+        "added_at": 1768173278.6974857,
+        "id": 1958526974
+    },
+    "https://elpais.com/us/2026-01-11/washington-enviara-centenares-de-agentes-mas-a-minnesota-tras-las-protestas-contra-el-ice.html": {
+        "added_at": 1768173280.170885,
+        "id": 1959044307
+    },
+    "https://elpais.com/smoda/globos-de-oro/2026-01-11/la-alfombra-roja-de-los-globos-de-oro-en-imagenes.html": {
+        "added_at": 1768173281.464868,
+        "id": 1959044312
+    },
+    "https://elpais.com/deportes/futbol/2026-01-11/el-disparo-final-como-sintoma.html": {
+        "added_at": 1768173282.7587233,
+        "id": 1959044320
+    },
+    "https://elpais.com/deportes/futbol/2026-01-11/la-pizarra-secreta-y-xabi-alonso-y-la-liberacion-de-vinicius.html": {
+        "added_at": 1768173284.0495706,
+        "id": 1959044326
+    },
+    "https://elpais.com/deportes/futbol/2026-01-11/la-garantia-se-llama-flick.html": {
+        "added_at": 1768173285.321266,
+        "id": 1959044332
+    },
+    "https://elpais.com/deportes/futbol/2026-01-11/raphinha-y-sus-aliados-de-siempre-lewy-y-lamine.html": {
+        "added_at": 1768173287.5687234,
+        "id": 1959044335
+    },
+    "https://www.monde-diplomatique.fr/2026/01/BREVILLE/69172": {
+        "added_at": 1768173291.2715263,
+        "id": 1955551075
     }
 }
