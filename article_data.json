@@ -1,216 +1,4 @@
 {
-    "https://www.franceinfo.fr/sante/alimentation/nestle-rallonge-la-liste-des-pays-touches-par-le-rappel-de-laits-infantiles_7731328.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768000522.614653,
-        "id": 1958025885
-    },
-    "https://www.franceinfo.fr/culture/tv/trois-ex-candidats-de-la-tele-realite-love-is-blind-france-signalent-des-traitements-inhumains_7731355.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768000524.9472861,
-        "id": 1958025896
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/c-est-votre-argent/la-question-de-la-semaine-va-t-on-avoir-une-meilleure-croissance-09-01_EN-202601090971.html": {
-        "added_at": 1768000526.5529263,
-        "id": 1958025906
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/c-est-votre-argent/video-la-semaine-de-l-economie-09-01_VN-202601090976.html": {
-        "added_at": 1768000528.3931246,
-        "id": 1958025916
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/c-est-votre-argent/le-chiffre-de-la-semaine-a-deviner-09-01_EN-202601090975.html": {
-        "added_at": 1768000529.6723492,
-        "id": 1958025920
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/c-est-votre-argent/les-marches-ou-va-la-bourse-en-2026-09-01_EN-202601090980.html": {
-        "added_at": 1768000531.0809846,
-        "id": 1958025930
-    },
-    "https://arstechnica.com/health/2026/01/rfk-jr-s-dietary-guidelines-beef-tallow-is-in-but-no-booze-for-breakfast/": {
-        "added_at": 1768000533.2389414,
-        "id": 1957414622
-    },
-    "https://arstechnica.com/gadgets/2026/01/high-ram-prices-mean-record-setting-profits-for-samsung-and-other-memory-makers/": {
-        "added_at": 1768000534.7434406,
-        "id": 1957414630
-    },
-    "https://arstechnica.com/google/2026/01/google-dont-make-bite-sized-content-for-llms-if-you-care-about-search-rank/": {
-        "added_at": 1768000535.9205477,
-        "id": 1958025967
-    },
-    "https://arstechnica.com/health/2026/01/measles-continues-raging-in-south-carolina-99-new-cases-since-tuesday/": {
-        "added_at": 1768000537.0979497,
-        "id": 1958025976
-    },
-    "https://www.mihaileric.com/The-Emperor-Has-No-Clothes/": {
-        "added_at": 1768000538.3842459,
-        "id": 1957394685
-    },
-    "https://github.com/denoland/deno/issues/31254": {
-        "added_at": 1768000539.6176493,
-        "id": 1958025994
-    },
-    "https://ragdollmayhemmaker.com/": {
-        "added_at": 1768000540.848979,
-        "id": 1958026004
-    },
-    "https://elpais.com/tecnologia/2026-01-06/coches-y-robots-que-razonan-como-humanos-nvidia-lanza-su-nueva-ia-para-asaltar-el-mundo-real.html": {
-        "added_at": 1768000542.7050552,
-        "id": 1956214478
-    },
-    "https://elpais.com/ciencia/2026-01-07/veneno-en-flechas-de-hace-60000-anos-hallada-la-prueba-mas-antigua-de-su-uso-en-armas-humanas.html": {
-        "added_at": 1768000545.0923827,
-        "id": 1956800879
-    },
-    "https://www.monde-diplomatique.fr/2026/01/JULIEN_THOMAS/69174": {
-        "added_at": 1768000548.365232,
-        "id": 1955576489
-    },
-    "https://www.monde-diplomatique.fr/2026/01/MERIEAU/69176": {
-        "added_at": 1768000550.3547852,
-        "id": 1956236659
-    },
-    "https://www.monde-diplomatique.fr/2026/01/VAUCHEZ/69180": {
-        "added_at": 1768000552.6922057,
-        "id": 1957414848
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-bfm-bourse-mardi-6-janvier_VN-202601091005.html": {
-        "added_at": 1768007496.6034207,
-        "id": 1958065293
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-le-club-les-entreprises-us-finalement-exemptees-de-l-impot-minimal-mondial-quelles-consequences-en-bourse-06-01_VN-202601091006.html": {
-        "added_at": 1768007498.5892541,
-        "id": 1958065309
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-valeur-ajoutee-ils-apprecient-enogia-06-01_VN-202601091009.html": {
-        "added_at": 1768007500.2553756,
-        "id": 1958065319
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-secteur-bancaire-vers-une-rotation-defensive-06-01_VN-202601091010.html": {
-        "added_at": 1768007501.7642145,
-        "id": 1958065329
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-alerte-traders-les-seuils-techniques-incontournables-sur-les-marches-et-les-valeurs-06-01_VN-202601100077.html": {
-        "added_at": 1768007503.1972158,
-        "id": 1958065334
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/le-18h-eco/video-le-19h-eco-mardi-6-janvier_VN-202601100082.html": {
-        "added_at": 1768007504.8855798,
-        "id": 1958065343
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/le-18h-eco/le-19h-eco-mardi-6-janvier_EN-202601100079.html": {
-        "added_at": 1768007506.5197473,
-        "id": 1958065355
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/le-18h-eco/la-chronique-internationale-06-01_EN-202601100084.html": {
-        "added_at": 1768007508.1851451,
-        "id": 1958065367
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-bullshitometre-l-europe-et-les-etats-unis-sont-dans-le-meme-camp-06-01_VN-202601100090.html": {
-        "added_at": 1768007510.4017231,
-        "id": 1958065374
-    },
-    "https://www.ft.com/content/0e1762e0-8aa6-44b5-977c-0865ecdcbb7d": {
-        "added_at": 1768007513.3501115,
-        "id": 1957454625
-    },
-    "https://www.ft.com/content/3f9786ce-7378-4c0e-b445-f759307cf163": {
-        "added_at": 1768007515.9550283,
-        "id": 1958065407
-    },
-    "https://www.ft.com/content/4c21c031-443e-4834-a7a6-3dd59672b54e": {
-        "added_at": 1768007517.6298144,
-        "id": 1958065420
-    },
-    "https://www.ft.com/content/026d4d26-424c-4b8b-892b-8a44f98ca9ee": {
-        "added_at": 1768007520.1725044,
-        "id": 1958065433
-    },
-    "https://www.ft.com/content/c0de7372-57dd-466e-935d-b0acd0b5beec": {
-        "added_at": 1768007523.4534326,
-        "id": 1958065445
-    },
-    "https://www.ft.com/content/50611047-e30f-4520-a704-1292c66e8a11": {
-        "added_at": 1768007525.3221269,
-        "id": 1958065452
-    },
-    "https://www.ft.com/content/ee4f4d99-30fb-4e51-bf8e-00575e8ddb26": {
-        "added_at": 1768007527.3564813,
-        "id": 1958065463
-    },
-    "https://www.ft.com/content/44a96cc4-67a3-48b7-8df2-821bcfc9981e": {
-        "added_at": 1768007529.4934862,
-        "id": 1958065475
-    },
-    "https://www.ft.com/content/5c7d51d6-9d4f-4cc1-b05b-2dda5638ff5d": {
-        "added_at": 1768007534.151907,
-        "id": 1958065501
-    },
-    "https://www.ft.com/content/ee3bdcc6-53d7-48b2-935a-ba186f0a0ca5": {
-        "added_at": 1768007536.418966,
-        "id": 1958065514
-    },
-    "https://www.ft.com/content/2d4e4f72-3b82-454d-b258-881418acba89": {
-        "added_at": 1768007538.2834105,
-        "id": 1958065526
-    },
-    "https://www.ft.com/content/33a5bcfd-4bcd-4210-82f6-7a05aa895716": {
-        "added_at": 1768007540.1418936,
-        "id": 1958065537
-    },
-    "https://www.ft.com/content/05df43a3-daa6-4245-acdf-9076efcf07f3": {
-        "added_at": 1768007541.9777505,
-        "id": 1958065545
-    },
-    "https://www.ft.com/content/e520672e-c393-4918-93e3-3b774adee3cc": {
-        "added_at": 1768007544.732088,
-        "id": 1958065562
-    },
-    "https://arstechnica.com/tech-policy/2026/01/fcc-to-authorize-more-powerful-wireless-devices-in-6-ghz-wi-fi-band/": {
-        "added_at": 1768007546.7250218,
-        "id": 1957454636
-    },
-    "https://arstechnica.com/security/2026/01/michigan-man-learns-the-hard-way-that-catch-a-cheater-spyware-apps-arent-legal/": {
-        "added_at": 1768007548.0126598,
-        "id": 1957454644
-    },
-    "https://arstechnica.com/space/2026/01/esa-considers-righting-the-wrongs-of-ariane-6-by-turning-it-into-a-franken-rocket/": {
-        "added_at": 1768007549.6579032,
-        "id": 1958065594
-    },
-    "https://arstechnica.com/tech-policy/2026/01/spacex-gets-fcc-permission-to-launch-another-7500-starlink-satellites/": {
-        "added_at": 1768007550.9490254,
-        "id": 1958065603
-    },
-    "https://www.tedinski.com/2018/02/27/the-expression-problem.html": {
-        "added_at": 1768007552.598026,
-        "id": 1958065609
-    },
-    "https://www.nytimes.com/2026/01/09/arts/music/washington-national-opera-kennedy-center.html": {
-        "added_at": 1768007554.3981035,
-        "id": 1958065616
-    },
-    "https://lcamtuf.substack.com/p/see-it-with-your-lying-ears": {
-        "added_at": 1768007555.7717445,
-        "id": 1958065622
-    },
-    "https://www.hsrail.org/blog/caltrain-shows-why-every-region-should-be-moving-toward-regional-rail/": {
-        "added_at": 1768007557.0646863,
-        "id": 1958065629
-    },
-    "https://mathstodon.xyz/@tao/115855840223258103": {
-        "added_at": 1768007558.3484943,
-        "id": 1958065635
-    },
-    "https://elpais.com/deportes/futbol/2026-01-08/courtois-y-valverde-propician-otro-clasico-en-la-supercopa-de-arabia-saudi.html": {
-        "added_at": 1768007560.4385805,
-        "id": 1957454781
-    },
-    "https://elpais.com/internacional/2026-01-09/trump-vamos-a-hacer-algo-con-groenlandia-por-las-buenas-o-por-las-malas.html": {
-        "added_at": 1768007561.8916266,
-        "id": 1958065655
-    },
-    "https://www.monde-diplomatique.fr/2026/01/LORDON/69186": {
-        "added_at": 1768007565.134089,
-        "id": 1958065669
-    },
     "https://www.bfmtv.com/economie/replay-emissions/la-grande-interview/video-live-nation-rachete-paris-la-defense-arena-06-01_VN-202601100096.html": {
         "added_at": 1768015209.3400896,
         "id": 1958102002
@@ -1834,5 +1622,57 @@
     "https://elpais.com/us/migracion/2026-01-09/el-video-grabado-por-el-agente-del-ice-que-mato-a-tiros-a-una-mujer-en-minneapolis-escala-la-crisis-en-estados-unidos.html": {
         "added_at": 1768086866.6263723,
         "id": 1957981277
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/la-librairie-de-l-eco/video-la-librairie-de-l-eco-samedi-10-janvier_VN-202601100432.html": {
+        "added_at": 1768094428.7949932,
+        "id": 1958580300
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/la-librairie-de-l-eco/la-librairie-de-l-eco-samedi-10-janvier_EN-202601110043.html": {
+        "added_at": 1768094430.4174974,
+        "id": 1958580306
+    },
+    "https://www.ft.com/content/0630a09b-1b30-4690-81b7-46ae81587ccf": {
+        "added_at": 1768094433.0620944,
+        "id": 1958580317
+    },
+    "https://www.ft.com/content/c4fa621f-7605-4f07-8a7c-090c77a32f9c": {
+        "added_at": 1768094434.2994668,
+        "id": 1958580324
+    },
+    "https://arstechnica.com/tech-policy/2026/01/grok-assumes-users-seeking-images-of-underage-girls-have-good-intent/": {
+        "added_at": 1768094436.067791,
+        "id": 1957394602
+    },
+    "https://arstechnica.com/science/2026/01/these-dogs-eavesdrop-on-their-owners-to-learn-new-words/": {
+        "added_at": 1768094437.7279508,
+        "id": 1957394617
+    },
+    "https://literaryreview.co.uk/varnish-virtue": {
+        "added_at": 1768094439.0816865,
+        "id": 1958580346
+    },
+    "https://lareviewofbooks.org/article/a-child-in-the-state-of-nature/": {
+        "added_at": 1768094440.3831444,
+        "id": 1958580356
+    },
+    "https://github.com/apify/mcp-cli": {
+        "added_at": 1768094441.6681795,
+        "id": 1958580364
+    },
+    "https://news.ycombinator.com/item?id=46571166": {
+        "added_at": 1768094443.5034132,
+        "id": 1958580372
+    },
+    "https://paris1970.jeantho.eu/index.html": {
+        "added_at": 1768094444.72125,
+        "id": 1958580376
+    },
+    "https://news.ycombinator.com/item?id=46571149": {
+        "added_at": 1768094445.9491725,
+        "id": 1958580379
+    },
+    "https://www.brown.edu/news/2026-01-07/private-equity-autism-centers": {
+        "added_at": 1768094447.1702263,
+        "id": 1958580382
     }
 }
