@@ -1,56 +1,4 @@
 {
-    "https://www.bfmtv.com/economie/replay-emissions/la-librairie-de-l-eco/video-la-librairie-de-l-eco-samedi-10-janvier_VN-202601100432.html": {
-        "added_at": 1768094428.7949932,
-        "id": 1958580300
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/la-librairie-de-l-eco/la-librairie-de-l-eco-samedi-10-janvier_EN-202601110043.html": {
-        "added_at": 1768094430.4174974,
-        "id": 1958580306
-    },
-    "https://www.ft.com/content/0630a09b-1b30-4690-81b7-46ae81587ccf": {
-        "added_at": 1768094433.0620944,
-        "id": 1958580317
-    },
-    "https://www.ft.com/content/c4fa621f-7605-4f07-8a7c-090c77a32f9c": {
-        "added_at": 1768094434.2994668,
-        "id": 1958580324
-    },
-    "https://arstechnica.com/tech-policy/2026/01/grok-assumes-users-seeking-images-of-underage-girls-have-good-intent/": {
-        "added_at": 1768094436.067791,
-        "id": 1957394602
-    },
-    "https://arstechnica.com/science/2026/01/these-dogs-eavesdrop-on-their-owners-to-learn-new-words/": {
-        "added_at": 1768094437.7279508,
-        "id": 1957394617
-    },
-    "https://literaryreview.co.uk/varnish-virtue": {
-        "added_at": 1768094439.0816865,
-        "id": 1958580346
-    },
-    "https://lareviewofbooks.org/article/a-child-in-the-state-of-nature/": {
-        "added_at": 1768094440.3831444,
-        "id": 1958580356
-    },
-    "https://github.com/apify/mcp-cli": {
-        "added_at": 1768094441.6681795,
-        "id": 1958580364
-    },
-    "https://news.ycombinator.com/item?id=46571166": {
-        "added_at": 1768094443.5034132,
-        "id": 1958580372
-    },
-    "https://paris1970.jeantho.eu/index.html": {
-        "added_at": 1768094444.72125,
-        "id": 1958580376
-    },
-    "https://news.ycombinator.com/item?id=46571149": {
-        "added_at": 1768094445.9491725,
-        "id": 1958580379
-    },
-    "https://www.brown.edu/news/2026-01-07/private-equity-autism-centers": {
-        "added_at": 1768094447.1702263,
-        "id": 1958580382
-    },
     "https://arstechnica.com/gadgets/2026/01/high-ram-prices-mean-record-setting-profits-for-samsung-and-other-memory-makers/": {
         "added_at": 1768103108.8525236,
         "id": 1957414630
@@ -1858,5 +1806,53 @@
     "https://www.monde-diplomatique.fr/2026/01/CRETOIS/69131": {
         "added_at": 1768180673.9693518,
         "id": 1959077029
+    },
+    "https://www.ft.com/content/5a97cb9f-548d-4480-a3c1-713beb61b8d9": {
+        "added_at": 1768189438.8567693,
+        "id": 1959112958
+    },
+    "https://www.ft.com/content/62f8d723-fcb2-4712-8b61-a13e967f642a": {
+        "added_at": 1768189440.3177462,
+        "id": 1959112963
+    },
+    "https://dioptre.github.io/tidal/": {
+        "added_at": 1768189443.5755303,
+        "id": 1959112976
+    },
+    "https://people.csail.mit.edu/brooks/papers/elephants.pdf": {
+        "added_at": 1768189444.8457115,
+        "id": 1959112982
+    },
+    "https://trynova.dev/blog/garbage-collection-is-contrarian": {
+        "added_at": 1768189447.4131565,
+        "id": 1959112994
+    },
+    "https://news.gallup.com/poll/700241/americans-end-year-gloomy-mood.aspx": {
+        "added_at": 1768189449.2040007,
+        "id": 1959113002
+    },
+    "https://kushaldas.in/posts/introducing-ektupy.html": {
+        "added_at": 1768189450.446754,
+        "id": 1959113006
+    },
+    "https://www.penguin.co.uk/books/468218/ping-by-brodsky-andrew/9780241746363": {
+        "added_at": 1768189451.6523986,
+        "id": 1959113009
+    },
+    "https://www.youtube.com/watch?v=1reman2waLs": {
+        "added_at": 1768189452.8629062,
+        "id": 1959113013
+    },
+    "https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/": {
+        "added_at": 1768189454.076011,
+        "id": 1959113019
+    },
+    "https://www.chrisgregori.dev/opinion/code-is-cheap-now-software-isnt": {
+        "added_at": 1768189455.2794974,
+        "id": 1959113022
+    },
+    "https://elpais.com/economia/2026-01-12/el-presidente-de-la-reserva-federal-anuncia-que-la-fiscalia-le-ha-abierto-una-investigacion-penal.html": {
+        "added_at": 1768189456.9321995,
+        "id": 1959113028
     }
 }
