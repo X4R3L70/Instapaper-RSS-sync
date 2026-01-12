@@ -1,116 +1,4 @@
 {
-    "https://arstechnica.com/gadgets/2026/01/high-ram-prices-mean-record-setting-profits-for-samsung-and-other-memory-makers/": {
-        "added_at": 1768103108.8525236,
-        "id": 1957414630
-    },
-    "https://arstechnica.com/tech-policy/2026/01/fcc-to-authorize-more-powerful-wireless-devices-in-6-ghz-wi-fi-band/": {
-        "added_at": 1768103110.0264652,
-        "id": 1957454636
-    },
-    "https://arstechnica.com/security/2026/01/michigan-man-learns-the-hard-way-that-catch-a-cheater-spyware-apps-arent-legal/": {
-        "added_at": 1768103111.670605,
-        "id": 1957454644
-    },
-    "https://arstechnica.com/google/2026/01/google-dont-make-bite-sized-content-for-llms-if-you-care-about-search-rank/": {
-        "added_at": 1768103112.8444946,
-        "id": 1958025967
-    },
-    "https://arstechnica.com/health/2026/01/measles-continues-raging-in-south-carolina-99-new-cases-since-tuesday/": {
-        "added_at": 1768103113.9964442,
-        "id": 1958025976
-    },
-    "https://arstechnica.com/space/2026/01/esa-considers-righting-the-wrongs-of-ariane-6-by-turning-it-into-a-franken-rocket/": {
-        "added_at": 1768103116.2396798,
-        "id": 1958065594
-    },
-    "https://arstechnica.com/tech-policy/2026/01/spacex-gets-fcc-permission-to-launch-another-7500-starlink-satellites/": {
-        "added_at": 1768103117.4031734,
-        "id": 1958065603
-    },
-    "https://blog.bugsiki.dev/posts/apple-pmu/": {
-        "added_at": 1768103118.863654,
-        "id": 1958618545
-    },
-    "https://devblog.archlinux.page/2026/a-year-of-work-on-the-alpm-project/": {
-        "added_at": 1768103120.0320845,
-        "id": 1958618551
-    },
-    "https://github.com/kalcaddle/kodbox": {
-        "added_at": 1768103121.3980362,
-        "id": 1958618558
-    },
-    "https://www.rollingstone.com/music/music-news/bob-weir-grateful-dead-dead-obituary-1234810106/": {
-        "added_at": 1768103122.5773222,
-        "id": 1958618563
-    },
-    "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus": {
-        "added_at": 1768103123.7596314,
-        "id": 1958618570
-    },
-    "https://www.deductive.ai/blogs/datadog-thank-you-for-blocking-us": {
-        "added_at": 1768103124.927179,
-        "id": 1958618575
-    },
-    "https://www.modernretail.co/technology/brands-are-upset-that-buy-for-me-is-featuring-their-products-on-amazon-without-permission/": {
-        "added_at": 1768103126.128712,
-        "id": 1958618580
-    },
-    "https://github.com/unhaya/vam-seek": {
-        "added_at": 1768103127.2817671,
-        "id": 1958618586
-    },
-    "https://github.com/OlaProeis/Ferrite": {
-        "added_at": 1768103129.28709,
-        "id": 1958618595
-    },
-    "https://www.monde-diplomatique.fr/2026/01/JULIEN_THOMAS/69174": {
-        "added_at": 1768103133.264908,
-        "id": 1955576489
-    },
-    "https://www.monde-diplomatique.fr/2026/01/MERIEAU/69176": {
-        "added_at": 1768103138.0797794,
-        "id": 1956236659
-    },
-    "https://www.monde-diplomatique.fr/2026/01/VAUCHEZ/69180": {
-        "added_at": 1768103141.100181,
-        "id": 1957414848
-    },
-    "https://www.monde-diplomatique.fr/2026/01/LORDON/69186": {
-        "added_at": 1768103143.8831801,
-        "id": 1958065669
-    },
-    "https://www.monde-diplomatique.fr/2026/01/VIEILLESCAZES/69187": {
-        "added_at": 1768103146.1072235,
-        "id": 1958618685
-    },
-    "https://www.monde-diplomatique.fr/2026/01/FAUJOUR/69188": {
-        "added_at": 1768103148.0935917,
-        "id": 1958618693
-    },
-    "https://www.ft.com/content/52a8bc1f-05a9-4d5e-b2cc-aa2591ac4471": {
-        "added_at": 1768106566.860118,
-        "id": 1958102020
-    },
-    "https://arstechnica.com/health/2026/01/rfk-jr-s-dietary-guidelines-beef-tallow-is-in-but-no-booze-for-breakfast/": {
-        "added_at": 1768106568.354843,
-        "id": 1957414622
-    },
-    "https://www.abolishcrlf.org//2025/12/31/Printf.html": {
-        "added_at": 1768106570.1539342,
-        "id": 1958633307
-    },
-    "https://www.fox13seattle.com/video/fmc-w1ga4pk97gxq0hj5": {
-        "added_at": 1768106571.4996855,
-        "id": 1958633312
-    },
-    "https://elpais.com/quadern/2026-01-11/el-cinema-comedia-i-la-ciutat-reutilitzada.html": {
-        "added_at": 1768106573.385611,
-        "id": 1958633320
-    },
-    "https://elpais.com/espana/catalunya/2026-01-11/el-empujon-de-la-insercion-laboral-para-personas-vulnerables-es-una-gran-puerta-al-mercado-de-trabajo.html": {
-        "added_at": 1768106574.7157707,
-        "id": 1958633325
-    },
     "https://printreadybook.com/": {
         "added_at": 1768108834.3368597,
         "id": 1958642371
@@ -1854,5 +1742,41 @@
     "https://elpais.com/economia/2026-01-12/el-presidente-de-la-reserva-federal-anuncia-que-la-fiscalia-le-ha-abierto-una-investigacion-penal.html": {
         "added_at": 1768189456.9321995,
         "id": 1959113028
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/la-librairie-de-l-eco/video-la-librairie-de-l-eco-samedi-10-janvier_VN-202601100432.html": {
+        "added_at": 1768193079.7326505,
+        "id": 1958580300
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/la-librairie-de-l-eco/la-librairie-de-l-eco-samedi-10-janvier_EN-202601110043.html": {
+        "added_at": 1768193081.5675569,
+        "id": 1958580306
+    },
+    "https://www.scylladb.com/2026/01/06/the-taming-of-collection-scans/": {
+        "added_at": 1768193083.7988245,
+        "id": 1959128212
+    },
+    "https://uncrossy.com/": {
+        "added_at": 1768193085.1039329,
+        "id": 1959128218
+    },
+    "https://www.bbc.com/news/articles/clyndv7zd20o": {
+        "added_at": 1768193086.5604496,
+        "id": 1959128226
+    },
+    "https://github.com/ImJasonH/ImJasonH/blob/main/articles/llm-programming-language.md": {
+        "added_at": 1768193087.7652752,
+        "id": 1959128227
+    },
+    "https://elpais.com/espana/catalunya/2026-01-12/la-soprano-lise-davidsen-estrella-del-tristan-e-isolda-mas-minimalista-en-el-liceu.html": {
+        "added_at": 1768193089.819412,
+        "id": 1959128233
+    },
+    "https://elpais.com/espana/catalunya/2026-01-12/la-generalitat-y-renfe-echan-a-andar-la-empresa-mixta-en-un-ano-plagado-de-obras.html": {
+        "added_at": 1768193091.1062996,
+        "id": 1959128242
+    },
+    "https://elpais.com/espana/madrid/2026-01-12/la-familia-cazon-lista-para-colonizar-un-nuevo-barrio-de-madrid-mas-grande-que-zamora.html": {
+        "added_at": 1768193092.506285,
+        "id": 1959128249
     }
 }
