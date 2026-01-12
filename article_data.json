@@ -1,52 +1,4 @@
 {
-    "https://www.ft.com/content/89f72372-0dc6-46fc-a9a6-b183f95319b4": {
-        "added_at": 1768169667.41454,
-        "id": 1959024014
-    },
-    "https://arstechnica.com/culture/2026/01/us-black-hawk-helicopter-trespasses-on-private-montana-ranch-to-grab-elk-antlers/": {
-        "added_at": 1768169669.1916645,
-        "id": 1957927342
-    },
-    "https://arstechnica.com/science/2026/01/that-time-will-smith-helped-discover-new-species-of-anaconda/": {
-        "added_at": 1768169670.4702346,
-        "id": 1959024029
-    },
-    "https://www.figma.com/blog/desperately-seeking-squircles/": {
-        "added_at": 1768169671.753609,
-        "id": 1959024034
-    },
-    "https://www.npr.org/2026/01/11/nx-s1-5673949/dhs-restricts-congressional-visits-to-ice-facilities-in-minneapolis-with-new-policy": {
-        "added_at": 1768169673.2135992,
-        "id": 1959024042
-    },
-    "https://github.com/abokhalill/chr2": {
-        "added_at": 1768169674.417631,
-        "id": 1959024050
-    },
-    "https://www.owlposting.com/p/a-2026-look-at-three-bio-ml-opinions": {
-        "added_at": 1768169675.627822,
-        "id": 1959024060
-    },
-    "https://news.ycombinator.com/item?id=46580652": {
-        "added_at": 1768169676.7739835,
-        "id": 1959024067
-    },
-    "https://elo-lang.org/": {
-        "added_at": 1768169677.9353647,
-        "id": 1959024076
-    },
-    "https://fulghum.io/self-hosting": {
-        "added_at": 1768169679.0942655,
-        "id": 1959024086
-    },
-    "https://elpais.com/sociedad/2026-01-09/la-familia-de-la-nina-que-se-suicido-en-sevilla-se-querella-contra-el-colegio-y-los-docentes.html": {
-        "added_at": 1768169680.8389494,
-        "id": 1957927462
-    },
-    "https://elpais.com/deportes/futbol/2026-01-11/el-barca-conquista-ante-el-madrid-un-clasico-gigantesco.html": {
-        "added_at": 1768169682.8722413,
-        "id": 1959024100
-    },
     "https://www.bfmtv.com/economie/replay-emissions/l-hebdo-des-pme/video-ludovic-sandler-ls-coordination-ls-coordination-le-pilotage-de-chantier-10-01_VN-202601100393.html": {
         "added_at": 1768173266.011303,
         "id": 1958526916
@@ -2934,5 +2886,57 @@
     "https://elpais.com/us/migracion/2026-01-12/ice-out-for-good-las-claves-sobre-las-protestas-contra-la-politica-migratoria-de-trump.html": {
         "added_at": 1768252543.0486042,
         "id": 1959526809
+    },
+    "https://www.franceinfo.fr/monde/iran/manifestations/manifestations-en-iran-pourquoi-le-blackout-dans-lequel-est-plonge-le-pays-pourrait-durer_7737157.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768256071.4047859,
+        "id": 1959552612
+    },
+    "https://www.franceinfo.fr/replay-jt/france-2/20-heures/pedocriminalite-l-intelligence-artificielle-devient-une-arme-qui-inquiete-les-autorites_7737094.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768256073.8831677,
+        "id": 1959552635
+    },
+    "https://www.franceinfo.fr/sports/foot/coupe-de-france/coupe-de-france-le-psg-tenant-du-titre-elimine-par-le-paris-fc-0-1-des-les-seiziemes-de-finale_7737172.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768256075.6605728,
+        "id": 1959552645
+    },
+    "https://www.franceinfo.fr/faits-divers/meurtres/assassinats-en-corse/ce-que-l-on-sait-du-meurtre-de-l-ex-dirigeant-nationaliste-corse-alain-orsoni-lors-des-funerailles-de-sa-mere_7737136.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768256077.9559627,
+        "id": 1959552663
+    },
+    "https://www.franceinfo.fr/replay-jt/france-2/20-heures/manifestations-en-iran-retour-sur-16-jours-de-revolte_7737160.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768256080.5773668,
+        "id": 1959552683
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-tech-co-la-quotidienne-speciale-ces-2026-lundi-12-janvier_VN-202601121012.html": {
+        "added_at": 1768256082.4259498,
+        "id": 1959552694
+    },
+    "https://www.ft.com/content/c5bfbc6d-cd05-4f53-b3b0-5a2de80c139a": {
+        "added_at": 1768256084.1284962,
+        "id": 1959552709
+    },
+    "https://www.raphkoster.com/2017/09/22/31098/": {
+        "added_at": 1768256085.9711335,
+        "id": 1959552721
+    },
+    "https://www.promptarmor.com/resources/superhuman-ai-exfiltrates-emails": {
+        "added_at": 1768256087.263333,
+        "id": 1959552731
+    },
+    "https://elpais.com/espana/madrid/2026-01-12/rezo-masivo-en-el-movistar-arena-creer-en-dios-esta-trending-topic.html": {
+        "added_at": 1768256089.1897318,
+        "id": 1959552746
+    },
+    "https://www.monde-diplomatique.fr/2026/01/CARAYOL/69178": {
+        "added_at": 1768256095.6707063,
+        "id": 1957267414
+    },
+    "https://www.monde-diplomatique.fr/2026/01/FRESCHI/69179": {
+        "added_at": 1768256098.4225557,
+        "id": 1957267434
+    },
+    "https://www.monde-diplomatique.fr/2026/01/SIZAIRE/69181": {
+        "added_at": 1768256101.0879383,
+        "id": 1957875278
     }
 }
