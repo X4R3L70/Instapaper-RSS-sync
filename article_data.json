@@ -1,64 +1,4 @@
 {
-    "https://www.franceinfo.fr/politique/le-parti-socialiste-ne-votera-pas-les-motions-de-censure-du-rn-et-de-lfi-sur-le-mercosur-affirme-olivier-faure_7734994.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768158701.6079278,
-        "id": 1958971932
-    },
-    "https://www.bfmtv.com/economie/entreprises/energie/donald-trump-signe-un-decret-pour-proteger-les-revenus-petroliers-venezueliens-detenus-aux-etats-unis_AD-202601100345.html": {
-        "added_at": 1768158703.3824935,
-        "id": 1958445634
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/l-hebdo-des-pme/video-maxence-genta-04-recyclage-04-recyclage-les-biodechets-en-ressources-10-01_VN-202601100351.html": {
-        "added_at": 1768158704.9433532,
-        "id": 1958445652
-    },
-    "https://www.ft.com/content/e566ba10-51cd-4686-a8dc-8762edc2c79b": {
-        "added_at": 1768158707.5404816,
-        "id": 1958971962
-    },
-    "https://www.ft.com/geographyclass": {
-        "added_at": 1768158709.5840826,
-        "id": 1958971981
-    },
-    "https://wiki.mozilla.org/Areweyet": {
-        "added_at": 1768158711.464863,
-        "id": 1958971992
-    },
-    "https://github.com/MedUnes/go-kata": {
-        "added_at": 1768158712.8027163,
-        "id": 1958972001
-    },
-    "https://rnsaffn.com/poison3/": {
-        "added_at": 1768158715.330849,
-        "id": 1958972010
-    },
-    "https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/": {
-        "added_at": 1768158716.6978114,
-        "id": 1958972017
-    },
-    "https://elpais.com/cultura/2026-01-10/angel-garcia-colin-el-gestor-sonriente.html": {
-        "added_at": 1768158721.119776,
-        "id": 1958419013
-    },
-    "https://elpais.com/deportes/2026-01-10/carlos-sainz-con-la-energia-que-aun-tengo-debere-buscarme-nuevos-retos.html": {
-        "added_at": 1768158723.832243,
-        "id": 1958419007
-    },
-    "https://elpais.com/espana/2026-01-10/la-policia-investiga-la-muerte-de-una-menor-de-13-anos-y-un-joven-de-20-en-logrono.html": {
-        "added_at": 1768158725.537129,
-        "id": 1958419051
-    },
-    "https://elpais.com/deportes/futbol/2026-01-11/el-manchester-united-queda-eliminado-de-la-fa-cup-tras-caer-ante-el-brighton-en-old-trafford.html": {
-        "added_at": 1768158727.0864325,
-        "id": 1958972066
-    },
-    "https://elpais.com/espana/madrid/2026-01-11/la-linea-6-de-metro-de-madrid-circular-cerrara-a-las-2300-horas-de-domingo-a-jueves.html": {
-        "added_at": 1768158729.0361226,
-        "id": 1958972078
-    },
-    "https://elpais.com/deportes/futbol/2026-01-11/barcelona-real-madrid-en-directo-la-final-de-la-supercopa-de-espana-en-vivo.html": {
-        "added_at": 1768158730.3387246,
-        "id": 1958972085
-    },
     "https://www.franceinfo.fr/monde/groenland/groenland-le-pays-face-aux-convoitises-de-donald-trump_7735012.html#xtor=RSS-3-[lestitres]": {
         "added_at": 1768162628.483612,
         "id": 1958990598
@@ -2886,5 +2826,73 @@
     "https://elpais.com/america/2026-01-12/el-chavismo-acelera-la-liberacion-de-presos-entre-expectativas-y-dudas.html": {
         "added_at": 1768242319.2508788,
         "id": 1959449075
+    },
+    "https://www.franceinfo.fr/societe/bernard-arnault-installe-a-l-academie-des-sciences-morales-et-politiques_7737001.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768245429.0691364,
+        "id": 1959471213
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/le-18h-eco/la-chronique-internationale-12-01_EN-202601120899.html": {
+        "added_at": 1768245430.9604356,
+        "id": 1959471230
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/le-18h-eco/video-usa-de-johnson-a-trump-la-fed-sous-pression_VN-202601120904.html": {
+        "added_at": 1768245432.3851686,
+        "id": 1959471240
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/le-18h-eco/video-le-19h-eco-lundi-12-janvier_VN-202601120910.html": {
+        "added_at": 1768245434.0953119,
+        "id": 1959471254
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/le-18h-eco/le-19h-eco-lundi-12-janvier_EN-202601120907.html": {
+        "added_at": 1768245435.9471614,
+        "id": 1959471267
+    },
+    "https://www.bfmtv.com/economie/entreprises/le-franc-suisse-est-trop-fort-par-rapport-au-dollar-le-fabricant-suisse-de-machines-a-coudre-bernina-qui-vend-les-trois-quarts-de-ses-appareils-aux-etats-unis-compte-delocaliser-40-postes-en-thailande_AD-202601120909.html": {
+        "added_at": 1768245437.448927,
+        "id": 1959471276
+    },
+    "https://www.bfmtv.com/economie/economie-social/france/nous-ne-laisserons-pas-pericliter-notre-pays-le-medef-entend-soutenir-les-decideurs-politiques-qui-comprennent-l-economie-et-dont-le-calendrier-depasse-2027_AD-202601120930.html": {
+        "added_at": 1768245438.971856,
+        "id": 1959471293
+    },
+    "https://www.ft.com/content/fefa9450-08ac-41da-8524-42b6ddfc2c85": {
+        "added_at": 1768245440.7994244,
+        "id": 1959471304
+    },
+    "https://arstechnica.com/culture/2026/01/ungentrified-craigslist-may-be-the-last-real-place-on-the-internet/": {
+        "added_at": 1768245442.7535107,
+        "id": 1957822171
+    },
+    "https://gpfault.net/posts/aabb-tricks.html": {
+        "added_at": 1768245444.2843437,
+        "id": 1959471326
+    },
+    "https://sr.ericli.tech/?d=N4IgbiBcCMA0IHcoG1QBcogEYngGxQAZZiAOWUgXXgGMpQBHTASwCcBDAO1xAAcoAzIWGEAvqNjpMAWx4FIycsWjKAbNRB1IoLcgEAmAHSqALAHYArAOgnYFk4YumBF6OvgAvKGfgBnKGisAK4ApvDckCAAkhzc4pIgGJEhckQU6VS09CBMkWxcIPFSkfz4KNBKsKqwZhpaoP6RNi5mAjwhSSAA0gAW7NIhnCHMAAQA9kFoI+y+IwDKQbysIQMjADIh7AAmIazjAGYjMVwjWACeIwBSXEHsrBfWAPyFEsUgZ6kKFTVVsACcdWyQUwPTQaF4vkgAHooQg4YYzhM0EEsCFDDQxtJYew0DQeo8wABeNYAfX2NFYAHlEQB1ABapBelFEQA": {
+        "added_at": 1768245445.7035823,
+        "id": 1959471334
+    },
+    "https://github.com/finbarr/yolobox": {
+        "added_at": 1768245447.0497005,
+        "id": 1959471351
+    },
+    "https://twitter.com/netblocks/status/2010750871274160361": {
+        "added_at": 1768245448.5068662,
+        "id": 1959471365
+    },
+    "https://cy.md/opencode-rce/": {
+        "added_at": 1768245449.819072,
+        "id": 1959471377
+    },
+    "https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace": {
+        "added_at": 1768245451.1327455,
+        "id": 1959471388
+    },
+    "https://elpais.com/espana/2026-01-12/el-constitucional-tumba-el-veto-del-gobierno-de-ayuso-a-las-preguntas-de-la-oposicion-sobre-las-amenazas-de-miguel-angel-rodriguez-a-una-periodista.html": {
+        "added_at": 1768245452.9772775,
+        "id": 1959471402
+    },
+    "https://elpais.com/internacional/2026-01-12/el-exlider-nacionalista-corso-alain-orsoni-asesinado-a-tiros-en-el-funeral-de-su-madre.html": {
+        "added_at": 1768245454.4303193,
+        "id": 1959471418
     }
 }
