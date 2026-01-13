@@ -1,52 +1,4 @@
 {
-    "https://www.ft.com/content/5a97cb9f-548d-4480-a3c1-713beb61b8d9": {
-        "added_at": 1768189438.8567693,
-        "id": 1959112958
-    },
-    "https://www.ft.com/content/62f8d723-fcb2-4712-8b61-a13e967f642a": {
-        "added_at": 1768189440.3177462,
-        "id": 1959112963
-    },
-    "https://dioptre.github.io/tidal/": {
-        "added_at": 1768189443.5755303,
-        "id": 1959112976
-    },
-    "https://people.csail.mit.edu/brooks/papers/elephants.pdf": {
-        "added_at": 1768189444.8457115,
-        "id": 1959112982
-    },
-    "https://trynova.dev/blog/garbage-collection-is-contrarian": {
-        "added_at": 1768189447.4131565,
-        "id": 1959112994
-    },
-    "https://news.gallup.com/poll/700241/americans-end-year-gloomy-mood.aspx": {
-        "added_at": 1768189449.2040007,
-        "id": 1959113002
-    },
-    "https://kushaldas.in/posts/introducing-ektupy.html": {
-        "added_at": 1768189450.446754,
-        "id": 1959113006
-    },
-    "https://www.penguin.co.uk/books/468218/ping-by-brodsky-andrew/9780241746363": {
-        "added_at": 1768189451.6523986,
-        "id": 1959113009
-    },
-    "https://www.youtube.com/watch?v=1reman2waLs": {
-        "added_at": 1768189452.8629062,
-        "id": 1959113013
-    },
-    "https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/": {
-        "added_at": 1768189454.076011,
-        "id": 1959113019
-    },
-    "https://www.chrisgregori.dev/opinion/code-is-cheap-now-software-isnt": {
-        "added_at": 1768189455.2794974,
-        "id": 1959113022
-    },
-    "https://elpais.com/economia/2026-01-12/el-presidente-de-la-reserva-federal-anuncia-que-la-fiscalia-le-ha-abierto-una-investigacion-penal.html": {
-        "added_at": 1768189456.9321995,
-        "id": 1959113028
-    },
     "https://www.bfmtv.com/economie/replay-emissions/la-librairie-de-l-eco/video-la-librairie-de-l-eco-samedi-10-janvier_VN-202601100432.html": {
         "added_at": 1768193079.7326505,
         "id": 1958580300
@@ -3010,5 +2962,37 @@
     "https://www.monde-diplomatique.fr/2026/01/BREVILLE/69172": {
         "added_at": 1768274633.1876879,
         "id": 1955551075
+    },
+    "https://www.ft.com/content/54a3eca2-33cf-474c-ba87-098489a8eee2": {
+        "added_at": 1768278893.9780915,
+        "id": 1959697042
+    },
+    "https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/": {
+        "added_at": 1768278896.0037737,
+        "id": 1959007319
+    },
+    "https://tinyhack.com/2014/03/12/implementing-a-web-server-in-a-single-printf-call/": {
+        "added_at": 1768278897.4208875,
+        "id": 1959697064
+    },
+    "https://turbopuffer.com/blog/bm25-latency-musings": {
+        "added_at": 1768278898.8345647,
+        "id": 1959697075
+    },
+    "https://pierce.dev/notes/a-deep-dive-on-agent-sandboxes": {
+        "added_at": 1768278900.3484066,
+        "id": 1959697082
+    },
+    "http://bitboost.com/pawsense/": {
+        "added_at": 1768278901.8158045,
+        "id": 1959697092
+    },
+    "https://www.monde-diplomatique.fr/2026/01/BURLAUD/69130": {
+        "added_at": 1768278905.3950436,
+        "id": 1959077023
+    },
+    "https://www.monde-diplomatique.fr/2026/01/CRETOIS/69131": {
+        "added_at": 1768278909.1215127,
+        "id": 1959077029
     }
 }
