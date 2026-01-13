@@ -1,76 +1,4 @@
 {
-    "https://elpais.com/gente/2026-01-12/otra-broma-mas-a-leonardo-dicaprio-en-los-globos-de-oro-sobre-la-edad-de-sus-parejas-y-su-hermetismo-no-sabemos-nada-sobre-ti-abrete-mas.html": {
-        "added_at": 1768221322.6350293,
-        "id": 1959297344
-    },
-    "https://elpais.com/educacion/2026-01-11/bachiller-sabuco-asi-trabaja-un-instituto-que-confia-en-su-alumnado.html": {
-        "added_at": 1768221323.9034483,
-        "id": 1958742381
-    },
-    "https://elpais.com/espana/2026-01-11/la-cronica-sanchez-arriesga-con-su-choque-con-trump-y-con-la-financiacion-autonomica.html": {
-        "added_at": 1768221325.5631258,
-        "id": 1958642757
-    },
-    "https://elpais.com/espana/2026-01-12/dos-asociaciones-denuncian-la-politizacion-del-colegio-de-abogados-de-madrid-tras-su-acusacion-contra-el-ex-fiscal-general.html": {
-        "added_at": 1768221327.2829113,
-        "id": 1959297377
-    },
-    "https://elpais.com/america/2026-01-12/el-gobierno-de-paz-cede-y-retira-parte-del-decreto-de-ajuste-economico-en-bolivia.html": {
-        "added_at": 1768221329.0374625,
-        "id": 1959297386
-    },
-    "https://elpais.com/television/2026-01-12/silvia-abril-actualiza-el-estado-de-salud-de-buenafuente-tras-retirarse-de-las-campanadas-por-ansiedad-esta-trabajando-para-salir-y-saldra.html": {
-        "added_at": 1768221330.4025044,
-        "id": 1959297396
-    },
-    "https://elpais.com/espana/madrid/2026-01-12/desarticulada-una-red-que-asaltaba-y-robaba-a-ancianos-en-los-portales.html": {
-        "added_at": 1768221331.8293164,
-        "id": 1959297411
-    },
-    "https://elpais.com/educacion/2026-01-12/los-profesores-de-madrid-y-euskadi-los-que-mas-denuncian-una-ofensiva-privatizadora-contra-la-ensenanza-publica.html": {
-        "added_at": 1768221333.117645,
-        "id": 1959297424
-    },
-    "https://elpais.com/espana/2026-01-12/ultima-hora-de-la-actualidad-politica-en-directo.html": {
-        "added_at": 1768221334.391882,
-        "id": 1959297432
-    },
-    "https://cincodias.elpais.com/companias/2026-01-12/isidro-faine-renueva-como-presidente-de-la-fundacion-la-caixa-para-cuatro-anos-mas.html": {
-        "added_at": 1768221335.668347,
-        "id": 1959297441
-    },
-    "https://elpais.com/internacional/2026-01-12/china-reivindica-su-derecho-al-artico-estados-unidos-no-debe-utilizar-a-otros-paises-como-excusa.html": {
-        "added_at": 1768221336.9461687,
-        "id": 1959297451
-    },
-    "https://elpais.com/economia/2026-01-12/sanchez-anuncia-una-rebaja-fiscal-a-los-caseros-que-no-suban-el-precio-de-la-vivienda-a-los-inquilinos.html": {
-        "added_at": 1768221338.658128,
-        "id": 1959297463
-    },
-    "https://www.monde-diplomatique.fr/2026/01/BRUNETEAU/69166": {
-        "added_at": 1768221341.5983806,
-        "id": 1955878592
-    },
-    "https://www.monde-diplomatique.fr/2026/01/THIEBAUD/69160": {
-        "added_at": 1768221343.6751373,
-        "id": 1955878599
-    },
-    "https://www.monde-diplomatique.fr/2026/01/DAGUERRE/69156": {
-        "added_at": 1768221346.4750214,
-        "id": 1955878613
-    },
-    "https://www.monde-diplomatique.fr/2026/01/PROLONGEAU/69157": {
-        "added_at": 1768221347.9859595,
-        "id": 1955893282
-    },
-    "https://www.monde-diplomatique.fr/2026/01/HALIMI/69162": {
-        "added_at": 1768221349.498698,
-        "id": 1955893296
-    },
-    "https://www.monde-diplomatique.fr/2026/01/GOBERT/69171": {
-        "added_at": 1768221351.063642,
-        "id": 1955893312
-    },
     "https://www.franceinfo.fr/faits-divers/incendie-dans-un-bar-de-crans-montana-en-suisse/incendie-a-crans-montana-les-premiers-mots-du-patron-du-bar-apres-le-drame_7734412.html#xtor=RSS-3-[lestitres]": {
         "added_at": 1768225084.9606328,
         "id": 1959324747
@@ -2962,5 +2890,133 @@
     "https://elpais.com/internacional/2026-01-13/un-alto-cargo-de-iran-eleva-a-2000-los-muertos-en-las-protestas-contra-el-regimen.html": {
         "added_at": 1768307720.3409054,
         "id": 1959900289
+    },
+    "https://www.franceinfo.fr/politique/marine-le-pen/proces-en-appel-de-marine-le-pen-a-henin-beaumont-on-juge-qu-ils-font-tout-pour-pas-qu-elle-passe_7738471.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768311425.5434778,
+        "id": 1959933713
+    },
+    "https://www.franceinfo.fr/france/la-reunion/observation-exceptionnelle-d-orques-au-large-de-la-reunion_7738735.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768311428.7652764,
+        "id": 1959933740
+    },
+    "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/l-onu-reclame-une-enquete-independante-sur-la-mort-d-une-femme-tuee-par-la-police-de-l-immigration-a-minneapolis_7738726.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768311430.520252,
+        "id": 1959933765
+    },
+    "https://www.franceinfo.fr/culture/arts-expos/louvre/greve-au-louvre-rachida-dati-juge-les-revendications-des-agents-legitimes_7738681.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768311434.925872,
+        "id": 1959933782
+    },
+    "https://www.franceinfo.fr/france/corse/corse/corse-onde-de-choc-apres-l-assassinat-d-alain-orsoni_7738723.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768311438.0019257,
+        "id": 1959933829
+    },
+    "https://www.bfmtv.com/economie/entreprises/aeronautique/les-commandes-d-helicopteres-d-airbus-retrouvent-un-niveau-record-avec-450-appareils-le-fabricant-change-de-patron-et-sera-dirige-par-matthieu-louvot-un-ancien-conseiller-de-nicolas-sarkozy_AD-202601130549.html": {
+        "added_at": 1768311439.5942957,
+        "id": 1959933844
+    },
+    "https://www.bfmtv.com/economie/entreprises/energie/trump-veut-il-exproprier-la-russie-du-venezuela-le-geant-energetique-roszarubezhneft-assure-que-tous-ses-actifs-sur-place-sont-la-propriete-de-l-etat-russe_AV-202601130557.html": {
+        "added_at": 1768311440.9277596,
+        "id": 1959933855
+    },
+    "https://www.bfmtv.com/economie/video-agriculteurs-ils-attendent-le-vote-du-budget-2026-par-l-assemblee-nationale-pour-obtenir-300-millions-d-euros-d-aides_VN-202601130576.html": {
+        "added_at": 1768311442.4214492,
+        "id": 1959933873
+    },
+    "https://www.ft.com/content/8b604d85-8ebf-4f52-834b-8e59c787ec21": {
+        "added_at": 1768311444.1727726,
+        "id": 1959933888
+    },
+    "https://www.ft.com/content/a8beee6e-2317-4d20-aee0-22457f630c73": {
+        "added_at": 1768311445.3761156,
+        "id": 1959933896
+    },
+    "https://www.ft.com/content/331ec18b-9960-4954-8728-f2ff5bb5ee7b": {
+        "added_at": 1768311446.5751958,
+        "id": 1959933906
+    },
+    "https://www.ft.com/content/a2bcd47d-e86f-464c-8b71-48aeccfe431d": {
+        "added_at": 1768311447.9645905,
+        "id": 1959933916
+    },
+    "https://www.ft.com/content/d0d239f5-44cd-4c78-be08-ce55670e7808": {
+        "added_at": 1768311449.1733832,
+        "id": 1959933926
+    },
+    "https://www.ft.com/content/6df51a34-728d-45a1-a105-5777e3af2b91": {
+        "added_at": 1768311450.3909378,
+        "id": 1959933936
+    },
+    "https://www.ft.com/content/129bcecf-3cde-4d71-860f-208b1c2619eb": {
+        "added_at": 1768311451.5885801,
+        "id": 1959933947
+    },
+    "https://www.ft.com/content/ad823724-822f-4e8c-91fd-01c4e6ca7581": {
+        "added_at": 1768311452.7870128,
+        "id": 1959933959
+    },
+    "https://www.ft.com/content/dfe69822-f380-424b-ad1d-e64dbeaef577": {
+        "added_at": 1768311453.9975603,
+        "id": 1959933966
+    },
+    "https://www.ft.com/content/1348b2b4-082a-454f-b489-bab096e00c5f": {
+        "added_at": 1768311455.2374015,
+        "id": 1959933979
+    },
+    "https://www.ft.com/content/fb15917c-6290-453f-b834-1be061b97800": {
+        "added_at": 1768311457.041619,
+        "id": 1959933994
+    },
+    "https://www.ft.com/content/2f6d3a97-561e-4c78-9a45-913999d622ca": {
+        "added_at": 1768311458.2390583,
+        "id": 1959934002
+    },
+    "https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/": {
+        "added_at": 1768311459.5972762,
+        "id": 1959934009
+    },
+    "https://arstechnica.com/health/2026/01/wild-mushrooms-keep-killing-people-in-california-3-dead-35-poisoned/": {
+        "added_at": 1768311460.8036535,
+        "id": 1959934023
+    },
+    "https://elbowgreasegames.substack.com/p/introducing-robotopia-a-3d-first": {
+        "added_at": 1768311462.2188456,
+        "id": 1958102051
+    },
+    "https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/": {
+        "added_at": 1768311463.678411,
+        "id": 1959934048
+    },
+    "https://elpais.com/economia/negocios/2026-01-11/magdalena-cordero-westeam-el-gran-reto-de-la-inteligencia-artificial-es-la-gestion-de-los-datos.html": {
+        "added_at": 1768311465.4987786,
+        "id": 1959297314
+    },
+    "https://elpais.com/economia/negocios/2026-01-10/y-ahora-que-hago-con-la-ia-todas-las-empresas-se-abrazan-al-futuro-pero-pocas-saben-que-hacer-con-el.html": {
+        "added_at": 1768311466.706657,
+        "id": 1958642604
+    },
+    "https://elpais.com/deportes/baloncesto/2026-01-13/el-barca-se-compromete-a-renovar-con-la-euroliga-y-el-real-madrid-estudia-el-proyecto-de-la-nba.html": {
+        "added_at": 1768311467.8976917,
+        "id": 1959934076
+    },
+    "https://elpais.com/espana/2026-01-13/feijoo-comparecera-ante-la-comision-que-investiga-la-dana-en-el-congreso-el-27-de-enero.html": {
+        "added_at": 1768311470.1038032,
+        "id": 1959934089
+    },
+    "https://elpais.com/deportes/futbol/2026-01-13/primera-rueda-de-prensa-de-alvaro-arbeloa-como-entrenador-del-real-madrid.html": {
+        "added_at": 1768311471.3438833,
+        "id": 1959934093
+    },
+    "https://elpais.com/sociedad/2026-01-13/igualdad-exige-que-se-investiguen-las-acusaciones-de-agresion-sexual-contra-julio-iglesias.html": {
+        "added_at": 1768311473.8633614,
+        "id": 1959934116
+    },
+    "https://elpais.com/espana/2026-01-13/la-policia-apunta-la-falta-de-documentos-que-avalen-pagos-de-lopez-madrid-al-comisario-villarejo-para-hostigar-a-la-doctora-pinto.html": {
+        "added_at": 1768311475.069129,
+        "id": 1959934127
+    },
+    "https://elpais.com/internacional/2026-01-13/ribera-critica-la-inaccion-de-von-der-leyen-por-venezuela-y-groenlandia-no-podemos-estar-en-silencio.html": {
+        "added_at": 1768311476.2734096,
+        "id": 1959934136
     }
 }
