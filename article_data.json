@@ -1,40 +1,4 @@
 {
-    "https://www.bfmtv.com/economie/replay-emissions/la-librairie-de-l-eco/video-la-librairie-de-l-eco-samedi-10-janvier_VN-202601100432.html": {
-        "added_at": 1768193079.7326505,
-        "id": 1958580300
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/la-librairie-de-l-eco/la-librairie-de-l-eco-samedi-10-janvier_EN-202601110043.html": {
-        "added_at": 1768193081.5675569,
-        "id": 1958580306
-    },
-    "https://www.scylladb.com/2026/01/06/the-taming-of-collection-scans/": {
-        "added_at": 1768193083.7988245,
-        "id": 1959128212
-    },
-    "https://uncrossy.com/": {
-        "added_at": 1768193085.1039329,
-        "id": 1959128218
-    },
-    "https://www.bbc.com/news/articles/clyndv7zd20o": {
-        "added_at": 1768193086.5604496,
-        "id": 1959128226
-    },
-    "https://github.com/ImJasonH/ImJasonH/blob/main/articles/llm-programming-language.md": {
-        "added_at": 1768193087.7652752,
-        "id": 1959128227
-    },
-    "https://elpais.com/espana/catalunya/2026-01-12/la-soprano-lise-davidsen-estrella-del-tristan-e-isolda-mas-minimalista-en-el-liceu.html": {
-        "added_at": 1768193089.819412,
-        "id": 1959128233
-    },
-    "https://elpais.com/espana/catalunya/2026-01-12/la-generalitat-y-renfe-echan-a-andar-la-empresa-mixta-en-un-ano-plagado-de-obras.html": {
-        "added_at": 1768193091.1062996,
-        "id": 1959128242
-    },
-    "https://elpais.com/espana/madrid/2026-01-12/la-familia-cazon-lista-para-colonizar-un-nuevo-barrio-de-madrid-mas-grande-que-zamora.html": {
-        "added_at": 1768193092.506285,
-        "id": 1959128249
-    },
     "https://www.bfmtv.com/economie/entreprises/defense/tout-ce-qui-releve-de-la-defense-n-est-pas-delocalisable-un-rapport-du-senat-veut-qu-on-aide-plus-les-pme-d-armement-et-que-nos-societes-se-rapprochent-de-leurs-voisines-europeennes-pour-moins-acheter-americain_AV-202601120088.html": {
         "added_at": 1768195507.0505307,
         "id": 1959139736
@@ -2994,5 +2958,309 @@
     "https://www.monde-diplomatique.fr/2026/01/CRETOIS/69131": {
         "added_at": 1768278909.1215127,
         "id": 1959077029
+    },
+    "https://www.franceinfo.fr/monde/iran/manifestations/manifestation-en-iran-pourquoi-les-regards-sont-tournes-vers-donald-trump_7736986.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768281664.4024608,
+        "id": 1959713199
+    },
+    "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/direct-proces-en-appel-des-assistants-parlementaires-du-fn-marine-le-pen-et-onze-autres-prevenus-attendus-a-la-barre-a-partir-de-ce-mardi_7736728.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768281666.9120574,
+        "id": 1959713222
+    },
+    "https://www.franceinfo.fr/sante/a-l-arret-des-traitements-antiobesite-les-kilos-reviennent-en-18-mois_7737067.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768281668.8753114,
+        "id": 1959713230
+    },
+    "https://www.franceinfo.fr/monde/iran/une-iranienne-jugee-a-paris-pour-apologie-du-terrorisme-au-c-ur-de-negociations-diplomatiques-sur-l-avenir-de-cecile-kohler-et-jacques-paris_7734508.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768281670.6679127,
+        "id": 1959713240
+    },
+    "https://www.franceinfo.fr/culture/livres/la-rentree-litteraire/dans-je-suis-romane-monnier-delphine-de-vigan-envoie-valser-les-algorithmes_7736665.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768281672.3742113,
+        "id": 1959713261
+    },
+    "https://www.franceinfo.fr/france/nouvelle-caledonie-iles-loyaute/le-flnks-ne-participera-pas-a-la-reunion-sur-l-avenir-de-la-caledonie-a-paris_7738111.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768281674.282462,
+        "id": 1959713272
+    },
+    "https://www.franceinfo.fr/societe/enfance-et-adolescence/conduites-a-risques-cyberviolence-acces-aux-drogues-les-reseaux-sociaux-alterent-la-sante-des-adolescents-d-apres-l-anses_7736566.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768281676.9709961,
+        "id": 1959713293
+    },
+    "https://www.franceinfo.fr/monde/iran/manifestations/temoignage-manifestations-en-iran-meme-cloitre-chez-vous-vous-entendez-les-tirs-a-balles-reelles-raconte-un-chercheur-de-retour-de-teheran_7736740.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768281679.4330726,
+        "id": 1959713309
+    },
+    "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/elle-ne-reconnaitra-pas-de-culpabilite-comment-marine-le-pen-aborde-le-proces-en-appel-des-assistants-parlementaires-du-fn_7736875.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768281681.3966231,
+        "id": 1959713332
+    },
+    "https://www.bfmtv.com/economie/economie-social/les-assurances-collectent-100-mais-ne-reversent-que-64-les-contrats-de-prevoyance-qui-assurent-contre-l-invalidite-ou-le-deces-sont-bien-plus-rentables-que-la-complementaire-sante_AV-202601130064.html": {
+        "added_at": 1768281683.030472,
+        "id": 1959713349
+    },
+    "https://www.bfmtv.com/economie/patrimoine/les-habitants-d-ile-de-france-epargnent-en-moyenne-80-plus-que-ceux-du-centre-val-de-loire-pourquoi-d-aussi-grandes-disparites-existent-entre-les-epargnants-francais_AV-202601130069.html": {
+        "added_at": 1768281684.5384045,
+        "id": 1959713356
+    },
+    "https://www.bfmtv.com/economie/entreprises/transports/serviette-humide-vaisselle-en-porcelaine-pain-frais-mais-repas-froid-pour-aller-plus-vite-on-a-fait-un-paris-lyon-a-180-euros-dans-la-nouvelle-classe-optimum-plus-proposee-par-la-sncf-pour-ses-tgv_AN-202601130074.html": {
+        "added_at": 1768281687.5696628,
+        "id": 1959713376
+    },
+    "https://www.bfmtv.com/economie/entreprises/sncf-entreprise-ferroviaire-francaise-trains_DN-202108310516.html": {
+        "added_at": 1768281689.1515417,
+        "id": 1956077980
+    },
+    "https://aicoding.leaflet.pub/3mcbiyal7jc2y": {
+        "added_at": 1768281691.2089865,
+        "id": 1959713401
+    },
+    "https://www.hp.com/us-en/desktops/business/eliteboard.html": {
+        "added_at": 1768281693.5481887,
+        "id": 1959713416
+    },
+    "https://www.pbs.org/newshour/politics/watch-powell-vows-to-stand-firm-against-unprecedented-trump-administration-indictment-threats": {
+        "added_at": 1768281694.852752,
+        "id": 1959713429
+    },
+    "https://elpais.com/escaparate/ofertas-y-descuentos/2026-01-13/botines-negros-mujer-rebajas.html": {
+        "added_at": 1768281697.8649921,
+        "id": 1959713459
+    },
+    "https://elpais.com/television/2026-01-12/dani-rovira-regresa-a-la-1-con-un-programa-de-humor-semanal-tras-la-marcha-de-marc-giro.html": {
+        "added_at": 1768281700.0100183,
+        "id": 1959713470
+    },
+    "https://elpais.com/escaparate/estilo-de-vida/2026-01-13/espejo-con-calefaccion-por-infrarrojos.html": {
+        "added_at": 1768281702.0739086,
+        "id": 1959713484
+    },
+    "https://elpais.com/television/2026-01-13/marc-giro-y-la-que-se-avecina.html": {
+        "added_at": 1768281703.3550441,
+        "id": 1959713495
+    },
+    "https://elpais.com/mamas-papas/actualidad/2026-01-13/el-dilema-de-los-deberes-como-equilibrar-la-exigencia-academica-y-el-descanso-familiar.html": {
+        "added_at": 1768281705.6761963,
+        "id": 1959713509
+    },
+    "https://elpais.com/elviajero/2026-01-13/siguiendo-a-pastores-trashumantes-por-las-sierras-de-jaen.html": {
+        "added_at": 1768281707.375537,
+        "id": 1959713524
+    },
+    "https://elpais.com/icon-design/2026-01-13/85-metros-cuadrados-plagados-de-arte-en-el-centro-de-paris-asi-es-el-deslumbrante-piso-de-gorka-postigo.html": {
+        "added_at": 1768281708.666139,
+        "id": 1959713534
+    },
+    "https://elpais.com/gastronomia/el-comidista/2026-01-13/tortitas-de-espinaca-y-queso-el-plato-para-comer-verduras-sin-enterarse.html": {
+        "added_at": 1768281710.149258,
+        "id": 1959713542
+    },
+    "https://elpais.com/smoda/placeres/2026-01-13/pousse-cafe-asi-es-el-coctel-por-capas-del-siglo-xix-que-vuelve-a-la-actualidad.html": {
+        "added_at": 1768281712.4144177,
+        "id": 1959713558
+    },
+    "https://elpais.com/gastronomia/2026-01-13/la-charcuterie-la-historia-de-una-familia-francesa-que-conquista-madrid-con-su-pate-en-croute.html": {
+        "added_at": 1768281714.7745063,
+        "id": 1959713567
+    },
+    "https://elpais.com/deportes/futbol/2026-01-13/el-deportivo-y-su-ansia-de-grandeza-vuelven-a-un-gran-escenario-los-octavos-de-copa-del-rey.html": {
+        "added_at": 1768281716.4090345,
+        "id": 1959713577
+    },
+    "https://elpais.com/deportes/2026-01-13/hansi-flick-y-la-formula-del-8-8.html": {
+        "added_at": 1768281717.7141407,
+        "id": 1959713585
+    },
+    "https://elpais.com/deportes/futbol/2026-01-13/los-cuatro-minutos-del-partido-de-araujo-en-la-final-de-la-supercopa-con-los-que-culmina-su-recuperacion.html": {
+        "added_at": 1768281720.9158924,
+        "id": 1959713598
+    },
+    "https://elpais.com/cultura/ruta-norteamericana/2026-01-13/musica-chimenea-y-manta-cinco-joyas-en-forma-de-disco-para-el-frio.html": {
+        "added_at": 1768281723.7511177,
+        "id": 1959713615
+    },
+    "https://elpais.com/babelia/2026-01-13/los-mejores-comics-del-mes-de-una-denuncia-de-las-miserias-del-oeste-americano-a-la-memoria-intima-de-una-senorita-de-posguerra.html": {
+        "added_at": 1768281726.0631363,
+        "id": 1959713633
+    },
+    "https://elpais.com/cultura/2026-01-13/lola-larumbe-librera-en-los-ochenta-leiamos-cosas-mas-complicadas.html": {
+        "added_at": 1768281727.3535314,
+        "id": 1959713640
+    },
+    "https://elpais.com/eps/2026-01-13/quien-fue-guillermo-larregui-el-espanol-que-recorrio-argentina-a-pie-y-con-una-carretilla-tras-perder-su-trabajo.html": {
+        "added_at": 1768281729.4314709,
+        "id": 1959713660
+    },
+    "https://elpais.com/cultura/2026-01-13/la-noche-en-que-un-tren-con-barra-libre-llevo-la-movida-madrilena-a-vigo-y-el-vagon-donde-nacieron-the-rolling-stones.html": {
+        "added_at": 1768281730.8816674,
+        "id": 1959713671
+    },
+    "https://elpais.com/planeta-futuro/2026-01-13/transformar-en-energia-los-peligrosos-gases-que-enferman-a-los-ninos-de-irak.html": {
+        "added_at": 1768281732.4372623,
+        "id": 1959713685
+    },
+    "https://elpais.com/cultura/2026-01-13/mirar-a-la-ciudad-eterna-para-entender-todas-las-demas.html": {
+        "added_at": 1768281733.9805937,
+        "id": 1959713699
+    },
+    "https://elpais.com/internacional/2026-01-13/el-futbol-acelera-la-proyeccion-publica-del-principe-heredero-hasan-ante-la-enfermedad-del-rey-de-marruecos.html": {
+        "added_at": 1768281735.2480595,
+        "id": 1959713709
+    },
+    "https://elpais.com/internacional/2026-01-13/retorno-imposible-a-huliaipole.html": {
+        "added_at": 1768281736.5544958,
+        "id": 1959713720
+    },
+    "https://elpais.com/internacional/2026-01-13/elecciones-presidenciales-en-portugal-la-carrera-mas-disputada-e-imprevisible-en-los-ultimos-50-anos.html": {
+        "added_at": 1768281737.8566647,
+        "id": 1959713728
+    },
+    "https://cincodias.elpais.com/companias/2026-01-13/cincodias-convoca-el-premio-ejecutivo-ibex-35-del-ano.html": {
+        "added_at": 1768281739.7300305,
+        "id": 1959713738
+    },
+    "https://cincodias.elpais.com/companias/2026-01-13/belgica-embarga-otros-482-millones-a-la-empresa-estatal-enaire-por-el-impago-de-las-primas-renovables.html": {
+        "added_at": 1768281741.17305,
+        "id": 1959713749
+    },
+    "https://cincodias.elpais.com/opinion/2026-01-13/europa-puede-salvar-partes-del-orden-mundial.html": {
+        "added_at": 1768281742.6256988,
+        "id": 1959713760
+    },
+    "https://cincodias.elpais.com/companias/2026-01-13/masorange-apaga-lycamobile-la-marca-de-prepago-para-inmigrantes.html": {
+        "added_at": 1768281744.1567135,
+        "id": 1959713772
+    },
+    "https://cincodias.elpais.com/mercados-financieros/2026-01-13/juan-flames-hay-que-traer-al-inversor-minorista-de-vuelta-a-la-bolsa.html": {
+        "added_at": 1768281745.6201406,
+        "id": 1959713785
+    },
+    "https://elpais.com/espana/madrid/2026-01-13/los-bomberos-ganan-la-batalla-judicial-contra-ayuso-por-40-millones-de-inversiones-no-realizadas.html": {
+        "added_at": 1768281746.9256783,
+        "id": 1959713797
+    },
+    "https://elpais.com/videos/2026-01-13/tres-mujeres-asesinadas-en-los-10-primeros-dias-de-2026-tenemos-que-intensificar-la-critica-a-quien-normaliza-y-niega-la-violencia-de-genero.html": {
+        "added_at": 1768281748.4859242,
+        "id": 1959713810
+    },
+    "https://elpais.com/espana/2026-01-13/los-conventos-de-toledo-que-quieren-convertirse-en-caseros-aplicaremos-una-etica-de-alquileres.html": {
+        "added_at": 1768281749.9646072,
+        "id": 1959713821
+    },
+    "https://elpais.com/salud-y-bienestar/2026-01-13/steve-ramirez-neurocientifico-hemos-podido-restaurar-memorias-que-se-daban-por-perdidas.html": {
+        "added_at": 1768281751.4842467,
+        "id": 1959713831
+    },
+    "https://elpais.com/ciencia/2026-01-13/ee-uu-inicia-la-cuenta-atras-para-volver-a-la-luna-entre-dudas-sobre-el-riesgo-que-corren-sus-astronautas.html": {
+        "added_at": 1768281752.7805758,
+        "id": 1959713844
+    },
+    "https://elpais.com/espana/2026-01-13/nuevo-icono-cultural-o-kitsch-las-dudas-de-malaga-con-las-estatuas-gigantes-de-neptuno-y-venus.html": {
+        "added_at": 1768281754.2971382,
+        "id": 1959713860
+    },
+    "https://elpais.com/opinion/2026-01-13/el-espiritu-de-borja.html": {
+        "added_at": 1768281755.8081977,
+        "id": 1959713873
+    },
+    "https://elpais.com/opinion/2026-01-13/elites-en-transicion.html": {
+        "added_at": 1768281757.1050284,
+        "id": 1959713880
+    },
+    "https://elpais.com/opinion/2026-01-13/pegarse-con-los-fachas-que-vuelven-a-estar-de-moda.html": {
+        "added_at": 1768281758.6096158,
+        "id": 1959713892
+    },
+    "https://elpais.com/opinion/2026-01-13/el-roto-envejecer.html": {
+        "added_at": 1768281760.094591,
+        "id": 1959713904
+    },
+    "https://elpais.com/opinion/2026-01-13/mujer-vida-y-libertad-el-grito-de-las-mujeres-en-iran.html": {
+        "added_at": 1768281762.3029494,
+        "id": 1959713922
+    },
+    "https://elpais.com/internacional/2026-01-13/oriente-proximo-un-orden-posgenocidio.html": {
+        "added_at": 1768281763.5912433,
+        "id": 1959713932
+    },
+    "https://elpais.com/opinion/2026-01-13/independencia-herida.html": {
+        "added_at": 1768281765.65023,
+        "id": 1959713957
+    },
+    "https://elpais.com/gastronomia/2026-01-13/el-bar-mas-pequeno-de-noruega-es-un-quiosco-de-mas-de-100-anos-y-sirve-perritos-de-reno.html": {
+        "added_at": 1768281768.7226725,
+        "id": 1959713977
+    },
+    "https://elpais.com/smoda/placeres/2026-01-13/ganges-si-en-un-ano-no-lo-petas-para-la-industria-ya-no-existes.html": {
+        "added_at": 1768281770.8481944,
+        "id": 1959713987
+    },
+    "https://elpais.com/estilo-de-vida/2026-01-13/molly-roden-winter-la-escritora-que-conto-su-poliamor-si-tus-opciones-son-divorciarte-o-abrir-tu-matrimonio-divorciate-y-ahorra-tiempo.html": {
+        "added_at": 1768281772.3216274,
+        "id": 1959713998
+    },
+    "https://elpais.com/icon/2026-01-13/de-la-perla-a-andy-lucas-leire-y-amaia-como-el-pop-paso-de-un-falso-pudor-a-exponer-intimidades.html": {
+        "added_at": 1768281774.4708152,
+        "id": 1959714010
+    },
+    "https://elpais.com/sociedad/2026-01-13/40000-pistas-y-mas-de-500-detenidos-en-un-ano-asi-lucha-la-policia-nacional-contra-los-abusos-e-imagenes-de-explotacion-sexual-infantil.html": {
+        "added_at": 1768281776.6199503,
+        "id": 1959714022
+    },
+    "https://elpais.com/economia/2026-01-13/las-reservas-de-viajes-a-espana-crecen-con-fuerza-y-acercan-el-record-de-100-millones-de-turistas.html": {
+        "added_at": 1768281778.7390187,
+        "id": 1959714031
+    },
+    "https://elpais.com/espana/madrid/2026-01-13/de-milei-a-lagarde-ayuso-opaca-a-feijoo-con-su-agenda-internacional-esta-construyendo-liderazgo-politico-nacional-con-accion-exterior.html": {
+        "added_at": 1768281780.8401606,
+        "id": 1959714044
+    },
+    "https://elpais.com/espana/2026-01-13/la-fiscalia-europea-ultima-un-informe-para-determinar-si-barrabes-recibio-trato-de-favor-en-la-contratacion-publica-por-el-caso-begona-gomez.html": {
+        "added_at": 1768281782.161247,
+        "id": 1959714056
+    },
+    "https://elpais.com/espana/2026-01-13/uno-de-los-detenidos-por-sumision-quimica-en-el-caso-que-manipulo-la-policia-yo-no-fuerzo-solo-un-poco-al-limite-de-lo-legal.html": {
+        "added_at": 1768281783.4548142,
+        "id": 1959714068
+    },
+    "https://elpais.com/economia/2026-01-13/el-acoso-de-trump-al-presidente-de-la-reserva-federal-se-topa-con-la-resistencia-del-congreso.html": {
+        "added_at": 1768281785.081908,
+        "id": 1959714075
+    },
+    "https://elpais.com/opinion/2026-01-13/sadismo-en-la-ducha.html": {
+        "added_at": 1768281786.688422,
+        "id": 1959714084
+    },
+    "https://elpais.com/opinion/2026-01-13/la-impotencia-europea.html": {
+        "added_at": 1768281788.3116322,
+        "id": 1959714095
+    },
+    "https://elpais.com/internacional/2026-01-13/en-una-isla-del-baltico-dinamarca-se-refuerza-ante-rusia-pensando-en-realidad-en-groenlandia.html": {
+        "added_at": 1768281789.6124423,
+        "id": 1959714107
+    },
+    "https://cincodias.elpais.com/companias/2026-01-13/repsol-parte-con-ventaja-en-la-nueva-transicion-impuesta-por-ee-uu-en-venezuela.html": {
+        "added_at": 1768281791.16779,
+        "id": 1959714119
+    },
+    "https://elpais.com/america/2026-01-13/los-presos-venezolanos-que-se-enteraron-una-semana-despues-de-la-caida-de-maduro.html": {
+        "added_at": 1768281792.4554842,
+        "id": 1959714127
+    },
+    "https://elpais.com/podcasts/hoy-en-el-pais/2026-01-13/los-iranies-atrapados-entre-la-carcel-y-la-tutela-de-trump.html": {
+        "added_at": 1768281793.9728022,
+        "id": 1959714139
+    },
+    "https://elpais.com/internacional/2026-01-13/el-regimen-de-iran-trata-de-ganar-tiempo-abriendose-a-negociar-con-estados-unidos.html": {
+        "added_at": 1768281795.2636204,
+        "id": 1959714148
+    },
+    "https://elpais.com/economia/vivienda/2026-01-13/nuevas-medidas-para-controlar-el-alquiler-premios-para-congelar-el-precio-y-mas-multas-contra-el-fraude.html": {
+        "added_at": 1768281796.857693,
+        "id": 1959714159
+    },
+    "https://elpais.com/espana/2026-01-13/psoe-y-sumar-abren-una-disputa-juridica-para-ver-como-frenar-las-subidas-del-alquiler.html": {
+        "added_at": 1768281798.500317,
+        "id": 1959714172
     }
 }
