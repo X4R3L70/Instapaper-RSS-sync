@@ -1,56 +1,4 @@
 {
-    "https://www.franceinfo.fr/monde/iran/manifestations/manifestations-en-iran-pourquoi-le-blackout-dans-lequel-est-plonge-le-pays-pourrait-durer_7737157.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768256071.4047859,
-        "id": 1959552612
-    },
-    "https://www.franceinfo.fr/replay-jt/france-2/20-heures/pedocriminalite-l-intelligence-artificielle-devient-une-arme-qui-inquiete-les-autorites_7737094.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768256073.8831677,
-        "id": 1959552635
-    },
-    "https://www.franceinfo.fr/sports/foot/coupe-de-france/coupe-de-france-le-psg-tenant-du-titre-elimine-par-le-paris-fc-0-1-des-les-seiziemes-de-finale_7737172.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768256075.6605728,
-        "id": 1959552645
-    },
-    "https://www.franceinfo.fr/faits-divers/meurtres/assassinats-en-corse/ce-que-l-on-sait-du-meurtre-de-l-ex-dirigeant-nationaliste-corse-alain-orsoni-lors-des-funerailles-de-sa-mere_7737136.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768256077.9559627,
-        "id": 1959552663
-    },
-    "https://www.franceinfo.fr/replay-jt/france-2/20-heures/manifestations-en-iran-retour-sur-16-jours-de-revolte_7737160.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768256080.5773668,
-        "id": 1959552683
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-tech-co-la-quotidienne-speciale-ces-2026-lundi-12-janvier_VN-202601121012.html": {
-        "added_at": 1768256082.4259498,
-        "id": 1959552694
-    },
-    "https://www.ft.com/content/c5bfbc6d-cd05-4f53-b3b0-5a2de80c139a": {
-        "added_at": 1768256084.1284962,
-        "id": 1959552709
-    },
-    "https://www.raphkoster.com/2017/09/22/31098/": {
-        "added_at": 1768256085.9711335,
-        "id": 1959552721
-    },
-    "https://www.promptarmor.com/resources/superhuman-ai-exfiltrates-emails": {
-        "added_at": 1768256087.263333,
-        "id": 1959552731
-    },
-    "https://elpais.com/espana/madrid/2026-01-12/rezo-masivo-en-el-movistar-arena-creer-en-dios-esta-trending-topic.html": {
-        "added_at": 1768256089.1897318,
-        "id": 1959552746
-    },
-    "https://www.monde-diplomatique.fr/2026/01/CARAYOL/69178": {
-        "added_at": 1768256095.6707063,
-        "id": 1957267414
-    },
-    "https://www.monde-diplomatique.fr/2026/01/FRESCHI/69179": {
-        "added_at": 1768256098.4225557,
-        "id": 1957267434
-    },
-    "https://www.monde-diplomatique.fr/2026/01/SIZAIRE/69181": {
-        "added_at": 1768256101.0879383,
-        "id": 1957875278
-    },
     "https://www.franceinfo.fr/monde/usa/droits-de-douane/donald-trump-annonce-que-tout-pays-commercant-avec-l-iran-sera-frappe-de-droits-de-douane-de-25_7737691.html#xtor=RSS-3-[lestitres]": {
         "added_at": 1768259574.7416596,
         "id": 1959576925
@@ -2994,5 +2942,81 @@
     "https://www.monde-diplomatique.fr/carnet/2026-01-13-La-Corse-la-terre-et-la-violence": {
         "added_at": 1768338980.3421645,
         "id": 1960149296
+    },
+    "https://www.franceinfo.fr/monde/iran/manifestations/manifestations-en-iran-la-france-convoque-l-ambassadeur-iranien-pour-denoncer-la-repression-des-manifestations_7739098.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768342590.1955566,
+        "id": 1960175050
+    },
+    "https://www.franceinfo.fr/politique/la-justice-accorde-une-liberte-conditionnelle-a-patrick-balkany-condamne-pour-plusieurs-delits-financiers_7739317.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768342591.9799478,
+        "id": 1960175057
+    },
+    "https://www.franceinfo.fr/societe/securite-routiere/pneus-hiver-pourquoi-vous-ne-risquez-aucune-amende-si-vous-n-en-etes-pas-equipe-malgre-la-loi-montagne_7739254.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768342594.1432922,
+        "id": 1960175071
+    },
+    "https://www.franceinfo.fr/sports/foot/coupe-de-france/coupe-de-france-fin-d-epopee-pour-les-amateurs-de-bayeux-surclasses-par-l-om-qui-recevra-rennes-en-huitiemes_7738993.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768342595.9570177,
+        "id": 1960175088
+    },
+    "https://www.ft.com/content/1df72693-a510-4bcf-80ba-318e085bc2e6": {
+        "added_at": 1768342597.697946,
+        "id": 1960175106
+    },
+    "https://www.ft.com/content/6f7ad580-a237-4cb7-86bc-f68e4e44f511": {
+        "added_at": 1768342599.0760758,
+        "id": 1960175117
+    },
+    "https://www.ft.com/content/0b9ad9fd-34b5-449b-8f1f-c1ac0ec5990e": {
+        "added_at": 1768342601.4561207,
+        "id": 1960175134
+    },
+    "https://arstechnica.com/ai/2026/01/hegseth-wants-to-integrate-musks-grok-ai-into-military-networks-this-month/": {
+        "added_at": 1768342602.8962758,
+        "id": 1960175145
+    },
+    "https://arstechnica.com/health/2026/01/warning-about-bogus-autism-treatments-vanishes-from-fdas-website/": {
+        "added_at": 1768342604.2983499,
+        "id": 1960175164
+    },
+    "https://arstechnica.com/tech-policy/2026/01/instagram-user-fights-dhs-for-the-right-to-post-ice-sightings-anonymously/": {
+        "added_at": 1768342605.6294136,
+        "id": 1960175178
+    },
+    "https://news.ycombinator.com/item?id=46606715": {
+        "added_at": 1768342607.1934154,
+        "id": 1960175192
+    },
+    "https://www.flux.utah.edu/paper/singh-pets26": {
+        "added_at": 1768342608.582065,
+        "id": 1960175200
+    },
+    "https://news.ycombinator.com/item?id=46604828": {
+        "added_at": 1768342609.8735695,
+        "id": 1960175207
+    },
+    "https://everything2.com/node/e2node/Why%20Real%20Life%20is%20better%20than%20IRC": {
+        "added_at": 1768342611.2438858,
+        "id": 1960175219
+    },
+    "https://www.databricks.com/blog/open-sourcing-dicer-databricks-auto-sharder": {
+        "added_at": 1768342612.5214834,
+        "id": 1960175229
+    },
+    "https://news.ycombinator.com/item?id=46606854": {
+        "added_at": 1768342613.915124,
+        "id": 1960175240
+    },
+    "https://harmonic.fun/news#blog-post-lean": {
+        "added_at": 1768342615.2070916,
+        "id": 1960175248
+    },
+    "https://elpais.com/deportes/2026-01-12/nuevo-terremoto-en-el-golf-el-pga-tour-ofrece-un-regreso-inmediato-a-jon-rahm.html": {
+        "added_at": 1768342617.8824792,
+        "id": 1959526771
+    },
+    "https://elpais.com/internacional/2026-01-13/un-activista-cambia-la-bandera-de-la-republica-islamica-de-iran-de-la-embajada-de-madrid-por-la-previa-a-la-revolucion-de-1979.html": {
+        "added_at": 1768342619.2742965,
+        "id": 1960175274
     }
 }
