@@ -1,344 +1,4 @@
 {
-    "https://www.franceinfo.fr/monde/iran/manifestations/manifestations-en-iran-qui-est-reza-pahlavi-fils-de-l-ancien-chah-et-figure-en-exil-de-l-opposition-au-regime_7733005.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768199295.1039083,
-        "id": 1958445618
-    },
-    "https://www.franceinfo.fr/environnement/transition-ecologique-de-l-agriculture/pesticides/un-trafic-de-pesticides-entre-la-france-et-l-espagne-juge-a-marseille_7730965.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768199297.0295117,
-        "id": 1959159785
-    },
-    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/avalanches/c-est-un-week-end-dramatique-regrette-le-directeur-de-l-anena-apres-la-mort-de-six-skieurs-dans-des-avalanches-dans-les-alpes_7735057.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768199299.0252328,
-        "id": 1959159795
-    },
-    "https://www.franceinfo.fr/societe/reguler-son-cortisol-en-dix-etapes-sur-les-reseaux-sociaux-les-faux-atouts-sante-de-l-hormone-du-stress_7728364.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768199301.634427,
-        "id": 1959159808
-    },
-    "https://www.franceinfo.fr/societe/enfance-et-adolescence/temoignage-lui-dire-ce-que-j-aurais-aime-qu-on-me-dise-des-peres-du-monde-entier-ecrivent-a-leur-fils-pour-un-projet-du-createur-de-la-serie-adolescence_7734799.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768199303.8158653,
-        "id": 1959159827
-    },
-    "https://www.franceinfo.fr/sports/les-skieurs-et-biathletes-francais-au-rendez-vous-le-maroc-en-demies-de-sa-can-contre-le-nigeria-le-recap-sport-du-week-end_7734748.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768199306.2292652,
-        "id": 1959159844
-    },
-    "https://www.franceinfo.fr/societe/armee-securite-defense/trois-questions-sur-le-nouveau-service-national-militaire-volontaire-dont-la-campagne-de-recrutement-s-ouvre-lundi_7734775.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768199308.6355543,
-        "id": 1959159865
-    },
-    "https://www.franceinfo.fr/culture/cinema/golden-globes/une-bataille-apres-l-autre-l-agent-secret-adolescence-decouvrez-les-principaux-films-et-series-vainqueurs-des-golden-globes_7736044.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768199310.463874,
-        "id": 1959159884
-    },
-    "https://www.franceinfo.fr/economie/crise/blocus-des-agriculteurs/dermatose-nodulaire/crise-agricole-le-point-sur-les-actions-des-agriculteurs-prevues-ce-lundi_7736047.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768199312.314393,
-        "id": 1959159901
-    },
-    "https://www.franceinfo.fr/monde/iran/manifestations/direct-manifestations-en-iran-donald-trump-affirme-que-teheran-veut-negocier-avec-les-etats-unis-mais-n-ecarte-pas-des-options-militaires_7736074.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768199314.8321347,
-        "id": 1959159920
-    },
-    "https://www.bfmtv.com/economie/video-penurie-d-ufs-dans-les-supermarches-pourquoi-faudra-t-il-attendre-au-moins-le-mois-de-juin-pour-que-la-situation-s-ameliore_VN-202601120097.html": {
-        "added_at": 1768199316.5150099,
-        "id": 1959159934
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/culture-geek/video-culture-ia-ces-le-boom-des-interfaces-cerveau-machine-par-anthony-morel-12-01_VN-202601120111.html": {
-        "added_at": 1768199318.5186226,
-        "id": 1959159948
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/le-pitch/video-le-pitch-hublo-un-service-de-pressing-a-domicile-12-01_VN-202601120112.html": {
-        "added_at": 1768199320.0613627,
-        "id": 1959159959
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/commerce-2-0/video-morning-retail-walmart-deploie-des-magasins-hubs-logistiques-par-timothe-marouze-12-01_VN-202601120116.html": {
-        "added_at": 1768199321.6306956,
-        "id": 1959159965
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/culture-geek/culture-ia-ces-le-boom-des-interfaces-cerveau-machine-12-01_EN-202601120118.html": {
-        "added_at": 1768199323.1337721,
-        "id": 1959159976
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/culture-ia-ces-le-boom-des-interfaces-cerveau-machine-12-01_EN-202601120119.html": {
-        "added_at": 1768199324.7093217,
-        "id": 1959159989
-    },
-    "https://www.bfmtv.com/economie/podcasts/morning-briefing/morning-briefing-le-dollar-baisse-12-01_EN-202601120120.html": {
-        "added_at": 1768199326.0919259,
-        "id": 1959159997
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/le-pitch/le-pitch-hublo-un-service-de-pressing-a-domicile-12-01_EN-202601120123.html": {
-        "added_at": 1768199327.4725614,
-        "id": 1959160009
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/morning-briefing-le-dollar-baisse-12-01_EN-202601120124.html": {
-        "added_at": 1768199328.9220185,
-        "id": 1959160016
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/le-pitch-hublo-un-service-de-pressing-a-domicile-12-01_EN-202601120126.html": {
-        "added_at": 1768199330.479199,
-        "id": 1959160024
-    },
-    "https://www.bfmtv.com/economie/video-edito-sur-1-000-de-depenses-publiques-500-vont-aux-seniors-et-150-sont-dedies-aux-jeunes_VN-202601120129.html": {
-        "added_at": 1768199332.0172403,
-        "id": 1959160032
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/commerce-2-0/morning-retail-walmart-deploie-des-magasins-hubs-logistiques-12-01_EN-202601120133.html": {
-        "added_at": 1768199333.4063401,
-        "id": 1959160045
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/morning-retail-walmart-deploie-des-magasins-hubs-logistiques-12-01_EN-202601120132.html": {
-        "added_at": 1768199334.7748866,
-        "id": 1959160054
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/le-monde-qui-bouge/video-annalisa-cappellini-iran-le-nom-de-reza-pahlavi-ressurgit-12-01_VN-202601120142.html": {
-        "added_at": 1768199336.2926881,
-        "id": 1959160062
-    },
-    "https://www.bfmtv.com/economie/patrimoine/placements-epargne/le-taux-du-livret-a-sera-t-il-divise-par-deux-en-un-an-une-nouvelle-baisse-du-taux-du-placement-prefere-des-francais-est-attendue-cette-semaine_AD-202601120144.html": {
-        "added_at": 1768199337.7928135,
-        "id": 1959160072
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/le-monde-qui-bouge/annalisa-cappellini-iran-le-nom-de-reza-pahlavi-ressurgit-12-01_EN-202601120145.html": {
-        "added_at": 1768199339.1734824,
-        "id": 1959160077
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/annalisa-cappellini-iran-le-nom-de-reza-pahlavi-ressurgit-12-01_EN-202601120146.html": {
-        "added_at": 1768199340.6894617,
-        "id": 1959160086
-    },
-    "https://www.bfmtv.com/economie/entreprises/agriculture/les-agriculteurs-en-colere-bloquent-l-autoroute-a1-un-barrage-filtrant-mis-en-place-au-port-du-havre_AD-202601120147.html": {
-        "added_at": 1768199342.2727807,
-        "id": 1959160093
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/trajectoire/video-trajectoire-noxtua-ia-juridique-europeenne-souveraine-12-01_VN-202601120151.html": {
-        "added_at": 1768199346.2455838,
-        "id": 1959160117
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/l-edito-de-raphael-legendre/video-l-edito-de-raphael-legendre-dissolution-coup-de-bluff-de-lecornu-12-01_VN-202601120152.html": {
-        "added_at": 1768199347.7999954,
-        "id": 1959160130
-    },
-    "https://www.bfmtv.com/economie/patrimoine/placements-epargne/elle-atteint-6-477-milliards-d-euros-soit-presque-deux-fois-le-montant-de-la-dette-publique-l-epargne-des-menages-francais-n-a-jamais-ete-aussi-elevee_AD-202601120156.html": {
-        "added_at": 1768199349.276681,
-        "id": 1959160138
-    },
-    "https://www.bfmtv.com/economie/video-publicites-comparatives-comment-naviguer-dans-la-guerre-des-prix-entre-enseignes_VN-202601120158.html": {
-        "added_at": 1768199350.8833895,
-        "id": 1959160148
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/l-edito-de-raphael-legendre/l-edito-de-raphael-legendre-dissolution-coup-de-bluff-de-lecornu-12-01_EN-202601120159.html": {
-        "added_at": 1768199352.40212,
-        "id": 1959160161
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/l-edito-de-raphael-legendre-dissolution-coup-de-bluff-de-lecornu-12-01_EN-202601120160.html": {
-        "added_at": 1768199354.0194893,
-        "id": 1959160171
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/le-contre-pied/video-emmanuel-lechypre-face-a-raphael-legendre-pourvoir-d-achat-les-francais-se-trompent-12-01_VN-202601120173.html": {
-        "added_at": 1768199355.414494,
-        "id": 1959160181
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/le-contre-pied/emmanuel-lechypre-face-a-raphael-legendre-pourvoir-d-achat-les-francais-se-trompent-12-01_EN-202601120175.html": {
-        "added_at": 1768199356.961699,
-        "id": 1959160193
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/emmanuel-lechypre-face-a-raphael-legendre-pourvoir-d-achat-les-francais-se-trompent-12-01_EN-202601120176.html": {
-        "added_at": 1768199358.5594015,
-        "id": 1959160216
-    },
-    "https://www.ft.com/content/8d6d421b-1065-4619-9059-68e0679959e8": {
-        "added_at": 1768199360.9599547,
-        "id": 1959160238
-    },
-    "https://www.ft.com/content/708bbf41-a174-4c04-b96d-c6cfeca2a805": {
-        "added_at": 1768199362.3088198,
-        "id": 1959160242
-    },
-    "https://www.ft.com/content/909b2161-1671-40b2-a7d1-ba2741be226e": {
-        "added_at": 1768199364.1797361,
-        "id": 1959160257
-    },
-    "https://www.ft.com/content/d78b3893-515c-4984-81f6-818ac09fc99d": {
-        "added_at": 1768199365.4837499,
-        "id": 1959160263
-    },
-    "https://www.ft.com/content/f3d79af1-b55a-4c86-b39a-41bf3cec77d1": {
-        "added_at": 1768199366.773635,
-        "id": 1959160270
-    },
-    "https://www.ft.com/content/0ac3fd16-bd45-4451-bb6c-64e5047408e3": {
-        "added_at": 1768199368.0720723,
-        "id": 1959160279
-    },
-    "https://www.ft.com/content/e8cd577b-ea1d-4d30-8709-273310a24ea5": {
-        "added_at": 1768199369.3565211,
-        "id": 1959160288
-    },
-    "https://www.ft.com/content/748a8ede-d388-4fa1-8d56-613eca386cbc": {
-        "added_at": 1768199370.6507862,
-        "id": 1959160298
-    },
-    "https://www.ft.com/content/999a8dd3-a494-4bf9-892f-22446b9de73b": {
-        "added_at": 1768199371.9407744,
-        "id": 1959160314
-    },
-    "https://www.ft.com/content/d0efb764-ce8b-45e0-8501-6758d1aaeeba": {
-        "added_at": 1768199373.237752,
-        "id": 1959160324
-    },
-    "https://www.ft.com/content/2332ea18-65cd-409f-b0b9-61ddd77b6d4a": {
-        "added_at": 1768199377.1123586,
-        "id": 1959160358
-    },
-    "https://www.ft.com/content/0d2a957d-8897-4054-ba04-b6ea22e199e7": {
-        "added_at": 1768199378.4214973,
-        "id": 1959160371
-    },
-    "https://www.ft.com/content/bb1b1ed8-0f23-40d3-a45e-b17c9efde3c9": {
-        "added_at": 1768199380.438332,
-        "id": 1959160382
-    },
-    "https://www.ft.com/content/734a43af-0921-4046-822c-ee9e17692613": {
-        "added_at": 1768199381.7354085,
-        "id": 1959160388
-    },
-    "https://www.ft.com/content/2fbba1aa-5cc1-4a44-a74b-46d206f60000": {
-        "added_at": 1768199383.0226645,
-        "id": 1959160401
-    },
-    "https://www.ft.com/content/0783b2eb-3e90-44ce-8c9f-ee79b78e013d": {
-        "added_at": 1768199385.0221267,
-        "id": 1959160414
-    },
-    "https://www.ft.com/content/a93c4998-823a-4c64-b38d-443f8e0e81f6": {
-        "added_at": 1768199386.3381493,
-        "id": 1959160423
-    },
-    "https://www.ft.com/content/20cbe59e-0ab9-4027-b1ff-b5d738f1bc49": {
-        "added_at": 1768199387.635828,
-        "id": 1959160432
-    },
-    "https://www.ft.com/content/170b5fb8-868a-459b-9f23-3d2bca704160": {
-        "added_at": 1768199389.781106,
-        "id": 1959160446
-    },
-    "https://www.ft.com/content/955f2421-7dc6-4bea-9501-b8646c8ba0a1": {
-        "added_at": 1768199391.6129081,
-        "id": 1959160458
-    },
-    "https://www.ft.com/content/606da230-0532-4715-bcf3-ca09611f041f": {
-        "added_at": 1768199392.9069858,
-        "id": 1959160461
-    },
-    "https://www.ft.com/content/53bf1038-97e1-4b79-bac0-2901e963c3cf": {
-        "added_at": 1768199394.9154944,
-        "id": 1959160467
-    },
-    "https://www.ft.com/content/9e4f192e-3610-4a3c-b731-84e222f43db9": {
-        "added_at": 1768199396.2243252,
-        "id": 1959160471
-    },
-    "https://www.ft.com/content/1020bc44-7f2a-485c-8aad-c2f94b01e6cd": {
-        "added_at": 1768199397.517748,
-        "id": 1959160477
-    },
-    "https://roampal.ai/blog-context-rot.html": {
-        "added_at": 1768199399.1862848,
-        "id": 1959160492
-    },
-    "https://media.ccc.de/v/39c3-in-house-electronics-manufacturing-from-scratch-how-hard-can-it-be": {
-        "added_at": 1768199400.5405014,
-        "id": 1959160499
-    },
-    "https://elpais.com/escaparate/comparativas/2026-01-12/mejor-medidor-de-consumo-electrico-wifi.html": {
-        "added_at": 1768199403.7134588,
-        "id": 1959160512
-    },
-    "https://elpais.com/escaparate/estilo-de-vida/2026-01-12/juego-de-sartenes-de-ceramica.html": {
-        "added_at": 1768199405.2388065,
-        "id": 1959160521
-    },
-    "https://elpais.com/escaparate/ofertas-y-descuentos/2026-01-12/baliza-v16-homologada-con-geolocalizacion-en-oferta.html": {
-        "added_at": 1768199408.0840487,
-        "id": 1959160533
-    },
-    "https://elpais.com/gastronomia/el-comidista/2026-01-11/menu-semanal-de-el-comidista-12-a-18-de-enero.html": {
-        "added_at": 1768199409.5242462,
-        "id": 1958642441
-    },
-    "https://elpais.com/planeta-futuro/2026-01-10/mujeres-de-filipinas-indonesia-y-taiwan-toman-el-mando-en-la-lucha-por-la-agroecologia.html": {
-        "added_at": 1768199411.3299148,
-        "id": 1958136674
-    },
-    "https://elpais.com/planeta-futuro/2026-01-11/la-generacion-perdida-bajo-las-bombas-en-gaza-ojala-quienes-vienen-detras-de-mi-tengan-la-suerte-de-estudiar-y-sonar-sin-miedo.html": {
-        "added_at": 1768199412.6121442,
-        "id": 1958642712
-    },
-    "https://elpais.com/gente/2026-01-11/lasai-la-libreria-de-dos-influencers-que-nacio-en-tiktok-queriamos-tener-algo-mas-real.html": {
-        "added_at": 1768199415.5795095,
-        "id": 1958642664
-    },
-    "https://elpais.com/television/2026-01-11/jose-yelamo-como-periodista-te-voy-a-contar-algo-desde-mi-subjetividad-pero-te-garantizo-que-voy-a-ser-honesto-contigo.html": {
-        "added_at": 1768199416.8567643,
-        "id": 1958642599
-    },
-    "https://elpais.com/cultura/2026-01-11/ana-mena-he-picado-mucha-piedra-como-para-creerme-una-estrella.html": {
-        "added_at": 1768199418.361337,
-        "id": 1958642770
-    },
-    "https://elpais.com/cultura/2026-01-11/luz-casal-el-marquesado-es-un-honor-pero-seguire-siendo-macarra-y-pintandome-los-labios-de-rojo.html": {
-        "added_at": 1768199420.3359954,
-        "id": 1958642793
-    },
-    "https://elpais.com/deportes/futbol/2026-01-11/ramon-planes-pedri-es-un-valeron-moderno-seguro-que-sera-balon-de-oro.html": {
-        "added_at": 1768199421.80578,
-        "id": 1958642472
-    },
-    "https://elpais.com/tecnologia/2026-01-11/quien-paga-por-ver-a-un-streamer-sufrir-en-directo-me-duele-la-cara-de-reirme-mola-picarlo.html": {
-        "added_at": 1768199423.3157783,
-        "id": 1958642787
-    },
-    "https://elpais.com/salud-y-bienestar/2026-01-11/de-borges-a-jennifer-aniston-la-ciencia-empieza-a-iluminar-los-misterios-de-la-memoria.html": {
-        "added_at": 1768199425.9613724,
-        "id": 1958642763
-    },
-    "https://elpais.com/sociedad/2026-01-11/dos-anos-de-pulso-entre-la-iglesia-y-el-estado-asi-se-fraguo-el-acuerdo-para-indemnizar-a-las-victimas-de-pederastia.html": {
-        "added_at": 1768199427.233063,
-        "id": 1958642729
-    },
-    "https://elpais.com/economia/2026-01-11/los-espanoles-acumulan-mas-de-un-billon-de-euros-atrapados-en-cuentas-sin-remunerar.html": {
-        "added_at": 1768199428.9230382,
-        "id": 1958642706
-    },
-    "https://elpais.com/espana/2026-01-11/el-narco-tambien-contamina-la-costa-salvaje-andaluza.html": {
-        "added_at": 1768199431.0590267,
-        "id": 1958642589
-    },
-    "https://elpais.com/america-colombia/2026-01-10/el-dificil-equilibrio-politico-para-petro-tras-el-espaldarazo-de-trump.html": {
-        "added_at": 1768199432.481189,
-        "id": 1958642517
-    },
-    "https://elpais.com/us/migracion/2026-01-11/la-muerte-a-tiros-de-renee-good-en-minneapolis-lleva-a-estados-unidos-a-un-nuevo-punto-de-ebullicion.html": {
-        "added_at": 1768199434.8825934,
-        "id": 1958642721
-    },
-    "https://elpais.com/america/2026-01-12/o-ellos-o-nosotros-la-cidh-documenta-al-detalle-la-trama-financiera-que-acabo-en-el-asesinato-de-berta-caceres-en-honduras.html": {
-        "added_at": 1768199436.3203785,
-        "id": 1959160706
-    },
-    "https://elpais.com/cultura/2026-01-11/la-inteligencia-artificial-permite-identificar-a-un-asesino-nazi-en-una-de-las-fotos-mas-atroces-del-holocausto.html": {
-        "added_at": 1768199437.6124616,
-        "id": 1958642775
-    },
-    "https://elpais.com/eps/2026-01-11/boric-el-momento-de-la-reflexion-la-izquierda-que-solo-culpa-al-adversario-esta-condenada-a-diluirse.html": {
-        "added_at": 1768199439.1523578,
-        "id": 1958642802
-    },
-    "https://elpais.com/cultura/2026-01-12/adolescencia-y-una-batalla-tras-otra-triunfan-en-los-globos-de-oro-de-2026-sirat-se-va-de-vacio.html": {
-        "added_at": 1768199440.4473486,
-        "id": 1959160737
-    },
     "https://www.franceinfo.fr/economie/crise/blocus-des-agriculteurs/dermatose-nodulaire/direct-colere-des-agriculteurs-l-a63-a-bayonne-debloquee-avant-une-nouvelle-journee-de-mobilisation-dans-toute-la-france_7736122.html#xtor=RSS-3-[lestitres]": {
         "added_at": 1768202546.2087157,
         "id": 1959178205
@@ -3182,5 +2842,177 @@
     "https://elpais.com/espana/madrid/2026-01-12/la-familia-cazon-lista-para-colonizar-un-nuevo-barrio-de-madrid-mas-grande-que-zamora.html": {
         "added_at": 1768285637.64301,
         "id": 1959128249
+    },
+    "https://www.franceinfo.fr/economie/crise/blocus-des-agriculteurs/dermatose-nodulaire/crise-agricole-le-point-sur-les-actions-des-agriculteurs-ce-mardi_7738270.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768288853.9406826,
+        "id": 1959760832
+    },
+    "https://www.franceinfo.fr/environnement/crise-climatique/gaz-a-effet-de-serre-les-emissions-ont-baisse-de-1-6-en-france-en-2025-moins-que-les-trois-annees-precedentes_7738297.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768288856.2018473,
+        "id": 1959760846
+    },
+    "https://www.bfmtv.com/economie/video-les-conseils-conso-avec-charlotte-meritan-mercosur-du-b-uf-bresilien-dans-l-assiette-un-risque-reel_VN-202601130164.html": {
+        "added_at": 1768288857.901211,
+        "id": 1959760862
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/le-contre-pied/emmanuel-lechypre-face-a-jean-marc-daniel-les-autoroutes-doivent-elles-financer-le-rail-13-01_EN-202601130163.html": {
+        "added_at": 1768288859.7869737,
+        "id": 1959760879
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/emmanuel-lechypre-face-a-jean-marc-daniel-les-autoroutes-doivent-elles-financer-le-rail-13-01_EN-202601130165.html": {
+        "added_at": 1768288861.6453655,
+        "id": 1959760888
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/le-contre-pied/video-emmanuel-lechypre-face-a-jean-marc-daniel-les-autoroutes-doivent-elles-financer-le-rail-13-01_VN-202601130167.html": {
+        "added_at": 1768288863.3565085,
+        "id": 1959760895
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/le-monde-qui-bouge/video-le-monde-qui-bouge-l-interview-le-premier-ministre-canadien-se-rend-en-chine-13-01_VN-202601130179.html": {
+        "added_at": 1768288864.9227936,
+        "id": 1959760905
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/le-monde-qui-bouge/le-monde-qui-bouge-l-interview-le-premier-ministre-canadien-se-rend-en-chine-13-01_EN-202601130177.html": {
+        "added_at": 1768288866.4445496,
+        "id": 1959760914
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/le-monde-qui-bouge-l-interview-le-premier-ministre-canadien-se-rend-en-chine-13-01_EN-202601130180.html": {
+        "added_at": 1768288868.0509655,
+        "id": 1959760923
+    },
+    "https://www.bfmtv.com/economie/international/clairement-trump-l-a-pousse-a-bout-nomme-par-donald-trump-a-la-tete-de-la-fed-jerome-powell-est-pourtant-devenu-l-un-des-rares-a-resister-au-president-americain_AD-202601130181.html": {
+        "added_at": 1768288869.5458171,
+        "id": 1959760932
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-un-degel-des-relations_VN-202601130183.html": {
+        "added_at": 1768288871.083392,
+        "id": 1959760947
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-direct-video-philippe-brun-depute-ps-de-l-eure-est-notre-invite_VL-202601130182.html": {
+        "added_at": 1768288872.7070124,
+        "id": 1959760956
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-l-inde-et-l-europe-avancent-sur-le-libre-echange_VN-202601130188.html": {
+        "added_at": 1768288874.1503434,
+        "id": 1959760969
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-budget-le-gouvernement-cherche-un-compromis_VN-202601130192.html": {
+        "added_at": 1768288875.5589507,
+        "id": 1959760980
+    },
+    "https://www.bfmtv.com/economie/video-harmattan-la-pepite-francaise-qui-va-booster-l-ia-des-rafale_VN-202601130197.html": {
+        "added_at": 1768288877.1292808,
+        "id": 1959760992
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-videosurveillance-ia-le-gouvernement-veut-relancer-le-dispositif_VN-202601130198.html": {
+        "added_at": 1768288878.6699095,
+        "id": 1959761006
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/le-grand-entretien/video-le-grand-entretien-pas-encore-de-compromis-sur-le-budget-13-01_VN-202601130205.html": {
+        "added_at": 1768288880.354747,
+        "id": 1959761020
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/le-grand-entretien/philippe-brun-depute-ps-de-l-eure-vice-president-de-la-commission-des-finances-de-l-assemblee-13-01_EN-202601130203.html": {
+        "added_at": 1768288881.890937,
+        "id": 1959761027
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/philippe-brun-depute-ps-de-l-eure-vice-president-de-la-commission-des-finances-de-l-assemblee-13-01_EN-202601130204.html": {
+        "added_at": 1768288883.4211469,
+        "id": 1959761038
+    },
+    "https://www.bfmtv.com/economie/consommation/video-edito-la-consommation-repart-apres-quatre-ans-de-baisse_VN-202601130209.html": {
+        "added_at": 1768288884.8110716,
+        "id": 1959761045
+    },
+    "https://www.ft.com/content/6ccddea9-d472-4679-bed7-dccac480201c": {
+        "added_at": 1768288886.5268185,
+        "id": 1959761063
+    },
+    "https://www.ft.com/content/27eaebac-1e95-4498-a55e-440b9714e78b": {
+        "added_at": 1768288887.8108006,
+        "id": 1959761072
+    },
+    "https://github.com/risc0/zirgen": {
+        "added_at": 1768288889.6735046,
+        "id": 1959761083
+    },
+    "https://elpais.com/gastronomia/el-comidista/2026-01-12/patatas-huecas-la-guarnicion-aragonesa-que-desaparecera-antes-de-servir-el-plato-principal.html": {
+        "added_at": 1768288892.0417068,
+        "id": 1959140006
+    },
+    "https://elpais.com/babelia/2026-01-12/sergio-c-fanjul-no-va-de-farol-un-ensayo-sobre-el-tiempo.html": {
+        "added_at": 1768288893.6599941,
+        "id": 1959140049
+    },
+    "https://elpais.com/smoda/moda/2026-01-12/transparencias-estrategicas-y-flores-el-espectacular-givenchy-de-jennifer-lawrence-en-los-globos-de-oro.html": {
+        "added_at": 1768288897.5914233,
+        "id": 1959139889
+    },
+    "https://elpais.com/eps/2026-01-26/la-chola-poblete-la-artista-anticolonial-que-conquisto-a-la-reina-letizia-siempre-senti-mas-discriminacion-por-ser-marrona-que-por-trans.html": {
+        "added_at": 1768288898.8727925,
+        "id": 1959140287
+    },
+    "https://elpais.com/planeta-futuro/2026-01-12/documental-de-msf-el-fasher-bajo-asedio-el-antes-y-el-despues-de-la-ciudad-de-sudan-tras-su-caida.html": {
+        "added_at": 1768288900.281427,
+        "id": 1959140083
+    },
+    "https://elpais.com/gente/2026-01-12/asi-trabajan-los-entrenadores-fisicos-de-sydney-sweeney-y-david-corenswet-en-las-peliculas-soy-el-responsable-de-convertir-a-los-actores-en-superheroes.html": {
+        "added_at": 1768288901.571977,
+        "id": 1959140255
+    },
+    "https://elpais.com/deportes/2026-01-12/nani-roma-resurge-en-el-dakar-tras-los-golpes-de-la-vida-nos-volvemos-locos-por-problemas-absurdos.html": {
+        "added_at": 1768288903.0190372,
+        "id": 1959140032
+    },
+    "https://elpais.com/tecnologia/2026-01-12/jarek-kutylowski-fundador-de-deepl-dentro-de-tres-anos-cada-uno-hablara-en-su-idioma-en-las-reuniones-de-trabajo.html": {
+        "added_at": 1768288904.2848346,
+        "id": 1959140184
+    },
+    "https://elpais.com/clima-y-medio-ambiente/2026-01-12/el-tren-se-come-al-avion-en-siete-grandes-rutas-y-supone-ya-un-ahorro-de-emisiones-igual-a-250000-coches-circulando-durante-un-ano.html": {
+        "added_at": 1768288905.6588326,
+        "id": 1959140299
+    },
+    "https://elpais.com/educacion/2026-01-12/familias-que-abandonan-la-concertada-para-irse-a-colegios-privados-supone-buena-parte-de-nuestro-presupuesto.html": {
+        "added_at": 1768288906.9284377,
+        "id": 1959140308
+    },
+    "https://elpais.com/sociedad/2026-01-12/la-mayoria-de-la-poblacion-cree-que-hay-que-reforzar-la-sanidad-publica-aunque-suponga-subir-impuestos.html": {
+        "added_at": 1768288908.2120097,
+        "id": 1959140402
+    },
+    "https://elpais.com/economia/2026-01-12/digi-se-convierte-en-el-refugio-laboral-de-las-telecos-frente-a-las-14000-bajas-entre-sus-rivales.html": {
+        "added_at": 1768288910.2534714,
+        "id": 1959140120
+    },
+    "https://elpais.com/espana/2026-01-12/vox-se-dispara-al-18-y-eleva-a-13-puntos-la-ventaja-del-bloque-de-la-derecha-sobre-la-izquierda.html": {
+        "added_at": 1768288911.7202044,
+        "id": 1959140425
+    },
+    "https://elpais.com/espana/2026-01-13/espana-convoca-al-embajador-de-iran-para-trasladarle-su-rechazo-por-la-violencia-ejercida-contra-los-manifestantes.html": {
+        "added_at": 1768288914.6870823,
+        "id": 1959761234
+    },
+    "https://www.monde-diplomatique.fr/2026/01/JULIEN_THOMAS/69174": {
+        "added_at": 1768288921.729768,
+        "id": 1955576489
+    },
+    "https://www.monde-diplomatique.fr/2026/01/MERIEAU/69176": {
+        "added_at": 1768288928.035342,
+        "id": 1956236659
+    },
+    "https://www.monde-diplomatique.fr/2026/01/VAUCHEZ/69180": {
+        "added_at": 1768288930.616865,
+        "id": 1957414848
+    },
+    "https://www.monde-diplomatique.fr/2026/01/LORDON/69186": {
+        "added_at": 1768288933.023395,
+        "id": 1958065669
+    },
+    "https://www.monde-diplomatique.fr/2026/01/VIEILLESCAZES/69187": {
+        "added_at": 1768288935.5538373,
+        "id": 1958618685
+    },
+    "https://www.monde-diplomatique.fr/2026/01/FAUJOUR/69188": {
+        "added_at": 1768288937.9786549,
+        "id": 1958618693
     }
 }
