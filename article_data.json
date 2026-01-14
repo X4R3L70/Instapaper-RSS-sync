@@ -1,152 +1,4 @@
 {
-    "https://www.monde-diplomatique.fr/2026/01/BRUNETEAU/69166": {
-        "added_at": 1768314066.3465183,
-        "id": 1955878592
-    },
-    "https://www.monde-diplomatique.fr/2026/01/THIEBAUD/69160": {
-        "added_at": 1768314069.2427843,
-        "id": 1955878599
-    },
-    "https://www.monde-diplomatique.fr/2026/01/DAGUERRE/69156": {
-        "added_at": 1768314071.9555857,
-        "id": 1955878613
-    },
-    "https://www.monde-diplomatique.fr/2026/01/PROLONGEAU/69157": {
-        "added_at": 1768314074.5421898,
-        "id": 1955893282
-    },
-    "https://www.monde-diplomatique.fr/2026/01/HALIMI/69162": {
-        "added_at": 1768314083.5402772,
-        "id": 1955893296
-    },
-    "https://www.monde-diplomatique.fr/2026/01/GOBERT/69171": {
-        "added_at": 1768314085.4671843,
-        "id": 1955893312
-    },
-    "https://www.franceinfo.fr/replay-jt/france-2/20-heures/manifestations-en-iran-reza-pahlavi-portrait-du-fils-de-l-ancien-chah-et-figure-de-l-opposition-au-regime_7737175.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768317526.3029044,
-        "id": 1959986517
-    },
-    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tempetes/tempete-goretti/tempete-goretti-les-communes-constatent-les-lourds-degats_7738822.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768317528.4733522,
-        "id": 1959986536
-    },
-    "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/penurie-d-ufs-pourquoi-la-filiere-est-elle-en-tension_7737115.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768317531.1231556,
-        "id": 1959986564
-    },
-    "https://www.franceinfo.fr/monde/iran/manifestations/temoignage-si-on-continue-de-manifester-c-est-qu-on-garde-espoir-de-changer-le-regime-confie-une-iranienne-refugiee-en-france_7738396.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768317533.7452114,
-        "id": 1959986583
-    },
-    "https://www.franceinfo.fr/faits-divers/une-nouvelle-tentative-de-sauvetage-lancee-pour-retrouver-un-plongeur-souterrain-porte-disparu-dans-le-gouffre-de-font-estramar-dans-les-pyrenees-orientales_7738807.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768317536.729304,
-        "id": 1959986605
-    },
-    "https://www.bfmtv.com/economie/international/il-y-a-bien-eu-un-avant-et-un-apres-trump-sur-les-prix-si-l-inflation-globale-est-restee-stable-aux-etats-unis-a-2-7-le-gaz-a-augmente-de-pres-de-11-et-l-electricite-de-6-7_AD-202601130619.html": {
-        "added_at": 1768317538.2336793,
-        "id": 1959986615
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-crypto-le-club/video-bfm-crypto-le-club-cybersecurite-quels-risques-pour-la-crypto-13-01_VN-202601130631.html": {
-        "added_at": 1768317539.6662478,
-        "id": 1959986626
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-crypto-le-club/bfm-crypto-le-club-cybersecurite-quels-risques-pour-la-crypto-13-01_EN-202601130633.html": {
-        "added_at": 1768317541.0583615,
-        "id": 1959986638
-    },
-    "https://www.bfmtv.com/economie/emploi/vie-de-bureau/la-sante-mentale-est-devenue-la-priorite-des-salaries-35-sont-meme-prets-a-demissionner-pour-la-preserver-ce-qui-pourrait-couter-cher-aux-entreprises_AV-202601130651.html": {
-        "added_at": 1768317542.7983434,
-        "id": 1959986654
-    },
-    "https://www.bfmtv.com/economie/international/merci-monsieur-droits-de-douane-trump-se-felicite-des-excellents-chiffres-de-l-inflation-americaine-et-appelle-a-nouveau-jerome-too-late-powell-a-baisser-les-taux_AD-202601130653.html": {
-        "added_at": 1768317544.3997242,
-        "id": 1959986666
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-la-bourse-cash-acheter-les-valeurs-bon-marche-est-une-fausse-bonne-idee-en-bourse-13-01_VN-202601130656.html": {
-        "added_at": 1768317545.8688521,
-        "id": 1959986682
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-usa-today-delta-arlines-et-jp-morgan-ont-publie-par-john-plassard-13-01_VN-202601130660.html": {
-        "added_at": 1768317547.233731,
-        "id": 1959986694
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/aymeric-diday-acheter-les-valeurs-bon-marche-est-une-fausse-bonne-idee-en-bourse_EN-202601130657.html": {
-        "added_at": 1768317548.6523595,
-        "id": 1959986706
-    },
-    "https://www.bfmtv.com/economie/entreprises/la-sncf-propose-seulement-0-5-d-augmentation-generale-des-salaires-mais-promet-une-progression-annuelle-individuelle-pour-chaque-cheminot_AV-202601130658.html": {
-        "added_at": 1768317550.7453554,
-        "id": 1959986722
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/usa-today-delta-arlines-et-jp-morgan-ont-publie-par-john-plassard-13-01_EN-202601130659.html": {
-        "added_at": 1768317551.990839,
-        "id": 1959986734
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-le-point-sur-le-portefeuille-trading-13-01_VN-202601130668.html": {
-        "added_at": 1768317553.736408,
-        "id": 1959986748
-    },
-    "https://www.ft.com/content/e975338f-0537-4094-91bd-8a7a8edfdfe4": {
-        "added_at": 1768317555.6204343,
-        "id": 1959986771
-    },
-    "https://arstechnica.com/gadgets/2026/01/the-most-fascinating-monitors-at-ces-2026/": {
-        "added_at": 1768317556.874517,
-        "id": 1959324991
-    },
-    "https://newsroom.ibm.com/Thirteen-Months-That-Changed-IBM": {
-        "added_at": 1768317558.3363357,
-        "id": 1959986792
-    },
-    "https://archaeologist.dev/artifacts/anthropic": {
-        "added_at": 1768317559.502562,
-        "id": 1959343819
-    },
-    "https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/": {
-        "added_at": 1768317560.6477246,
-        "id": 1959343808
-    },
-    "https://elpais.com/espana/comunidad-valenciana/2026-01-13/el-constitucional-tumba-el-recurso-del-ayuntamiento-de-benidorm-para-evitar-una-condena-de-350-millones-de-euros.html": {
-        "added_at": 1768317562.3828857,
-        "id": 1959986828
-    },
-    "https://elpais.com/cultura/2026-01-13/lise-davidsen-enloquece-al-liceu-en-su-debut-como-isolda.html": {
-        "added_at": 1768317563.9529552,
-        "id": 1959986841
-    },
-    "https://elpais.com/us/migracion/2026-01-13/mamdani-denuncia-la-detencion-de-un-empleado-del-ayuntamiento-de-nueva-york-por-el-ice.html": {
-        "added_at": 1768317565.1126263,
-        "id": 1959986847
-    },
-    "https://elpais.com/economia/2026-01-13/el-banco-mundial-advierte-de-un-crecimiento-global-insuficiente-para-que-los-emergentes-reduzcan-la-brecha-con-los-paises-ricos.html": {
-        "added_at": 1768317568.82327,
-        "id": 1959986874
-    },
-    "https://elpais.com/espana/catalunya/2026-01-13/el-psc-erc-y-los-comunes-pactan-subir-la-tasa-turistica-a-15-euros-por-persona-para-los-hoteles-de-cinco-estrellas-en-barcelona.html": {
-        "added_at": 1768317570.161098,
-        "id": 1959986884
-    },
-    "https://elpais.com/espana/catalunya/2026-01-13/el-govern-de-salvador-illa-defiende-que-puede-negociar-ya-los-presupuestos-pese-a-los-reproches-de-sus-socios.html": {
-        "added_at": 1768317572.5665083,
-        "id": 1959986904
-    },
-    "https://elpais.com/salud-y-bienestar/2026-01-13/la-oms-alerta-de-que-los-bajos-impuestos-al-alcohol-y-a-las-bebidas-azucaradas-disparan-los-riesgos-para-la-salud.html": {
-        "added_at": 1768317573.7234488,
-        "id": 1959986912
-    },
-    "https://elpais.com/tecnologia/2026-01-13/la-red-social-x-antes-twitter-sufre-una-caida-global.html": {
-        "added_at": 1768317575.1769645,
-        "id": 1959986917
-    },
-    "https://elpais.com/espana/2026-01-13/la-autoridad-portuaria-desahucia-a-una-mujer-vulnerable-de-71-anos-del-barco-donde-vivia-en-las-palmas-de-gran-canaria.html": {
-        "added_at": 1768317577.3892837,
-        "id": 1959986935
-    },
-    "https://www.monde-diplomatique.fr/cartes/soudan-desagrege": {
-        "added_at": 1768317580.8939607,
-        "id": 1959986969
-    },
     "https://www.franceinfo.fr/france/occitanie/barrages-des-agriculteurs-des-degats-estimes-a-5-millions-d-euros-la-rocade-toujours-bloquee-plusieurs-jours-apres-le-depart-des-tracteurs_7738915.html#xtor=RSS-3-[lestitres]": {
         "added_at": 1768321427.2970319,
         "id": 1960018694
@@ -3226,5 +3078,149 @@
     "https://elpais.com/espana/2026-01-14/el-congreso-senala-como-infracciones-graves-los-altercados-de-vito-quiles-y-bertrand-ndongo-perjudica-severamente-el-trabajo-de-los-demas-periodistas.html": {
         "added_at": 1768400464.5530806,
         "id": 1960546887
+    },
+    "https://www.franceinfo.fr/sports/tennis/open-d-australie/tennis-un-joueur-amateur-empoche-un-cheque-de-pres-de-574-000-euros-en-marge-de-l-open-d-australie-apres-avoir-notamment-elimine-jannik-sinner_7741069.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768403999.6922243,
+        "id": 1960574730
+    },
+    "https://www.franceinfo.fr/environnement/crise-climatique/climat-qu-est-ce-que-l-amoc-qui-pourrait-rendre-nos-hivers-polaires-a-l-avenir_7739338.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768404003.1306114,
+        "id": 1960574741
+    },
+    "https://www.franceinfo.fr/culture/livres/charles-dantzig-dans-inventaire-de-la-basse-periode-livre-un-abecedaire-d-un-monde-se-dirigeant-vers-la-tyrannie_7721770.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768404008.2046032,
+        "id": 1960574772
+    },
+    "https://www.franceinfo.fr/faits-divers/incendie-dans-un-bar-de-crans-montana-en-suisse/incendie-de-crans-montana-les-familles-de-victimes-lancent-une-plateforme-pour-recueillir-des-documents-et-des-temoignages-sur-le-drame_7741060.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768404010.2609303,
+        "id": 1960574797
+    },
+    "https://www.franceinfo.fr/environnement/meteo/le-finistere-place-en-vigilance-orange-pour-un-risque-de-pluie-et-d-inondations-a-partir-de-6-heures-jeudi_7741102.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768404015.6650841,
+        "id": 1960574847
+    },
+    "https://www.franceinfo.fr/economie/impots/reductions-et-credits-d-impot-pourquoi-plus-de-9-millions-de-foyers-vont-recevoir-un-virement-du-fisc-le-15-janvier_7736671.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768404017.5708733,
+        "id": 1960574853
+    },
+    "https://www.franceinfo.fr/economie/crise/blocus-des-agriculteurs/barrages-d-agriculteurs-la-colere-des-commercants-impactes_7741057.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768404019.6284919,
+        "id": 1960574867
+    },
+    "https://www.bfmtv.com/economie/entreprises/aeronautique/apres-air-france-et-peut-etre-la-sncf-la-compagnie-allemande-lufthansa-choisit-starlink-d-elon-musk-pour-assurer-la-connexion-wi-fi-a-bord-de-ses-avions_AV-202601140669.html": {
+        "added_at": 1768404021.3420064,
+        "id": 1960574879
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/bfm-crypto-le-club/bfm-crypto-le-club-sg-forge-injecte-ses-stablecoins-dans-swift-14-01_EN-202601140689.html": {
+        "added_at": 1768404022.976891,
+        "id": 1960574894
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/bfm-crypto-le-club/video-bfm-crypto-le-club-sg-forge-injecte-ses-stablecoins-dans-swift-14-01_VN-202601140694.html": {
+        "added_at": 1768404024.4400558,
+        "id": 1960574911
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/usa-today-usa-l-indice-ppi-sort-conforme-aux-attentes-par-john-plassard-14-01_EN-202601140693.html": {
+        "added_at": 1768404026.0239465,
+        "id": 1960574923
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-usa-today-usa-l-indice-ppi-sort-conforme-aux-attentes-par-john-plassard-14-01_VN-202601140697.html": {
+        "added_at": 1768404027.5090878,
+        "id": 1960574935
+    },
+    "https://www.bfmtv.com/economie/video-coree-du-sud-et-japon-synchronisent-la-cadence_VN-202601140699.html": {
+        "added_at": 1768404029.0709686,
+        "id": 1960574939
+    },
+    "https://www.bfmtv.com/economie/patrimoine/impots-fiscalite/un-montant-de-638-euros-en-moyenne-c-est-ce-jeudi-que-le-fisc-va-faire-un-gros-virement-a-9-millions-de-francais_AN-202601140701.html": {
+        "added_at": 1768404030.5260608,
+        "id": 1960574948
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/culture-bourse-que-pensez-vous-du-titre-2crsi-pour-2026-il-baisse-doucement-mais-pensez-vous-qu-il-a-encore-du-potentiel-faut-il-conserver-acheter-vendre-par-julie-cohen-heurton-14-01_EN-202601140703.html": {
+        "added_at": 1768404031.9496834,
+        "id": 1960574958
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-culture-bourse-que-pensez-vous-du-titre-2crsi-pour-2026-il-baisse-doucement-mais-pensez-vous-qu-il-a-encore-du-potentiel-faut-il-conserver-acheter-vendre-par-julie-cohen-heurton-14-01_VN-202601140705.html": {
+        "added_at": 1768404033.3212578,
+        "id": 1960574967
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-la-bourse-cash-ne-pas-se-tromper-de-risque-politique-14-01_VN-202601140707.html": {
+        "added_at": 1768404035.2737777,
+        "id": 1960574982
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/benoit-peloille-ne-pas-se-tromper-de-risque-politique_EN-202601140708.html": {
+        "added_at": 1768404036.5755641,
+        "id": 1960574988
+    },
+    "https://www.ft.com/content/8fc2932e-c8d0-4735-99f0-bbdede45c875": {
+        "added_at": 1768404039.4447668,
+        "id": 1960575015
+    },
+    "https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/": {
+        "added_at": 1768404040.8279262,
+        "id": 1959934009
+    },
+    "https://arstechnica.com/health/2026/01/wild-mushrooms-keep-killing-people-in-california-3-dead-35-poisoned/": {
+        "added_at": 1768404042.5137897,
+        "id": 1959934023
+    },
+    "https://shonumi.github.io/articles/art22.html": {
+        "added_at": 1768404043.9020195,
+        "id": 1960575045
+    },
+    "https://www.theguardian.com/us-news/2026/jan/14/fbi-raid-washington-post-hannah-natanson": {
+        "added_at": 1768404045.2955127,
+        "id": 1960575052
+    },
+    "https://www.swinburne.edu.au/news/2025/08/why-some-clothes-shrink-in-the-wash-and-how-to-unshrink-them/": {
+        "added_at": 1768404046.5090013,
+        "id": 1960575059
+    },
+    "https://www.sparkfun.com/official-response": {
+        "added_at": 1768404047.720046,
+        "id": 1960575069
+    },
+    "https://elpais.com/economia/negocios/2026-01-11/magdalena-cordero-westeam-el-gran-reto-de-la-inteligencia-artificial-es-la-gestion-de-los-datos.html": {
+        "added_at": 1768404049.394339,
+        "id": 1959297314
+    },
+    "https://elpais.com/economia/negocios/2026-01-10/y-ahora-que-hago-con-la-ia-todas-las-empresas-se-abrazan-al-futuro-pero-pocas-saben-que-hacer-con-el.html": {
+        "added_at": 1768404050.608059,
+        "id": 1958642604
+    },
+    "https://elpais.com/gente/2026-01-13/la-reina-sofia-cancela-su-agenda-para-estar-al-lado-de-su-hermana-irene-de-grecia-en-estado-de-salud-critico.html": {
+        "added_at": 1768404052.9706554,
+        "id": 1959956133
+    },
+    "https://elpais.com/deportes/baloncesto/2026-01-13/el-barca-se-compromete-a-renovar-con-la-euroliga-y-el-real-madrid-estudia-el-proyecto-de-la-nba.html": {
+        "added_at": 1768404054.405744,
+        "id": 1959934076
+    },
+    "https://elpais.com/deportes/futbol/2026-01-13/primera-rueda-de-prensa-de-alvaro-arbeloa-como-entrenador-del-real-madrid.html": {
+        "added_at": 1768404056.001177,
+        "id": 1959934093
+    },
+    "https://elpais.com/educacion/2026-01-11/bachiller-sabuco-asi-trabaja-un-instituto-que-confia-en-su-alumnado.html": {
+        "added_at": 1768404057.680458,
+        "id": 1958742381
+    },
+    "https://elpais.com/educacion/2026-01-12/los-profesores-de-madrid-y-euskadi-los-que-mas-denuncian-una-ofensiva-privatizadora-contra-la-ensenanza-publica.html": {
+        "added_at": 1768404063.9525378,
+        "id": 1959297424
+    },
+    "https://elpais.com/sociedad/2026-01-13/igualdad-exige-que-se-investiguen-las-acusaciones-de-agresion-sexual-contra-julio-iglesias.html": {
+        "added_at": 1768404080.4175076,
+        "id": 1959934116
+    },
+    "https://elpais.com/espana/2026-01-14/feijoo-acusa-a-abascal-de-antisistema-y-de-no-respetar-a-espana-mientras-pp-y-vox-se-acercan-en-extremadura.html": {
+        "added_at": 1768404082.0178196,
+        "id": 1960575277
+    },
+    "https://elpais.com/economia/2026-01-14/quiebra-la-cadena-de-grandes-almacenes-de-lujo-saks-global-que-vende-marcas-como-chanel-o-burberry.html": {
+        "added_at": 1768404083.8133965,
+        "id": 1960575291
+    },
+    "https://elpais.com/internacional/2026-01-14/el-horror-de-la-represion-en-iran-cortan-la-luz-matan-a-la-gente-con-ametralladoras-y-se-llevan-los-cuerpos.html": {
+        "added_at": 1768404085.9054873,
+        "id": 1960575305
     }
 }
