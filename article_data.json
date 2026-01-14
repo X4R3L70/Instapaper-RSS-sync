@@ -1,80 +1,4 @@
 {
-    "https://www.franceinfo.fr/monde/iran/manifestations/manifestations-en-iran-la-france-convoque-l-ambassadeur-iranien-pour-denoncer-la-repression-des-manifestations_7739098.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768342590.1955566,
-        "id": 1960175050
-    },
-    "https://www.franceinfo.fr/politique/la-justice-accorde-une-liberte-conditionnelle-a-patrick-balkany-condamne-pour-plusieurs-delits-financiers_7739317.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768342591.9799478,
-        "id": 1960175057
-    },
-    "https://www.franceinfo.fr/societe/securite-routiere/pneus-hiver-pourquoi-vous-ne-risquez-aucune-amende-si-vous-n-en-etes-pas-equipe-malgre-la-loi-montagne_7739254.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768342594.1432922,
-        "id": 1960175071
-    },
-    "https://www.franceinfo.fr/sports/foot/coupe-de-france/coupe-de-france-fin-d-epopee-pour-les-amateurs-de-bayeux-surclasses-par-l-om-qui-recevra-rennes-en-huitiemes_7738993.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768342595.9570177,
-        "id": 1960175088
-    },
-    "https://www.ft.com/content/1df72693-a510-4bcf-80ba-318e085bc2e6": {
-        "added_at": 1768342597.697946,
-        "id": 1960175106
-    },
-    "https://www.ft.com/content/6f7ad580-a237-4cb7-86bc-f68e4e44f511": {
-        "added_at": 1768342599.0760758,
-        "id": 1960175117
-    },
-    "https://www.ft.com/content/0b9ad9fd-34b5-449b-8f1f-c1ac0ec5990e": {
-        "added_at": 1768342601.4561207,
-        "id": 1960175134
-    },
-    "https://arstechnica.com/ai/2026/01/hegseth-wants-to-integrate-musks-grok-ai-into-military-networks-this-month/": {
-        "added_at": 1768342602.8962758,
-        "id": 1960175145
-    },
-    "https://arstechnica.com/health/2026/01/warning-about-bogus-autism-treatments-vanishes-from-fdas-website/": {
-        "added_at": 1768342604.2983499,
-        "id": 1960175164
-    },
-    "https://arstechnica.com/tech-policy/2026/01/instagram-user-fights-dhs-for-the-right-to-post-ice-sightings-anonymously/": {
-        "added_at": 1768342605.6294136,
-        "id": 1960175178
-    },
-    "https://news.ycombinator.com/item?id=46606715": {
-        "added_at": 1768342607.1934154,
-        "id": 1960175192
-    },
-    "https://www.flux.utah.edu/paper/singh-pets26": {
-        "added_at": 1768342608.582065,
-        "id": 1960175200
-    },
-    "https://news.ycombinator.com/item?id=46604828": {
-        "added_at": 1768342609.8735695,
-        "id": 1960175207
-    },
-    "https://everything2.com/node/e2node/Why%20Real%20Life%20is%20better%20than%20IRC": {
-        "added_at": 1768342611.2438858,
-        "id": 1960175219
-    },
-    "https://www.databricks.com/blog/open-sourcing-dicer-databricks-auto-sharder": {
-        "added_at": 1768342612.5214834,
-        "id": 1960175229
-    },
-    "https://news.ycombinator.com/item?id=46606854": {
-        "added_at": 1768342613.915124,
-        "id": 1960175240
-    },
-    "https://harmonic.fun/news#blog-post-lean": {
-        "added_at": 1768342615.2070916,
-        "id": 1960175248
-    },
-    "https://elpais.com/deportes/2026-01-12/nuevo-terremoto-en-el-golf-el-pga-tour-ofrece-un-regreso-inmediato-a-jon-rahm.html": {
-        "added_at": 1768342617.8824792,
-        "id": 1959526771
-    },
-    "https://elpais.com/internacional/2026-01-13/un-activista-cambia-la-bandera-de-la-republica-islamica-de-iran-de-la-embajada-de-madrid-por-la-previa-a-la-revolucion-de-1979.html": {
-        "added_at": 1768342619.2742965,
-        "id": 1960175274
-    },
     "https://www.franceinfo.fr/monde/iran/manifestations/manifestations-en-iran-donald-trump-previent-qu-il-agira-de-maniere-tres-forte-en-cas-d-executions-de-manifestants_7739359.html#xtor=RSS-3-[lestitres]": {
         "added_at": 1768346124.245949,
         "id": 1960198246
@@ -3298,5 +3222,73 @@
     "https://elpais.com/espana/2026-01-14/exteriores-recomienda-a-los-espanoles-en-iran-que-abandonen-el-pais.html": {
         "added_at": 1768425409.8834105,
         "id": 1960736681
+    },
+    "https://www.franceinfo.fr/faits-divers/justice-proces/hauts-de-france-les-membres-presumes-d-un-gang-de-cambriolages-a-la-voiture-belier-bientot-juges-pour-une-serie-de-vols-a-1-4-million-d-euros-de-prejudice_7741618.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768429003.7893164,
+        "id": 1960763138
+    },
+    "https://www.franceinfo.fr/sports/foot/ligue-1/ligue-1-le-president-de-lille-olivier-letang-suspendu-jusqu-au-31-mars-apres-ses-propos-envers-l-arbitrage-face-a-rennes_7741621.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768429005.1944356,
+        "id": 1960763145
+    },
+    "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/le-rappeur-doums-sera-juge-le-2-fevrier-pour-des-violences-conjugales_7741606.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768429007.0471182,
+        "id": 1960763160
+    },
+    "https://www.franceinfo.fr/internet/reseaux-sociaux/enquete-francetv-comment-des-mouvances-d-extreme-droite-radicales-font-leur-pub-au-travers-de-combats-de-free-fight-clandestins_7741045.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768429009.2970831,
+        "id": 1960763183
+    },
+    "https://www.ft.com/content/72c2a5b7-e10d-4e7c-8af0-e95b64d99d79": {
+        "added_at": 1768429011.117034,
+        "id": 1960763194
+    },
+    "https://www.ft.com/content/2f7e17fb-5892-4a41-b612-8e384f3dc131": {
+        "added_at": 1768429013.2292566,
+        "id": 1960763214
+    },
+    "https://arstechnica.com/ai/2026/01/microsoft-vows-to-cover-full-power-costs-for-energy-hungry-ai-data-centers/": {
+        "added_at": 1768429014.8235855,
+        "id": 1960149159
+    },
+    "https://arstechnica.com/gadgets/2026/01/federal-data-underscores-meteoric-rise-of-streaming-subscription-prices-in-2025/": {
+        "added_at": 1768429015.9853604,
+        "id": 1960763228
+    },
+    "https://arstechnica.com/tech-policy/2026/01/musk-still-defending-groks-partial-nudes-as-california-ag-opens-probe/": {
+        "added_at": 1768429017.1487286,
+        "id": 1960763237
+    },
+    "https://arstechnica.com/tech-policy/2026/01/us-govt-house-sysadmin-stole-200-phones-caught-by-house-it-desk/": {
+        "added_at": 1768429018.6915905,
+        "id": 1960763251
+    },
+    "https://arstechnica.com/tech-policy/2026/01/fbi-fights-leaks-by-seizing-washington-post-reporters-phone-laptops-and-watch/": {
+        "added_at": 1768429019.8645768,
+        "id": 1960763263
+    },
+    "https://arstechnica.com/gaming/2026/01/i-cant-stop-shooting-oddcores-endless-waves-of-weird-little-guys/": {
+        "added_at": 1768429021.0306337,
+        "id": 1960763275
+    },
+    "https://github.com/hn4-dev/hn4": {
+        "added_at": 1768429022.4421182,
+        "id": 1960763281
+    },
+    "https://drajmarsh.bitbucket.io/earthsun.html": {
+        "added_at": 1768429023.684083,
+        "id": 1960763289
+    },
+    "https://carette.xyz/posts/influentists/": {
+        "added_at": 1768429024.839803,
+        "id": 1960763294
+    },
+    "https://elpais.com/america/2026-01-14/trump-asegura-que-ha-hablado-con-delcy-rodriguez-es-una-persona-estupenda.html": {
+        "added_at": 1768429026.3940628,
+        "id": 1960763306
+    },
+    "https://www.monde-diplomatique.fr/carnet/2026-01-13-La-Corse-la-terre-et-la-violence": {
+        "added_at": 1768429029.3902419,
+        "id": 1960149296
     }
 }
