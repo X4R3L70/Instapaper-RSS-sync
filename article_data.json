@@ -1,84 +1,4 @@
 {
-    "https://www.franceinfo.fr/france/occitanie/barrages-des-agriculteurs-des-degats-estimes-a-5-millions-d-euros-la-rocade-toujours-bloquee-plusieurs-jours-apres-le-depart-des-tracteurs_7738915.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768321427.2970319,
-        "id": 1960018694
-    },
-    "https://www.franceinfo.fr/france/occitanie/la-manifestation-sera-interdite-les-agriculteurs-veulent-a-nouveau-bloquer-toulouse-malgre-les-mises-en-garde-de-la-prefecture_7738975.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768321430.0801456,
-        "id": 1960018713
-    },
-    "https://www.franceinfo.fr/culture/cinema/sorties-de-films/jusqu-a-l-aube-le-realisateur-japonais-sho-miyake-signe-un-nouveau-long-metrage-sensible-sur-la-place-de-chacun-dans-la-societe_7736605.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768321431.912521,
-        "id": 1960018727
-    },
-    "https://www.franceinfo.fr/economie/transports/c-est-tellement-violent-ca-n-est-pas-arrive-depuis-au-moins-20-ans-deux-controleurs-agresses-par-un-groupe-de-lyceens-dans-un-bus-au-mans_7738888.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768321433.620791,
-        "id": 1960018740
-    },
-    "https://www.franceinfo.fr/monde/venezuela/attaque-americaine-sur-le-venezuela/un-debat-sans-vote-sur-le-venezuela-aura-lieu-a-l-assemblee-nationale-lundi-19-janvier_7738846.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768321435.7769654,
-        "id": 1960018764
-    },
-    "https://www.franceinfo.fr/faits-divers/incendie-dans-un-bar-de-crans-montana-en-suisse/incendie-de-crans-montana-le-ministre-de-l-interieur-demande-une-vigilance-renforcee-vis-a-vis-des-bars-accueillant-des-soirees-festives_7738885.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768321437.4621463,
-        "id": 1960018773
-    },
-    "https://www.franceinfo.fr/politique/marine-le-pen/marine-le-pen-pourra-t-elle-se-presenter-a-l-election-presidentielle-de-2027-si-elle-est-condamnee-en-appel_7736398.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768321439.4551313,
-        "id": 1960018786
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/culture-bourse-compagnie-chargeurs-invest-a-annonce-avoir-conclu-un-accord-de-negociations-exclusives-avec-kps-capital-partners-en-vue-d-un-projet-de-cession-de-novacel-est-ce-le-moment-d-acheter-par-julie-cohen-heurton-13-01_EN-202601130670.html": {
-        "added_at": 1768321441.0733478,
-        "id": 1960018800
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-culture-bourse-compagnie-chargeurs-invest-a-annonce-avoir-conclu-un-accord-de-negociations-exclusives-avec-kps-capital-partners-en-vue-d-un-projet-de-cession-de-novacel-est-ce-le-moment-d-acheter-par-julie-cohen-heurton-13-01_VN-202601130671.html": {
-        "added_at": 1768321443.291114,
-        "id": 1960018809
-    },
-    "https://www.bfmtv.com/economie/entreprises/industries/l-hemorragie-ne-s-est-pas-enrayee-50-000-emplois-detruits-en-2024-54-000-en-2025-les-equipementiers-automobiles-europeens-traversent-une-periode-plus-terrible-que-durant-le-covid_AV-202601130672.html": {
-        "added_at": 1768321444.7826843,
-        "id": 1960018819
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/bfm-bourse-15h-16h-13-01_EN-202601130674.html": {
-        "added_at": 1768321446.6875653,
-        "id": 1960018834
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-brunello-cucinelli-premier-groupe-de-luxe-a-annoncer-ses-ventes-du-t4-13-01_VN-202601130679.html": {
-        "added_at": 1768321448.3431141,
-        "id": 1960018849
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-valeur-ajoutee-ils-apprecient-bnp-paribas-13-01_VN-202601130683.html": {
-        "added_at": 1768321452.2151637,
-        "id": 1960018881
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/brunello-cucinelli-premier-groupe-de-luxe-a-annoncer-ses-ventes-du-t4-13-01_EN-202601130682.html": {
-        "added_at": 1768321453.5139077,
-        "id": 1960018892
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/valeur-ajoutee-ils-apprecient-bnp-paribas-13-01_EN-202601130684.html": {
-        "added_at": 1768321454.9860706,
-        "id": 1960018902
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/investir-dans-l-acheminement-de-l-electricite-verte-13-01_EN-202601130690.html": {
-        "added_at": 1768321456.3818917,
-        "id": 1960018916
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-investir-dans-l-acheminement-de-l-electricite-verte-13-01_VN-202601130692.html": {
-        "added_at": 1768321457.83171,
-        "id": 1960018927
-    },
-    "https://www.bfmtv.com/economie/entreprises/defense/faut-il-obliger-l-ukraine-a-acheter-des-armes-europeennes-avec-le-pret-de-90-milliards-de-l-ue-la-france-se-querelle-avec-l-allemagne-qui-tolere-les-armes-americaines_AV-202601130691.html": {
-        "added_at": 1768321459.0903497,
-        "id": 1960018940
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-l-eco-du-monde-indicateur-du-jour-les-prix-a-la-consommation-us-13-01_VN-202601130695.html": {
-        "added_at": 1768321460.5178494,
-        "id": 1960018954
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/l-eco-du-monde-indicateur-du-jour-les-prix-a-la-consommation-us-13-01_EN-202601130698.html": {
-        "added_at": 1768321462.0258982,
-        "id": 1960018965
-    },
     "https://www.bfmtv.com/economie/video-discuter-ou-pas-avec-le-rn-les-patrons-sont-divises_VN-202601130699.html": {
         "added_at": 1768321463.4908898,
         "id": 1960018977
@@ -3222,5 +3142,173 @@
     "https://elpais.com/internacional/2026-01-14/el-horror-de-la-represion-en-iran-cortan-la-luz-matan-a-la-gente-con-ametralladoras-y-se-llevan-los-cuerpos.html": {
         "added_at": 1768404085.9054873,
         "id": 1960575305
+    },
+    "https://www.franceinfo.fr/monde/iran/manifestations/en-iran-le-bilan-humain-de-la-repression-risque-d-etre-encore-pire-que-les-premiers-decomptes-alerte-human-rights-watch_7741093.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768407766.3484273,
+        "id": 1960602002
+    },
+    "https://www.franceinfo.fr/monde/iran/manifestations/un-jeune-footballeur-une-etudiante-une-infirmiere-qui-sont-les-premieres-victimes-identifiees-de-la-repression-des-manifestations-en-iran_7740901.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768407768.620847,
+        "id": 1960602017
+    },
+    "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/pyrenees-orientales-apres-trois-ans-de-secheresse-le-retour-de-la-pluie-redonne-espoir-aux-agriculteurs_7741138.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768407770.8886957,
+        "id": 1960602030
+    },
+    "https://www.franceinfo.fr/faits-divers/antarctique-un-plongeur-de-l-institut-polaire-francais-porte-disparu-sous-la-glace-en-terre-adelie_7741165.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768407772.5889482,
+        "id": 1960602041
+    },
+    "https://www.franceinfo.fr/faits-divers/32-morts-en-thailande-une-grue-s-effondre-sur-un-train_7741126.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768407775.013228,
+        "id": 1960602059
+    },
+    "https://www.franceinfo.fr/economie/le-nombre-de-dossiers-pour-surendettement-a-bondi-de-pres-de-10-en-2025_7741210.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768407777.1649446,
+        "id": 1960602081
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/bfm-bourse-15h-16h-14-01_EN-202601140712.html": {
+        "added_at": 1768407779.0155516,
+        "id": 1960602093
+    },
+    "https://www.bfmtv.com/economie/entreprises/transports/quatre-ans-ici-contre-deux-ans-en-espagne-les-nouveaux-operateurs-du-ferroviaire-se-plaignent-des-delais-d-homologation-des-trains-en-france_AV-202601140714.html": {
+        "added_at": 1768407781.260876,
+        "id": 1960602110
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/culture-bourse-dividendes-rendements-quelles-differences-par-julie-cohen-heurton-14-01_EN-202601140715.html": {
+        "added_at": 1768407782.6625533,
+        "id": 1960602115
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-culture-bourse-dividendes-rendements-quelles-differences-par-julie-cohen-heurton-14-01_VN-202601140717.html": {
+        "added_at": 1768407784.6371741,
+        "id": 1960602129
+    },
+    "https://www.bfmtv.com/economie/international/ils-ont-obtenu-des-augmentations-de-18-mais-l-inflation-depasse-les-30-les-fonctionnaires-turcs-dans-la-rue-pour-reclamer-de-nouvelles-hausses-de-salaires_AD-202601140719.html": {
+        "added_at": 1768407786.3684468,
+        "id": 1960602144
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/vusion-perd-26-en-une-semaine-14-01_EN-202601140721.html": {
+        "added_at": 1768407788.4090002,
+        "id": 1960602157
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-vusion-perd-26-en-une-semaine-14-01_VN-202601140723.html": {
+        "added_at": 1768407790.085604,
+        "id": 1960602165
+    },
+    "https://www.bfmtv.com/economie/economie-social/union-europeenne/les-droits-de-douane-de-trump-devraient-amputer-le-pib-de-l-ue-de-0-7-pour-contrer-le-prejudice-la-bce-conseille-aux-etats-de-supprimer-des-barrieres-notamment-protectionnistes-pour-plus-commercer-entre-voisins_AD-202601140722.html": {
+        "added_at": 1768407791.5758684,
+        "id": 1960602175
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-valeur-ajoutee-ils-apprecient-sol-14-01_VN-202601140729.html": {
+        "added_at": 1768407793.0689652,
+        "id": 1960602186
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/valeur-ajoutee-ils-apprecient-sol-14-01_EN-202601140730.html": {
+        "added_at": 1768407794.62066,
+        "id": 1960602194
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-l-eco-du-monde-commerce-la-chine-renforce-nettement-son-leadership-malgre-les-droits-de-douane-14-01_VN-202601140733.html": {
+        "added_at": 1768407796.1599514,
+        "id": 1960602210
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/l-eco-du-monde-commerce-la-chine-renforce-nettement-son-leadership-malgre-les-droits-de-douane-14-01_EN-202601140734.html": {
+        "added_at": 1768407797.6185908,
+        "id": 1960602220
+    },
+    "https://www.bfmtv.com/economie/economie-social/union-europeenne/la-cour-de-justice-de-l-ue-sera-t-elle-saisie-sur-l-accord-avec-le-mercosur-les-eurodeputes-voteront-le-21-janvier_AD-202601140741.html": {
+        "added_at": 1768407799.1420388,
+        "id": 1960602231
+    },
+    "https://www.bfmtv.com/economie/international/les-agents-de-l-immigration-y-font-leurs-courses-vont-aux-toilettes-et-y-arretent-des-salaries-les-supermarches-americains-sont-devenus-un-terrain-de-chasse-pour-la-decriee-police-ice-devant-des-clients-meduses_AV-202601140747.html": {
+        "added_at": 1768407800.5273113,
+        "id": 1960602246
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/bullshitometre-si-la-demographie-decline-les-marches-baisseront-faux-repond-thibault-prebay-14-01_EN-202601140753.html": {
+        "added_at": 1768407801.8613217,
+        "id": 1960602260
+    },
+    "https://www.ft.com/content/6edecbed-c88e-401f-9bbd-911db69e5a54": {
+        "added_at": 1768407803.7103071,
+        "id": 1960602274
+    },
+    "https://www.ft.com/content/bbde5a65-00a5-44a3-935b-1948fde0a307": {
+        "added_at": 1768407811.3074112,
+        "id": 1960602325
+    },
+    "https://www.ft.com/content/9bbdf59e-ce46-4176-aab9-b45a3f49fc4e": {
+        "added_at": 1768407812.567361,
+        "id": 1960602340
+    },
+    "https://www.ft.com/content/9bd6c006-d00d-40e9-a2d5-3294d42640f8": {
+        "added_at": 1768407814.5642436,
+        "id": 1960602346
+    },
+    "https://www.ft.com/content/19a3d1f3-fafb-4402-a78d-a19359c93a4a": {
+        "added_at": 1768407827.0480556,
+        "id": 1960602435
+    },
+    "https://www.ft.com/content/9243020b-5a69-4a89-b4c0-a2244b869173": {
+        "added_at": 1768407828.9734378,
+        "id": 1960602449
+    },
+    "https://www.ft.com/content/0574b088-2cc1-453a-b14c-041ff6218b19": {
+        "added_at": 1768407830.246498,
+        "id": 1960602459
+    },
+    "https://www.bbc.com/news/articles/c3385zrrx73o": {
+        "added_at": 1768407832.061984,
+        "id": 1960602468
+    },
+    "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1968579": {
+        "added_at": 1768407835.2823956,
+        "id": 1960602483
+    },
+    "https://www.smithsonianmag.com/science-nature/maggots-incredibly-efficient-source-protein-may-make-them-next-superfood-humans-180987847/": {
+        "added_at": 1768407836.5436664,
+        "id": 1960602488
+    },
+    "https://elpais.com/tecnologia/2026-01-13/la-red-social-x-antes-twitter-sufre-una-caida-global.html": {
+        "added_at": 1768407838.6097472,
+        "id": 1959986917
+    },
+    "https://elpais.com/salud-y-bienestar/2026-01-13/la-oms-alerta-de-que-los-bajos-impuestos-al-alcohol-y-a-las-bebidas-azucaradas-disparan-los-riesgos-para-la-salud.html": {
+        "added_at": 1768407840.7360198,
+        "id": 1959986912
+    },
+    "https://elpais.com/planeta-futuro/2026-01-14/nana-akosua-hanson-escritora-ghanesa-tenemos-casos-de-chicos-gais-que-son-enganados-por-gente-en-facebook-o-acuden-a-una-cita-y-les-dan-una-paliza-en-grupo.html": {
+        "added_at": 1768407842.5548007,
+        "id": 1960602528
+    },
+    "https://elpais.com/internacional/2026-01-14/los-conflictos-geoeconomicos-y-armados-en-un-orden-multipolar-encabezan-la-lista-de-riesgos-de-davos-para-2026.html": {
+        "added_at": 1768407844.3844838,
+        "id": 1960602541
+    },
+    "https://elpais.com/ciencia/2026-01-14/ni-galaxias-ni-errores-el-telescopio-james-webb-revela-que-unos-enigmaticos-puntitos-rojos-son-agujeros-negros.html": {
+        "added_at": 1768407846.6714013,
+        "id": 1960602560
+    },
+    "https://elpais.com/sociedad/2026-01-14/la-fiscalia-de-la-audiencia-nacional-tomara-declaracion-como-testigos-protegidas-a-las-dos-extrabajadoras-de-julio-iglesias.html": {
+        "added_at": 1768407848.1269543,
+        "id": 1960602567
+    },
+    "https://www.monde-diplomatique.fr/2026/01/DAGUERRE/69156": {
+        "added_at": 1768407851.7891667,
+        "id": 1955878613
+    },
+    "https://www.monde-diplomatique.fr/2026/01/PROLONGEAU/69157": {
+        "added_at": 1768407853.8801143,
+        "id": 1955893282
+    },
+    "https://www.monde-diplomatique.fr/2026/01/HALIMI/69162": {
+        "added_at": 1768407855.3773613,
+        "id": 1955893296
+    },
+    "https://www.monde-diplomatique.fr/2026/01/GOBERT/69171": {
+        "added_at": 1768407858.0991461,
+        "id": 1955893312
+    },
+    "https://www.monde-diplomatique.fr/cartes/soudan-desagrege": {
+        "added_at": 1768407861.9933946,
+        "id": 1959986969
     }
 }
