@@ -1,36 +1,4 @@
 {
-    "https://www.ft.com/content/54a3eca2-33cf-474c-ba87-098489a8eee2": {
-        "added_at": 1768278893.9780915,
-        "id": 1959697042
-    },
-    "https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/": {
-        "added_at": 1768278896.0037737,
-        "id": 1959007319
-    },
-    "https://tinyhack.com/2014/03/12/implementing-a-web-server-in-a-single-printf-call/": {
-        "added_at": 1768278897.4208875,
-        "id": 1959697064
-    },
-    "https://turbopuffer.com/blog/bm25-latency-musings": {
-        "added_at": 1768278898.8345647,
-        "id": 1959697075
-    },
-    "https://pierce.dev/notes/a-deep-dive-on-agent-sandboxes": {
-        "added_at": 1768278900.3484066,
-        "id": 1959697082
-    },
-    "http://bitboost.com/pawsense/": {
-        "added_at": 1768278901.8158045,
-        "id": 1959697092
-    },
-    "https://www.monde-diplomatique.fr/2026/01/BURLAUD/69130": {
-        "added_at": 1768278905.3950436,
-        "id": 1959077023
-    },
-    "https://www.monde-diplomatique.fr/2026/01/CRETOIS/69131": {
-        "added_at": 1768278909.1215127,
-        "id": 1959077029
-    },
     "https://www.franceinfo.fr/monde/iran/manifestations/manifestation-en-iran-pourquoi-les-regards-sont-tournes-vers-donald-trump_7736986.html#xtor=RSS-3-[lestitres]": {
         "added_at": 1768281664.4024608,
         "id": 1959713199
@@ -3170,5 +3138,57 @@
     "https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html": {
         "added_at": 1768362157.8925352,
         "id": 1960286660
+    },
+    "https://www.ft.com/content/9acdf578-8b66-46de-acdf-0b41a16a250b": {
+        "added_at": 1768365727.6803174,
+        "id": 1960305215
+    },
+    "https://www.ft.com/content/af1b36f6-2096-4013-9764-06bd4e0089c4": {
+        "added_at": 1768365729.1622856,
+        "id": 1960305227
+    },
+    "https://www.ft.com/content/83b1a456-630b-4089-a0dd-ab356e0eace4": {
+        "added_at": 1768365730.571374,
+        "id": 1960305233
+    },
+    "https://tidepool.leaflet.pub/3mcbegnuf2k2i": {
+        "added_at": 1768365732.4439142,
+        "id": 1960305240
+    },
+    "https://gleam.run/": {
+        "added_at": 1768365733.9494681,
+        "id": 1960305249
+    },
+    "https://en.wikipedia.org/wiki/1000_Blank_White_Cards": {
+        "added_at": 1768365735.4126563,
+        "id": 1960305259
+    },
+    "https://linus.schreibt.jetzt/posts/shell-secrets.html": {
+        "added_at": 1768365737.006105,
+        "id": 1960305267
+    },
+    "https://elpais.com/icon/2026-01-14/el-auge-y-el-problema-del-superpadre-ahora-que-tengo-hijos-siento-que-ese-es-el-unico-rol-en-mi-vida.html": {
+        "added_at": 1768365739.1204257,
+        "id": 1960305283
+    },
+    "https://elpais.com/smoda/globos-de-oro/2026-01-11/la-alfombra-roja-de-los-globos-de-oro-en-imagenes.html": {
+        "added_at": 1768365741.5493205,
+        "id": 1959044312
+    },
+    "https://elpais.com/espana/catalunya/2026-01-14/cambiar-las-necesidades-por-la-alegria.html": {
+        "added_at": 1768365743.7585514,
+        "id": 1960305309
+    },
+    "https://elpais.com/espana/catalunya/2026-01-14/la-eliminacion-de-la-jornada-compactada-en-los-institutos-escuela-abre-un-nuevo-conflicto-entre-govern-y-sindicatos.html": {
+        "added_at": 1768365745.3968914,
+        "id": 1960305316
+    },
+    "https://elpais.com/espana/catalunya/2026-01-14/el-convenio-entre-endesa-y-la-generalitat-contra-la-pobreza-energetica-caduca-sin-una-alternativa-clara.html": {
+        "added_at": 1768365747.197304,
+        "id": 1960305328
+    },
+    "https://www.monde-diplomatique.fr/2026/01/BREVILLE/69172": {
+        "added_at": 1768365751.4047666,
+        "id": 1955551075
     }
 }
