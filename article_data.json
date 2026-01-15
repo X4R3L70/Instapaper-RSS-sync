@@ -1,148 +1,4 @@
 {
-    "https://www.ft.com/content/2f7e17fb-5892-4a41-b612-8e384f3dc131": {
-        "added_at": 1768429013.2292566,
-        "id": 1960763214
-    },
-    "https://arstechnica.com/ai/2026/01/microsoft-vows-to-cover-full-power-costs-for-energy-hungry-ai-data-centers/": {
-        "added_at": 1768429014.8235855,
-        "id": 1960149159
-    },
-    "https://arstechnica.com/gadgets/2026/01/federal-data-underscores-meteoric-rise-of-streaming-subscription-prices-in-2025/": {
-        "added_at": 1768429015.9853604,
-        "id": 1960763228
-    },
-    "https://arstechnica.com/tech-policy/2026/01/musk-still-defending-groks-partial-nudes-as-california-ag-opens-probe/": {
-        "added_at": 1768429017.1487286,
-        "id": 1960763237
-    },
-    "https://arstechnica.com/tech-policy/2026/01/us-govt-house-sysadmin-stole-200-phones-caught-by-house-it-desk/": {
-        "added_at": 1768429018.6915905,
-        "id": 1960763251
-    },
-    "https://arstechnica.com/tech-policy/2026/01/fbi-fights-leaks-by-seizing-washington-post-reporters-phone-laptops-and-watch/": {
-        "added_at": 1768429019.8645768,
-        "id": 1960763263
-    },
-    "https://arstechnica.com/gaming/2026/01/i-cant-stop-shooting-oddcores-endless-waves-of-weird-little-guys/": {
-        "added_at": 1768429021.0306337,
-        "id": 1960763275
-    },
-    "https://github.com/hn4-dev/hn4": {
-        "added_at": 1768429022.4421182,
-        "id": 1960763281
-    },
-    "https://drajmarsh.bitbucket.io/earthsun.html": {
-        "added_at": 1768429023.684083,
-        "id": 1960763289
-    },
-    "https://carette.xyz/posts/influentists/": {
-        "added_at": 1768429024.839803,
-        "id": 1960763294
-    },
-    "https://elpais.com/america/2026-01-14/trump-asegura-que-ha-hablado-con-delcy-rodriguez-es-una-persona-estupenda.html": {
-        "added_at": 1768429026.3940628,
-        "id": 1960763306
-    },
-    "https://www.monde-diplomatique.fr/carnet/2026-01-13-La-Corse-la-terre-et-la-violence": {
-        "added_at": 1768429029.3902419,
-        "id": 1960149296
-    },
-    "https://www.franceinfo.fr/monde/iran/manifestations/donald-trump-assure-que-les-tueries-en-iran-ont-pris-fin-mais-entretient-le-flou-sur-une-intervention-americaine_7742179.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768432432.4511154,
-        "id": 1960787412
-    },
-    "https://www.franceinfo.fr/monde/iran/manifestations/soulevement-en-iran-emmanuel-macron-condamne-la-violence-d-etat-qui-frappe-aveuglement-les-manifestants_7738354.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768432435.5055323,
-        "id": 1960787432
-    },
-    "https://www.franceinfo.fr/sciences/espace/l-equipage-de-la-station-spatiale-internationale-evacue-pour-raison-medicale-a-entame-son-retour-vers-la-terre_7741636.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768432437.467898,
-        "id": 1960787448
-    },
-    "https://www.franceinfo.fr/sports/foot/can/can-2025-le-maroc-pays-hote-se-defait-du-nigeria-aux-tirs-au-but-et-rejoint-le-senegal-en-finale_7741561.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768432441.015669,
-        "id": 1960787465
-    },
-    "https://www.franceinfo.fr/monde/groenland/un-conseil-de-defense-convoque-en-urgence-jeudi-matin-sur-la-situation-en-iran-et-au-groenland_7741627.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768432444.3139317,
-        "id": 1960787480
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/pari-eti/video-pari-eti-patrice-begay-recoit-pascal-houdayer-boiron-nolwenn-le-ster-almond-thibault-blin-acensi-et-jerome-totel-data4-14-01_VN-202601141040.html": {
-        "added_at": 1768432446.2375224,
-        "id": 1960787496
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/pari-eti/pari-eti-patrice-begay-recoit-pascal-houdayer-boiron-nolwenn-le-ster-almond-thibault-blin-acensi-et-jerome-totel-data4-14-01_EN-202601141039.html": {
-        "added_at": 1768432448.0760295,
-        "id": 1960787506
-    },
-    "https://www.ft.com/content/c698ff51-7854-4cf9-a92b-0c06e2a1a182": {
-        "added_at": 1768432450.0231528,
-        "id": 1960787523
-    },
-    "https://www.ft.com/content/0c5a836a-3176-4d2e-b78c-1eb6ffd8be0c": {
-        "added_at": 1768432451.4355257,
-        "id": 1960787529
-    },
-    "https://www.ft.com/content/3b214bf0-a87b-43bc-9107-b245aed8fbba": {
-        "added_at": 1768432452.994959,
-        "id": 1960787539
-    },
-    "https://www.ft.com/content/6f92844e-6eb6-48dc-a36a-fd63115e45b5": {
-        "added_at": 1768432454.3914225,
-        "id": 1960787550
-    },
-    "https://arstechnica.com/ai/2026/01/hegseth-wants-to-integrate-musks-grok-ai-into-military-networks-this-month/": {
-        "added_at": 1768432456.3764505,
-        "id": 1960175145
-    },
-    "https://arstechnica.com/health/2026/01/warning-about-bogus-autism-treatments-vanishes-from-fdas-website/": {
-        "added_at": 1768432458.2826421,
-        "id": 1960175164
-    },
-    "https://arstechnica.com/tech-policy/2026/01/instagram-user-fights-dhs-for-the-right-to-post-ice-sightings-anonymously/": {
-        "added_at": 1768432460.0314598,
-        "id": 1960175178
-    },
-    "https://dmvaldman.github.io/rooklift/": {
-        "added_at": 1768432461.964972,
-        "id": 1960787600
-    },
-    "https://josem.co/simple-to-ornate-and-back-again/": {
-        "added_at": 1768432463.3602064,
-        "id": 1960787607
-    },
-    "https://www.chroma-explorer.com/": {
-        "added_at": 1768432464.765221,
-        "id": 1960787620
-    },
-    "https://www.washingtonpost.com/entertainment/art/interactive/2026/jackson-pollock-theft-isaacs-family/": {
-        "added_at": 1768432466.192181,
-        "id": 1960787627
-    },
-    "https://tanelpoder.com/posts/generate-qr-code-with-pure-sql-in-postgres/": {
-        "added_at": 1768432467.5761435,
-        "id": 1960787639
-    },
-    "https://cryptography.io/en/latest/statements/state-of-openssl/": {
-        "added_at": 1768432469.0733051,
-        "id": 1960787652
-    },
-    "https://cursor.com/blog/scaling-agents": {
-        "added_at": 1768432470.5069835,
-        "id": 1960787663
-    },
-    "https://elpais.com/deportes/futbol/2026-01-14/avila-rescata-al-betis-ante-un-elche-que-dio-mucha-guerra.html": {
-        "added_at": 1768432473.08645,
-        "id": 1960787690
-    },
-    "https://elpais.com/deportes/futbol/2026-01-14/hundimiento-del-real-madrid-en-albacete-para-volver-a-empezar.html": {
-        "added_at": 1768432474.7941267,
-        "id": 1960787704
-    },
-    "https://elpais.com/ciencia/2026-01-14/regreso-adelantado-la-mision-de-la-nasa-con-el-astronauta-enfermo-inicia-su-vuelta-a-la-tierra.html": {
-        "added_at": 1768432476.5678322,
-        "id": 1960787716
-    },
     "https://www.ft.com/content/14dc1527-e2ba-49d1-b223-76ddcbd26699": {
         "added_at": 1768439533.729627,
         "id": 1960833044
@@ -3166,5 +3022,61 @@
     "https://elpais.com/deportes/2026-01-14/como-una-duna-entre-un-millon-sentencio-el-rally-dakar-de-carlos-sainz.html": {
         "added_at": 1768515410.1390932,
         "id": 1960736630
+    },
+    "https://www.franceinfo.fr/economie/budget/zero-impot-y-a-t-il-vraiment-des-milliers-de-francais-fortunes-qui-ne-paient-aucun-impot-sur-le-revenu_7741360.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768518947.943139,
+        "id": 1960736353
+    },
+    "https://www.franceinfo.fr/monde/groenland/renforts-militaires-europeens-au-groenland-nous-nous-sentons-plus-proteges-affirme-la-consule-honoraire-pour-la-france-a-nuuk_7743871.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768518950.3740003,
+        "id": 1961365937
+    },
+    "https://www.franceinfo.fr/monde/venezuela/attaque-americaine-sur-le-venezuela/la-venezuela-n-a-pas-peur-d-affronter-diplomatiquement-les-etats-unis-lance-la-presidente-par-interim_7744075.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768518952.3810477,
+        "id": 1961365951
+    },
+    "https://www.franceinfo.fr/sciences/espace/la-start-up-francaise-maiaspace-signe-un-gros-contrat-avec-l-operateur-de-satellites-eutelsat-pour-une-dizaine-de-lancements-d-ici-2028_7744060.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768518954.8028247,
+        "id": 1961365966
+    },
+    "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/l-opposante-venezuelienne-maria-corina-machado-dit-avoir-offert-la-medaille-de-son-prix-nobel-a-donald-trump_7744396.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768518956.8284268,
+        "id": 1961365984
+    },
+    "https://www.ft.com/content/060395fd-34af-431c-8142-a6c29828b07c": {
+        "added_at": 1768518959.5134408,
+        "id": 1961366001
+    },
+    "https://www.ft.com/content/b4d44cf7-84c9-40cb-a179-c2e355687080": {
+        "added_at": 1768518962.4925232,
+        "id": 1961366015
+    },
+    "https://briarproject.org/manual/fa/": {
+        "added_at": 1768518964.0070727,
+        "id": 1961366022
+    },
+    "https://github.com/rulebricks/claude-code-guardrails": {
+        "added_at": 1768518968.3479314,
+        "id": 1961366060
+    },
+    "https://cprimozic.net/notes/posts/persistent-expr-memo-optimization-for-geoscript/": {
+        "added_at": 1768518969.5696309,
+        "id": 1961366070
+    },
+    "https://www.praxisframework.org/files/royce1970.pdf": {
+        "added_at": 1768518970.8776827,
+        "id": 1961366078
+    },
+    "https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/": {
+        "added_at": 1768518975.9038308,
+        "id": 1961366115
+    },
+    "https://elpais.com/america/2026-01-15/xiomara-castro-ordena-despues-de-un-mes-iniciar-la-transicion-a-nasry-asfura-en-honduras.html": {
+        "added_at": 1768518977.6600401,
+        "id": 1961366124
+    },
+    "https://elpais.com/deportes/futbol/2026-01-15/el-racing-exige-a-un-barca-serio.html": {
+        "added_at": 1768518979.3701131,
+        "id": 1961366133
     }
 }
