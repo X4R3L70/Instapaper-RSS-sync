@@ -1,160 +1,4 @@
 {
-    "https://www.franceinfo.fr/monde/iran/manifestations/manifestations-en-iran-donald-trump-previent-qu-il-agira-de-maniere-tres-forte-en-cas-d-executions-de-manifestants_7739359.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768346124.245949,
-        "id": 1960198246
-    },
-    "https://www.franceinfo.fr/faits-divers/l-ex-compagnon-de-cindy-morvan-abattue-devant-chez-elle-a-calais-fin-octobre-place-en-garde-a-vue_7739362.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768346126.2780771,
-        "id": 1960198266
-    },
-    "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/au-moins-100-enfants-ont-ete-tues-depuis-le-debut-du-cessez-le-feu-a-gaza-selon-l-unicef_7739368.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768346128.335358,
-        "id": 1960198279
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/01-business/mount-a-in-proteger-les-actifs-de-l-entreprise-13-01_EN-202601130986.html": {
-        "added_at": 1768346129.880364,
-        "id": 1960198292
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/01-business/video-mount-a-in-proteger-les-actifs-de-l-entreprise-13-01_VN-202601130987.html": {
-        "added_at": 1768346131.4393842,
-        "id": 1960198301
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/01-business/ia-skild-protege-la-propriete-intellectuelle-13-01_EN-202601130988.html": {
-        "added_at": 1768346132.8418152,
-        "id": 1960198315
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/01-business/video-ia-skild-protege-la-propriete-intellectuelle-13-01_VN-202601130990.html": {
-        "added_at": 1768346134.273182,
-        "id": 1960198325
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/01-business/video-puces-dolphin-semiconductor-mene-la-bataille-13-01_VN-202601130995.html": {
-        "added_at": 1768346135.7116306,
-        "id": 1960198334
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/01-business/puces-dolphin-semiconductor-mene-la-bataille-13-01_EN-202601130994.html": {
-        "added_at": 1768346137.0897882,
-        "id": 1960198346
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/01-business/video-ces-cap-sur-les-technologies-industrialisees-13-01_VN-202601131006.html": {
-        "added_at": 1768346138.3535402,
-        "id": 1960198357
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/01-business/ces-cap-sur-les-technologies-industrialisees-13-01_EN-202601131007.html": {
-        "added_at": 1768346139.6101053,
-        "id": 1960198364
-    },
-    "https://www.ft.com/content/03829a6d-ebeb-4590-b91f-a02a8d6c3d1e": {
-        "added_at": 1768346141.900621,
-        "id": 1960198378
-    },
-    "https://www.ft.com/content/f6860f1c-0518-417c-86b9-5d6f43ee260d": {
-        "added_at": 1768346143.066107,
-        "id": 1960198384
-    },
-    "https://www.ft.com/content/c8b309a0-d214-4bb7-9630-bfcaa91925a3": {
-        "added_at": 1768346144.241383,
-        "id": 1960198389
-    },
-    "https://www.ft.com/content/6782ecd4-e58f-48db-ba2b-495cd42d3764": {
-        "added_at": 1768346145.400626,
-        "id": 1960198397
-    },
-    "https://www.ft.com/content/86b66ead-3020-4757-9106-55d216c5a455": {
-        "added_at": 1768346146.5619156,
-        "id": 1960198407
-    },
-    "https://arstechnica.com/security/2026/01/never-before-seen-linux-malware-is-far-more-advanced-than-typical/": {
-        "added_at": 1768346147.8300595,
-        "id": 1960198416
-    },
-    "https://arstechnica.com/gadgets/2026/01/the-ram-shortages-silver-lining-less-talk-about-ai-pcs/": {
-        "added_at": 1768346150.0827632,
-        "id": 1960198432
-    },
-    "https://www.promptarmor.com/resources/superhuman-ai-exfiltrates-emails": {
-        "added_at": 1768346151.322405,
-        "id": 1959552731
-    },
-    "https://www.lanl.gov/media/publications/1663/ice-house-heats-up": {
-        "added_at": 1768346152.4824562,
-        "id": 1960198450
-    },
-    "https://garymarcus.substack.com/p/lets-be-honest-generative-ai-isnt": {
-        "added_at": 1768346153.6545362,
-        "id": 1960198460
-    },
-    "https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/": {
-        "added_at": 1768346154.805855,
-        "id": 1960198465
-    },
-    "https://elpais.com/gente/2026-01-12/otra-broma-mas-a-leonardo-dicaprio-en-los-globos-de-oro-sobre-la-edad-de-sus-parejas-y-su-hermetismo-no-sabemos-nada-sobre-ti-abrete-mas.html": {
-        "added_at": 1768346157.3273551,
-        "id": 1959297344
-    },
-    "https://elpais.com/gente/2026-01-12/ruth-la-hija-que-julio-iglesias-puga-tuvo-a-los-90-anos-se-que-es-muy-dificil-de-entender-pero-las-relaciones-no-convencionales-existen-y-la-gente-se-puede-amar.html": {
-        "added_at": 1768346158.4852057,
-        "id": 1959260331
-    },
-    "https://elpais.com/gente/2026-01-12/la-prima-hilary-de-el-principe-de-bel-air-replica-la-historia-de-la-serie-acogiendo-a-un-joven-en-su-mansion.html": {
-        "added_at": 1768346160.525736,
-        "id": 1959395456
-    },
-    "https://elpais.com/television/2026-01-12/la-tentacion-de-abandonar.html": {
-        "added_at": 1768346162.7260637,
-        "id": 1959139903
-    },
-    "https://elpais.com/television/2026-01-12/netflix-pone-la-lupa-en-un-milagro-llamado-the-new-yorker.html": {
-        "added_at": 1768346165.6010144,
-        "id": 1959139935
-    },
-    "https://elpais.com/espana/comunidad-valenciana/2026-01-12/la-televisio-valenciana-a-punt-liquida-el-programa-de-debate-de-toni-canto-por-su-exigua-audiencia.html": {
-        "added_at": 1768346167.5702024,
-        "id": 1959502199
-    },
-    "https://elpais.com/cultura/2026-01-12/rae-analizara-con-rigor-las-criticas-de-perez-reverte-y-no-descarta-corregir-defectos-de-funcionamiento.html": {
-        "added_at": 1768346168.8692827,
-        "id": 1959526781
-    },
-    "https://elpais.com/cultura/2026-01-12/dibujos-cuentos-fotografias-y-cuadernos-de-notas-el-legado-infantil-de-elvira-lindo-al-instituto-cervantes.html": {
-        "added_at": 1768346170.0242665,
-        "id": 1959526789
-    },
-    "https://elpais.com/deportes/futbol/2026-01-12/simeone-pide-disculpas-a-florentino-y-vinicius-no-esta-bien-de-mi-parte-ponerme-en-ese-lugar-y-acepto-que-no-estuve-bien.html": {
-        "added_at": 1768346172.0233161,
-        "id": 1959343860
-    },
-    "https://elpais.com/deportes/futbol/2026-01-13/griezmann-impone-su-ley-en-riazor.html": {
-        "added_at": 1768346173.1803002,
-        "id": 1960198565
-    },
-    "https://elpais.com/us/migracion/2026-01-13/trump-amenaza-con-cortar-los-fondos-federales-a-las-ciudades-santuario.html": {
-        "added_at": 1768346174.3431008,
-        "id": 1960198573
-    },
-    "https://elpais.com/quadern/cinema-i-televisio/2026-01-13/la-mili-un-malson-ocultat-pero-ben-explicat-al-sense-ficcio-de-tv3.html": {
-        "added_at": 1768346175.5135267,
-        "id": 1960198585
-    },
-    "https://elpais.com/mexico/economia/2026-01-13/trump-califica-el-tratado-comercial-con-mexico-y-canada-como-irrelevante.html": {
-        "added_at": 1768346176.6694608,
-        "id": 1960198595
-    },
-    "https://elpais.com/america/2026-01-13/venezuela-asegura-que-ha-liberado-a-mas-de-400-presos.html": {
-        "added_at": 1768346177.8315256,
-        "id": 1960198603
-    },
-    "https://www.monde-diplomatique.fr/2026/01/CARAYOL/69178": {
-        "added_at": 1768346181.039874,
-        "id": 1957267414
-    },
-    "https://www.monde-diplomatique.fr/2026/01/FRESCHI/69179": {
-        "added_at": 1768346182.567638,
-        "id": 1957267434
-    },
-    "https://www.monde-diplomatique.fr/2026/01/SIZAIRE/69181": {
-        "added_at": 1768346185.233959,
-        "id": 1957875278
-    },
     "https://www.bfmtv.com/economie/replay-emissions/01-business/video-tech-co-business-speciale-ces-de-las-vegas-mardi-13-janvier_VN-202601131018.html": {
         "added_at": 1768353401.7949584,
         "id": 1960240471
@@ -3386,5 +3230,93 @@
     "https://elpais.com/ciencia/2026-01-14/regreso-adelantado-la-mision-de-la-nasa-con-el-astronauta-enfermo-inicia-su-vuelta-a-la-tierra.html": {
         "added_at": 1768432476.5678322,
         "id": 1960787716
+    },
+    "https://www.ft.com/content/14dc1527-e2ba-49d1-b223-76ddcbd26699": {
+        "added_at": 1768439533.729627,
+        "id": 1960833044
+    },
+    "https://www.ft.com/content/e66d285f-aceb-4394-828f-22dd8d4f1b00": {
+        "added_at": 1768439536.007116,
+        "id": 1960833062
+    },
+    "https://www.ft.com/content/d6656d32-f55e-4230-a8a5-04aab04423c7": {
+        "added_at": 1768439541.4912484,
+        "id": 1960833095
+    },
+    "https://www.ft.com/content/a6f4bd7d-3c23-4ff1-be4e-4cf12c41fce2": {
+        "added_at": 1768439543.6911774,
+        "id": 1960833107
+    },
+    "https://www.ft.com/content/7742b9e1-8468-45a7-823d-e412199cd598": {
+        "added_at": 1768439545.8738666,
+        "id": 1960833119
+    },
+    "https://www.ft.com/content/b012328f-93b8-41ef-a491-69efaf1159dc": {
+        "added_at": 1768439548.6546652,
+        "id": 1960833130
+    },
+    "https://www.ft.com/content/98f5fcb5-27f3-44f1-9530-cf9d96963ec3": {
+        "added_at": 1768439550.8043993,
+        "id": 1960833142
+    },
+    "https://www.ft.com/content/b8410827-b8c1-41bd-918b-c690c92d50eb": {
+        "added_at": 1768439552.9015925,
+        "id": 1960833150
+    },
+    "https://www.ft.com/content/0bd17042-4f87-483a-9e0f-624d7a80f89d": {
+        "added_at": 1768439557.128515,
+        "id": 1960833175
+    },
+    "https://www.ft.com/content/cca344f3-f6ef-491b-b43b-c927f6baa806": {
+        "added_at": 1768439559.3834722,
+        "id": 1960833189
+    },
+    "https://www.ft.com/content/e2b88602-16a1-45b0-9a84-6c34d2939a61": {
+        "added_at": 1768439561.6210225,
+        "id": 1960833203
+    },
+    "https://arstechnica.com/security/2026/01/a-single-click-mounted-a-covert-multistage-attack-against-copilot/": {
+        "added_at": 1768439563.1878438,
+        "id": 1960833210
+    },
+    "https://arstechnica.com/health/2026/01/sc-measles-outbreak-has-gone-berserk-124-cases-since-friday-409-quarantined/": {
+        "added_at": 1768439564.6281116,
+        "id": 1960833219
+    },
+    "https://arstechnica.com/culture/2026/01/pentagons-arsenal-of-freedom-tour-borrows-name-from-star-trek-episode-about-killer-ai/": {
+        "added_at": 1768439566.1587975,
+        "id": 1960833230
+    },
+    "https://arstechnica.com/science/2026/01/a-british-redcoats-lost-memoir-resurfaces/": {
+        "added_at": 1768439567.5531979,
+        "id": 1960833237
+    },
+    "https://medium.com/@kenichisasagawa/i-am-preparing-material-for-a-prolog-book-af7580acfee7": {
+        "added_at": 1768439569.465658,
+        "id": 1960833249
+    },
+    "https://electronics.stackexchange.com/questions/764155/how-can-i-build-a-simple-pulse-generator-to-demonstrate-transmission-lines": {
+        "added_at": 1768439570.9371116,
+        "id": 1960833263
+    },
+    "https://www.pivotgpt.ceo/": {
+        "added_at": 1768439572.3219824,
+        "id": 1960833268
+    },
+    "https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale": {
+        "added_at": 1768439573.709563,
+        "id": 1960833279
+    },
+    "https://gist.github.com/R44VC0RP/bd391f6a23185c0fed6c6b5fb2bac50e": {
+        "added_at": 1768439575.114578,
+        "id": 1960833287
+    },
+    "https://elpais.com/gastronomia/el-comidista/2026-01-11/menu-semanal-de-el-comidista-12-a-18-de-enero.html": {
+        "added_at": 1768439577.723431,
+        "id": 1958642441
+    },
+    "https://elpais.com/deportes/futbol/2026-01-14/senegal-y-marruecos-se-citan-en-la-final-de-la-copa-de-africa.html": {
+        "added_at": 1768439579.1808555,
+        "id": 1960833307
     }
 }
