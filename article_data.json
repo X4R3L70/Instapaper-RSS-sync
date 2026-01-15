@@ -1,64 +1,4 @@
 {
-    "https://www.ft.com/content/76f1d981-9ddd-4149-9ffb-7d2b0aba4bbe": {
-        "added_at": 1768362138.9792857,
-        "id": 1960286545
-    },
-    "https://www.ft.com/content/cd37655c-2f7e-4ca2-beeb-53a258f696be": {
-        "added_at": 1768362140.1340258,
-        "id": 1960286550
-    },
-    "https://arstechnica.com/gadgets/2026/01/paramount-sues-wbd-over-netflix-deal-wbd-says-paramounts-price-is-still-inadequate/": {
-        "added_at": 1768362141.9463308,
-        "id": 1959624888
-    },
-    "https://arstechnica.com/space/2026/01/you-can-now-reserve-a-hotel-room-on-the-moon-for-250000/": {
-        "added_at": 1768362143.433696,
-        "id": 1959624896
-    },
-    "https://arstechnica.com/ai/2026/01/anthropic-launches-cowork-a-claude-code-like-for-general-computing/": {
-        "added_at": 1768362144.9623206,
-        "id": 1959624903
-    },
-    "https://github.com/AGDNoob/axis-lang": {
-        "added_at": 1768362146.3315494,
-        "id": 1960286574
-    },
-    "https://www.wsj.com/us-news/education/vanderbilt-san-francisco-cca-california-college-arts-expansion-lurie-8b6528b0": {
-        "added_at": 1768362147.952309,
-        "id": 1960286584
-    },
-    "https://github.com/OxidizeLabs/cachekit": {
-        "added_at": 1768362149.117,
-        "id": 1960286590
-    },
-    "https://exa.ai/blog/exa-d": {
-        "added_at": 1768362150.2736635,
-        "id": 1960286596
-    },
-    "https://builders.ramp.com/post/why-we-built-our-background-agent": {
-        "added_at": 1768362151.89235,
-        "id": 1960286611
-    },
-    "https://epstein.trynia.ai/": {
-        "added_at": 1768362153.0758762,
-        "id": 1960286627
-    },
-    "https://www.d12frosted.io/posts/2025-11-26-emacs-widget-library": {
-        "added_at": 1768362154.2572517,
-        "id": 1960286637
-    },
-    "https://www.owlposting.com/p/the-truth-behind-the-2026-jp-morgan": {
-        "added_at": 1768362155.5591593,
-        "id": 1960286646
-    },
-    "https://caidan.dev/portfolio/ascii_clouds/": {
-        "added_at": 1768362156.7380216,
-        "id": 1960286652
-    },
-    "https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html": {
-        "added_at": 1768362157.8925352,
-        "id": 1960286660
-    },
     "https://www.ft.com/content/9acdf578-8b66-46de-acdf-0b41a16a250b": {
         "added_at": 1768365727.6803174,
         "id": 1960305215
@@ -3202,5 +3142,45 @@
     "https://www.monde-diplomatique.fr/2026/01/SIZAIRE/69181": {
         "added_at": 1768447598.1785026,
         "id": 1957875278
+    },
+    "https://www.ft.com/content/8ac7c6e9-ce7d-4d6c-b186-e832935e7c49": {
+        "added_at": 1768451721.3739574,
+        "id": 1960901224
+    },
+    "https://www.ft.com/content/4c6cb803-dc4e-455b-a338-c1e1a99317db": {
+        "added_at": 1768451723.2838593,
+        "id": 1960901230
+    },
+    "https://arstechnica.com/cars/2026/01/bmws-first-electric-m-car-is-coming-in-2027-with-one-motor-per-wheel/": {
+        "added_at": 1768451725.088634,
+        "id": 1960240686
+    },
+    "https://news.ycombinator.com/item?id=46624740": {
+        "added_at": 1768451726.3715677,
+        "id": 1960901249
+    },
+    "https://news.ycombinator.com/item?id=46616529": {
+        "added_at": 1768451727.7118216,
+        "id": 1960901254
+    },
+    "https://news.ycombinator.com/item?id=46619464": {
+        "added_at": 1768451729.400278,
+        "id": 1960901262
+    },
+    "https://news.ycombinator.com/item?id=46624190": {
+        "added_at": 1768451730.5674634,
+        "id": 1960901271
+    },
+    "https://dome.mit.edu/bitstream/handle/1721.3/40245/MC665_r12_R-209.pdf?sequence=1&isAllowed=y": {
+        "added_at": 1768451731.7336774,
+        "id": 1960901277
+    },
+    "https://news.ycombinator.com/item?id=46626639": {
+        "added_at": 1768451732.8947835,
+        "id": 1960901284
+    },
+    "https://creepylink.com/": {
+        "added_at": 1768451734.1039119,
+        "id": 1960901294
     }
 }
