@@ -1,280 +1,4 @@
 {
-    "https://www.ft.com/content/753164bd-647e-4fc4-8475-0dd02619bc9c": {
-        "added_at": 1768375317.9591036,
-        "id": 1960359157
-    },
-    "https://www.ft.com/content/4868f5f9-7045-4caf-bc8e-df0ea42cbf17": {
-        "added_at": 1768375319.2729518,
-        "id": 1960359182
-    },
-    "https://www.ft.com/content/f789a262-e774-41b2-8f36-0995650e6a16": {
-        "added_at": 1768375320.5961072,
-        "id": 1960359197
-    },
-    "https://www.ft.com/content/77efeed1-da72-45b3-b447-3ab95079aabf": {
-        "added_at": 1768375321.9857657,
-        "id": 1960359210
-    },
-    "https://www.ft.com/content/0c889a34-4b4e-440b-a3d4-825f4916e27a": {
-        "added_at": 1768375323.2796614,
-        "id": 1960359225
-    },
-    "https://www.ft.com/content/6d504080-40b7-4388-8435-dcbdccdea6da": {
-        "added_at": 1768375324.5961661,
-        "id": 1960359244
-    },
-    "https://www.ft.com/content/7e2ae3ad-4cfb-4e3f-a370-702781899e05": {
-        "added_at": 1768375325.9838786,
-        "id": 1960359266
-    },
-    "https://elpais.com/gastronomia/el-comidista/2026-01-13/tortitas-de-espinaca-y-queso-el-plato-para-comer-verduras-sin-enterarse.html": {
-        "added_at": 1768375328.9947064,
-        "id": 1959713542
-    },
-    "https://elpais.com/icon/2026-01-13/de-la-perla-a-andy-lucas-leire-y-amaia-como-el-pop-paso-de-un-falso-pudor-a-exponer-intimidades.html": {
-        "added_at": 1768375331.093256,
-        "id": 1959714010
-    },
-    "https://elpais.com/eps/2026-01-13/quien-fue-guillermo-larregui-el-espanol-que-recorrio-argentina-a-pie-y-con-una-carretilla-tras-perder-su-trabajo.html": {
-        "added_at": 1768375332.3863943,
-        "id": 1959713660
-    },
-    "https://elpais.com/planeta-futuro/2026-01-13/transformar-en-energia-los-peligrosos-gases-que-enferman-a-los-ninos-de-irak.html": {
-        "added_at": 1768375334.4788888,
-        "id": 1959713685
-    },
-    "https://elpais.com/estilo-de-vida/2026-01-13/molly-roden-winter-la-escritora-que-conto-su-poliamor-si-tus-opciones-son-divorciarte-o-abrir-tu-matrimonio-divorciate-y-ahorra-tiempo.html": {
-        "added_at": 1768375335.757542,
-        "id": 1959713998
-    },
-    "https://elpais.com/cultura/2026-01-13/la-noche-en-que-un-tren-con-barra-libre-llevo-la-movida-madrilena-a-vigo-y-el-vagon-donde-nacieron-the-rolling-stones.html": {
-        "added_at": 1768375337.0519044,
-        "id": 1959713671
-    },
-    "https://elpais.com/salud-y-bienestar/2026-01-13/steve-ramirez-neurocientifico-hemos-podido-restaurar-memorias-que-se-daban-por-perdidas.html": {
-        "added_at": 1768375339.181567,
-        "id": 1959713831
-    },
-    "https://elpais.com/internacional/2026-01-13/en-una-isla-del-baltico-dinamarca-se-refuerza-ante-rusia-pensando-en-realidad-en-groenlandia.html": {
-        "added_at": 1768375341.0382054,
-        "id": 1959714107
-    },
-    "https://elpais.com/espana/madrid/2026-01-12/la-familia-cazon-lista-para-colonizar-un-nuevo-barrio-de-madrid-mas-grande-que-zamora.html": {
-        "added_at": 1768375342.9295194,
-        "id": 1959128249
-    },
-    "https://elpais.com/espana/madrid/2026-01-13/de-milei-a-lagarde-ayuso-opaca-a-feijoo-con-su-agenda-internacional-esta-construyendo-liderazgo-politico-nacional-con-accion-exterior.html": {
-        "added_at": 1768375344.210961,
-        "id": 1959714044
-    },
-    "https://elpais.com/economia/2026-01-14/netflix-considera-modificar-la-oferta-de-warner-para-que-todo-sea-en-efectivo.html": {
-        "added_at": 1768375345.4978342,
-        "id": 1960359541
-    },
-    "https://elpais.com/economia/2026-01-14/el-comercio-de-china-termina-2025-con-un-superavit-record-de-12-billones-de-dolares-a-pesar-del-impacto-arancelario-de-trump.html": {
-        "added_at": 1768375347.012303,
-        "id": 1960359555
-    },
-    "https://elpais.com/economia/2026-01-14/la-onu-advierte-de-un-estancamiento-mundial-de-las-condiciones-laborales-y-teme-un-futuro-a-peor.html": {
-        "added_at": 1768375348.520437,
-        "id": 1960359576
-    },
-    "https://elpais.com/internacional/2026-01-14/bruselas-condiciona-la-ayuda-a-ucrania-a-que-kiev-compre-armas-a-europa.html": {
-        "added_at": 1768375349.9915988,
-        "id": 1960359600
-    },
-    "https://elpais.com/internacional/2026-01-14/decenas-de-muertos-tras-la-caida-de-una-grua-sobre-un-tren-de-pasajeros-en-tailandia.html": {
-        "added_at": 1768375351.2818835,
-        "id": 1960359618
-    },
-    "https://www.franceinfo.fr/monde/iran/manifestations/direct-manifestations-en-iran-la-repression-du-regime-a-fait-pres-de-2-500-morts-selon-une-ong_7740574.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768378937.3022127,
-        "id": 1960389073
-    },
-    "https://www.franceinfo.fr/economie/budget/pour-l-annee-prochaine-je-pense-viser-des-entreprises-plus-petites-l-inquietude-des-etudiants-et-des-employeurs-sur-la-baisse-des-aides-des-entreprises-pour-l-apprentissage_7740364.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768378939.85213,
-        "id": 1960389087
-    },
-    "https://www.franceinfo.fr/economie/fraude/le-montant-des-fraudes-sociales-en-france-est-estime-a-14-milliards-d-euros-en-2025-principalement-du-au-travail-dissimule-par-des-entreprises_7740532.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768378941.6681955,
-        "id": 1960389102
-    },
-    "https://www.franceinfo.fr/environnement/crise-climatique/le-changement-climatique-augmente-le-risque-de-maladies-chroniques-infectieuses-mentales-et-les-violences-alerte-l-epidemiologiste-kevin-jean_7740514.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768378943.4342444,
-        "id": 1960389120
-    },
-    "https://www.franceinfo.fr/culture/cinema/sorties-de-films/furcy-ne-libre-abd-al-malik-revient-sur-l-epopee-judiciaire-meconnue-d-un-homme-libre-reduit-en-esclavage_7737193.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768378945.0893433,
-        "id": 1960389134
-    },
-    "https://www.franceinfo.fr/economie/votre-argent/carrefour-picard-auchan-attention-a-vos-cagnottes-qui-arrivent-a-expiration-dans-de-nombreuses-enseignes_7738411.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768378947.5766869,
-        "id": 1960389144
-    },
-    "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/video-en-pleine-visite-d-une-usine-donald-trump-fait-un-doigt-d-honneur-a-un-employe-l-ayant-accuse-de-proteger-les-pedophiles_7740496.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768378949.418201,
-        "id": 1960389155
-    },
-    "https://www.franceinfo.fr/monde/espagne/je-me-sentais-comme-un-objet-deux-femmes-accusent-julio-iglesias-d-agressions-sexuelles_7740448.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768378951.2395837,
-        "id": 1960389168
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-ai-slop-la-nouvelle-pollution-numerique_VN-202601140242.html": {
-        "added_at": 1768378953.2255735,
-        "id": 1960389179
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-direct-video-sebastien-iva-president-du-directoire-de-fabentech-est-notre-invite_VL-202601140250.html": {
-        "added_at": 1768378954.9558265,
-        "id": 1960389190
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-les-derniers-chiffres-de-la-fraude-sociale_VN-202601140257.html": {
-        "added_at": 1768378957.21138,
-        "id": 1960389208
-    },
-    "https://www.bfmtv.com/economie/entreprises/agriculture/la-deception-est-profonde-sans-bovin-au-salon-de-l-agriculture-la-vache-egerie-martiniquaise-biguine-perd-sa-vitrine_AV-202601140263.html": {
-        "added_at": 1768378958.6774728,
-        "id": 1960389218
-    },
-    "https://www.bfmtv.com/economie/video-c-est-triste-des-produits-bretons-a-base-de-viande-bresilienne_VN-202601140265.html": {
-        "added_at": 1768378960.195331,
-        "id": 1960389228
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/french-tech/french-tech-fabentech-l-antidote-contre-la-ricine-14-01_EN-202601140274.html": {
-        "added_at": 1768378961.8070574,
-        "id": 1960389237
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/french-tech-fabentech-l-antidote-contre-la-ricine-14-01_EN-202601140275.html": {
-        "added_at": 1768378963.3843787,
-        "id": 1960389255
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/french-tech/video-french-tech-fabentech-l-antidote-contre-la-ricine-14-01_VN-202601140276.html": {
-        "added_at": 1768378964.9459343,
-        "id": 1960389274
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-des-contrats-avec-des-gouvernements_VN-202601140277.html": {
-        "added_at": 1768378966.4761844,
-        "id": 1960389288
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/la-carte-blanche/les-patrons-ont-la-parole-gilles-august-14-01_EN-202601140280.html": {
-        "added_at": 1768378967.9683402,
-        "id": 1960389300
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/la-carte-blanche/video-les-patrons-ont-la-parole-gilles-august-14-01_VN-202601140285.html": {
-        "added_at": 1768378969.6722214,
-        "id": 1960389309
-    },
-    "https://www.bfmtv.com/economie/video-francois-villeroy-de-galhau-gouverneur-de-la-banque-de-france-salue-la-resilience-de-l-economie-francaise_VN-202601140290.html": {
-        "added_at": 1768378971.8899336,
-        "id": 1960389325
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-le-debrief-de-l-actu-la-guerre-commerciale-n-affaiblit-pas-la-chine-14-01_VN-202601140298.html": {
-        "added_at": 1768378973.5387747,
-        "id": 1960389335
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/le-debrief-de-l-actu-la-guerre-commerciale-n-affaiblit-pas-la-chine-14-01_EN-202601140297.html": {
-        "added_at": 1768378975.3571339,
-        "id": 1960389344
-    },
-    "https://www.bfmtv.com/economie/video-deficit-avec-un-deficit-superieur-a-5-la-france-se-mettrait-dans-la-zone-rouge-declare-francois-villeroy-de-galhau-gouverneur-de-la-banque-de-france_VN-202601140299.html": {
-        "added_at": 1768378976.9458911,
-        "id": 1960389356
-    },
-    "https://www.bfmtv.com/economie/video-francois-villeroy-de-galhau-gouverneur-de-la-banque-de-france-la-sagesse-c-est-de-stabiliser-au-maximum-l-impot_VN-202601140304.html": {
-        "added_at": 1768378978.5074277,
-        "id": 1960389362
-    },
-    "https://www.bfmtv.com/economie/video-francois-villeroy-de-galhau-gouverneur-de-la-banque-de-france-sur-l-annee-2025-la-croissance-devrait-etre-d-au-moins-0-9_VN-202601140306.html": {
-        "added_at": 1768378983.3783824,
-        "id": 1960389385
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/l-integrale-de-good-morning-business-du-mercredi-14-janvier_EN-202601140305.html": {
-        "added_at": 1768378984.8208501,
-        "id": 1960389400
-    },
-    "https://www.bfmtv.com/economie/patrimoine/impots-fiscalite/video-je-ne-crois-pas-que-l-absence-de-mercosur-resoudrait-les-problemes-de-certains-secteurs-agricoles-estime-francois-villeroy-de-galhau-gouverneur-de-la-banque-de-france_VN-202601140308.html": {
-        "added_at": 1768378986.5271094,
-        "id": 1960389409
-    },
-    "https://www.bfmtv.com/economie/video-budget-ces-derniers-temps-nous-faisons-systematiquement-le-choix-des-seniors-plutot-que-des-jeunes-regrette-francois-villeroy-de-galhau-gouverneur-de-la-banque-de-france_VN-202601140311.html": {
-        "added_at": 1768378988.0437257,
-        "id": 1960389424
-    },
-    "https://www.bfmtv.com/economie/video-les-taux-du-livret-a-devraient-rester-nettement-superieurs-a-l-inflation-annonce-francois-villeroy-de-galhau-gouverneur-de-la-banque-de-france_VN-202601140313.html": {
-        "added_at": 1768378989.4289503,
-        "id": 1960389431
-    },
-    "https://www.bfmtv.com/economie/son-ampleur-potentielle-justifie-une-vigilance-etroite-l-organisation-internationale-du-travail-alerte-sur-les-consequences-de-l-ia-sur-le-chomage-des-jeunes-dans-le-monde_AD-202601140312.html": {
-        "added_at": 1768378991.300794,
-        "id": 1960389445
-    },
-    "https://www.bfmtv.com/economie/video-attaques-de-donald-trump-contre-la-fed-l-independance-est-pour-le-bien-des-citoyens-que-ce-soit-aux-etats-unis-ou-en-france-affirme-francois-villeroy-de-galhau-gouverneur-de-la-banque-de-france_VN-202601140314.html": {
-        "added_at": 1768378992.6962655,
-        "id": 1960389455
-    },
-    "https://cpu.land/": {
-        "added_at": 1768378994.8423066,
-        "id": 1960389468
-    },
-    "https://elpais.com/gastronomia/el-comidista/2026-01-12/patatas-huecas-la-guarnicion-aragonesa-que-desaparecera-antes-de-servir-el-plato-principal.html": {
-        "added_at": 1768378996.774886,
-        "id": 1959140006
-    },
-    "https://elpais.com/smoda/moda/2026-01-12/transparencias-estrategicas-y-flores-el-espectacular-givenchy-de-jennifer-lawrence-en-los-globos-de-oro.html": {
-        "added_at": 1768378998.8337996,
-        "id": 1959139889
-    },
-    "https://elpais.com/eps/2026-01-26/la-chola-poblete-la-artista-anticolonial-que-conquisto-a-la-reina-letizia-siempre-senti-mas-discriminacion-por-ser-marrona-que-por-trans.html": {
-        "added_at": 1768379000.0715692,
-        "id": 1959140287
-    },
-    "https://elpais.com/tecnologia/2026-01-12/jarek-kutylowski-fundador-de-deepl-dentro-de-tres-anos-cada-uno-hablara-en-su-idioma-en-las-reuniones-de-trabajo.html": {
-        "added_at": 1768379001.3174055,
-        "id": 1959140184
-    },
-    "https://elpais.com/clima-y-medio-ambiente/2026-01-12/el-tren-se-come-al-avion-en-siete-grandes-rutas-y-supone-ya-un-ahorro-de-emisiones-igual-a-250000-coches-circulando-durante-un-ano.html": {
-        "added_at": 1768379002.7108216,
-        "id": 1959140299
-    },
-    "https://elpais.com/sociedad/2026-01-14/el-supremo-fija-que-contactar-con-la-victima-a-traves-de-sus-amigas-supone-violar-la-prohibicion-de-comunicarse-con-ella.html": {
-        "added_at": 1768379003.9633057,
-        "id": 1960389539
-    },
-    "https://elpais.com/educacion/2026-01-12/familias-que-abandonan-la-concertada-para-irse-a-colegios-privados-supone-buena-parte-de-nuestro-presupuesto.html": {
-        "added_at": 1768379005.4629524,
-        "id": 1959140308
-    },
-    "https://elpais.com/america/2026-01-14/ortega-elimina-el-derecho-a-la-doble-nacionalidad-en-nicaragua.html": {
-        "added_at": 1768379007.667423,
-        "id": 1960389552
-    },
-    "https://elpais.com/sociedad/2026-01-14/un-juzgado-investiga-la-gestion-del-hospital-de-torrejon-por-posibles-irregularidades.html": {
-        "added_at": 1768379008.9185443,
-        "id": 1960389557
-    },
-    "https://www.monde-diplomatique.fr/2026/01/JULIEN_THOMAS/69174": {
-        "added_at": 1768379011.8277726,
-        "id": 1955576489
-    },
-    "https://www.monde-diplomatique.fr/2026/01/MERIEAU/69176": {
-        "added_at": 1768379014.0583506,
-        "id": 1956236659
-    },
-    "https://www.monde-diplomatique.fr/2026/01/VAUCHEZ/69180": {
-        "added_at": 1768379015.6683743,
-        "id": 1957414848
-    },
-    "https://www.monde-diplomatique.fr/2026/01/LORDON/69186": {
-        "added_at": 1768379017.260959,
-        "id": 1958065669
-    },
-    "https://www.monde-diplomatique.fr/2026/01/VIEILLESCAZES/69187": {
-        "added_at": 1768379019.5378864,
-        "id": 1958618685
-    },
-    "https://www.monde-diplomatique.fr/2026/01/FAUJOUR/69188": {
-        "added_at": 1768379021.08272,
-        "id": 1958618693
-    },
     "https://www.franceinfo.fr/faits-divers/meurtres/assassinats-en-corse/on-entend-un-coup-de-feu-et-alain-tombe-mort-le-pretre-present-lors-de-l-assassinat-d-alain-orsoni-temoigne_7737070.html#xtor=RSS-3-[lestitres]": {
         "added_at": 1768382621.170468,
         "id": 1959526486
@@ -3246,5 +2970,129 @@
     "https://elpais.com/planeta-futuro/2026-01-14/el-vacio-de-poder-en-yemen-amenaza-la-biodiversidad-del-archipielago-de-socotra-unica-en-el-mundo.html": {
         "added_at": 1768461715.869201,
         "id": 1960317872
+    },
+    "https://www.franceinfo.fr/sciences/espace/la-mission-de-l-astronaute-francaise-sophie-adenot-a-bord-de-l-iss-va-durer-neuf-mois-au-lieu-des-six-prevus-initialement_7738462.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768465428.9282157,
+        "id": 1959861747
+    },
+    "https://www.franceinfo.fr/monde/iran/manifestations/nous-devons-en-parler-entre-europeens-pourquoi-la-france-reste-prudente-sur-les-sanctionner-contre-les-gardiens-de-la-revolution-en-iran_7742770.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768465431.0866344,
+        "id": 1960978099
+    },
+    "https://www.franceinfo.fr/monde/iran/manifestations/temoignages-ils-tiraient-directement-dans-les-yeux-des-gens-le-recit-glacant-d-iraniens-qui-fuient-la-violence-apres-les-manifestations_7742698.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768465433.3145778,
+        "id": 1960978111
+    },
+    "https://www.franceinfo.fr/faits-divers/incendie-dans-un-bar-de-crans-montana-en-suisse/incendie-a-crans-montana-la-famille-de-cyane-la-jeune-serveuse-de-sete-morte-lors-du-drame-dement-toute-proximite-entre-elle-et-les-gerants-du-bar_7742821.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768465435.9433165,
+        "id": 1960978128
+    },
+    "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/il-me-traitait-comme-une-chose-c-etait-l-humiliation-permanente-a-manosque-une-affaire-qui-ressemble-a-celle-des-viols-de-mazan_7714147.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768465437.7563775,
+        "id": 1960978137
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-une-condamnation-contre-credit-suisse-en-france_VN-202601150240.html": {
+        "added_at": 1768465439.534896,
+        "id": 1960978145
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/french-tech-le-nouveau-modele-publicitaire-de-disney-15-01_EN-202601150249.html": {
+        "added_at": 1768465440.9631758,
+        "id": 1960978155
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/french-tech/french-tech-le-nouveau-modele-publicitaire-de-disney-15-01_EN-202601150248.html": {
+        "added_at": 1768465442.9266376,
+        "id": 1960978159
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/french-tech/video-french-tech-le-nouveau-modele-publicitaire-de-disney-15-01_VN-202601150250.html": {
+        "added_at": 1768465444.4744518,
+        "id": 1960978167
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/la-carte-blanche/video-les-patrons-ont-la-parole-eric-bismuth-15-01_VN-202601150256.html": {
+        "added_at": 1768465446.0142746,
+        "id": 1960978173
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/la-carte-blanche/les-patrons-ont-la-parole-eric-bismuth-15-01_EN-202601150252.html": {
+        "added_at": 1768465447.4740853,
+        "id": 1960978185
+    },
+    "https://www.bfmtv.com/economie/economie-social/l-inflation-a-atteint-0-9-en-moyenne-sur-l-annee-2025-selon-l-insee-contre-2-en-2024_AN-202601150257.html": {
+        "added_at": 1768465448.9744546,
+        "id": 1960978194
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-disney-et-les-prix-qui-ne-font-qu-augmenter_VN-202601150260.html": {
+        "added_at": 1768465450.4228156,
+        "id": 1960978216
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/l-ordre-du-monde-nouveau-podcast-bfm-business-15-01_EN-202601150261.html": {
+        "added_at": 1768465451.988738,
+        "id": 1960978226
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-l-ordre-du-monde-nouveau-podcast-bfm-business-15-01_VN-202601150266.html": {
+        "added_at": 1768465453.4907532,
+        "id": 1960978234
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/grand-angle-paroles-d-entreprises/comment-agc-reinvente-le-verre-face-aux-defis-environnementaux_AB-202601150027.html": {
+        "added_at": 1768465454.7710514,
+        "id": 1960978240
+    },
+    "https://www.bfmtv.com/economie/international/ils-n-ont-qu-a-soit-quitter-l-europe-soit-respecter-le-droit-roland-lescure-assure-que-la-regulation-europeenne-du-numerique-est-non-negociable-face-aux-grandes-plateformes-americaines_AD-202601150272.html": {
+        "added_at": 1768465456.197442,
+        "id": 1960978249
+    },
+    "https://www.bfmtv.com/economie/il-a-baisse-de-plus-de-moitie-en-un-an-le-taux-du-livret-a-devrait-passer-a-1-5-en-fevrier-son-niveau-le-plus-bas-depuis-4-ans_AD-202601150276.html": {
+        "added_at": 1768465457.5140066,
+        "id": 1960978258
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/video-l-eclaireur-15-01_VN-202601150280.html": {
+        "added_at": 1768465459.0415087,
+        "id": 1960978268
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/good-morning-market/l-eclaireur-15-01_EN-202601150281.html": {
+        "added_at": 1768465460.3919504,
+        "id": 1960978281
+    },
+    "https://www.ft.com/content/0796e66b-e793-4a4e-aff1-9036921db1f0": {
+        "added_at": 1768465463.0768597,
+        "id": 1960978299
+    },
+    "https://www.ft.com/content/2a7e4534-b97a-4abd-ba5d-c689c2ec7802": {
+        "added_at": 1768465464.3010101,
+        "id": 1960978306
+    },
+    "https://developer.chrome.com/blog/geolocation-html-element": {
+        "added_at": 1768465465.7249098,
+        "id": 1960978316
+    },
+    "https://elpais.com/babelia/2026-01-15/marina-casado-poeta-los-gimnasios-son-el-nuevo-opio-del-pueblo.html": {
+        "added_at": 1768465467.3720367,
+        "id": 1960978326
+    },
+    "https://elpais.com/deportes/tenis/2026-01-15/melbourne-alumbra-otro-pelotazo-de-juventud-rafa-jodar-una-promesa-camino-a-la-realidad.html": {
+        "added_at": 1768465468.577153,
+        "id": 1960978333
+    },
+    "https://elpais.com/america-colombia/2026-01-15/petro-remodela-una-vez-mas-su-gabinete-con-un-remezon-en-presidencia-inteligencia-y-el-ministerio-de-la-igualdad.html": {
+        "added_at": 1768465469.785156,
+        "id": 1960978342
+    },
+    "https://elpais.com/argentina/2026-01-15/argentina-convalida-altas-tasas-para-refinanciar-vencimientos-de-deuda-local.html": {
+        "added_at": 1768465471.8873162,
+        "id": 1960978352
+    },
+    "https://elpais.com/economia/branded/el-poder-de-las-empresas/2026-01-14/las-formulas-que-estan-reinventando-la-restauracion-espanola.html": {
+        "added_at": 1768465473.1050096,
+        "id": 1960978356
+    },
+    "https://elpais.com/sociedad/2026-01-15/50000-personas-dependientes-esperan-su-lugar-en-las-residencias-de-financiacion-publica.html": {
+        "added_at": 1768465474.720451,
+        "id": 1960978369
+    },
+    "https://elpais.com/internacional/2026-01-15/un-agente-de-inmigracion-en-minneapolis-dispara-en-la-pierna-a-un-supuesto-migrante-irregular.html": {
+        "added_at": 1768465476.7448616,
+        "id": 1960978374
+    },
+    "https://elpais.com/economia/2026-01-15/el-ine-confirma-que-la-inflacion-se-modero-al-29-en-diciembre.html": {
+        "added_at": 1768465478.1052868,
+        "id": 1960978382
     }
 }
