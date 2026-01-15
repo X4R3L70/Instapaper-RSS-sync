@@ -1,160 +1,4 @@
 {
-    "https://www.bfmtv.com/economie/replay-emissions/01-business/video-tech-co-business-speciale-ces-de-las-vegas-mardi-13-janvier_VN-202601131018.html": {
-        "added_at": 1768353401.7949584,
-        "id": 1960240471
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/01-business/l-integrale-de-tech-co-business-speciale-ces-de-las-vegas-du-mardi-13-janvier_EN-202601131015.html": {
-        "added_at": 1768353403.6409264,
-        "id": 1960240482
-    },
-    "https://www.ft.com/content/8d5f6399-760c-437b-9348-083fb434c5f9": {
-        "added_at": 1768353409.4270172,
-        "id": 1960240517
-    },
-    "https://www.ft.com/content/6e2c0ed7-497d-4511-9f93-8fdd63ba5c05": {
-        "added_at": 1768353410.89978,
-        "id": 1960240521
-    },
-    "https://www.ft.com/content/e76705f6-a6b3-43a5-b13c-052ec0f6a92b": {
-        "added_at": 1768353412.9679656,
-        "id": 1960240531
-    },
-    "https://www.ft.com/content/ee9fd97c-90e6-40b5-82ee-d8f78dc9e6e9": {
-        "added_at": 1768353415.1238213,
-        "id": 1960240542
-    },
-    "https://www.ft.com/content/a269c489-2e1c-4363-9fe8-03f42a77b53e": {
-        "added_at": 1768353416.660282,
-        "id": 1960240550
-    },
-    "https://www.ft.com/content/aa8473db-5065-4071-af15-cd857b017626": {
-        "added_at": 1768353418.1567926,
-        "id": 1960240557
-    },
-    "https://www.ft.com/content/825a5f02-eb33-44d9-ae7f-8597a85a1cd9": {
-        "added_at": 1768353422.0655742,
-        "id": 1960240576
-    },
-    "https://www.ft.com/content/71b43ebe-6659-425c-a563-2dbdfe95ece3": {
-        "added_at": 1768353424.368095,
-        "id": 1960240581
-    },
-    "https://www.ft.com/content/6e5efca6-0d06-4813-a1af-bd9f0391e193": {
-        "added_at": 1768353426.594046,
-        "id": 1960240594
-    },
-    "https://www.ft.com/content/c22ec83b-e2a8-468d-8019-2ac8b34bbd33": {
-        "added_at": 1768353429.4091427,
-        "id": 1960240611
-    },
-    "https://www.ft.com/content/525d9d52-a2c0-4ae5-8265-b52eec966c98": {
-        "added_at": 1768353432.3742445,
-        "id": 1960240630
-    },
-    "https://www.ft.com/content/5728c9b0-d28b-4d03-9877-47891b9d08bb": {
-        "added_at": 1768353434.6210082,
-        "id": 1960240638
-    },
-    "https://www.ft.com/content/2410e7db-bfc5-456d-bbea-47c551d22087": {
-        "added_at": 1768353436.95661,
-        "id": 1960240649
-    },
-    "https://www.ft.com/content/9e9a32e2-a154-45d9-bba1-0eefa62d41ae": {
-        "added_at": 1768353439.738046,
-        "id": 1960240665
-    },
-    "https://www.ft.com/content/ab009ef4-4fec-40f5-a087-241447ef6c51": {
-        "added_at": 1768353441.178942,
-        "id": 1960240671
-    },
-    "https://arstechnica.com/ai/2026/01/hobby-github-repo-shows-linus-torvalds-vibe-codes-sometimes/": {
-        "added_at": 1768353443.0873628,
-        "id": 1959577108
-    },
-    "https://arstechnica.com/cars/2026/01/bmws-first-electric-m-car-is-coming-in-2027-with-one-motor-per-wheel/": {
-        "added_at": 1768353444.558398,
-        "id": 1960240686
-    },
-    "https://github.com/skypilot-org/skypilot": {
-        "added_at": 1768353446.3343372,
-        "id": 1960240703
-    },
-    "https://files.littlebird.com.au/ascii-sketch.html": {
-        "added_at": 1768353447.718296,
-        "id": 1960240708
-    },
-    "https://www.joinformal.com/blog/using-proxies-to-hide-secrets-from-claude-code/": {
-        "added_at": 1768353449.1046078,
-        "id": 1960240722
-    },
-    "https://www.rollerskatingmuseum.org/roller-derby": {
-        "added_at": 1768353450.4812315,
-        "id": 1960240728
-    },
-    "https://news.ycombinator.com/item?id=46599807": {
-        "added_at": 1768353451.8516402,
-        "id": 1960240736
-    },
-    "https://github.com/benngarcia/executorch-ruby": {
-        "added_at": 1768353454.7536945,
-        "id": 1960240754
-    },
-    "https://github.com/Skydio/revup": {
-        "added_at": 1768353456.1967492,
-        "id": 1960240764
-    },
-    "https://novalis.org/blog/2025-11-06-is-it-a-joke.html": {
-        "added_at": 1768353457.636015,
-        "id": 1960240777
-    },
-    "https://ischool.syracuse.edu/types-of-data/": {
-        "added_at": 1768353459.1395605,
-        "id": 1960240789
-    },
-    "https://terra.fyralabs.com/": {
-        "added_at": 1768353460.5570912,
-        "id": 1960240796
-    },
-    "https://lewiscampbell.tech/blog/260114.html": {
-        "added_at": 1768353461.9331753,
-        "id": 1960240810
-    },
-    "https://testflight.apple.com/join/cVxV1W3g": {
-        "added_at": 1768353464.1300945,
-        "id": 1960240832
-    },
-    "https://blog.vllm.ai/2025/12/17/large-scale-serving.html": {
-        "added_at": 1768353465.5526795,
-        "id": 1960240836
-    },
-    "https://www.construction-physics.com/p/japans-skyscraper-factories": {
-        "added_at": 1768353466.9559925,
-        "id": 1960240843
-    },
-    "https://www.ycombinator.com/companies/sei/jobs/Rn0KPXR-devops-platform-ai-infrastructure-engineer": {
-        "added_at": 1768353468.3582566,
-        "id": 1960240850
-    },
-    "https://news.ycombinator.com/item?id=46610557": {
-        "added_at": 1768353469.7562912,
-        "id": 1960240858
-    },
-    "https://www.greptile.com/blog/github-ids": {
-        "added_at": 1768353471.8681295,
-        "id": 1960240875
-    },
-    "https://questdb.com/blog/jvm-current-thread-user-time/": {
-        "added_at": 1768353473.6707447,
-        "id": 1960240896
-    },
-    "https://www.marcia.no/words/eol": {
-        "added_at": 1768353475.04603,
-        "id": 1960240916
-    },
-    "https://elpais.com/deportes/futbol/2026-01-13/el-athletic-sufre-ante-la-cultural-y-la-real-vence-a-osasuna-en-los-penaltis-en-los-octavos-de-copa.html": {
-        "added_at": 1768353476.890835,
-        "id": 1960240930
-    },
     "https://www.ft.com/content/76f1d981-9ddd-4149-9ffb-7d2b0aba4bbe": {
         "added_at": 1768362138.9792857,
         "id": 1960286545
@@ -3318,5 +3162,45 @@
     "https://elpais.com/deportes/futbol/2026-01-14/senegal-y-marruecos-se-citan-en-la-final-de-la-copa-de-africa.html": {
         "added_at": 1768439579.1808555,
         "id": 1960833307
+    },
+    "https://arstechnica.com/security/2026/01/never-before-seen-linux-malware-is-far-more-advanced-than-typical/": {
+        "added_at": 1768447580.3384483,
+        "id": 1960198416
+    },
+    "https://arstechnica.com/gadgets/2026/01/the-ram-shortages-silver-lining-less-talk-about-ai-pcs/": {
+        "added_at": 1768447582.0108519,
+        "id": 1960198432
+    },
+    "https://github.com/mpc-qt/mpc-qt": {
+        "added_at": 1768447583.711041,
+        "id": 1960877540
+    },
+    "https://craftinginterpreters.com/": {
+        "added_at": 1768447584.9840336,
+        "id": 1960877549
+    },
+    "https://entropicthoughts.com/kitchen-slide-rule": {
+        "added_at": 1768447586.3653216,
+        "id": 1960877555
+    },
+    "https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/": {
+        "added_at": 1768447587.640132,
+        "id": 1960877565
+    },
+    "https://elpais.com/quadern/cinema-i-televisio/2026-01-13/la-mili-un-malson-ocultat-pero-ben-explicat-al-sense-ficcio-de-tv3.html": {
+        "added_at": 1768447589.716955,
+        "id": 1960198585
+    },
+    "https://www.monde-diplomatique.fr/2026/01/CARAYOL/69178": {
+        "added_at": 1768447593.1770918,
+        "id": 1957267414
+    },
+    "https://www.monde-diplomatique.fr/2026/01/FRESCHI/69179": {
+        "added_at": 1768447595.6906507,
+        "id": 1957267434
+    },
+    "https://www.monde-diplomatique.fr/2026/01/SIZAIRE/69181": {
+        "added_at": 1768447598.1785026,
+        "id": 1957875278
     }
 }
