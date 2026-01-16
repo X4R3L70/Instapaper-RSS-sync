@@ -1,40 +1,4 @@
 {
-    "https://arstechnica.com/gadgets/2026/01/the-ram-shortages-silver-lining-less-talk-about-ai-pcs/": {
-        "added_at": 1768447582.0108519,
-        "id": 1960198432
-    },
-    "https://github.com/mpc-qt/mpc-qt": {
-        "added_at": 1768447583.711041,
-        "id": 1960877540
-    },
-    "https://craftinginterpreters.com/": {
-        "added_at": 1768447584.9840336,
-        "id": 1960877549
-    },
-    "https://entropicthoughts.com/kitchen-slide-rule": {
-        "added_at": 1768447586.3653216,
-        "id": 1960877555
-    },
-    "https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/": {
-        "added_at": 1768447587.640132,
-        "id": 1960877565
-    },
-    "https://elpais.com/quadern/cinema-i-televisio/2026-01-13/la-mili-un-malson-ocultat-pero-ben-explicat-al-sense-ficcio-de-tv3.html": {
-        "added_at": 1768447589.716955,
-        "id": 1960198585
-    },
-    "https://www.monde-diplomatique.fr/2026/01/CARAYOL/69178": {
-        "added_at": 1768447593.1770918,
-        "id": 1957267414
-    },
-    "https://www.monde-diplomatique.fr/2026/01/FRESCHI/69179": {
-        "added_at": 1768447595.6906507,
-        "id": 1957267434
-    },
-    "https://www.monde-diplomatique.fr/2026/01/SIZAIRE/69181": {
-        "added_at": 1768447598.1785026,
-        "id": 1957875278
-    },
     "https://www.ft.com/content/8ac7c6e9-ce7d-4d6c-b186-e832935e7c49": {
         "added_at": 1768451721.3739574,
         "id": 1960901224
@@ -3142,5 +3106,25 @@
     "https://elpais.com/deportes/futbol/2026-01-14/senegal-y-marruecos-se-citan-en-la-final-de-la-copa-de-africa.html": {
         "added_at": 1768533979.827422,
         "id": 1960833307
+    },
+    "https://www.ft.com/content/b85479d2-933d-4dfc-8031-4ca42853d462": {
+        "added_at": 1768538087.4464312,
+        "id": 1961471476
+    },
+    "https://www.ft.com/content/9eeff245-2081-4f97-bc8e-6bbdaf59074e": {
+        "added_at": 1768538088.6215074,
+        "id": 1961471483
+    },
+    "https://cacm.acm.org/opinion/the-five-orders-of-ignorance/": {
+        "added_at": 1768538090.0959418,
+        "id": 1961471491
+    },
+    "https://mvr.github.io/posts/xs23.html": {
+        "added_at": 1768538091.2793047,
+        "id": 1961471499
+    },
+    "https://www.bbc.com/news/articles/cly56w0p9e1o": {
+        "added_at": 1768538092.7019343,
+        "id": 1961471505
     }
 }
