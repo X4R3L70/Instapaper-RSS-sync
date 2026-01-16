@@ -1,60 +1,4 @@
 {
-    "https://www.franceinfo.fr/monde/usa/droits-de-douane/taiwan-et-les-etats-unis-signent-un-accord-commercial-pour-abaisser-les-droits-de-douane-de-20-a-15_7744042.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768515388.472628,
-        "id": 1961340659
-    },
-    "https://www.franceinfo.fr/societe/feminicides/laissee-pour-morte-le-calvaire-de-chloe-raconte-lors-du-proces-de-son-ex-compagnon_7744036.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768515390.296657,
-        "id": 1961340674
-    },
-    "https://www.franceinfo.fr/monde/groenland/groenland-l-europe-defie-trump_7743958.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768515392.1278706,
-        "id": 1961340687
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-tech-co-la-quotidienne-jeudi-15-janvier_VN-202601150995.html": {
-        "added_at": 1768515393.6397657,
-        "id": 1961340693
-    },
-    "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/l-integrale-de-tech-co-la-quotidienne-du-jeudi-15-janvier_EN-202601150990.html": {
-        "added_at": 1768515395.0974317,
-        "id": 1961340701
-    },
-    "https://www.ft.com/content/5fec1875-84b1-4bde-af91-995e97962c20": {
-        "added_at": 1768515397.435732,
-        "id": 1961340726
-    },
-    "https://www.ft.com/content/d3465ce9-ee23-44e4-82f5-9c9c6c990c57": {
-        "added_at": 1768515398.6917658,
-        "id": 1961340735
-    },
-    "https://arstechnica.com/culture/2026/01/star-trek-starfleet-academy-tries-something-different-and-i-dont-hate-it/": {
-        "added_at": 1768515400.11949,
-        "id": 1961340744
-    },
-    "https://arstechnica.com/security/2026/01/unnamed-officials-tell-nyt-precise-cyber-op-took-out-venezuelas-power-grid/": {
-        "added_at": 1768515401.330021,
-        "id": 1961340759
-    },
-    "https://lithub.com/virginia-faulkner-writer-editor-and-ghostwriter/": {
-        "added_at": 1768515403.7927632,
-        "id": 1960656438
-    },
-    "https://kyutai.org/blog/2026-01-13-pocket-tts": {
-        "added_at": 1768515405.0438426,
-        "id": 1961340795
-    },
-    "https://www.npr.org/2026/01/15/g-s1-106113/european-troops-arrive-greenland": {
-        "added_at": 1768515406.2902136,
-        "id": 1961340804
-    },
-    "https://www.fda.gov/media/190505/download": {
-        "added_at": 1768515407.7530725,
-        "id": 1961340813
-    },
-    "https://elpais.com/deportes/2026-01-14/como-una-duna-entre-un-millon-sentencio-el-rally-dakar-de-carlos-sainz.html": {
-        "added_at": 1768515410.1390932,
-        "id": 1960736630
-    },
     "https://www.franceinfo.fr/economie/budget/zero-impot-y-a-t-il-vraiment-des-milliers-de-francais-fortunes-qui-ne-paient-aucun-impot-sur-le-revenu_7741360.html#xtor=RSS-3-[lestitres]": {
         "added_at": 1768518947.943139,
         "id": 1960736353
@@ -3010,5 +2954,57 @@
     "https://elpais.com/us/2026-01-16/trump-indulta-a-la-exgobernadora-de-puerto-rico-wanda-vazquez-convicta-por-corrupcion.html": {
         "added_at": 1768601776.1492212,
         "id": 1961894869
+    },
+    "https://www.franceinfo.fr/economie/commerce/mercosur/a-rio-lula-et-ursula-von-der-leyen-celebrent-l-accord-commercial-ue-mercosur_7746325.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768605311.8767807,
+        "id": 1961916392
+    },
+    "https://www.franceinfo.fr/monde/venezuela/attaque-americaine-sur-le-venezuela/quarante-sept-militaires-venezueliens-ont-ete-tues-lors-de-la-capture-de-nicolas-maduro_7746316.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768605314.364347,
+        "id": 1961916409
+    },
+    "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/tony-blair-et-marco-rubio-nommes-par-donald-trump-au-sein-du-conseil-de-la-paix-pour-gaza_7746334.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768605316.7315474,
+        "id": 1961916420
+    },
+    "https://www.ft.com/content/e98e3cbd-9653-44a8-b9e7-daa467ddc945": {
+        "added_at": 1768605318.8063982,
+        "id": 1961916435
+    },
+    "https://arstechnica.com/tech-policy/2026/01/judge-orders-annas-archive-to-delete-scraped-data-no-one-thinks-it-will-comply/": {
+        "added_at": 1768605320.387659,
+        "id": 1961916449
+    },
+    "https://arstechnica.com/science/2026/01/archaeologists-find-a-supersized-medieval-shipwreck-in-denmark/": {
+        "added_at": 1768605321.8567557,
+        "id": 1961916460
+    },
+    "https://www.atredis.com/blog/2025/9/30/drawbot-lets-hack-something-cute": {
+        "added_at": 1768605323.7182202,
+        "id": 1961916474
+    },
+    "https://100x.bot/a/we-gave-our-browser-agent-a-3mb-data-warehouse": {
+        "added_at": 1768605325.163154,
+        "id": 1961916483
+    },
+    "https://dotat.at/@/2026-01-13-http-ratelimit.html": {
+        "added_at": 1768605326.5940151,
+        "id": 1961916490
+    },
+    "https://hackers.pub/@hongminhee/2026/optique-context-aware-cli-completion": {
+        "added_at": 1768605328.030301,
+        "id": 1961916500
+    },
+    "https://raulnegron.me/2025/wii-news-pr/": {
+        "added_at": 1768605329.4292028,
+        "id": 1961916511
+    },
+    "https://www.mintlify.com/blog/install-md-standard-for-llm-executable-installation": {
+        "added_at": 1768605332.8099852,
+        "id": 1961916532
+    },
+    "https://elpais.com/deportes/futbol/2026-01-16/choque-de-estilos-y-triunfo-de-penaltis-del-girona-sobre-el-espanyol.html": {
+        "added_at": 1768605338.0597894,
+        "id": 1961916561
     }
 }
