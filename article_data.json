@@ -1,36 +1,4 @@
 {
-    "https://news.ycombinator.com/item?id=46636861": {
-        "added_at": 1768511791.1005318,
-        "id": 1961315517
-    },
-    "https://github.com/Use-Tusk/tusk-drift-cli": {
-        "added_at": 1768511792.3933856,
-        "id": 1961315525
-    },
-    "https://github.com/a-rahimi/hessian": {
-        "added_at": 1768511793.6918113,
-        "id": 1961315539
-    },
-    "https://shellbox.dev/": {
-        "added_at": 1768511795.0001745,
-        "id": 1961315550
-    },
-    "https://www.ycombinator.com/companies/aviator/jobs": {
-        "added_at": 1768511796.2962983,
-        "id": 1961315563
-    },
-    "https://elpais.com/educacion/2026-01-14/ampliar-la-estafa-del-master-de-profesorado-de-secundaria.html": {
-        "added_at": 1768511800.4275727,
-        "id": 1960708426
-    },
-    "https://elpais.com/sociedad/2026-01-15/somos-un-hospital-publico-con-condiciones-de-clinica-dental-trabajadores-del-hospital-de-torrejon-se-manifiestan-por-mejoras-laborales.html": {
-        "added_at": 1768511801.7019906,
-        "id": 1961315602
-    },
-    "https://elpais.com/sorteos/2026-01-15/loteria-nacional-sorteo-del-jueves-15-de-enero.html": {
-        "added_at": 1768511802.9922712,
-        "id": 1961315614
-    },
     "https://www.franceinfo.fr/monde/usa/droits-de-douane/taiwan-et-les-etats-unis-signent-un-accord-commercial-pour-abaisser-les-droits-de-douane-de-20-a-15_7744042.html#xtor=RSS-3-[lestitres]": {
         "added_at": 1768515388.472628,
         "id": 1961340659
@@ -2950,5 +2918,97 @@
     "https://www.monde-diplomatique.fr/2026/01/BURDEAU/69129": {
         "added_at": 1768598189.9761846,
         "id": 1959369331
+    },
+    "https://www.franceinfo.fr/sports/foot/ligue-1/ligue-1-sacre-champion-d-automne-le-rc-lens-peut-il-tenir-le-rythme-face-au-psg_7721968.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768601730.7445595,
+        "id": 1955632475
+    },
+    "https://www.franceinfo.fr/elections/municipales/municipales-2026-emmanuel-gregoire-rachida-dati-les-candidats-en-ordre-de-bataille-pour-la-mairie-de-paris_7746259.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768601733.392342,
+        "id": 1961894578
+    },
+    "https://www.franceinfo.fr/societe/education/harcelement-a-l-ecole/elle-m-avait-dit-qu-elle-se-disputait-un-peu-au-lycee-une-enquete-administrative-ouverte-pour-faire-la-lumiere-sur-le-suicide-de-camelia-17-ans_7746208.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768601736.0171976,
+        "id": 1961894594
+    },
+    "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-les-negociatieurs-ukrainiens-et-americains-vont-se-rencontrer-samedi-a-miami_7746280.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768601740.208818,
+        "id": 1961894612
+    },
+    "https://www.franceinfo.fr/sports/foot/ligue-1/ligue-1-porte-par-un-double-sublime-d-ousmane-dembele-le-psg-domine-lille-et-reprend-provisoirement-la-tete-du-championnat_7746214.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768601742.6551135,
+        "id": 1961894636
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/c-est-votre-argent/video-la-semaine-de-marc-vendredi-16-janvier_VN-202601160913.html": {
+        "added_at": 1768601744.6722262,
+        "id": 1961894655
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/iconic-business/video-iconic-business-vendredi-16-janvier_VN-202601160915.html": {
+        "added_at": 1768601746.8624659,
+        "id": 1961894671
+    },
+    "https://www.bfmtv.com/economie/replay-emissions/iconic-business/l-integrale-de-iconic-business-du-vendredi-16-janvier_EN-202601160912.html": {
+        "added_at": 1768601748.5992618,
+        "id": 1961894683
+    },
+    "https://www.ft.com/content/43698c1f-a56f-46af-8a24-bdd3e06df423": {
+        "added_at": 1768601751.1254027,
+        "id": 1961894701
+    },
+    "https://www.ft.com/content/70899c42-cb2a-415c-87c0-7a86e47dea01": {
+        "added_at": 1768601753.3245006,
+        "id": 1961894718
+    },
+    "https://www.ft.com/content/868d7f34-accb-4e45-91b6-24e66d718613": {
+        "added_at": 1768601755.2897575,
+        "id": 1961894735
+    },
+    "https://arstechnica.com/tech-policy/2026/01/democrats-ask-trumps-ftc-to-investigate-trump-mobiles-broken-promises/": {
+        "added_at": 1768601757.2654848,
+        "id": 1961289751
+    },
+    "https://arstechnica.com/tech-policy/2026/01/chatgpt-wrote-goodnight-moon-suicide-lullaby-for-man-who-later-killed-himself/": {
+        "added_at": 1768601758.7741327,
+        "id": 1961289759
+    },
+    "https://arstechnica.com/gadgets/2026/01/spotify-to-raise-subscription-prices-by-up-to-2-in-february/": {
+        "added_at": 1768601760.548553,
+        "id": 1961289770
+    },
+    "https://arstechnica.com/space/2026/01/nasas-first-ever-medical-evacuation-from-space-ends-with-on-target-splashdown/": {
+        "added_at": 1768601763.077657,
+        "id": 1961315461
+    },
+    "https://arstechnica.com/security/2026/01/mandiant-releases-rainbow-table-that-cracks-weak-admin-password-in-12-hours/": {
+        "added_at": 1768601764.4962964,
+        "id": 1961894779
+    },
+    "https://arstechnica.com/information-technology/2026/01/openai-to-test-ads-in-chatgpt-as-it-burns-through-billions/": {
+        "added_at": 1768601765.9240067,
+        "id": 1961894790
+    },
+    "https://arstechnica.com/health/2026/01/this-may-be-the-grossest-eye-pic-ever-but-the-cause-is-whats-truly-horrifying/": {
+        "added_at": 1768601767.3448246,
+        "id": 1961894801
+    },
+    "https://www.bbc.com/audio/play/w3ct7479": {
+        "added_at": 1768601769.1101584,
+        "id": 1961894816
+    },
+    "https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables": {
+        "added_at": 1768601770.8983166,
+        "id": 1961894830
+    },
+    "https://nanonets.com/cookbooks/structured-llm-outputs": {
+        "added_at": 1768601772.3126693,
+        "id": 1961894841
+    },
+    "https://elpais.com/deportes/baloncesto/2026-01-16/el-madrid-deja-en-los-huesos-al-barca.html": {
+        "added_at": 1768601774.4940898,
+        "id": 1961894855
+    },
+    "https://elpais.com/us/2026-01-16/trump-indulta-a-la-exgobernadora-de-puerto-rico-wanda-vazquez-convicta-por-corrupcion.html": {
+        "added_at": 1768601776.1492212,
+        "id": 1961894869
     }
 }
