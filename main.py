@@ -24,7 +24,7 @@ DB_FILE = 'article_data.json'
 
 # --- API HELPERS ---
 def get_oauth_token():
-    """Obtains the OAuth token and secret for the user."""
+    """Obtient le token OAuth pour l'utilisateur."""
     url = "https://www.instapaper.com/api/1.1/oauth/access_token"
     auth = OAuth1(CONSUMER_KEY, CONSUMER_SECRET)
     params = {'x_auth_username': USER_EMAIL, 'x_auth_password': USER_PASS, 'x_auth_mode': 'client_auth'}
@@ -52,7 +52,7 @@ def save_tracked_data(data):
 # --- CORE FUNCTIONS ---
 def add_new_articles(auth, tracked_data):
     for feed_url in RSS_FEED_URLS:
-        print(f"Checking feed: {feed_url}")
+        print(f"Vérification du flux : {feed_url}")
         feed = feedparser.parse(feed_url)
         for entry in reversed(feed.entries):
             url = entry.link
@@ -61,74 +61,74 @@ def add_new_articles(auth, tracked_data):
                     res = requests.post("https://www.instapaper.com/api/1.1/bookmarks/add", auth=auth, data={'url': url}, timeout=15)
                     if res.status_code == 200:
                         data = res.json()
-                        # The 'add' endpoint usually returns a list
                         if isinstance(data, list) and len(data) > 0:
+                            # MODIFICATION : On enregistre la source pour le tri futur
                             tracked_data[url] = {
                                 "added_at": time.time(), 
-                                "id": data[0]['bookmark_id']
+                                "id": data[0]['bookmark_id'],
+                                "source": feed_url 
                             }
-                            print(f"Added: {url}")
+                            print(f"Ajouté : {url}")
                     time.sleep(1)
                 except Exception as e:
-                    print(f"Error adding {url}: {e}")
+                    print(f"Erreur lors de l'ajout de {url}: {e}")
 
 def cleanup_old_articles(auth, tracked_data):
-    """Cleanup logic that handles both List and Dictionary responses."""
-    current_time = time.time()
-    seconds_in_24h = 24 * 60 * 60
-    unread_bookmarks = {}
-
-    try:
-        list_res = requests.post("https://www.instapaper.com/api/1.1/bookmarks/list", auth=auth, timeout=15)
-        if list_res.status_code == 200:
-            raw_data = list_res.json()
-            
-            # Logic apply: Handle the dictionary response seen in logs
-            if isinstance(raw_data, dict) and 'bookmarks' in raw_data:
-                bookmarks_list = raw_data['bookmarks']
-            elif isinstance(raw_data, list):
-                bookmarks_list = raw_data
-            else:
-                bookmarks_list = []
-
-            for item in bookmarks_list:
-                if isinstance(item, dict) and item.get('type') == 'bookmark':
-                    unread_bookmarks[str(item['bookmark_id'])] = item
-        else:
-            print(f"Cleanup skipped: API returned status {list_res.status_code}")
-            return tracked_data 
-    except Exception as e:
-        print(f"Cleanup error: {e}")
-        return tracked_data
+    """Garde seulement les 10 articles les plus récents par source."""
+    
+    # 1. Regrouper les articles par source
+    articles_by_source = {}
+    for url, info in tracked_data.items():
+        source = info.get('source', 'unknown')
+        if source not in articles_by_source:
+            articles_by_source[source] = []
+        
+        # On ajoute l'URL dans les infos pour pouvoir la manipuler
+        article_info = info.copy()
+        article_info['url'] = url
+        articles_by_source[source].append(article_info)
 
     updated_tracked_data = {}
-    for url, info in tracked_data.items():
-        # If item is less than 24h old, keep it in the JSON
-        if current_time - info['added_at'] < seconds_in_24h:
-            updated_tracked_data[url] = info
-            continue
-        
-        # If older than 24h, check Instapaper status before purging
-        bookmark_id = str(info.get('id'))
-        if bookmark_id in unread_bookmarks:
-            bookmark = unread_bookmarks[bookmark_id]
-            # Only delete if NOT starred/liked
-            if str(bookmark.get('starred')) == '0':
-                print(f"Deleting unliked article: {url}")
-                requests.post("https://www.instapaper.com/api/1.1/bookmarks/delete", auth=auth, data={'bookmark_id': bookmark_id})
-            else:
-                print(f"Keeping liked article: {url}")
-        
-        # Regardless of deletion, we remove it from article_data.json to keep it slim
-        print(f"Purging {url} from local database.")
+
+    # 2. Pour chaque source, trier et supprimer le surplus
+    for source, articles in articles_by_source.items():
+        # Trier par date de création (du plus récent au plus ancien)
+        articles.sort(key=lambda x: x['added_at'], reverse=True)
+
+        # Les 10 premiers sont gardés
+        to_keep = articles[:10]
+        # Le reste est à supprimer
+        to_delete = articles[10:]
+
+        # On remplit la nouvelle base de données avec ceux qu'on garde
+        for item in to_keep:
+            url = item.pop('url')
+            updated_tracked_data[url] = item
+
+        # On supprime physiquement sur Instapaper ceux qui sont en trop
+        for item in to_delete:
+            bookmark_id = item['id']
+            url_to_del = item['url']
+            print(f"Suppression (Limite atteinte pour {source}) : {url_to_del}")
+            try:
+                requests.post("https://www.instapaper.com/api/1.1/bookmarks/delete", 
+                              auth=auth, data={'bookmark_id': bookmark_id}, timeout=15)
+            except Exception as e:
+                print(f"Erreur lors de la suppression de {bookmark_id}: {e}")
 
     return updated_tracked_data
 
 def main():
     auth = get_oauth_token()
     tracked_data = get_tracked_data()
+    
+    # Étape 1 : Ajouter les nouveaux articles
     add_new_articles(auth, tracked_data)
+    
+    # Étape 2 : Appliquer la règle des 10 articles max par source
     tracked_data = cleanup_old_articles(auth, tracked_data)
+    
+    # Étape 3 : Sauvegarder l'état actuel
     save_tracked_data(tracked_data)
 
 if __name__ == "__main__":
