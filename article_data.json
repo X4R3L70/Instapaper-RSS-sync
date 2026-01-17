@@ -1,60 +1,4 @@
 {
-    "https://www.franceinfo.fr/economie/budget/zero-impot-y-a-t-il-vraiment-des-milliers-de-francais-fortunes-qui-ne-paient-aucun-impot-sur-le-revenu_7741360.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768518947.943139,
-        "id": 1960736353
-    },
-    "https://www.franceinfo.fr/monde/groenland/renforts-militaires-europeens-au-groenland-nous-nous-sentons-plus-proteges-affirme-la-consule-honoraire-pour-la-france-a-nuuk_7743871.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768518950.3740003,
-        "id": 1961365937
-    },
-    "https://www.franceinfo.fr/monde/venezuela/attaque-americaine-sur-le-venezuela/la-venezuela-n-a-pas-peur-d-affronter-diplomatiquement-les-etats-unis-lance-la-presidente-par-interim_7744075.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768518952.3810477,
-        "id": 1961365951
-    },
-    "https://www.franceinfo.fr/sciences/espace/la-start-up-francaise-maiaspace-signe-un-gros-contrat-avec-l-operateur-de-satellites-eutelsat-pour-une-dizaine-de-lancements-d-ici-2028_7744060.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768518954.8028247,
-        "id": 1961365966
-    },
-    "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/l-opposante-venezuelienne-maria-corina-machado-dit-avoir-offert-la-medaille-de-son-prix-nobel-a-donald-trump_7744396.html#xtor=RSS-3-[lestitres]": {
-        "added_at": 1768518956.8284268,
-        "id": 1961365984
-    },
-    "https://www.ft.com/content/060395fd-34af-431c-8142-a6c29828b07c": {
-        "added_at": 1768518959.5134408,
-        "id": 1961366001
-    },
-    "https://www.ft.com/content/b4d44cf7-84c9-40cb-a179-c2e355687080": {
-        "added_at": 1768518962.4925232,
-        "id": 1961366015
-    },
-    "https://briarproject.org/manual/fa/": {
-        "added_at": 1768518964.0070727,
-        "id": 1961366022
-    },
-    "https://github.com/rulebricks/claude-code-guardrails": {
-        "added_at": 1768518968.3479314,
-        "id": 1961366060
-    },
-    "https://cprimozic.net/notes/posts/persistent-expr-memo-optimization-for-geoscript/": {
-        "added_at": 1768518969.5696309,
-        "id": 1961366070
-    },
-    "https://www.praxisframework.org/files/royce1970.pdf": {
-        "added_at": 1768518970.8776827,
-        "id": 1961366078
-    },
-    "https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/": {
-        "added_at": 1768518975.9038308,
-        "id": 1961366115
-    },
-    "https://elpais.com/america/2026-01-15/xiomara-castro-ordena-despues-de-un-mes-iniciar-la-transicion-a-nasry-asfura-en-honduras.html": {
-        "added_at": 1768518977.6600401,
-        "id": 1961366124
-    },
-    "https://elpais.com/deportes/futbol/2026-01-15/el-racing-exige-a-un-barca-serio.html": {
-        "added_at": 1768518979.3701131,
-        "id": 1961366133
-    },
     "https://www.ft.com/content/bd789480-53df-4027-92b6-5ec0421825f6": {
         "added_at": 1768526074.8955321,
         "id": 1961410945
@@ -3006,5 +2950,97 @@
     "https://elpais.com/deportes/futbol/2026-01-16/choque-de-estilos-y-triunfo-de-penaltis-del-girona-sobre-el-espanyol.html": {
         "added_at": 1768605338.0597894,
         "id": 1961916561
+    },
+    "https://www.franceinfo.fr/societe/feminicides/l-ex-compagnon-de-chloe-p-violemment-agresse-en-2022-condamne-a-15-ans-de-prison_7747123.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768612268.5147147,
+        "id": 1961953449
+    },
+    "https://www.franceinfo.fr/monde/iran/manifestations/maintenant-que-trump-a-recule-beaucoup-de-gens-sont-desesperes-a-la-frontiere-irakienne-des-iraniens-se-confient-en-exclusivite-sur-ce-qu-ils-vivent-a-l-interieur-du-pays_7746319.html#xtor=RSS-3-[lestitres]": {
+        "added_at": 1768612270.8011963,
+        "id": 1961953463
+    },
+    "https://www.ft.com/content/1c95bd41-9bb8-4911-bede-650e953b00cd": {
+        "added_at": 1768612273.1048617,
+        "id": 1961953478
+    },
+    "https://www.ft.com/content/18ac00eb-0ab4-478c-9a5b-e4c4c5b47d1c": {
+        "added_at": 1768612274.5218565,
+        "id": 1961953490
+    },
+    "https://www.ft.com/content/67aa03f0-6593-4af0-9b54-1dad40e8db1f": {
+        "added_at": 1768612276.8143826,
+        "id": 1961953504
+    },
+    "https://www.ft.com/content/5721d6fa-a20b-4f98-9602-5a84338bf6ea": {
+        "added_at": 1768612279.0126255,
+        "id": 1961953517
+    },
+    "https://www.ft.com/content/c6042d59-ec98-406f-8cab-d0bb202cba3b": {
+        "added_at": 1768612284.6986928,
+        "id": 1961953548
+    },
+    "https://www.ft.com/content/584c4b1f-ec8d-49e8-8938-82d96998236d": {
+        "added_at": 1768612286.901631,
+        "id": 1961953556
+    },
+    "https://www.ft.com/content/49b37ffb-8e43-4814-b1af-9dd7bc238f4c": {
+        "added_at": 1768612292.4855106,
+        "id": 1961953573
+    },
+    "https://www.ft.com/content/4f3c2630-3c63-4384-a723-6c34931e8df7": {
+        "added_at": 1768612294.7409582,
+        "id": 1961953578
+    },
+    "https://www.ft.com/content/57141100-e612-4985-821d-0c90faca9a25": {
+        "added_at": 1768612298.7301908,
+        "id": 1961953597
+    },
+    "https://www.ft.com/content/d722212a-0ebc-42ba-9bfd-33fa97e14b87": {
+        "added_at": 1768612300.8619163,
+        "id": 1961953608
+    },
+    "https://www.ft.com/content/c281a4b1-d6b0-4177-9a53-4f4b57308b0b": {
+        "added_at": 1768612302.8754606,
+        "id": 1961953617
+    },
+    "https://www.ft.com/content/8ef24bad-5968-4a08-8faa-df77378c2c9f": {
+        "added_at": 1768612305.1405644,
+        "id": 1961953632
+    },
+    "https://www.ft.com/content/b14e49c2-ee10-40b6-a00c-f4f8b119f32e": {
+        "added_at": 1768612307.3635643,
+        "id": 1961953643
+    },
+    "https://arstechnica.com/culture/2026/01/star-trek-starfleet-academy-tries-something-different-and-i-dont-hate-it/": {
+        "added_at": 1768612308.8671613,
+        "id": 1961340744
+    },
+    "https://arstechnica.com/security/2026/01/unnamed-officials-tell-nyt-precise-cyber-op-took-out-venezuelas-power-grid/": {
+        "added_at": 1768612310.2736232,
+        "id": 1961340759
+    },
+    "https://arstechnica.com/features/2026/01/this-may-be-the-grossest-eye-pic-ever-but-the-cause-is-whats-truly-horrifying/": {
+        "added_at": 1768612311.659373,
+        "id": 1961953667
+    },
+    "https://arstechnica.com/information-technology/2026/01/rackspace-raises-email-hosting-prices-by-as-much-as-706-percent/": {
+        "added_at": 1768612313.2151499,
+        "id": 1961953676
+    },
+    "https://jeffverkoeyen.com/blog/2026/01/13/WYSIWYG/": {
+        "added_at": 1768612314.9125412,
+        "id": 1961953687
+    },
+    "https://github.com/openfunkHQ/reMix": {
+        "added_at": 1768612316.518666,
+        "id": 1961953694
+    },
+    "https://github.com/ImJasonH/ImJasonH/blob/main/articles/llm-programming-language.md": {
+        "added_at": 1768612317.9518628,
+        "id": 1959128227
+    },
+    "https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence": {
+        "added_at": 1768612319.593319,
+        "id": 1961953709
     }
 }
