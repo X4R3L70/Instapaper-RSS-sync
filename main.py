@@ -72,49 +72,66 @@ def add_new_articles(auth, tracked_data):
                     time.sleep(1)
                 except Exception as e:
                     print(f"Erreur lors de l'ajout de {url}: {e}")
-
+                    
 def cleanup_old_articles(auth, tracked_data):
-    """Garde seulement les 10 articles les plus récents par source."""
+    """Garde les 10 plus récents par source, sauf si l'article est marqué en favori."""
     
-    # 1. Regrouper les articles par source
+    # --- ÉTAPE 1 : Récupérer l'état actuel sur Instapaper ---
+    unread_bookmarks = {}
+    try:
+        list_res = requests.post("https://www.instapaper.com/api/1.1/bookmarks/list", auth=auth, timeout=15)
+        if list_res.status_code == 200:
+            raw_data = list_res.json()
+            # On gère les différents formats de réponse possibles
+            bookmarks_list = raw_data.get('bookmarks', []) if isinstance(raw_data, dict) else raw_data
+            for item in bookmarks_list:
+                if isinstance(item, dict) and item.get('type') == 'bookmark':
+                    unread_bookmarks[str(item['bookmark_id'])] = item
+    except Exception as e:
+        print(f"Erreur de synchronisation avec Instapaper: {e}")
+        return tracked_data # On annule le nettoyage en cas d'erreur API pour ne rien perdre
+
+    # --- ÉTAPE 2 : Regrouper par source ---
     articles_by_source = {}
     for url, info in tracked_data.items():
         source = info.get('source', 'unknown')
         if source not in articles_by_source:
             articles_by_source[source] = []
         
-        # On ajoute l'URL dans les infos pour pouvoir la manipuler
         article_info = info.copy()
         article_info['url'] = url
         articles_by_source[source].append(article_info)
 
     updated_tracked_data = {}
 
-    # 2. Pour chaque source, trier et supprimer le surplus
+    # --- ÉTAPE 3 : Trier et filtrer ---
     for source, articles in articles_by_source.items():
-        # Trier par date de création (du plus récent au plus ancien)
+        # Trier du plus récent au plus ancien
         articles.sort(key=lambda x: x['added_at'], reverse=True)
 
-        # Les 10 premiers sont gardés
-        to_keep = articles[:10]
-        # Le reste est à supprimer
-        to_delete = articles[10:]
-
-        # On remplit la nouvelle base de données avec ceux qu'on garde
-        for item in to_keep:
+        for index, item in enumerate(articles):
+            bookmark_id = str(item['id'])
             url = item.pop('url')
-            updated_tracked_data[url] = item
+            
+            # Vérifier si l'article est liké sur Instapaper
+            is_starred = False
+            if bookmark_id in unread_bookmarks:
+                is_starred = str(unread_bookmarks[bookmark_id].get('starred')) == '1'
 
-        # On supprime physiquement sur Instapaper ceux qui sont en trop
-        for item in to_delete:
-            bookmark_id = item['id']
-            url_to_del = item['url']
-            print(f"Suppression (Limite atteinte pour {source}) : {url_to_del}")
-            try:
-                requests.post("https://www.instapaper.com/api/1.1/bookmarks/delete", 
-                              auth=auth, data={'bookmark_id': bookmark_id}, timeout=15)
-            except Exception as e:
-                print(f"Erreur lors de la suppression de {bookmark_id}: {e}")
+            # LOGIQUE DE CONSERVATION :
+            # On garde si : c'est l'un des 10 premiers OU s'il est liké
+            if index < 10 or is_starred:
+                updated_tracked_data[url] = item
+                if is_starred and index >= 10:
+                    print(f"Conservation (Favori) : {url}")
+            else:
+                # Sinon, on supprime
+                print(f"Suppression (Limite de 10 dépassée) : {url}")
+                try:
+                    requests.post("https://www.instapaper.com/api/1.1/bookmarks/delete", 
+                                  auth=auth, data={'bookmark_id': bookmark_id}, timeout=15)
+                except Exception as e:
+                    print(f"Erreur suppression {url}: {e}")
 
     return updated_tracked_data
 
