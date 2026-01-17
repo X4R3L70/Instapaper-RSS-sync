@@ -1,60 +1,4 @@
 {
-    "https://www.ft.com/content/bd789480-53df-4027-92b6-5ec0421825f6": {
-        "added_at": 1768526074.8955321,
-        "id": 1961410945
-    },
-    "https://www.ft.com/content/d19b26f4-2e4f-467e-9bc6-812964ed82c6": {
-        "added_at": 1768526076.1863375,
-        "id": 1961410953
-    },
-    "https://www.ft.com/content/803acefe-cd2a-4ae4-b7f9-e34c42e917cb": {
-        "added_at": 1768526078.1345153,
-        "id": 1961410970
-    },
-    "https://www.ft.com/content/bd0db2ac-f345-4fa3-9808-b85ac13a5d6a": {
-        "added_at": 1768526080.577547,
-        "id": 1961411002
-    },
-    "https://arstechnica.com/health/2026/01/big-pharma-is-openly-railing-against-rfk-jr-s-anti-vaccine-agenda/": {
-        "added_at": 1768526097.5200045,
-        "id": 1961411102
-    },
-    "https://github.com/tldraw/tldraw/issues/7695": {
-        "added_at": 1768526099.1103604,
-        "id": 1961411119
-    },
-    "http://archive.computerhistory.org/resources/text/Knuth_Don_X4100/PDF_index/k-9-pdf/k-9-u2769-1-Baker-What-Programmer-Does.pdf": {
-        "added_at": 1768526100.4809613,
-        "id": 1961411126
-    },
-    "https://github.com/bolt-foundry/gambit": {
-        "added_at": 1768526101.9968247,
-        "id": 1961411134
-    },
-    "https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/": {
-        "added_at": 1768526103.350931,
-        "id": 1961411140
-    },
-    "https://elpais.com/deportes/futbol/2026-01-14/avila-rescata-al-betis-ante-un-elche-que-dio-mucha-guerra.html": {
-        "added_at": 1768526106.0458148,
-        "id": 1960787690
-    },
-    "https://elpais.com/deportes/futbol/2026-01-15/el-valencia-supera-una-noche-de-perros.html": {
-        "added_at": 1768526107.3434043,
-        "id": 1961411168
-    },
-    "https://elpais.com/ciencia/2026-01-14/regreso-adelantado-la-mision-de-la-nasa-con-el-astronauta-enfermo-inicia-su-vuelta-a-la-tierra.html": {
-        "added_at": 1768526108.9979086,
-        "id": 1960787716
-    },
-    "https://elpais.com/america/2026-01-15/delcy-rodriguez-venezuela-tiene-derecho-a-tener-relaciones-con-rusia-china-iran-y-cuba.html": {
-        "added_at": 1768526110.2950163,
-        "id": 1961411189
-    },
-    "https://www.monde-diplomatique.fr/carnet/2026-01-13-La-Corse-la-terre-et-la-violence": {
-        "added_at": 1768526113.8662724,
-        "id": 1960149296
-    },
     "https://www.ft.com/content/dd96beee-4ef6-4220-9e85-24a2b8ab08e0": {
         "added_at": 1768533926.5882027,
         "id": 1961452097
@@ -3042,5 +2986,21 @@
     "https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence": {
         "added_at": 1768612319.593319,
         "id": 1961953709
+    },
+    "https://www.ft.com/content/02a3eb7c-684f-4e39-87b8-36e9595ef800": {
+        "added_at": 1768619901.052845,
+        "id": 1961989513
+    },
+    "https://www.ctvnews.ca/ottawa/video/2026/01/06/experts-warn-of-growing-parrot-crisis-in-canada/": {
+        "added_at": 1768619902.851958,
+        "id": 1961989521
+    },
+    "https://github.com/trasta298/keifu": {
+        "added_at": 1768619904.1502426,
+        "id": 1961989525
+    },
+    "https://bvisness.me/high-level/": {
+        "added_at": 1768619905.5046482,
+        "id": 1961989530
     }
 }
